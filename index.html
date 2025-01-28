@@ -1,0 +1,91 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bulletin Atomic Clock</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: black;
+            font-family: Arial, sans-serif;
+            position: relative;
+        }
+        .clock {
+            display: flex;
+            gap: 10px;
+            z-index: 1;
+        }
+        .digit {
+            font-size: 4rem;
+            font-weight: bold;
+            color: red;
+            text-shadow: 0 0 20px red, 0 0 40px red;
+            background-color: #111;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .background-text {
+            position: absolute;
+            top: 50%;
+    
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 20rem; /* Increased size to fill the screen */
+            font-weight: bold;
+            color: #444;
+            opacity: 0.1;
+            z-index: -1;
+            line-height: 0.9; /* Reduced line spacing */
+        }
+        .background-text .row1 {
+            display: block;
+            position: relative;
+            left: -3%; /* Centered more evenly */
+            text-align: center;
+        }
+        .background-text .row2 {
+            display: block;
+            position: relative;
+            left: 3%; /* Centered more evenly */
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="background-text">
+        <div class="row1">DOOMSDAY</div>
+        <div class="row2">CLOCK</div>
+    </div>
+    <div class="clock" id="clock">
+        <div class="digit">2</div>
+        <div class="digit">3</div>
+        <div class="digit">:</div>
+        <div class="digit">5</div>
+        <div class="digit">8</div>
+        <div class="digit">:</div>
+        <div class="digit">3</div>
+        <div class="digit">1</div>
+    </div>
+    <script>
+        const clockElement = document.getElementById('clock');
+
+        function updateClock() {
+            const hours = "23"; // Static hours based on Bulletin of Atomic Scientists
+            const minutes = "58"; // Static minutes
+            const seconds = String(Math.floor(Math.random() * 60)).padStart(2, '0');
+
+            const timeString = `${hours}:${minutes}:${seconds}`;
+            const digits = timeString.split("");
+
+            clockElement.innerHTML = digits.map(digit => `<div class="digit">${digit}</div>`).join("");
+        }
+
+        setInterval(updateClock, 50); // Update seconds rapidly
+    </script>
+</body>
+</html>
