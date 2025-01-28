@@ -1,9 +1,14 @@
-
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<!-- Put the body of your page below this line -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <title>Bulletin Atomic Clock</title>
     <style>
         body {
@@ -14,45 +19,37 @@
             background-color: black;
             font-family: Arial, sans-serif;
             position: relative;
+            margin: 0;
         }
         .clock {
             display: flex;
-            gap: 10px;
+            gap: 1vw;
             z-index: 1;
         }
         .digit {
-            font-size: 4rem;
+            font-size: 10vw; /* Scales with viewport width */
             font-weight: bold;
             color: red;
-            text-shadow: 0 0 20px red, 0 0 40px red;
+            text-shadow: 0 0 5vw red, 0 0 10vw red;
             background-color: #111;
-            padding: 10px;
-            border-radius: 5px;
+            padding: 2vw;
+            border-radius: 1vw;
         }
         .background-text {
             position: absolute;
             top: 50%;
-    
             left: 50%;
             transform: translate(-50%, -50%);
-            font-size: 20rem; /* Increased size to fill the screen */
+            font-size: 25vw; /* Scales with viewport width */
             font-weight: bold;
             color: #444;
             opacity: 0.1;
             z-index: -1;
-            line-height: 0.9; /* Reduced line spacing */
+            text-align: center;
+            line-height: 1;
         }
         .background-text .row1 {
-            display: block;
-            position: relative;
-            left: -3%; /* Centered more evenly */
-            text-align: center;
-        }
-        .background-text .row2 {
-            display: block;
-            position: relative;
-            left: 3%; /* Centered more evenly */
-            text-align: center;
+            margin-bottom: 2vw;
         }
     </style>
 </head>
@@ -87,5 +84,9 @@
 
         setInterval(updateClock, 50); // Update seconds rapidly
     </script>
+</body>
+</html>
+
+<!-- Put the body of your page above this line -->
 </body>
 </html>
