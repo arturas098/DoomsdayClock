@@ -1,92 +1,303 @@
-<html>
-<head>
-<title></title>
-</head>
-<body>
-<!-- Put the body of your page below this line -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <title>Bulletin Atomic Clock</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: black;
-            font-family: Arial, sans-serif;
-            position: relative;
-            margin: 0;
-        }
-        .clock {
-            display: flex;
-            gap: 1vw;
-            z-index: 1;
-        }
-        .digit {
-            font-size: 10vw; /* Scales with viewport width */
-            font-weight: bold;
-            color: red;
-            text-shadow: 0 0 5vw red, 0 0 10vw red;
-            background-color: #111;
-            padding: 2vw;
-            border-radius: 1vw;
-        }
-        .background-text {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            font-size: 25vw; /* Scales with viewport width */
-            font-weight: bold;
-            color: #444;
-            opacity: 0.1;
-            z-index: -1;
-            text-align: center;
-            line-height: 1;
-        }
-        .background-text .row1 {
-            margin-bottom: 2vw;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <title>Nuclear Signals Doomsday Clock</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #050505;
+      --panel: #111;
+      --accent: #ff3b3b;
+      --muted: #a7a7a7;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      background: radial-gradient(circle at center, #1a1a1a 0%, var(--bg) 75%);
+      color: #fff;
+      font-family: Arial, sans-serif;
+      padding: 1rem;
+      position: relative;
+    }
+
+    .background-text {
+      position: absolute;
+      inset: 0;
+      display: grid;
+      place-items: center;
+      font-size: clamp(3rem, 16vw, 14rem);
+      font-weight: 900;
+      color: #7c7c7c;
+      opacity: 0.08;
+      line-height: 0.95;
+      pointer-events: none;
+      user-select: none;
+      text-align: center;
+    }
+
+    .layout {
+      width: min(1180px, 100%);
+      display: grid;
+      gap: 1rem;
+      z-index: 1;
+    }
+
+    .panel {
+      background: rgb(0 0 0 / 45%);
+      border: 1px solid #2f2f2f;
+      border-radius: 12px;
+      padding: 1rem;
+      backdrop-filter: blur(6px);
+    }
+
+    .headline {
+      margin: 0 0 0.75rem;
+      font-size: 1.05rem;
+    }
+
+    .clock {
+      display: flex;
+      justify-content: center;
+      gap: 0.45rem;
+      margin: 0.55rem 0;
+      flex-wrap: wrap;
+    }
+
+    .digit {
+      min-width: 0.8em;
+      text-align: center;
+      font-size: clamp(2rem, 8vw, 5.2rem);
+      font-weight: 700;
+      color: var(--accent);
+      background: #111;
+      border-radius: 8px;
+      padding: 0.35em 0.2em;
+      text-shadow: 0 0 16px rgb(255 59 59 / 70%);
+    }
+
+    .meta {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+      text-align: center;
+    }
+
+    .score {
+      color: var(--accent);
+      font-weight: 700;
+    }
+
+    .feed-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: grid;
+      gap: 0.6rem;
+      max-height: 37vh;
+      overflow: auto;
+    }
+
+    .feed-list a {
+      color: #f4f4f4;
+      text-decoration: none;
+    }
+
+    .feed-list a:hover {
+      color: var(--accent);
+    }
+
+    .chip-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+      margin-top: 0.7rem;
+    }
+
+    .chip {
+      border: 1px solid #444;
+      border-radius: 999px;
+      padding: 0.2rem 0.55rem;
+      font-size: 0.78rem;
+      color: #ddd;
+      white-space: nowrap;
+    }
+
+    @media (min-width: 920px) {
+      .layout {
+        grid-template-columns: 1.28fr 1fr;
+      }
+    }
+  </style>
 </head>
 <body>
-    <div class="background-text">
-        <div class="row1">DOOMSDAY</div>
-        <div class="row2">CLOCK</div>
-    </div>
-    <div class="clock" id="clock">
-        <div class="digit">2</div>
-        <div class="digit">3</div>
-        <div class="digit">:</div>
-        <div class="digit">5</div>
-        <div class="digit">8</div>
-        <div class="digit">:</div>
-        <div class="digit">3</div>
-        <div class="digit">1</div>
-    </div>
-    <script>
-        const clockElement = document.getElementById('clock');
+  <div class="background-text" aria-hidden="true">DOOMSDAY<br />CLOCK</div>
 
-        function updateClock() {
-            const hours = "23"; // Static hours based on Bulletin of Atomic Scientists
-            const minutes = "58"; // Static minutes
-            const seconds = String(Math.floor(Math.random() * 60)).padStart(2, '0');
+  <main class="layout">
+    <section class="panel">
+      <h1 class="headline">Nuclear-Leader Military Signal Clock</h1>
+      <div id="clock" class="clock" aria-live="polite"></div>
+      <p class="meta" id="clockMeta">Loading 24h nuclear-leader signal…</p>
+      <div class="chip-list" id="countryChips"></div>
+    </section>
 
-            const timeString = `${hours}:${minutes}:${seconds}`;
-            const digits = timeString.split("");
+    <aside class="panel">
+      <h2 class="headline">Qualified signals (last 24h)</h2>
+      <p class="meta" id="feedMeta">Fetching…</p>
+      <ul class="feed-list" id="feedList"></ul>
+    </aside>
+  </main>
 
-            clockElement.innerHTML = digits.map(digit => `<div class="digit">${digit}</div>`).join("");
+  <script>
+    const clockElement = document.getElementById('clock');
+    const clockMeta = document.getElementById('clockMeta');
+    const feedMeta = document.getElementById('feedMeta');
+    const feedList = document.getElementById('feedList');
+    const countryChips = document.getElementById('countryChips');
+
+    const REFRESH_MS = 24 * 60 * 60 * 1000;
+    const BASE_SECONDS_TO_MIDNIGHT = 90;
+    const THREAT_NUDGE_MS = 0.10;
+
+    const nuclearCountries = [
+      { country: 'United States', sourceCountry: 'US', leaders: ['biden', 'trump', 'white house', 'pentagon'] },
+      { country: 'Russia', sourceCountry: 'RU', leaders: ['putin', 'kremlin'] },
+      { country: 'China', sourceCountry: 'CN', leaders: ['xi jinping', 'beijing'] },
+      { country: 'United Kingdom', sourceCountry: 'GB', leaders: ['keir starmer', 'downing street'] },
+      { country: 'France', sourceCountry: 'FR', leaders: ['macron', 'elysee'] },
+      { country: 'India', sourceCountry: 'IN', leaders: ['modi', 'new delhi'] },
+      { country: 'Pakistan', sourceCountry: 'PK', leaders: ['shehbaz sharif', 'islamabad'] },
+      { country: 'North Korea', sourceCountry: 'KP', leaders: ['kim jong un', 'pyongyang'] },
+      { country: 'Israel', sourceCountry: 'IL', leaders: ['netanyahu', 'jerusalem', 'tel aviv'] }
+    ];
+
+    const militaryNuclearTopics = [
+      'war', 'special operation', 'military operation', 'troop movement', 'invasion',
+      'bombing', 'airstrike', 'missile', 'ballistic', 'artillery', 'annexation',
+      'nuclear', 'atomic', 'warhead', 'enrichment', 'deterrence', 'nuclear test',
+      'strategic forces', 'threat', 'ultimatum', 'mobilization'
+    ];
+
+    const leaderLookup = nuclearCountries.flatMap((x) => x.leaders);
+
+    function escapeHtml(text) {
+      return text
+        .replaceAll('&', '&amp;')
+        .replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;')
+        .replaceAll('"', '&quot;')
+        .replaceAll("'", '&#039;');
+    }
+
+    function renderCountryChips() {
+      countryChips.innerHTML = nuclearCountries
+        .map((c) => `<span class="chip">${escapeHtml(c.country)}</span>`)
+        .join('');
+    }
+
+    function containsAny(text, phrases) {
+      return phrases.some((phrase) => text.includes(phrase));
+    }
+
+    function qualifiesArticle(article) {
+      const title = (article.title || '').toLowerCase();
+      const seendate = article.seendate || '';
+      if (!title || !seendate) {
+        return false;
+      }
+
+      const hasLeader = containsAny(title, leaderLookup);
+      const hasTopic = containsAny(title, militaryNuclearTopics);
+      return hasLeader && hasTopic;
+    }
+
+    function isWithinLast24Hours(article) {
+      const raw = String(article.seendate || '').trim();
+      if (!/^\d{14}$/.test(raw)) {
+        return false;
+      }
+
+      const y = Number(raw.slice(0, 4));
+      const m = Number(raw.slice(4, 6)) - 1;
+      const d = Number(raw.slice(6, 8));
+      const hh = Number(raw.slice(8, 10));
+      const mm = Number(raw.slice(10, 12));
+      const ss = Number(raw.slice(12, 14));
+      const seenTime = Date.UTC(y, m, d, hh, mm, ss);
+
+      return Date.now() - seenTime <= 24 * 60 * 60 * 1000;
+    }
+
+    function renderClock(secondsToMidnight, threatNudges) {
+      const normalized = Math.max(10, Math.min(180, Math.round(secondsToMidnight)));
+      const timeString = `23:58:${String((60 - normalized + 60) % 60).padStart(2, '0')}`;
+
+      clockElement.innerHTML = timeString
+        .split('')
+        .map((char) => `<span class="digit">${char}</span>`)
+        .join('');
+
+      const totalAddedMs = (threatNudges * THREAT_NUDGE_MS).toFixed(2);
+      clockMeta.innerHTML = `Threat nudges: <span class="score">${threatNudges}</span> · +${totalAddedMs} ms cumulative pressure · updated every 24h`;
+    }
+
+    function renderFeed(articles) {
+      if (!articles.length) {
+        feedList.innerHTML = '<li>No qualifying military/nuclear leader signals in the last 24h.</li>';
+        return;
+      }
+
+      feedList.innerHTML = articles.slice(0, 12).map((article) => {
+        const title = escapeHtml(article.title || 'Untitled');
+        const url = article.url || '#';
+        return `<li><a href="${url}" target="_blank" rel="noopener noreferrer">${title}</a></li>`;
+      }).join('');
+    }
+
+    async function loadSignals() {
+      const sourceFilters = nuclearCountries.map((x) => `sourcecountry:${x.sourceCountry}`).join(' OR ');
+      const topicFilter = militaryNuclearTopics.map((word) => `"${word}"`).join(' OR ');
+      const query = encodeURIComponent(`(${sourceFilters}) AND (${topicFilter})`);
+      const endpoint = `https://api.gdeltproject.org/api/v2/doc/doc?query=${query}&mode=ArtList&format=json&sort=datedesc&maxrecords=100`;
+
+      try {
+        const response = await fetch(endpoint);
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
         }
 
-        setInterval(updateClock, 50); // Update seconds rapidly
-    </script>
-</body>
-</html>
+        const payload = await response.json();
+        const articles = Array.isArray(payload.articles) ? payload.articles : [];
 
-<!-- Put the body of your page above this line -->
+        const qualified = articles
+          .filter(isWithinLast24Hours)
+          .filter(qualifiesArticle);
+
+        const threatNudges = qualified.length;
+        const secondAdjustment = Math.min(50, threatNudges * 0.2);
+        const adjustedSeconds = BASE_SECONDS_TO_MIDNIGHT - secondAdjustment;
+
+        renderClock(adjustedSeconds, threatNudges);
+        renderFeed(qualified);
+        feedMeta.textContent = `Source: GDELT (filtered to nuclear states + leaders + military/nuclear topics). Last refresh ${new Date().toLocaleString()}.`;
+      } catch (error) {
+        renderClock(BASE_SECONDS_TO_MIDNIGHT, 0);
+        feedMeta.textContent = `Feed unavailable (${error.message}). Showing fallback.`;
+        feedList.innerHTML = '<li>Unable to load live signals.</li>';
+      }
+    }
+
+    renderCountryChips();
+    loadSignals();
+    setInterval(loadSignals, REFRESH_MS);
+  </script>
 </body>
 </html>
