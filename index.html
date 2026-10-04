@@ -2,302 +2,500 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
-  <title>Nuclear Signals Doomsday Clock</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#050607" />
+  <title>Doomsday Clock — Live Crisis Signals</title>
   <style>
     :root {
       color-scheme: dark;
-      --bg: #050505;
-      --panel: #111;
-      --accent: #ff3b3b;
-      --muted: #a7a7a7;
+      --bg: #040506;
+      --glass: rgba(10, 12, 15, .58);
+      --glass-2: rgba(18, 21, 26, .46);
+      --line: rgba(255,255,255,.22);
+      --line-soft: rgba(255,255,255,.08);
+      --text: #f5f7fa;
+      --muted: #9ea5af;
+      --red: #ff3e43;
+      --red-deep: #a91520;
+      --amber: #ffad22;
+      --green: #39df92;
     }
 
-    * {
-      box-sizing: border-box;
-    }
-
+    * { box-sizing: border-box; }
+    html, body { min-height: 100%; }
     body {
       margin: 0;
       min-height: 100vh;
-      display: grid;
-      place-items: center;
-      background: radial-gradient(circle at center, #1a1a1a 0%, var(--bg) 75%);
-      color: #fff;
-      font-family: Arial, sans-serif;
-      padding: 1rem;
-      position: relative;
+      overflow-x: hidden;
+      color: var(--text);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background:
+        radial-gradient(circle at 51% 40%, rgba(120,10,15,.17), transparent 26%),
+        radial-gradient(circle at 50% 48%, #17191c 0, #0b0d0f 31%, #040506 72%);
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 0;
+      background:
+        radial-gradient(circle at 12% 28%, rgba(255,50,55,.07), transparent 13%),
+        radial-gradient(circle at 85% 62%, rgba(255,50,55,.06), transparent 17%),
+        repeating-linear-gradient(0deg, rgba(255,255,255,.012) 0 1px, transparent 1px 3px);
+      mix-blend-mode: screen;
     }
 
     .background-text {
-      position: absolute;
-      inset: 0;
+      position: fixed;
+      inset: -3vh -2vw;
+      z-index: 0;
       display: grid;
       place-items: center;
-      font-size: clamp(3rem, 16vw, 14rem);
-      font-weight: 900;
-      color: #7c7c7c;
-      opacity: 0.08;
-      line-height: 0.95;
-      pointer-events: none;
-      user-select: none;
       text-align: center;
+      font-size: clamp(7rem, 19.5vw, 25rem);
+      font-weight: 950;
+      letter-spacing: -.075em;
+      line-height: .68;
+      color: rgba(255,255,255,.075);
+      text-shadow: 0 0 70px rgba(255,60,60,.025);
+      user-select: none;
+      pointer-events: none;
+      transform: scaleX(1.05);
+    }
+
+    .background-text span { display: block; }
+
+    .shell {
+      position: relative;
+      z-index: 1;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: clamp(18px, 3vw, 48px);
     }
 
     .layout {
-      width: min(1180px, 100%);
+      width: min(1240px, 100%);
       display: grid;
-      gap: 1rem;
-      z-index: 1;
+      grid-template-columns: minmax(0, 1.18fr) minmax(0, 1fr);
+      gap: 16px;
+      align-items: stretch;
     }
 
     .panel {
-      background: rgb(0 0 0 / 45%);
-      border: 1px solid #2f2f2f;
-      border-radius: 12px;
-      padding: 1rem;
-      backdrop-filter: blur(6px);
+      position: relative;
+      min-width: 0;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.035), rgba(255,255,255,.01)),
+        var(--glass);
+      box-shadow:
+        inset 0 1px 0 rgba(255,255,255,.08),
+        0 24px 80px rgba(0,0,0,.42),
+        0 0 0 1px rgba(0,0,0,.35);
+      backdrop-filter: blur(22px) saturate(125%);
+      -webkit-backdrop-filter: blur(22px) saturate(125%);
+      overflow: hidden;
+    }
+
+    .panel::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      background: linear-gradient(120deg, rgba(255,255,255,.045), transparent 35%, rgba(255,255,255,.015));
+    }
+
+    .clock-panel { padding: 20px 22px 22px; }
+    .feed-panel { padding: 20px 16px 14px; }
+
+    .panel-head {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 20px;
     }
 
     .headline {
-      margin: 0 0 0.75rem;
-      font-size: 1.05rem;
+      margin: 0;
+      font-size: 1rem;
+      font-weight: 760;
+      letter-spacing: -.02em;
+    }
+
+    .live {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      font-size: .73rem;
+      font-weight: 800;
+      letter-spacing: .04em;
+      color: var(--red);
+    }
+
+    .live.feed-live { color: var(--green); }
+    .live-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: currentColor;
+      box-shadow: 0 0 14px currentColor;
+    }
+
+    .clock-wrap {
+      position: relative;
+      z-index: 1;
+      display: grid;
+      justify-items: center;
+      padding: 8px 0 0;
     }
 
     .clock {
-      display: flex;
-      justify-content: center;
-      gap: 0.45rem;
-      margin: 0.55rem 0;
-      flex-wrap: wrap;
+      width: 100%;
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr)) .34fr repeat(2, minmax(0, 1fr)) .34fr repeat(2, minmax(0, 1fr));
+      gap: 7px;
+      align-items: stretch;
+      max-width: 640px;
+    }
+
+    .digit, .colon {
+      min-width: 0;
+      display: grid;
+      place-items: center;
+      font-variant-numeric: tabular-nums;
+      font-weight: 820;
+      color: var(--red);
+      text-shadow: 0 0 12px rgba(255,62,67,.95), 0 0 30px rgba(255,25,35,.55);
     }
 
     .digit {
-      min-width: 0.8em;
+      min-height: 132px;
+      border: 1px solid rgba(255,255,255,.05);
+      border-radius: 10px;
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.02), rgba(0,0,0,.17)),
+        rgba(18,18,20,.78);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,.025), 0 16px 35px rgba(0,0,0,.25);
+      font-size: clamp(3.2rem, 5.5vw, 5.1rem);
+    }
+
+    .colon {
+      font-size: clamp(2.4rem, 4.3vw, 4rem);
+      transform: translateY(-1px);
+    }
+
+    .milliseconds {
+      position: relative;
+      width: min(230px, 76%);
+      margin-top: 16px;
+      padding: 10px 18px 8px;
+      border: 1px solid rgba(255,255,255,.06);
+      border-radius: 10px;
+      background: rgba(11,12,14,.72);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,.025), 0 0 34px rgba(255,45,50,.05);
       text-align: center;
-      font-size: clamp(2rem, 8vw, 5.2rem);
-      font-weight: 700;
-      color: var(--accent);
-      background: #111;
-      border-radius: 8px;
-      padding: 0.35em 0.2em;
-      text-shadow: 0 0 16px rgb(255 59 59 / 70%);
     }
 
-    .meta {
-      margin: 0;
-      color: var(--muted);
-      font-size: 0.95rem;
+    #ms {
+      display: inline-block;
+      min-width: 4ch;
+      color: var(--red);
+      font-size: clamp(2rem, 3.3vw, 3.15rem);
+      line-height: 1;
+      font-weight: 850;
+      font-variant-numeric: tabular-nums;
+      letter-spacing: .13em;
+      text-shadow: 0 0 11px rgba(255,62,67,.95), 0 0 24px rgba(255,25,35,.55);
+      transition: transform 70ms linear, opacity 70ms linear, filter 70ms linear;
+    }
+
+    #ms.flicker { opacity: .72; filter: blur(.35px); transform: scale(.98); }
+    .ms-label { margin-top: 3px; color: var(--muted); font-size: .72rem; }
+
+    .baseline {
+      margin: 22px 0 0;
+      color: #b8bec7;
+      font-size: .95rem;
       text-align: center;
     }
 
-    .score {
-      color: var(--accent);
-      font-weight: 700;
+    .status {
+      margin: 26px 0 0;
+      color: #d0d4da;
+      font-size: .88rem;
+      text-align: center;
     }
+    .status strong { color: var(--red); }
 
-    .feed-list {
-      list-style: none;
-      margin: 0;
-      padding: 0;
-      display: grid;
-      gap: 0.6rem;
-      max-height: 37vh;
-      overflow: auto;
-    }
-
-    .feed-list a {
-      color: #f4f4f4;
-      text-decoration: none;
-    }
-
-    .feed-list a:hover {
-      color: var(--accent);
-    }
-
-    .chip-list {
+    .chips {
       display: flex;
       flex-wrap: wrap;
-      gap: 0.45rem;
-      margin-top: 0.7rem;
+      gap: 7px;
+      margin-top: 15px;
     }
 
     .chip {
-      border: 1px solid #444;
+      border: 1px solid rgba(255,255,255,.24);
       border-radius: 999px;
-      padding: 0.2rem 0.55rem;
-      font-size: 0.78rem;
-      color: #ddd;
+      padding: 4px 9px;
+      background: rgba(0,0,0,.2);
+      color: #e3e5e8;
+      font-size: .72rem;
       white-space: nowrap;
     }
 
-    @media (min-width: 920px) {
-      .layout {
-        grid-template-columns: 1.28fr 1fr;
-      }
+    .feed-list {
+      position: relative;
+      z-index: 1;
+      list-style: none;
+      margin: 0;
+      padding: 0 4px 0 0;
+      max-height: 480px;
+      overflow: auto;
+      scrollbar-width: thin;
+      scrollbar-color: rgba(255,255,255,.45) transparent;
+    }
+
+    .feed-item {
+      display: grid;
+      grid-template-columns: 48px 12px 78px minmax(0, 1fr);
+      gap: 8px;
+      align-items: start;
+      padding: 10px 4px;
+      border-bottom: 1px solid var(--line-soft);
+    }
+
+    .feed-time {
+      color: #9299a3;
+      font-size: .78rem;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .severity-dot {
+      width: 8px;
+      height: 8px;
+      margin-top: 4px;
+      border-radius: 50%;
+      background: var(--amber);
+      box-shadow: 0 0 12px currentColor;
+      color: var(--amber);
+    }
+    .sev-3 { background: var(--red); color: var(--red); }
+    .sev-2 { background: var(--amber); color: var(--amber); }
+    .sev-1 { background: var(--green); color: var(--green); }
+
+    .tag {
+      justify-self: start;
+      border: 1px solid currentColor;
+      border-radius: 999px;
+      padding: 3px 8px 2px;
+      font-size: .64rem;
+      font-weight: 760;
+      color: var(--amber);
+      background: rgba(255,173,34,.06);
+      white-space: nowrap;
+    }
+    .tag.WAR, .tag.NUCLEAR, .tag.TERROR, .tag.GENOCIDE { color: var(--red); background: rgba(255,62,67,.06); }
+    .tag.CEASEFIRE { color: var(--green); background: rgba(57,223,146,.05); }
+
+    .feed-copy { min-width: 0; }
+    .feed-copy a {
+      display: block;
+      color: #f3f4f6;
+      text-decoration: none;
+      font-size: .83rem;
+      line-height: 1.26;
+      overflow-wrap: anywhere;
+    }
+    .feed-copy a:hover { color: #fff; text-decoration: underline; }
+    .feed-source {
+      margin-top: 2px;
+      color: #858c96;
+      font-size: .69rem;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .feed-foot {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      margin-top: 10px;
+      color: #787f89;
+      font-size: .67rem;
+    }
+
+    .loading, .empty {
+      padding: 28px 10px;
+      color: #a2a8b1;
+      text-align: center;
+      font-size: .82rem;
+    }
+
+    @media (max-width: 980px) {
+      .shell { align-items: start; }
+      .layout { grid-template-columns: 1fr; }
+      .feed-list { max-height: 420px; }
+      .background-text { font-size: 29vw; line-height: .78; }
+    }
+
+    @media (max-width: 620px) {
+      .shell { padding: 10px; }
+      .panel { border-radius: 14px; }
+      .clock-panel { padding: 15px 12px 18px; }
+      .feed-panel { padding: 15px 10px 10px; }
+      .digit { min-height: 86px; font-size: clamp(2.25rem, 12vw, 3.4rem); }
+      .clock { gap: 4px; }
+      .feed-item { grid-template-columns: 42px 10px 68px minmax(0, 1fr); gap: 6px; }
+      .tag { padding-left: 6px; padding-right: 6px; }
+      .background-text { font-size: 31vw; }
     }
   </style>
 </head>
 <body>
-  <div class="background-text" aria-hidden="true">DOOMSDAY<br />CLOCK</div>
+  <div class="background-text" aria-hidden="true"><div><span>DOOMSDAY</span><span>CLOCK</span></div></div>
 
-  <main class="layout">
-    <section class="panel">
-      <h1 class="headline">Nuclear-Leader Military Signal Clock</h1>
-      <div id="clock" class="clock" aria-live="polite"></div>
-      <p class="meta" id="clockMeta">Loading 24h nuclear-leader signal…</p>
-      <div class="chip-list" id="countryChips"></div>
-    </section>
+  <div class="shell">
+    <main class="layout">
+      <section class="panel clock-panel">
+        <div class="panel-head">
+          <h1 class="headline">Nuclear-Leader Military Signal Clock</h1>
+          <span class="live"><span class="live-dot"></span>LIVE</span>
+        </div>
 
-    <aside class="panel">
-      <h2 class="headline">Qualified signals (last 24h)</h2>
-      <p class="meta" id="feedMeta">Fetching…</p>
-      <ul class="feed-list" id="feedList"></ul>
-    </aside>
-  </main>
+        <div class="clock-wrap">
+          <div class="clock" aria-label="Official Doomsday Clock baseline: 23 hours 58 minutes 35 seconds">
+            <span class="digit">2</span><span class="digit">3</span><span class="colon">:</span>
+            <span class="digit">5</span><span class="digit">8</span><span class="colon">:</span>
+            <span class="digit">3</span><span class="digit">5</span>
+          </div>
+
+          <div class="milliseconds">
+            <span id="ms">000</span>
+            <div class="ms-label">ms</div>
+          </div>
+
+          <p class="baseline">Official baseline: <strong>85 seconds to midnight</strong> · live micro-variance</p>
+          <p class="status">Signal pressure: <strong id="pressure">0</strong> · feed refreshes hourly</p>
+          <div class="chips" id="countryChips"></div>
+        </div>
+      </section>
+
+      <aside class="panel feed-panel">
+        <div class="panel-head">
+          <h2 class="headline">Qualified signals (live API feed)</h2>
+          <span class="live feed-live"><span class="live-dot"></span>LIVE</span>
+        </div>
+        <ul class="feed-list" id="feedList"><li class="loading">Loading crisis signals…</li></ul>
+        <div class="feed-foot">
+          <span id="feedSource">GDELT 2.1</span>
+          <span id="feedUpdated">Waiting for feed…</span>
+        </div>
+      </aside>
+    </main>
+  </div>
 
   <script>
-    const clockElement = document.getElementById('clock');
-    const clockMeta = document.getElementById('clockMeta');
-    const feedMeta = document.getElementById('feedMeta');
+    const OFFICIAL_SECONDS_TO_MIDNIGHT = 85;
+    const countries = ['United States','Russia','China','United Kingdom','France','India','Pakistan','North Korea','Israel'];
+    const chips = document.getElementById('countryChips');
+    const msEl = document.getElementById('ms');
     const feedList = document.getElementById('feedList');
-    const countryChips = document.getElementById('countryChips');
+    const feedUpdated = document.getElementById('feedUpdated');
+    const feedSource = document.getElementById('feedSource');
+    const pressureEl = document.getElementById('pressure');
 
-    const REFRESH_MS = 24 * 60 * 60 * 1000;
-    const BASE_SECONDS_TO_MIDNIGHT = 90;
-    const THREAT_NUDGE_MS = 0.10;
+    chips.innerHTML = countries.map(c => `<span class="chip">${c}</span>`).join('');
 
-    const nuclearCountries = [
-      { country: 'United States', sourceCountry: 'US', leaders: ['biden', 'trump', 'white house', 'pentagon'] },
-      { country: 'Russia', sourceCountry: 'RU', leaders: ['putin', 'kremlin'] },
-      { country: 'China', sourceCountry: 'CN', leaders: ['xi jinping', 'beijing'] },
-      { country: 'United Kingdom', sourceCountry: 'GB', leaders: ['keir starmer', 'downing street'] },
-      { country: 'France', sourceCountry: 'FR', leaders: ['macron', 'elysee'] },
-      { country: 'India', sourceCountry: 'IN', leaders: ['modi', 'new delhi'] },
-      { country: 'Pakistan', sourceCountry: 'PK', leaders: ['shehbaz sharif', 'islamabad'] },
-      { country: 'North Korea', sourceCountry: 'KP', leaders: ['kim jong un', 'pyongyang'] },
-      { country: 'Israel', sourceCountry: 'IL', leaders: ['netanyahu', 'jerusalem', 'tel aviv'] }
-    ];
+    let micro = 0;
+    let direction = 1;
+    let pauseUntil = 0;
 
-    const militaryNuclearTopics = [
-      'war', 'special operation', 'military operation', 'troop movement', 'invasion',
-      'bombing', 'airstrike', 'missile', 'ballistic', 'artillery', 'annexation',
-      'nuclear', 'atomic', 'warhead', 'enrichment', 'deterrence', 'nuclear test',
-      'strategic forces', 'threat', 'ultimatum', 'mobilization'
-    ];
-
-    const leaderLookup = nuclearCountries.flatMap((x) => x.leaders);
-
-    function escapeHtml(text) {
-      return text
-        .replaceAll('&', '&amp;')
-        .replaceAll('<', '&lt;')
-        .replaceAll('>', '&gt;')
-        .replaceAll('"', '&quot;')
-        .replaceAll("'", '&#039;');
-    }
-
-    function renderCountryChips() {
-      countryChips.innerHTML = nuclearCountries
-        .map((c) => `<span class="chip">${escapeHtml(c.country)}</span>`)
-        .join('');
-    }
-
-    function containsAny(text, phrases) {
-      return phrases.some((phrase) => text.includes(phrase));
-    }
-
-    function qualifiesArticle(article) {
-      const title = (article.title || '').toLowerCase();
-      const seendate = article.seendate || '';
-      if (!title || !seendate) {
-        return false;
+    function animateMilliseconds(now) {
+      if (now < pauseUntil) {
+        msEl.textContent = '000';
+      } else {
+        if (Math.random() < 0.018) {
+          pauseUntil = now + 500 + Math.random() * 1400;
+          micro = 0;
+        } else {
+          micro += direction * (5 + Math.floor(Math.random() * 33));
+          if (micro >= 999) { micro = 999; direction = -1; }
+          if (micro <= 0) { micro = 0; direction = 1; }
+          if (Math.random() < .13) direction *= -1;
+          msEl.textContent = String(Math.round(micro)).padStart(3, '0');
+        }
       }
+      if (Math.random() < .12) msEl.classList.add('flicker');
+      else msEl.classList.remove('flicker');
+      requestAnimationFrame(animateMilliseconds);
+    }
+    requestAnimationFrame(animateMilliseconds);
 
-      const hasLeader = containsAny(title, leaderLookup);
-      const hasTopic = containsAny(title, militaryNuclearTopics);
-      return hasLeader && hasTopic;
+    function esc(s='') {
+      return String(s).replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[ch]));
     }
 
-    function isWithinLast24Hours(article) {
-      const raw = String(article.seendate || '').trim();
-      if (!/^\d{14}$/.test(raw)) {
-        return false;
-      }
-
-      const y = Number(raw.slice(0, 4));
-      const m = Number(raw.slice(4, 6)) - 1;
-      const d = Number(raw.slice(6, 8));
-      const hh = Number(raw.slice(8, 10));
-      const mm = Number(raw.slice(10, 12));
-      const ss = Number(raw.slice(12, 14));
-      const seenTime = Date.UTC(y, m, d, hh, mm, ss);
-
-      return Date.now() - seenTime <= 24 * 60 * 60 * 1000;
+    function relativeTime(iso) {
+      if (!iso) return '--:--';
+      const d = new Date(iso);
+      if (Number.isNaN(d.getTime())) return '--:--';
+      return d.toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'});
     }
 
-    function renderClock(secondsToMidnight, threatNudges) {
-      const normalized = Math.max(10, Math.min(180, Math.round(secondsToMidnight)));
-      const timeString = `23:58:${String((60 - normalized + 60) % 60).padStart(2, '0')}`;
+    function renderFeed(data) {
+      const items = Array.isArray(data.items) ? data.items : [];
+      feedSource.textContent = data.source || 'GDELT 2.1';
+      feedUpdated.textContent = data.fetched_at ? `Updated ${new Date(data.fetched_at).toLocaleString()}` : 'Update pending';
 
-      clockElement.innerHTML = timeString
-        .split('')
-        .map((char) => `<span class="digit">${char}</span>`)
-        .join('');
+      const dayAgo = Date.now() - 24 * 60 * 60 * 1000;
+      const recent = items.filter(x => !x.seen || new Date(x.seen).getTime() >= dayAgo).slice(0, 12);
+      const pressure = recent.reduce((sum, x) => sum + Number(x.severity || 1), 0);
+      pressureEl.textContent = pressure;
 
-      const totalAddedMs = (threatNudges * THREAT_NUDGE_MS).toFixed(2);
-      clockMeta.innerHTML = `Threat nudges: <span class="score">${threatNudges}</span> · +${totalAddedMs} ms cumulative pressure · updated every 24h`;
-    }
-
-    function renderFeed(articles) {
-      if (!articles.length) {
-        feedList.innerHTML = '<li>No qualifying military/nuclear leader signals in the last 24h.</li>';
+      if (!recent.length) {
+        feedList.innerHTML = '<li class="empty">No qualified crisis signals in the latest feed window.</li>';
         return;
       }
 
-      feedList.innerHTML = articles.slice(0, 12).map((article) => {
-        const title = escapeHtml(article.title || 'Untitled');
-        const url = article.url || '#';
-        return `<li><a href="${url}" target="_blank" rel="noopener noreferrer">${title}</a></li>`;
+      feedList.innerHTML = recent.map(item => {
+        const sev = Math.max(1, Math.min(3, Number(item.severity || 1)));
+        const cat = esc(item.category || 'CONFLICT');
+        const title = esc(item.title || 'Untitled');
+        const url = esc(item.url || '#');
+        const domain = esc(item.domain || item.sourcecountry || 'source');
+        return `<li class="feed-item">
+          <span class="feed-time">${relativeTime(item.seen)}</span>
+          <span class="severity-dot sev-${sev}"></span>
+          <span class="tag ${cat}">${cat}</span>
+          <span class="feed-copy"><a href="${url}" target="_blank" rel="noopener noreferrer">${title}</a><span class="feed-source">${domain}</span></span>
+        </li>`;
       }).join('');
     }
 
-    async function loadSignals() {
-      const sourceFilters = nuclearCountries.map((x) => `sourcecountry:${x.sourceCountry}`).join(' OR ');
-      const topicFilter = militaryNuclearTopics.map((word) => `"${word}"`).join(' OR ');
-      const query = encodeURIComponent(`(${sourceFilters}) AND (${topicFilter})`);
-      const endpoint = `https://api.gdeltproject.org/api/v2/doc/doc?query=${query}&mode=ArtList&format=json&sort=datedesc&maxrecords=100`;
-
+    async function loadFeed() {
       try {
-        const response = await fetch(endpoint);
-        if (!response.ok) {
-          throw new Error(`HTTP ${response.status}`);
-        }
-
-        const payload = await response.json();
-        const articles = Array.isArray(payload.articles) ? payload.articles : [];
-
-        const qualified = articles
-          .filter(isWithinLast24Hours)
-          .filter(qualifiesArticle);
-
-        const threatNudges = qualified.length;
-        const secondAdjustment = Math.min(50, threatNudges * 0.2);
-        const adjustedSeconds = BASE_SECONDS_TO_MIDNIGHT - secondAdjustment;
-
-        renderClock(adjustedSeconds, threatNudges);
-        renderFeed(qualified);
-        feedMeta.textContent = `Source: GDELT (filtered to nuclear states + leaders + military/nuclear topics). Last refresh ${new Date().toLocaleString()}.`;
-      } catch (error) {
-        renderClock(BASE_SECONDS_TO_MIDNIGHT, 0);
-        feedMeta.textContent = `Feed unavailable (${error.message}). Showing fallback.`;
-        feedList.innerHTML = '<li>Unable to load live signals.</li>';
+        const response = await fetch(`signals.json?t=${Date.now()}`, {cache:'no-store'});
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        renderFeed(await response.json());
+      } catch (err) {
+        feedList.innerHTML = '<li class="empty">Live feed is waiting for the first GitHub Actions update.</li>';
+        feedUpdated.textContent = 'Feed bootstrap pending';
       }
     }
 
-    renderCountryChips();
-    loadSignals();
-    setInterval(loadSignals, REFRESH_MS);
+    loadFeed();
+    setInterval(loadFeed, 5 * 60 * 1000);
   </script>
 </body>
 </html>
