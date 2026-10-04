@@ -1,0 +1,307 @@
+{
+  "fetched_at": "2026-10-04T18:56:45.166509+00:00",
+  "source": "Google News RSS",
+  "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
+  "items": [
+    {
+      "title": "Inside the tiny southern town at the heart of America’s missile shortage - CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT0FoTEh3TE42MzFKVXgxMlJuYzZKVHc5WHRTM2VqX3Q2clhzb25YRmFhYklERXZJTHJpblRwVDVWWGFXYnh4QjUwdEoyZi11emF2UmdZaGZmTVpYejNLdXk1M1RsMDVzbHNxelp3T3BTUTE4SV85a3B2amI4MzlKLUEySmNyVjZoMmwyWjVB?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-04T18:05:17+00:00",
+      "domain": "CNN",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Live - Iran says reviewing US response to seven-day proposal - Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOTk9NY25oVDA1VHhzR0hxT0pvLWs0MkRyZGN4QU5NZjl5RHZRNk13anozbldGMi1HcGlvclRQWktscHRETDIyd0luOTBhN3N6aVViYnRRU0YwWHlSQnc?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-04T16:24:30+00:00",
+      "domain": "Iran International",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "FlyDubai Attack Adds New Risks to Dubai’s War-Battered Economy - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkJETDY1QUM4ZUluTDZPS2dheDdBTWxHR2RQcS1tQ1Q3cVpaOC1KM0p1SzRjVnNsMFBLMFZUR1htRkotYUVGMlkzaEt4U2VXaWhSOTdmMlA2OWVDVFZqdHQxYnJDOWtFSHdEc2NjSzduNmw0SXdLYjBhMmFUbmQyMDFseXQtQ2FDMUV1Nm9UblRlcE5LV2dUa0dQSnQ0NnY1RGtaeF9oSVpyOW9y?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-04T14:17:00+00:00",
+      "domain": "WSJ",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Russian Offensive Campaign Assessment, October 3, 2026 - Institute for the Study of War",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0lSYlZ4dkVjVGVKQmhVWF9VS2ttQ0NrM3FxaEhUMHJ4UGtDZEdkbVhTTTBidTNBVzluc3puRVdzRVpwWEZmTVdRVnlCRjVvRmZuYXU2eDNScXBhQkpfc3hQb3UxYmdmVVEzN3lmMW1FOUFZbF9LX0ZsOGpWV3dKektCNmNJTHdoM3NKMkdwd2hvbHJ3RTNxR1hKUWs3bi1SNERiOXo4Y2VOZw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-04T05:22:06+00:00",
+      "domain": "Institute for the Study of War",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Superpowers Race to Put Nuclear Reactors on the Moon - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TMnRhZE9CWWFCMHhQVFNtNHpzaTBEQ2MtYnhoZXFZRzZaQTc5R05wcVhOVUQ4MDc0MjBIYUpUNGRpNnRkU0lrMzRJVDF2dk8wbWd1WHpqN19mc2k4alZPM1ZOMV9LSENITGg2UVVPTUdJNTBKYTZQcm1GOU4?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-04T09:00:29+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Pennsylvania health officials brace themselves as measles outbreak expected to spread - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHZZbzctb1Fyc1Q3UnN1OTFpelZpLWVsc3dFZGk1eHc5ZjhUdlY4VlFtTEludmlLMzVYSVVKaWlaeHozSUtndFUzSWtUZ1VYYW9RZHdnUkJhZ0xCRHZGNUJoU2JqM242aEdwZHFROUxjamUxTy1uQkR2cUtmZ1BtOXFLNGpLWFJjWWpLU2Y0WGRtTUl6aTNvQVZ3?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-10-04T10:02:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Commentary: Artificial intelligence in the classroom - Washington State Standard",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXFlVjlFZjllRFpuSGJsRkR0a3BjQmdqbnRnNUlHTG9GNHE0alZJcXh0THlKYmNfUngtV3lzUkxiV2RTY0NBVUlIaktwdDhaLW95b3N6cnIxTDE3NEJhYzdyTExVOV9FdXI3cnYwUGdYaUllQkpob19ZZWtuV3V0RlVuVl9JZGxseWdwcU0yRE5HQQ?oc=5",
+      "category": "AI",
+      "severity": 2,
+      "seen": "2026-10-04T16:07:53+00:00",
+      "domain": "Washington State Standard",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Cardinal Zuppi in Assisi: Saint Francis reminds us that war is not our destiny - Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmxFNHZ2cUloSDdhUFkyaGRQbHlsekZYcVRIUWd3YVBTY2hnR3lZQmhWUl92X2tPVUdLdTMtRmJuQ2NWYkFOYUs0SmJxR3Z6alE2RXRmdVVCa3hRZnQ3Q2lRNG1qaUtnQXczSENhaWNhZ0hpM0JIaE9Oc0hRQXAwZ2E0MHhpTFdRVGlZV3ZIUXI2OVZZdk5ucUlwRW9tLTViSUg2MA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-04T11:46:58+00:00",
+      "domain": "Vatican News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-10-02T07:00:00+00:00",
+      "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Flash Flood Warning issued for part of Baldwin County - fox10tv.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM1F1ZUJEcHZZUjJHSnh2cVduQ0plYk94TUhvZGJ6RmtsY3ktMjlQS0NaOHowNmEwS3J6dERfcGVLQXZRemF6ak51cmhlMGE0Z3JxNUdqMTNvOFQ3b182UkpBTTkzc1VNX1NMUDRMR0JoQWNfaWRfUmQ5VldxbHlVVDNCMEdvbnNmbmc?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-04T18:38:00+00:00",
+      "domain": "fox10tv.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump funnels millions from massive war chest into key House, Senate races: Here’s where - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkczVFd5VUt4QXhUNHBQdi1HRkNDVVZlV1ZRaENaa25JUGZ0MTVPQkVJS3JIVHhOSHloaThsdGJnZGNVN3RsRGtqQVN3eW5GUW5hYnNfWW1PZ2tEZ1JuQkJ0Y1VXcmFUUk9KOWhBN2tmQTlJOW0wcU9PVFNTSE1QSGwtSU91QU5aU2tCSU1peTlJd3FJRW5sVGp0QlktNDFqZWV0U3h0cUlHVDRXRU5SbmxsT2dEU0NNM2lfaTJQOUYwY2lHT2tTQXA1cjHSAdIBQVVfeXFMT0JreGROWGFmSWlNY3ZGVHBpWHA2TUNaSnlkVUdaOGxKNzBWbFpsOWhZMDZHY19wcEN3NTFJTVE2Vks2MmNnZUx1UFZEc1MwN3EwN09BSzFjZ2U3S0lKSmZ2dlpKOC1Ya1A5Vlg5eXJKcmwwVGZ5Ty1KeWpnVS1WWnJzc3c5ZWx6LW5JejJVajZBQjdSN3hSNW9mcnpRekNXTnpJTTZrc3l1VHpQZ1V5TF9CVTRVQjN1Tlp2Y0lVWmlhYXhFS3N1ckIzSTFBRktac1hB?oc=5",
+      "category": "CONFLICT",
+      "severity": 3,
+      "seen": "2026-10-04T10:00:00+00:00",
+      "domain": "The Hill",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Department of War's Critical Technologies Office Partners With In-Q-Tel to Accelerate Tech - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSG4xaVdoMWZhcERVRG9KVFRLMjhxSHdIZFgzbEJBUEFPZTZTOUJaYWZLS3ExUVFzQVozbEtWS3YwUklPb0JZM2lHYjFySmdZVm5GMWFnckdiZnFRMjdTU3VqX2QxSHM4bnBTRkloTFNnQUFFbW9RNlhNX3puWUttTmZLUWp0cXNhRTBzQUdBbzk3X1Z0clNJLXVxaElaWWZWQzU0bFhZTXZSTmY2RF9NRnlNbjRsVjlmVkJnUHV0XzFpb0ZPUzlMVVF0eE5JMmRNN0lrbw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-02T13:05:41+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama - NPR",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTUxheFAtcnhoeEZYQWNqSGs3RTRuMjNpNnU2QkVPaWplT2ZLVGtsNU1MeUhIUlVzb0JOSWN1UUZTZ1FUQXRJMGRiaFA5Wml5eDREV3ZxTVZrNHNfQUxqamVPTEFCY1FDdFJjVHJmbHBzUTRTS1I0anJkekNxQ2Vmb2oyQmhlSWdTVkZZWFp2Tno?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-03T11:00:00+00:00",
+      "domain": "NPR",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "The History of Nuclear Power in Space - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xdXdsX2xfOGVGUmlqX2pxQTY1ckp2R3lDdVA0Rmo5dFI1VWtrVmpEb0NOb2VmaUdiUzFRZ3ZsWGx2TjkwZ2hrN0s0WlI4Tmw3cHN1UERTT0YyOVFKN0h1X01OR0R1ZXMzR0ZSZmtVMA?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-09-30T19:31:24+00:00",
+      "domain": "Department of Energy (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Opinion | Think of Artificial Intelligence Like a Weapon - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzVNWWJRRjF5TTRwNWpPZnZCQkhnRmhwOG55ckQyQjZ1SnlaaEZpU3JnXy0wQ1h3SFo5aHd0OGZ0dFdMMzQtMTJBU0s0UDBaanBBX3NCcTZSRTEzVHRaY0RyZndoWkFIUzdlbmd5eG43ak1ZeC1EZE1qSG4wcFlqZXlCT3NSbTNuVEVn?oc=5",
+      "category": "AI",
+      "severity": 2,
+      "seen": "2026-10-04T16:35:00+00:00",
+      "domain": "WSJ",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-10-02T07:00:00+00:00",
+      "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Secretary of War Flag Officer Announcements for Oct. 2, 2026 - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDlnTzdsSm8yU3ZaZFNKS1l1V0hSLVhLNzVfUnpfN3lQaU5TVzhMU1BkWDMtNGZReVgzNEN1RkNLdGFnSVMweTFnTnFaazRDa0Q0NFZIVlc5c1otYlVZaUV2blRlQVJvVUw3WGdobDBqUEtkUmdGYWtoU21URnRtWHU0UHI1dk5KOEZkbDFybDZwbDgyOGxMUnA3MWlydE9sclc2ai1Mc19Qb1NTSjYwT0NCX1ZmeTJt?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-02T18:38:07+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Secretary of War Hegseth to Visit Colorado Springs for Send Me Tour - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcG51NEJ2c2NVb1FvODQ5TmlEQU5nYzA1VXdORG5rM20ybVdGRkFhNUJsMXdiR1gxOWhhWDFSZk9QZHoxbXlHOVQ2N3RhSkk4c0poRzdfdmZtUkRoYi1ZZzY2Tzh3VDh1eG1uSjI1dnFfM2dsa3NXUm53VDU0UDVxUXZGMmhuMjNEWEc4VjNZQ18xc08xQjBlUWw1STJDT2VMSzBhTHdVWEJJdkZZR081ZndZVjh4dXhBOUdNSlBqSGdQWUR1bHlzWA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-02T17:26:22+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "HIGHLIGHTS | Justin Walley looks like a heat-seeking missile on blitzing sack from Kaliakmanis' blind side - Colts.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSmJfX19RSEw1Y2hhQl9IZFlaYXh0cFpibmpYRmVzU3pXX1FOOWt4M0k2QmdxWnd4RjdtWllPblJjcHU4VlN3OGdEWUt0RlNnc0NpS2JhdEdyQVRRUU9WZlJoQmpNc2ltUUs0WVlIdjlEUUNpTnJDZUlvM1NReTNvaTRNMDVGbUNTb3JUVFMtSVdfMmF6d2VkcEJ5TUdIcXBDZTEwSTRDNWY4T3ZoVGcwUGk4eUExZC1BQlg2VWI5LTRkZUtyMmtuWDFvWQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-04T15:59:47+00:00",
+      "domain": "Colts.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Iran could move shadow war in a dangerous direction, experts warn on back of two possible terror attacks - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmp0TFVwNGdSLTVYSVgwRk93b3BsTzZoRlB2bC1hbm1uQ2lGSWdpRU9MVFItcm9iWk5SQTZMekJlSTRSZDNxQXFsazZ2alI2bUlLbVZiaEdrNFlPQVFtYTRUWl9USnpER1hxOU9Qa05vRDVDX3A5dGZtT1FzdlRCNnBSWGdwUWZsbXh0Q1lmQzhyQThWY3prQmhELW8xVFE5YnZFaTJOY201N1NjcmdjUmV6a20wZ0RsckNB0gHAAUFVX3lxTE5ZUTlHNXJLVEVFY2tvOGdFT3ZmQXl3SGdvbzFwUkpwX1B3RXZKRFpGTWg2X05fTFZjcnl3bjI3Y3I4aFZOZjdQaHlUTHN5RzVyQWI1SnladWQ3SGVJbDhkbWZTcVlfU2h1X0ZHS2pOUTlqVGo2amF0WXhuTExBZTJyWFh2R3dFNGdWUzh1NUUzTEMtQjI0YzRQWGhXZWNZajRqQWI5bmlIUXp1SWVmR2ttTUJuVXp5Y0FfNFlhbVAwbA?oc=5",
+      "category": "TERROR",
+      "severity": 3,
+      "seen": "2026-10-04T11:00:04+00:00",
+      "domain": "Fox News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Okaloosa County officials detail NWS flash flood warning - fox10tv.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUkFSOUFjYkwxZ1h4ZmRfVVVDd1VFSnM5bVRadWJhcFk2djNyRkF0SVVOTjY4ZXE3M0Z4MTR1bVhKRnJqNzRueUItUlB6TEJkbHh0cEc0enE0X1BEdzFjUjBaTlZacXNmeE5nQlhBMTNvM0I5eTBrQ3RlX1FzMm5BRFJqbGtBZnJjRld3empMaVM3UDVvYmd3?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-04T16:58:00+00:00",
+      "domain": "fox10tv.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Flood Advisory in effect for parts of Jefferson, Orleans and St. Bernard parishes until 1:30 p.m. - fox8live.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMHBhbm13ZmJ1Z2hqUERpVDc5bEpVc05vYTlqNl9uWUJpU0M1a3NaVVpFWlNyZjFaaWNiOWtBdTg5a0VVb3JtUFlGUmNXZHpvSXBIZnpCbXpJY1dheU1QeGtkYnBzSDZzVG45c29BZnI2QXFTTVNkV0l3R1FseENqRFRmS1BLcDctNkF0SVVPUFJBZHRGcnUyQmVvZW5SZW41NVJzQy1IS01kTENjalNkMUN3Y19QZ9IBygFBVV95cUxNVEJOZS0xVHo3cDNpOVNaLWliOURIZWZHVzljS2pYWGQybDFMXzVXdWV1ZU95Q0h6SDhKbkR1b3o1YkNDOWtVcGlhZjc5Zk9IUnVHVEwtejBxMkVnc04yaXpNOTB2MC1WazVtX2xkN01zX1Q5VUR0TndCdGh2ZnpmemQ5Q25DZ2loT0lLbDlTTjlFZjBwZXhUWXZqYnlaSVhyeWF5VndENEdITFFramNvU3piWGN1QmoxaGlVWEJCNFYzdGFuVFF2cjh3?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-04T16:37:00+00:00",
+      "domain": "fox8live.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "The small town at the center of the US missile shortage - CNN",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPci15Z0F1bGgzd2d6bTFjRVh6UnI5NFRYRnlFVDZpMDg4Nkg4anpseVhVNjh0TW9fTDh4ZzBSbXhFbEozejYwNG4tWGZYZlc3SXlCcDItRS16VUt6QTZfdDJCbzdDSFRXdFQyV3dVckZMTlFUNk1qNjAxMFFXTy03czFqYzZ1SWUxQm9WTG9MQTlOQUdlVlY5bGgxTV8zWW5makxtOWxB?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-04T10:26:00+00:00",
+      "domain": "CNN",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "DoW and U.S. Navy Announce Contract With Raytheon to Accelerate Standard Missile-6 Product - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU1BUS2FYc3lWaEM0Z0tZSXI5bkhuRTI5SG55eUVpaHJtQURhT1k5dlVibGlDcklVVnFRTW1VTkVDUW0tZU5FQlQ0QjJZdnVPeXJNcW11bndCS1MxUk14WDhWNmt3ZXYwNEVUNVFFcW9hZllxSFF5V0RIazJWRFNRX3dONmJIeUJsUTFScGN1dklKR1BJSGdTZ3lkT0lFYklnTlJLUm9KZmkxNmZRZzBHQTlKdVhFN0xiMVdIRURLLWRhMkRTSWt3R1UyTnpscG53RmVv?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-01T21:12:50+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "War Department Increases Two Hazard Pays for First Time in Nearly Quarter Century - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR19mRkkyeFVDNV9fRkVlQnJMWkN4dmZqVmxQSjJTUHBXVjluODRtS0NzZ3NZZlcwaXczbks3RVJYT1lIQW54SmFOdWpJbW1fOHZmSVJvaUhuekRzMjBSeHMtVzZOc2FhVXVnM0ItbU5oM3o1bVZ0RTFSNTJ0UkI2RVlDd25IWXVybzlrQnBXOWtHR010b0ZNSnp5N3ZoUWtZcDZtWFdqb0FxNzFEbVB0emM1bzliVVdtVHA1TnRKNVQ0YW80TmNlR19Qa00xWHBsdTdWMWZOSHc1UQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-01T18:04:05+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Flood Watch in effect as more heavy rain targets Northeast Florida, Southeast Georgia - News4JAX",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS3pYdGJBc0V3U2ZidTRPTlFnWEdMVS04c1RqMV9VRXJaNzV2RGZXR0pZSGUyQUljN1UwUFQ3Y1FrelU3ZWt2REc2YXBrQ3F0Mk04MVdpZkt3bVg4OTVnWFA1clpoQUUwRnF0Rm5fcV9lQmFHaVN6U0xkWDFSNjBrOENFb1dkSlRLS29MTzl6cm8zVWFUQXVaMmVRa0ZjeEZTa3liQVBFejdMb0NNSGc1eGZjUTZwNzhHR3NRYXN0SWtFMFU0Mndzd01PQWdjRk1S?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-04T13:11:26+00:00",
+      "domain": "News4JAX",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "North Korea says Kim oversaw hypersonic missile drill - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVXNLVG56dnF3ZVpPbnpGbTlIdDFaWUZCRkZBYVQ4Ym5vVlM4SlJlcnFxMnZ4amx1UWl0SkI3SXE5WFNvZV9TcW12SHFobnUxZlJELTU1cXdYTXNzT2N6Yjd2am9tNUVJbEhyS1ZZTVI1Z0NEUnZ3MnVZZnAyRXNrOWYwTmllVC1pTGRXcVVMV1RGTUEzTXBjVjNDTTlERlgtVkt6bXJLOHZab0F0b0g3bHV4LVdOMUtrajJmLVhiOUF1ZGZwX0E?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-03T22:13:00+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "One Year After Executive Orders, U.S. Nuclear Energy Renaissance Is in Full Swing - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRy1tYVk5SkpESWYySlFVbWpCMDd0djMxeHNLTUJDSGZDekxSNnpxdFJwWE5pQzcwdERZaER6cXRPeEpFZEhVWDhmZTQ5S29vOUxqOVZ0Vm1malRva3RkUjZKeXlITzF5bThDU2hKOTVnZUZpNU1NN2VWOW8wSVFPNTJjOVNkZF81MjBXckxuQXNHb2hiR1RjRmYzb01DVEhMU3ZKTDNQMC14Vlk?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-09-30T19:31:24+00:00",
+      "domain": "Department of Energy (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Florida's dengue outbreak is now the largest in the continental US in decades - WUSF",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTmJfeUtQcDY5dDhMQUtkQklJenZldzFJeDV5Nk5DV3VTckFYY2xqbzZUUGwyaGxrWWd4UFZkd1h5bWRwVGVhc1lKUy05TnR6akR1NEdhUzBWb0ZZZUNnRGU0MnFKWkpHeTJUb1ZpX2xxdjN1aTRCOWpkMHcxY041X3U1RWU3Z1dROGctalpjNnJGM2dzX1BCNDRuaE55dUluN0NwLVZuWlM2RzByTEVyR2lxQmNyLTZoNVl3SExSU1d2LVB0eFcw?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-10-04T11:51:00+00:00",
+      "domain": "WUSF",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Evacuation orders, warnings in effect for 1,044-acre wildfire near Santa Clarita - NBC Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUZJMTAydTNhdnJnc1BDUk9FTzFGWHZ2aklBdzVIVlpOdUF4dU54cjltNlNTYjNGdmdRX29ZdnVPa1I3MGNhTURoaEpRY0U0QzVCeHVvakNFSk5GblRWU1kwZEMxZDRNc2xyZldnUWZHWU1RVzZiLVRYbHJEVkFDeUw2cnh3dzFNYmpPYTVUQzNXd9IBmgFBVV95cUxNVTNxQnhmSUttZ3EzWG1HaFV0M3llOGk4eV9rMEM3TWp3UnNEakphMzc0SjlnZmhEU3F6SXdDZ1pQZkNCeVJsY216RjQ2X1lobzBObFZJTWhhcGl0MmpwcVVDbFFITU9STWh4Tk1ZRUJMQ3Bnd2ptbDRDcm5SVVNrVE0taHJYekhOdkFqdS1YdENVZGk3SFRBN1RR?oc=5",
+      "category": "DISASTER",
+      "severity": 3,
+      "seen": "2026-10-03T23:40:29+00:00",
+      "domain": "NBC Los Angeles",
+      "language": "English",
+      "sourcecountry": ""
+    }
+  ]
+}
