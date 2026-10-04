@@ -3,16 +3,17 @@ import json
 import re
 import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 
 OUT = "signals.json"
-QUERY = '(war OR invasion OR ceasefire OR peace OR nuclear OR missile OR "terror attack" OR terrorism OR pandemic OR outbreak OR bioweapon OR "biological weapon" OR genocide OR earthquake OR tsunami OR wildfire OR flood OR "artificial intelligence" OR AI)'
-URL = "https://api.gdeltproject.org/api/v2/doc/doc?" + urllib.parse.urlencode({
-    "query": QUERY,
-    "mode": "ArtList",
-    "format": "json",
-    "sort": "datedesc",
-    "maxrecords": 250,
+QUERY = '(war OR invasion OR ceasefire OR nuclear OR missile OR "terror attack" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR "artificial intelligence") when:1d'
+RSS_URL = "https://news.google.com/rss/search?" + urllib.parse.urlencode({
+    "q": QUERY,
+    "hl": "en-US",
+    "gl": "US",
+    "ceid": "US:en",
 })
 
 CATEGORIES = [
@@ -30,7 +31,7 @@ CATEGORIES = [
 
 HIGH_IMPACT = ["killed", "dead", "casualties", "evacuation", "state of emergency", "massive", "major", "large-scale", "nuclear", "genocide", "pandemic"]
 
-def clean_title(s):
+def clean(s):
     return re.sub(r"\s+", " ", (s or "")).strip()
 
 def classify(title):
@@ -41,47 +42,58 @@ def classify(title):
             return cat, min(3, sev + impact)
     return "CONFLICT", 1
 
-def parse_seen(raw):
-    raw = str(raw or "")
+def parse_pubdate(raw):
     try:
-        if re.fullmatch(r"\d{14}", raw):
-            return datetime.strptime(raw, "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc).isoformat()
-    except ValueError:
-        pass
-    return None
+        d = parsedate_to_datetime(raw)
+        if d.tzinfo is None:
+            d = d.replace(tzinfo=timezone.utc)
+        return d.astimezone(timezone.utc).isoformat()
+    except Exception:
+        return None
 
 def main():
-    req = urllib.request.Request(URL, headers={"User-Agent": "DoomsdayClock/1.0"})
+    req = urllib.request.Request(RSS_URL, headers={
+        "User-Agent": "Mozilla/5.0 DoomsdayClock/1.0",
+        "Accept": "application/rss+xml, application/xml, text/xml",
+    })
     with urllib.request.urlopen(req, timeout=30) as r:
-        payload = json.load(r)
+        xml_data = r.read()
 
-    items, seen_titles = [], set()
-    for a in payload.get("articles", []):
-        title = clean_title(a.get("title"))
-        url = a.get("url")
+    root = ET.fromstring(xml_data)
+    items = []
+    seen_titles = set()
+
+    for node in root.findall("./channel/item"):
+        title = clean(node.findtext("title"))
+        url = clean(node.findtext("link"))
+        pub = clean(node.findtext("pubDate"))
+        source_node = node.find("source")
+        source = clean(source_node.text if source_node is not None else "")
         if not title or not url:
             continue
-        key = re.sub(r"[^a-z0-9]+", " ", title.lower())[:140]
+
+        key = re.sub(r"[^a-z0-9]+", " ", title.lower())[:160]
         if key in seen_titles:
             continue
         seen_titles.add(key)
+
         category, severity = classify(title)
         items.append({
             "title": title,
             "url": url,
             "category": category,
             "severity": severity,
-            "seen": parse_seen(a.get("seendate")),
-            "domain": a.get("domain") or "",
-            "language": a.get("language") or "",
-            "sourcecountry": a.get("sourcecountry") or "",
+            "seen": parse_pubdate(pub),
+            "domain": source,
+            "language": "English",
+            "sourcecountry": "",
         })
         if len(items) >= 30:
             break
 
     data = {
         "fetched_at": datetime.now(timezone.utc).isoformat(),
-        "source": "GDELT 2.1 DOC API",
+        "source": "Google News RSS",
         "query": QUERY,
         "items": items,
     }
