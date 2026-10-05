@@ -1,8 +1,48 @@
 {
-  "fetched_at": "2026-10-04T22:20:21.507178+00:00",
+  "fetched_at": "2026-10-05T02:02:01.740362+00:00",
   "source": "Google News RSS",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "items": [
+    {
+      "title": "Inside the tiny southern town at the heart of America’s missile shortage - CNN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT0FoTEh3TE42MzFKVXgxMlJuYzZKVHc5WHRTM2VqX3Q2clhzb25YRmFhYklERXZJTHJpblRwVDVWWGFXYnh4QjUwdEoyZi11emF2UmdZaGZmTVpYejNLdXk1M1RsMDVzbHNxelp3T3BTUTE4SV85a3B2amI4MzlKLUEySmNyVjZoMmwyWjVB?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-05T01:31:03+00:00",
+      "domain": "CNN",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Flood Alerts: New Orleans Metro, Northshore, and Southern Mississippi - WDSU",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOTlINVhWVmVfTzRNc1hubVpSMS1vbzBuVVQ3U2hjam1HNml4RzNtMF8xZ2JDQmh5M0hKak5pcWdCM3M0SV9pTTZmZ2hsVnVmVDhKTjZfRm5nT25sZm5wLXN2SVBncVdMNm9KVl96RnlreGhhRWxNZGgyajIwLXFPaHAtbTZOMjFJbE91eHpnZVpqLVdONURZRnNDMS1YaTJna0d2SFdJNzY0Z1R1YlNfWkluQXlYZkhh?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-04T23:35:00+00:00",
+      "domain": "WDSU",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "AP report: U.S. Air Force removes all bombers from British air base targeted by a suspected terror attack - PBS",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOHg2dE5lNXBLaGx4RnlMVjgwVGUzc1FhNHdMTXNST1MzeDd5UW9mWnVQdTVlMl93MWMtLUJzOC03YUZfVTZXdFZHWG5kX2FEOHhyUGd5NWZ6RVVGZlQyc2hkTE9LSHdUZVNjR1lUUW9oTTB5YnBKX01vdXZhLXFoZm9URzZGRURmdWVDX2FweEdpeXRmdnRLNEdLRUNrbGZSVDVpbTdxVmNjeWNqLTlmeXdCc2dic1JhcnJOdHhDUzBweUhmUlJJMkhCdXhoY1pndkZlYdIB2gFBVV95cUxPREVZelU4R0Vnb2hRdjZKN21DSUVjMmF1dzAwWmVwNlBPNUUtX3hVbkRva1VDbm56X0x1bHlkT1diZDhJcUlYcnhwUG13LTNWZlJoQVF1aXFhSXRfeGRtV2FLaXc4Q2FtMkxwUFJ6TTFsS28yNkxfanpSc3otTmc2cDBvLXF6djQ5bXFSdjJvd2QwOFBQaUVDS2NwMjBiTFJyRUNLbkZXRHFtbGVOOGZzN2VDQUdpUjRudzlqRUdQVHVQeDhPNkNWZWpZVm4yN3hpSVN4cGUwVUt1Zw?oc=5",
+      "category": "TERROR",
+      "severity": 3,
+      "seen": "2026-10-04T21:37:37+00:00",
+      "domain": "PBS",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Scoop: White House monitors suspected plague outbreak in Russia - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XOWV5amNoaTYwcjNNS1liVl8ySTBaX2tmNzNac2JZNGpDN0ZkQ1dRZ2txa2JuVXRyZkNkaWZhYzJIQk8yVmZ6YXc3aGFQcnMyX0IwN3QwanlTVm9qY1RCWVhLQi1UQ3VLNE45Zi1DREVKMmY1RDNKNURB?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-10-04T20:38:01+00:00",
+      "domain": "Axios",
+      "language": "English",
+      "sourcecountry": ""
+    },
     {
       "title": "FlyDubai Attack Adds New Risks to Dubai’s War-Battered Economy - WSJ",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkJETDY1QUM4ZUluTDZPS2dheDdBTWxHR2RQcS1tQ1Q3cVpaOC1KM0p1SzRjVnNsMFBLMFZUR1htRkotYUVGMlkzaEt4U2VXaWhSOTdmMlA2OWVDVFZqdHQxYnJDOWtFSHdEc2NjSzduNmw0SXdLYjBhMmFUbmQyMDFseXQtQ2FDMUV1Nm9UblRlcE5LV2dUa0dQSnQ0NnY1RGtaeF9oSVpyOW9y?oc=5",
@@ -10,26 +50,6 @@
       "severity": 2,
       "seen": "2026-10-04T14:17:00+00:00",
       "domain": "WSJ",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Extreme heat, wildfire smoke bring dangerous conditions to Southern California - KTLA",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHMtazJsZ2xNS1o5Tld5YzlTV2h0cXhLdGI1bWJBM0p2M1BKVVJCT0laTE1qUlZZNG5uQ1VFOGR5anFqVlNtYVNuRExUSE51clJnVW4tZWRqejBUNFZvWS1UaUVuS3lxVklKeU5DSkh2cWk0WnVJV01JSlZoWkU5alRMMnhxZDFadGVaYXkwY2xPR2xlWF9EanIzRVEzYWFnNm9wbUNR0gGrAUFVX3lxTE9BZXVfaW9kRHVJUEIxYzlZZlJpSnQ5bzNlOTlyV2VrWTBzSzZaTk5weWVIOVFvN3BZekVzUFI1Q1NRYnhyNHdURThfMVpsYlAwQmU0WjV1aHQtYmh2OF9ZQ3BSWTFiTS1SdWNSTC01U29TN0wtZTR5RC11V2pEbnVma01RX2lnME9kUGVDRGxUdHZONUtITnM2c2hKRDl5NFFDdm90dEtFMi1vUQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-04T15:32:33+00:00",
-      "domain": "KTLA",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "News: FAQ: Upcoming Rent Increase for Maui Wildfire Survivors Living in FEMA Temporary Housing Units - Maui Recovers",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSjFqRXpVSlBzaHl4NUJ4MFdOYVowUmUyZDN0OVBXTDdCcUNHSW5xODBDZDJ4UXNRVTBkV0hONUZXdWNIbzZhbzZhX3hwZlR1RVNtZnIxdmNGRXppWkpYU3Y0Tkp5Smk4RDNYX1J1dHN5NmcyWjVLMVZwUHMtMEJLRTRxbkg2aE11VHpYQzc0Q3pOdnV2TEQ1ZzNfSllyZmNVQTlQSHZ0WGtadEIzRUMxY093WDNkRnZfY19BaDliblh3TXNy?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-04T21:23:55+00:00",
-      "domain": "Maui Recovers",
       "language": "English",
       "sourcecountry": ""
     },
@@ -44,12 +64,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "Russian Offensive Campaign Assessment, October 3, 2026 - Institute for the Study of War",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0lSYlZ4dkVjVGVKQmhVWF9VS2ttQ0NrM3FxaEhUMHJ4UGtDZEdkbVhTTTBidTNBVzluc3puRVdzRVpwWEZmTVdRVnlCRjVvRmZuYXU2eDNScXBhQkpfc3hQb3UxYmdmVVEzN3lmMW1FOUFZbF9LX0ZsOGpWV3dKektCNmNJTHdoM3NKMkdwd2hvbHJ3RTNxR1hKUWs3bi1SNERiOXo4Y2VOZw?oc=5",
-      "category": "CONFLICT",
+      "title": "News: FAQ: Upcoming Rent Increase for Maui Wildfire Survivors Living in FEMA Temporary Housing Units - Maui Recovers",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSjFqRXpVSlBzaHl4NUJ4MFdOYVowUmUyZDN0OVBXTDdCcUNHSW5xODBDZDJ4UXNRVTBkV0hONUZXdWNIbzZhbzZhX3hwZlR1RVNtZnIxdmNGRXppWkpYU3Y0Tkp5Smk4RDNYX1J1dHN5NmcyWjVLMVZwUHMtMEJLRTRxbkg2aE11VHpYQzc0Q3pOdnV2TEQ1ZzNfSllyZmNVQTlQSHZ0WGtadEIzRUMxY093WDNkRnZfY19BaDliblh3TXNy?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-04T05:22:06+00:00",
-      "domain": "Institute for the Study of War",
+      "seen": "2026-10-04T21:23:55+00:00",
+      "domain": "Maui Recovers",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Superpowers Race to Put Nuclear Reactors on the Moon - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TMnRhZE9CWWFCMHhQVFNtNHpzaTBEQ2MtYnhoZXFZRzZaQTc5R05wcVhOVUQ4MDc0MjBIYUpUNGRpNnRkU0lrMzRJVDF2dk8wbWd1WHpqN19mc2k4alZPM1ZOMV9LSENITGg2UVVPTUdJNTBKYTZQcm1GOU4?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-04T09:00:29+00:00",
+      "domain": "The New York Times",
       "language": "English",
       "sourcecountry": ""
     },
@@ -64,12 +94,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "Cardinal Zuppi in Assisi: Saint Francis reminds us that war is not our destiny - vaticannews.va",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmxFNHZ2cUloSDdhUFkyaGRQbHlsekZYcVRIUWd3YVBTY2hnR3lZQmhWUl92X2tPVUdLdTMtRmJuQ2NWYkFOYUs0SmJxR3Z6alE2RXRmdVVCa3hRZnQ3Q2lRNG1qaUtnQXczSENhaWNhZ0hpM0JIaE9Oc0hRQXAwZ2E0MHhpTFdRVGlZV3ZIUXI2OVZZdk5ucUlwRW9tLTViSUg2MA?oc=5",
-      "category": "CONFLICT",
+      "title": "Extreme heat, wildfire smoke bring dangerous conditions to Southern California - KTLA",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHMtazJsZ2xNS1o5Tld5YzlTV2h0cXhLdGI1bWJBM0p2M1BKVVJCT0laTE1qUlZZNG5uQ1VFOGR5anFqVlNtYVNuRExUSE51clJnVW4tZWRqejBUNFZvWS1UaUVuS3lxVklKeU5DSkh2cWk0WnVJV01JSlZoWkU5alRMMnhxZDFadGVaYXkwY2xPR2xlWF9EanIzRVEzYWFnNm9wbUNR0gGrAUFVX3lxTE9BZXVfaW9kRHVJUEIxYzlZZlJpSnQ5bzNlOTlyV2VrWTBzSzZaTk5weWVIOVFvN3BZekVzUFI1Q1NRYnhyNHdURThfMVpsYlAwQmU0WjV1aHQtYmh2OF9ZQ3BSWTFiTS1SdWNSTC01U29TN0wtZTR5RC11V2pEbnVma01RX2lnME9kUGVDRGxUdHZONUtITnM2c2hKRDl5NFFDdm90dEtFMi1vUQ?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-04T11:46:58+00:00",
-      "domain": "vaticannews.va",
+      "seen": "2026-10-04T15:32:33+00:00",
+      "domain": "KTLA",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUjEwRGxoTll0b2ZCWkRZZl9iUzBKblN5TXJNM0Y5RXpZUmYwMW1YVW0wcFZYcEl1UTk0Q3VpTl9qZXBtYkg1QzdBWDZIa0wwdWZJZ0tsbU5DbHg1LWhOR2hCWWRzUVV4Qy1wd1pWVW9ZQ3NrdmE4RkpJUkRJYXk0ekNzVXQzalpLY3AtUU1mb3FlcnRnc1BEUi1KaDVEUWFiVUhF0gGoAUFVX3lxTFBMNDgyNFd0ZWdGbHlrRGNsUEtGbUx2ci1KakxlMXpuRks0Nl9jY2pjdC1pTkRVYXJRajFmdVZqaHVQZ2lmTmtzVkJaM1JnWWI3VlBTZHhYMDBRUjd5R0NzNEZ0S2w5bVJ5NkpvZHZqaWFPd0V0T2FrX1V1bW1vaFpiYUYtNHJoYko3ZTNXQW1ZTVV1RlNGN2ZZRmJvWUZiUWFxcGNRSWJ0UA?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-04T12:02:51+00:00",
+      "domain": "CNBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Flood Watch in effect as more heavy rain targets Northeast Florida, Southeast Georgia - news4jax.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS3pYdGJBc0V3U2ZidTRPTlFnWEdMVS04c1RqMV9VRXJaNzV2RGZXR0pZSGUyQUljN1UwUFQ3Y1FrelU3ZWt2REc2YXBrQ3F0Mk04MVdpZkt3bVg4OTVnWFA1clpoQUUwRnF0Rm5fcV9lQmFHaVN6U0xkWDFSNjBrOENFb1dkSlRLS29MTzl6cm8zVWFUQXVaMmVRa0ZjeEZTa3liQVBFejdMb0NNSGc1eGZjUTZwNzhHR3NRYXN0SWtFMFU0Mndzd01PQWdjRk1S?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-04T13:11:26+00:00",
+      "domain": "news4jax.com",
       "language": "English",
       "sourcecountry": ""
     },
@@ -84,72 +134,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "Flash Flood Warning issued for part of Baldwin County - fox10tv.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM1F1ZUJEcHZZUjJHSnh2cVduQ0plYk94TUhvZGJ6RmtsY3ktMjlQS0NaOHowNmEwS3J6dERfcGVLQXZRemF6ak51cmhlMGE0Z3JxNUdqMTNvOFQ3b182UkpBTTkzc1VNX1NMUDRMR0JoQWNfaWRfUmQ5VldxbHlVVDNCMEdvbnNmbmc?oc=5",
+      "title": "Cardinal Zuppi in Assisi: Saint Francis reminds us that war is not our destiny - Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmxFNHZ2cUloSDdhUFkyaGRQbHlsekZYcVRIUWd3YVBTY2hnR3lZQmhWUl92X2tPVUdLdTMtRmJuQ2NWYkFOYUs0SmJxR3Z6alE2RXRmdVVCa3hRZnQ3Q2lRNG1qaUtnQXczSENhaWNhZ0hpM0JIaE9Oc0hRQXAwZ2E0MHhpTFdRVGlZV3ZIUXI2OVZZdk5ucUlwRW9tLTViSUg2MA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-04T11:46:58+00:00",
+      "domain": "Vatican News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "State efforts improving wildfire safety, says report - The Plumas Sun",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTURQTFVUd0cxZEx5TWJScU81MFAxOVg2eFBNLW8yUW1fQ0JmSmtYVml3aGZhZ1I3RVhKM0hPOXdjYXJsVkRubkhrNTh3NDI0dmdLQVMwbVlIckNSUEVMejRNUFpSMEFiT0FfNkZ3QlRYcUlURk1EU2RRYXFqaVVkZXg3cFI3ekk0TXRzdmRR?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-04T18:38:00+00:00",
-      "domain": "fox10tv.com",
+      "seen": "2026-10-05T01:35:01+00:00",
+      "domain": "The Plumas Sun",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "HIGHLIGHTS | Justin Walley looks like a heat-seeking missile on blitzing sack from Kaliakmanis' blind side - Colts.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSmJfX19RSEw1Y2hhQl9IZFlaYXh0cFpibmpYRmVzU3pXX1FOOWt4M0k2QmdxWnd4RjdtWllPblJjcHU4VlN3OGdEWUt0RlNnc0NpS2JhdEdyQVRRUU9WZlJoQmpNc2ltUUs0WVlIdjlEUUNpTnJDZUlvM1NReTNvaTRNMDVGbUNTb3JUVFMtSVdfMmF6d2VkcEJ5TUdIcXBDZTEwSTRDNWY4T3ZoVGcwUGk4eUExZC1BQlg2VWI5LTRkZUtyMmtuWDFvWQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-04T15:59:47+00:00",
-      "domain": "Colts.com",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama - NPR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTUxheFAtcnhoeEZYQWNqSGs3RTRuMjNpNnU2QkVPaWplT2ZLVGtsNU1MeUhIUlVzb0JOSWN1UUZTZ1FUQXRJMGRiaFA5Wml5eDREV3ZxTVZrNHNfQUxqamVPTEFCY1FDdFJjVHJmbHBzUTRTS1I0anJkekNxQ2Vmb2oyQmhlSWdTVkZZWFp2Tno?oc=5",
+      "title": "Russian Offensive Campaign Assessment, October 3, 2026 - Institute for the Study of War",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0lSYlZ4dkVjVGVKQmhVWF9VS2ttQ0NrM3FxaEhUMHJ4UGtDZEdkbVhTTTBidTNBVzluc3puRVdzRVpwWEZmTVdRVnlCRjVvRmZuYXU2eDNScXBhQkpfc3hQb3UxYmdmVVEzN3lmMW1FOUFZbF9LX0ZsOGpWV3dKektCNmNJTHdoM3NKMkdwd2hvbHJ3RTNxR1hKUWs3bi1SNERiOXo4Y2VOZw?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-03T11:00:00+00:00",
-      "domain": "NPR",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "The History of Nuclear Power in Space - Department of Energy (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xdXdsX2xfOGVGUmlqX2pxQTY1ckp2R3lDdVA0Rmo5dFI1VWtrVmpEb0NOb2VmaUdiUzFRZ3ZsWGx2TjkwZ2hrN0s0WlI4Tmw3cHN1UERTT0YyOVFKN0h1X01OR0R1ZXMzR0ZSZmtVMA?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-09-30T19:31:24+00:00",
-      "domain": "Department of Energy (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Biljana Plavsic, a Former Bosnian Serb Political Leader, Has Died - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PQzNUUHcwU0p6b09veXMwclNBOVdLclhlTmFNbVdFVUQxSF9MTWdXbHpuajFKSW9obmpyTjVucTRyalFKbG9SR0ZLTnFzSUJMN2hpQThOdTFqaFNvN1pjU1FueHk0LTI5LUdYTFdPb2VLU0RQTXJLUHExRGk4UQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-04T21:12:26+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUjEwRGxoTll0b2ZCWkRZZl9iUzBKblN5TXJNM0Y5RXpZUmYwMW1YVW0wcFZYcEl1UTk0Q3VpTl9qZXBtYkg1QzdBWDZIa0wwdWZJZ0tsbU5DbHg1LWhOR2hCWWRzUVV4Qy1wd1pWVW9ZQ3NrdmE4RkpJUkRJYXk0ekNzVXQzalpLY3AtUU1mb3FlcnRnc1BEUi1KaDVEUWFiVUhF0gGoAUFVX3lxTFBMNDgyNFd0ZWdGbHlrRGNsUEtGbUx2ci1KakxlMXpuRks0Nl9jY2pjdC1pTkRVYXJRajFmdVZqaHVQZ2lmTmtzVkJaM1JnWWI3VlBTZHhYMDBRUjd5R0NzNEZ0S2w5bVJ5NkpvZHZqaWFPd0V0T2FrX1V1bW1vaFpiYUYtNHJoYko3ZTNXQW1ZTVV1RlNGN2ZZRmJvWUZiUWFxcGNRSWJ0UA?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-04T12:02:51+00:00",
-      "domain": "CNBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump's Canada trade war is entering a dangerous new phase for these battleground states - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaklfRWlmTWxoaXNabmZDV2xpOGZJMWRWR193SXVUQVAyN1l6U2taQ2c3QmViR1A2V2pZVGI3eDVVZ292SEl5ZlB0aVdjTUdrd3BSUzkzMWdhYXFrQkszX1ZmY1FXdjVDWGw4dGhnMkdBbGhTT2lYalpYVE5DaHFmLXlDX0Z1VEVJM2FhT2c5X25nRmcyN0xRYXd0V29tbGF3emxQeXByUndRTTF2U0HSAbMBQVVfeXFMUGdnUGFqS19NT1A1V0gtQ182bnAyQzB3WGttS2l3SThwaFNSQWJJOE1FYVNkRFVOWDQ4SUtCWE1wTGg1MWdXZG1fa1J0UnZtanhHa2h1cjJvdzhOd3NiTDZ3QjhEX094ZkswbzdIT19zTW9sai1VWlhQSE9ycHVaLXYzWDlRUldLMm1wUXZhXzhVbGw2NUhWT0pYb2tEdHhQdlM0NHgtOEJWV2ZsWE4wT1NpNE0?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-04T13:29:14+00:00",
-      "domain": "Fox Business",
+      "seen": "2026-10-04T05:22:06+00:00",
+      "domain": "Institute for the Study of War",
       "language": "English",
       "sourcecountry": ""
     },
@@ -160,16 +170,6 @@
       "severity": 2,
       "seen": "2026-10-04T17:47:25+00:00",
       "domain": "CBS News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Opinion | Think of Artificial Intelligence Like a Weapon - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzVNWWJRRjF5TTRwNWpPZnZCQkhnRmhwOG55ckQyQjZ1SnlaaEZpU3JnXy0wQ1h3SFo5aHd0OGZ0dFdMMzQtMTJBU0s0UDBaanBBX3NCcTZSRTEzVHRaY0RyZndoWkFIUzdlbmd5eG43ak1ZeC1EZE1qSG4wcFlqZXlCT3NSbTNuVEVn?oc=5",
-      "category": "AI",
-      "severity": 2,
-      "seen": "2026-10-04T16:35:00+00:00",
-      "domain": "WSJ",
       "language": "English",
       "sourcecountry": ""
     },
@@ -194,52 +194,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "Secretary of War General Officer Announcements for Oct. 2, 2026 - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnpPbGJUaEZMQmxyT3BqN0VQaHdxZFJnTFZlZV9GdXc3SmY2SDF6UzdFTzJ3QklURlNjWnZiTmdCeGwxWFFLT2ZmbEdqMGJKdjIydUlLQjZuTzNYZ2tjQVk2MjdhOGtpUzN4TWU5TDdqd1FZMTBURjlEaHFJRjZXWDE0UGhZYXhCYTRhZXpqWXRHa0V6MGs3WVh5aGV0ZEV6eTRNeWNoT3VtVnFHaklaZ3B4RnBQNWRsNFB1cQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-02T18:38:07+00:00",
-      "domain": "U.S. Department of War (.gov)",
+      "title": "Afghanistan: 25 Years Since the US-Led Invasion - Human Rights Watch",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmlYaEpFb2thc1duaWZyQXN6b2pEaFVpN1VoWDltd2I0Z213TUxwRDIybTFJVjZEUUNqeXpPaThQdVpBUl9DcWE3U2xyajBlOTdUd0oyLUJ2TDFqNVNlajB1djBaZElKcnFsZFlTVFVyUFN2WE5vT2RxVjRndkNVTmcyZ2d1Q2dXamU4SHFR?oc=5",
+      "category": "WAR",
+      "severity": 3,
+      "seen": "2026-10-05T00:00:00+00:00",
+      "domain": "Human Rights Watch",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "NWS issues Flash Flood Warning for Southern Mobile County - fox10tv.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVlhNWTE5ZFpfcTFDYVp6ZXhyQWpHMWpSSUdmYTc5Z2p3R0FqN1YwM2NGVlJ2S2tpOU5oNXgtd29ydWZ6WVZ3dFNSeGdpeTlEeE0wTFhjSUVuUGFXZzcwbC1OcWVzeDhwaUhMS3ZTVU5TdENKcjc1NFpJRHo4OTFZRDhWYnQ5aEc4NFNiU0lZN0ZDalU?oc=5",
+      "title": "Colorado Gov. Jared Polis announces support for flood risk reduction near wildfires - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR09RS3RuXzA5eF80LVc5aGlscWtKS0VQTE1iRkxuRWJ6NHFFbDhIWVJrUDE0MmRNMjQ2RmxwQlhxUlVPNXZaamMxZ3loaXFwMmNBX3YtMzN5d2EtbmlZVWc0RHptZ2V6RTBBbFJSRzYyVGt6NWRZdUw5a1Zud3Y1N2FmeFRkZDlhUnd4dVlFTVlHanNQbUw4Ym1YUVV2eVoyNWFHczlUTG5CZUg5WFJ5cXE1cV8xWmZZTHVPdzBUNUJkUQ?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-04T19:46:00+00:00",
-      "domain": "fox10tv.com",
+      "seen": "2026-10-04T22:35:23+00:00",
+      "domain": "CBS News",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "War Department Increases Two Hazard Pays for First Time in Nearly Quarter Century - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR19mRkkyeFVDNV9fRkVlQnJMWkN4dmZqVmxQSjJTUHBXVjluODRtS0NzZ3NZZlcwaXczbks3RVJYT1lIQW54SmFOdWpJbW1fOHZmSVJvaUhuekRzMjBSeHMtVzZOc2FhVXVnM0ItbU5oM3o1bVZ0RTFSNTJ0UkI2RVlDd25IWXVybzlrQnBXOWtHR010b0ZNSnp5N3ZoUWtZcDZtWFdqb0FxNzFEbVB0emM1bzliVVdtVHA1TnRKNVQ0YW80TmNlR19Qa00xWHBsdTdWMWZOSHc1UQ?oc=5",
-      "category": "CONFLICT",
+      "title": "Opinion | Think of Artificial Intelligence Like a Weapon - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzVNWWJRRjF5TTRwNWpPZnZCQkhnRmhwOG55ckQyQjZ1SnlaaEZpU3JnXy0wQ1h3SFo5aHd0OGZ0dFdMMzQtMTJBU0s0UDBaanBBX3NCcTZSRTEzVHRaY0RyZndoWkFIUzdlbmd5eG43ak1ZeC1EZE1qSG4wcFlqZXlCT3NSbTNuVEVn?oc=5",
+      "category": "AI",
       "severity": 2,
-      "seen": "2026-10-01T18:04:05+00:00",
-      "domain": "U.S. Department of War (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "One Year After Executive Orders, U.S. Nuclear Energy Renaissance Is in Full Swing - Department of Energy (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRy1tYVk5SkpESWYySlFVbWpCMDd0djMxeHNLTUJDSGZDekxSNnpxdFJwWE5pQzcwdERZaER6cXRPeEpFZEhVWDhmZTQ5S29vOUxqOVZ0Vm1malRva3RkUjZKeXlITzF5bThDU2hKOTVnZUZpNU1NN2VWOW8wSVFPNTJjOVNkZF81MjBXckxuQXNHb2hiR1RjRmYzb01DVEhMU3ZKTDNQMC14Vlk?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-09-30T19:31:24+00:00",
-      "domain": "Department of Energy (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Iran could move shadow war in a dangerous direction, experts warn on back of two possible terror attacks - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmp0TFVwNGdSLTVYSVgwRk93b3BsTzZoRlB2bC1hbm1uQ2lGSWdpRU9MVFItcm9iWk5SQTZMekJlSTRSZDNxQXFsazZ2alI2bUlLbVZiaEdrNFlPQVFtYTRUWl9USnpER1hxOU9Qa05vRDVDX3A5dGZtT1FzdlRCNnBSWGdwUWZsbXh0Q1lmQzhyQThWY3prQmhELW8xVFE5YnZFaTJOY201N1NjcmdjUmV6a20wZ0RsckNB0gHAAUFVX3lxTE5ZUTlHNXJLVEVFY2tvOGdFT3ZmQXl3SGdvbzFwUkpwX1B3RXZKRFpGTWg2X05fTFZjcnl3bjI3Y3I4aFZOZjdQaHlUTHN5RzVyQWI1SnladWQ3SGVJbDhkbWZTcVlfU2h1X0ZHS2pOUTlqVGo2amF0WXhuTExBZTJyWFh2R3dFNGdWUzh1NUUzTEMtQjI0YzRQWGhXZWNZajRqQWI5bmlIUXp1SWVmR2ttTUJuVXp5Y0FfNFlhbVAwbA?oc=5",
-      "category": "TERROR",
-      "severity": 3,
-      "seen": "2026-10-04T11:00:04+00:00",
-      "domain": "Fox News",
+      "seen": "2026-10-04T16:35:00+00:00",
+      "domain": "WSJ",
       "language": "English",
       "sourcecountry": ""
     },
@@ -254,52 +234,72 @@
       "sourcecountry": ""
     },
     {
-      "title": "Iran tells US there is no military solution to Middle East war - The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdW9vQVV5V0NwNFE0bU5IMjBkM2NsR0lIYUItZ0twRndrOW9xak82X0xtOTNjUzhrRnVRRHdRYW0talFNQ0l6OWE4ZnpPTnItTVJnMURPOTRCemw2WDJ5NE13dVAtekR2amFWMGptYzgzV05uVTdMejZnV0o2SWJFVkRBc1VyeGdGVFZoMUd2NGVUaWVCVTIyN0dKSzd5LVJpS3drYVRUWk1lcTZk?oc=5",
+      "title": "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama - NPR",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTUxheFAtcnhoeEZYQWNqSGs3RTRuMjNpNnU2QkVPaWplT2ZLVGtsNU1MeUhIUlVzb0JOSWN1UUZTZ1FUQXRJMGRiaFA5Wml5eDREV3ZxTVZrNHNfQUxqamVPTEFCY1FDdFJjVHJmbHBzUTRTS1I0anJkekNxQ2Vmb2oyQmhlSWdTVkZZWFp2Tno?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-04T18:42:53+00:00",
-      "domain": "The Times of Israel",
+      "seen": "2026-10-03T11:00:00+00:00",
+      "domain": "NPR",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Trump funnels millions from massive war chest into key House, Senate races: Here’s where - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkczVFd5VUt4QXhUNHBQdi1HRkNDVVZlV1ZRaENaa25JUGZ0MTVPQkVJS3JIVHhOSHloaThsdGJnZGNVN3RsRGtqQVN3eW5GUW5hYnNfWW1PZ2tEZ1JuQkJ0Y1VXcmFUUk9KOWhBN2tmQTlJOW0wcU9PVFNTSE1QSGwtSU91QU5aU2tCSU1peTlJd3FJRW5sVGp0QlktNDFqZWV0U3h0cUlHVDRXRU5SbmxsT2dEU0NNM2lfaTJQOUYwY2lHT2tTQXA1cjHSAdIBQVVfeXFMT0JreGROWGFmSWlNY3ZGVHBpWHA2TUNaSnlkVUdaOGxKNzBWbFpsOWhZMDZHY19wcEN3NTFJTVE2Vks2MmNnZUx1UFZEc1MwN3EwN09BSzFjZ2U3S0lKSmZ2dlpKOC1Ya1A5Vlg5eXJKcmwwVGZ5Ty1KeWpnVS1WWnJzc3c5ZWx6LW5JejJVajZBQjdSN3hSNW9mcnpRekNXTnpJTTZrc3l1VHpQZ1V5TF9CVTRVQjN1Tlp2Y0lVWmlhYXhFS3N1ckIzSTFBRktac1hB?oc=5",
-      "category": "CONFLICT",
+      "title": "The History of Nuclear Power in Space - energy.gov",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xdXdsX2xfOGVGUmlqX2pxQTY1ckp2R3lDdVA0Rmo5dFI1VWtrVmpEb0NOb2VmaUdiUzFRZ3ZsWGx2TjkwZ2hrN0s0WlI4Tmw3cHN1UERTT0YyOVFKN0h1X01OR0R1ZXMzR0ZSZmtVMA?oc=5",
+      "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-10-04T10:00:00+00:00",
-      "domain": "The Hill",
+      "seen": "2026-09-30T19:31:24+00:00",
+      "domain": "energy.gov",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Okaloosa County officials detail NWS flash flood warning - fox10tv.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUkFSOUFjYkwxZ1h4ZmRfVVVDd1VFSnM5bVRadWJhcFk2djNyRkF0SVVOTjY4ZXE3M0Z4MTR1bVhKRnJqNzRueUItUlB6TEJkbHh0cEc0enE0X1BEdzFjUjBaTlZacXNmeE5nQlhBMTNvM0I5eTBrQ3RlX1FzMm5BRFJqbGtBZnJjRld3empMaVM3UDVvYmd3?oc=5",
+      "title": "FLOOD ALERT: Flash Flood Warning issued for Southern Mobile County - fox10tv.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVlhNWTE5ZFpfcTFDYVp6ZXhyQWpHMWpSSUdmYTc5Z2p3R0FqN1YwM2NGVlJ2S2tpOU5oNXgtd29ydWZ6WVZ3dFNSeGdpeTlEeE0wTFhjSUVuUGFXZzcwbC1OcWVzeDhwaUhMS3ZTVU5TdENKcjc1NFpJRHo4OTFZRDhWYnQ5aEc4NFNiU0lZN0ZDalU?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-04T16:58:00+00:00",
+      "seen": "2026-10-04T19:46:00+00:00",
       "domain": "fox10tv.com",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Flood Advisory in effect for parts of Jefferson, Orleans and St. Bernard parishes until 1:30 p.m. - fox8live.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMHBhbm13ZmJ1Z2hqUERpVDc5bEpVc05vYTlqNl9uWUJpU0M1a3NaVVpFWlNyZjFaaWNiOWtBdTg5a0VVb3JtUFlGUmNXZHpvSXBIZnpCbXpJY1dheU1QeGtkYnBzSDZzVG45c29BZnI2QXFTTVNkV0l3R1FseENqRFRmS1BLcDctNkF0SVVPUFJBZHRGcnUyQmVvZW5SZW41NVJzQy1IS01kTENjalNkMUN3Y19QZ9IBygFBVV95cUxNVEJOZS0xVHo3cDNpOVNaLWliOURIZWZHVzljS2pYWGQybDFMXzVXdWV1ZU95Q0h6SDhKbkR1b3o1YkNDOWtVcGlhZjc5Zk9IUnVHVEwtejBxMkVnc04yaXpNOTB2MC1WazVtX2xkN01zX1Q5VUR0TndCdGh2ZnpmemQ5Q25DZ2loT0lLbDlTTjlFZjBwZXhUWXZqYnlaSVhyeWF5VndENEdITFFramNvU3piWGN1QmoxaGlVWEJCNFYzdGFuVFF2cjh3?oc=5",
-      "category": "DISASTER",
+      "title": "Secretary of War General Officer Announcements for Oct. 2, 2026 - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnpPbGJUaEZMQmxyT3BqN0VQaHdxZFJnTFZlZV9GdXc3SmY2SDF6UzdFTzJ3QklURlNjWnZiTmdCeGwxWFFLT2ZmbEdqMGJKdjIydUlLQjZuTzNYZ2tjQVk2MjdhOGtpUzN4TWU5TDdqd1FZMTBURjlEaHFJRjZXWDE0UGhZYXhCYTRhZXpqWXRHa0V6MGs3WVh5aGV0ZEV6eTRNeWNoT3VtVnFHaklaZ3B4RnBQNWRsNFB1cQ?oc=5",
+      "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-04T16:37:00+00:00",
-      "domain": "fox8live.com",
+      "seen": "2026-10-02T18:38:07+00:00",
+      "domain": "U.S. Department of War (.gov)",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Tokyo Revengers: War of the Three Titans Arc Anime Shares Creditless Opening and Ending Videos - Crunchyroll",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdGZtdlExZHRtQWxNRnB6anN1bXliZUgyeVpXRlJJUHAyU2pKU1FhcEkwdm9NTHJRRVYwYWJvR1dQZUN0Tk1GSVFFeTM3VjMxYnk5NU84SXF2LXlPbFVpdUhKaG9zcHJtVnpIZGJwdVVpTVRXTUt1T1ZWQjZCNVhsXzhuSGtPWU9jaXpzR2x6RW9ULV8tNGlFZnlOb2xzbzYyS3BKQkhMNDFGVWdmUk5ZSkJqWXFaZ3FBV1VXdTdua1RlVnFSelZtUkwzVU0?oc=5",
+      "title": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdC1jenhXS0RLMXFaaTNaUTVsTVJrcDNLdDZKLVR6SWVYOEdRNWdqRjktRktWSEFRTG1DbEhYd3ZvSGpGd1ZtTEVNNDdMd09SQ3pXdHJMMXlodWVQRjlySVBpNXVlTlRZUDVDdlpjTk12TEw4WVhUaU9rODlnV3RRVUR1OE1UVlJVUjlKa0NNV2MzN2dQUldvUzFn?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-04T13:46:00+00:00",
-      "domain": "Crunchyroll",
+      "seen": "2026-10-04T21:11:10+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "60 Minutes Transcript: Artificial intelligence and the future of work - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kcFFlbnU2VU11TVRXQ2ZMQnBHQVVqSTk2dWtrNV92MWFoZ3duMmt4ZEVobVlkb01oOHR5NDZkUnVkcHc4eVo3YzQwdkJtMV9IWWxoU3M0VlBXbUZjcXk1RTR2c2lPRVVnZ1ZoVXl1dnFDcmNYOW5LeXppRQ?oc=5",
+      "category": "AI",
+      "severity": 2,
+      "seen": "2026-10-04T23:54:00+00:00",
+      "domain": "CBS News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump's Canada trade war is entering a dangerous new phase for these battleground states - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaklfRWlmTWxoaXNabmZDV2xpOGZJMWRWR193SXVUQVAyN1l6U2taQ2c3QmViR1A2V2pZVGI3eDVVZ292SEl5ZlB0aVdjTUdrd3BSUzkzMWdhYXFrQkszX1ZmY1FXdjVDWGw4dGhnMkdBbGhTT2lYalpYVE5DaHFmLXlDX0Z1VEVJM2FhT2c5X25nRmcyN0xRYXd0V29tbGF3emxQeXByUndRTTF2U0HSAbMBQVVfeXFMUGdnUGFqS19NT1A1V0gtQ182bnAyQzB3WGttS2l3SThwaFNSQWJJOE1FYVNkRFVOWDQ4SUtCWE1wTGg1MWdXZG1fa1J0UnZtanhHa2h1cjJvdzhOd3NiTDZ3QjhEX094ZkswbzdIT19zTW9sai1VWlhQSE9ycHVaLXYzWDlRUldLMm1wUXZhXzhVbGw2NUhWT0pYb2tEdHhQdlM0NHgtOEJWV2ZsWE4wT1NpNE0?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-04T13:29:14+00:00",
+      "domain": "Fox Business",
       "language": "English",
       "sourcecountry": ""
     }
