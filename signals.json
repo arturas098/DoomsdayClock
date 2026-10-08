@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-08T01:01:17.437667+00:00",
+  "fetched_at": "2026-10-08T07:26:05.981370+00:00",
   "source": "Google News RSS",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "items": [
     {
-      "title": "Five Arrested Following Reported Home Invasion and Assault in Mount Airy - Frederick County Sheriff's Office, MD",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkJ3YnNTVkJPUVBRc01xMHVCSUI3a3JFdkRDMXhJZXBLLXBMb2NtNmR3amxTNGp1LTJUSkJVYllHX2RTVk1Ncl9JVzRTSzljd1hhanptampHN3RsTGcxdGZ2SEZHMG9EbVVYaWNRUTBBLXlhNEdfNmJRV01fcUFHODFJN3ZnQ2JiVlpZcjRDVlNxVkxXYXEzQlhXd0pIdWY1MzJzNWRlbmktdkR0bHdGRG1n?oc=5",
-      "category": "WAR",
+      "title": "A nuclear clock synchronized to 229Th - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSMVE4UlYwb2hQWUZ4ZmVLMnRlZUg2bVNfUlBxUGZhVE4yWnBmUDBWTGloajZtWnBrbHNxekV4OFhGeFBoRkwwN24xc01zYVg5bENmU0xQYnlDdE1RT1Zj?oc=5",
+      "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-10-07T19:53:41+00:00",
-      "domain": "Frederick County Sheriff's Office, MD",
+      "seen": "2026-10-07T23:03:38+00:00",
+      "domain": "Nature",
       "language": "English",
       "sourcecountry": ""
     },
@@ -24,22 +24,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "El-Sayed says Netanyahu pushed US into Iran war - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcE5mdGwza2FkUXEzQTVVTFVac0JqYU9IaEhQX3gwTG5BVVhrc0J0RVZZbkdZdUREWTl3V0ZGOHFudm13YWZRejdCZlF2aDFISV94LV8xMGN4eFJmUWJVTUFIMXU2RXhodi1jUVBnakdoMG5wMC02cmJLUDQxWWE3cTlCQkdvaGPSAYwBQVVfeXFMTmJObzJTQkx0d2YwRXMxb0d4Rlh0RDJkb2JOQmZmZy12eGQzNnQ5a19BbFlrQmY3eTBrY2pRNzhXeklJTm05a3h6VXZYZnp4LV95XzhZVFdiaWR6b2EtUV8waExqSm9yOWVMekRGQlhSTHpINTVhMGhrT244Mi1hbGFqVU55NVZ4bGFhYTQ?oc=5",
-      "category": "CONFLICT",
+      "title": "Trump says ‘we don’t think’ Russian plague case is a bioweapon - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXlrZWJmWVdLdE1oZldXNGlBZ1RkTzVPVmpsbGpfcDd5RUViUlViZFhCczR6YUVpMFlSc1YwQWg4SWN0bDUtem0zOEFXNWltODdVU3IzV2JQanhRREthSUx0ZnlEMGJOOGk2eHJ2dWdBS1hOUXU3ODI3bWl2VWN4SnRBTEFHdXpZUWhSVGw5MUxRTjBPWFpvcDdQaWhKUmdqbFItVmgyUFl5eEU?oc=5",
+      "category": "BIO",
       "severity": 2,
-      "seen": "2026-10-07T21:44:00+00:00",
-      "domain": "The Hill",
+      "seen": "2026-10-08T04:09:30+00:00",
+      "domain": "The Washington Post",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "A thorium-229 optical nuclear clock with feedback loop - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MUldxSWNGZlpKZVVoSzR2VW0tZXJKSm9jOWhLODZUMzRjNXUxMDJweEt0MUpZOXF0YVBnRlZCdlRXWm1WQXNGaHBaX2Rwa0pWTlNhT3FFb3lPYzRseWlR?oc=5",
+      "title": "Yemen's Houthis say they attacked Riyadh airport with ballistic missile - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPREc3b1M4OVVFbEtXWE45ZWpjeDNiNGpGVnZIdEJQSUU2R2dmdzF4V3hFZ1RMSlgyX0Fmc295aXo3bGtsbHpYSlM5MUVjLXJsM1ZISFV4NVFQN04wY0M4ZFRud3pzVUd2ZjN4S1dRSzNkenVacC1naWFmdUMtRUVYUlQ3MWY4dHRyOHRkTThCcUYxV0NFOU9qNE5fUW92RmlfYmk3Z0ZqWDlfc2VmNVhHS0tPX2k2Ql94SHlCeThTUzJBUQ?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-10-07T23:03:38+00:00",
-      "domain": "Nature",
+      "seen": "2026-10-08T03:03:00+00:00",
+      "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     },
@@ -48,8 +48,38 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTEdDTHFQam5OWW41dGdVdGh6Sy1EME5ObGdvdWNYc1RIb3RsQUFPWGRlQlhHSms1NmxQQVRCbzBBOVNYXzhObjc5V1g5TmttdUN6ZDFlTTdka2FOdkc2ZlMxX29NQ1hfSFBOem5wRzlBaEhLS0dmTHhKNXFRYzBFTnh4cWRvcXM?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-10-07T21:15:55+00:00",
+      "seen": "2026-10-08T02:52:04+00:00",
       "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Paxton admits Trump’s Iran war and US gas prices are plaguing Republicans in leaked audio - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaTJ6VkpwWW1uNnZFSGo2VWRYVDBvNlRUN1BkMnBOWU1Zb2tlT0o5LTdEMXhEdDFRRE5RaWdVRUNfUVhOYU9IQzV4S2RvUDJjQVd2Y19qTURYYUFPWWhmaHZGcTlrMkZsTlM2MXRmNmFzcVFua1lYSEVXNHlFNXdyVXkySm9oWEs1SzNTbEFIZ3B0aTNadjQzdFV5R3BYdw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-08T01:04:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "The AI Price War Is Heating Up—and OpenAI Is Gaining Ground on Anthropic - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTlhERVptZkJWLU92UGliVXFjZVpsSWVTRmYteVZUYkJmSFF1R2luWU94c2dySFVhWk1VSFVzMWV1M1FESTFyUmliNkh0MXdlUGFyTFhlLUtjZnZoOHNFSEx3Rm01UFVSRVdqc25rUHh3SGtjSnVBSlUwUTBZZTBVQ0gzemFKcWo1azZIRTJEQm5yRUUyOFluVkhGY21YRzR5UVk3Nk9nb3U0UG1p?oc=5",
+      "category": "AI",
+      "severity": 2,
+      "seen": "2026-10-08T00:00:00+00:00",
+      "domain": "WSJ",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Learning Without Bleeding: China’s Lessons from the Russia-Ukraine Drone War - CSIS | Center for Strategic and International Studies",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT084NGZGMmRldWROY3VwTk56TkxXazZ1MVJKeDh6WnZOS1dkenFMa0dNYXNIWXZyeXMyTDgxRnJ0NkVmSDhvajh3eVJSb2dqbFhQaTU0OEZlTExhRmEzLUpYcmhsOTZjMmc2bm9ud0FpTTBpWXdzTThmTldkQ0czOThVWkJ4Ui04NWwwMEYzOVg0TzNiSlo5eF9OVQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-07T13:32:38+00:00",
+      "domain": "CSIS | Center for Strategic and International Studies",
       "language": "English",
       "sourcecountry": ""
     },
@@ -64,22 +94,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Scientists in Vienna and Beijing create world's first nuclear clocks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ1FTSUp2ZFNWd1NVMW5pandncUJNOHFyajhrbmJ1Sm0zdl8xMG5Xemo1TFlLUHl2clVVb2hfQm42OTBMTDNjQWZUem95SFpMQ2kwalZZU29oN3JFcFE5R0Z2aHlKMldBZkFRQ3VKcUgxREk1eTM5STEtekhPUXBUT1JVcnJydFF5Yks4NkJCN2NmaUlMUV9Wb1puYlZaS1IzNU1VbDVBUQ?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-07T15:58:59+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Doña Ana County seeks state disaster declaration as officials begin flood recovery - Source New Mexico",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWmNucUVkOVdzMGNaNU10SXN6ODM1SWNUX0xZTnp0MGFTT3IyX0h5YjgwdWRGWDV3b0IzX2pvUTMybl9PRG5WLXFhVU5PVC1odzNzN2JvTExKbVFyT2xDUVB5NGFJUmVITzhmNXlxdFFEeU82YnRTVW9OckE2TTVYM1NkMnJQOGYyQkVpdXl2MWdPa0NmZFRGMExWMXYxVW5LeWJFWXJsc1gtWEJjUk95WGlfTERtUQ?oc=5",
-      "category": "DISASTER",
+      "title": "From talks to war: Tehran sees the gap narrowing - Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9POTIyTjB2dHkwZGVMdld2ZEJHNU1vWENNU3VmZUtyUWlSbGJIdVo3ckZBRWJIazFPUEdtYXBtc1lCZWpGS21ib3pLYUZDRF9UM1E?oc=5",
+      "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-07T21:21:02+00:00",
-      "domain": "Source New Mexico",
+      "seen": "2026-10-08T01:57:41+00:00",
+      "domain": "Iran International",
       "language": "English",
       "sourcecountry": ""
     },
@@ -88,54 +108,14 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON1RMQThES1MxcjVGdHlYWndNektXUHZncTAtVkwtZTJ0YkhKbThQV2M5cnRzQloyY1ZHZ0doUWlmR0dONllqZFpVdkxMTVRJMFQyX1dMbEtTNmVSb05JdEZBbjY5UmVmTGFZdkFaYWZfUldidlhSQkxZX2ZtLUtaQk5pSUhDQzA?oc=5",
       "category": "WAR",
       "severity": 3,
-      "seen": "2026-10-07T14:13:14+00:00",
+      "seen": "2026-10-07T15:22:00+00:00",
       "domain": "WBAL-TV",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "AFGSC to provide updates on Missile Community Cancer Study, burn study - Air Force Global Strike Command (.mil)",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTDJHNVFmN2dya3NacmpibksyemRrbTR0M2U2MEt4S2xXdWdMZ0xEWUxkQWJuR0V6TXlHRVJGWFJQc1owUDhmejZ5YjZwTXktYmZTMmZWRnNCN3JzcS1yY2pTTjRJa25uMUY4Z0dzZlZmZFdCZjQwNTF5cUN1dWk2dHlEWFZ2bF9qSHVDRklEd1RMRzI5VzM3VGZ0WEt3QVBwdXh3bUtqaFlUTU1ndlgtWlRZX283MUhrSTZzR1dVaTAydmlyaUhoMnJUTGk?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-07T20:24:30+00:00",
-      "domain": "Air Force Global Strike Command (.mil)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Michigan’s Mike Rogers says trade war with Canada needs to end - Politico",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUdIUjJFejdPZEc5NEhZNUJlT3RGZnZOMXY0S1k3RXp0R0RYMjZLbjduQWtxbGhxVll5Wng3NzR6Z2NwUHUwUVZQQ3plQm8xT25mNmNCQUg4QWk5NDkyYjNsTExUbkZEbm5iZ1BuZHMxS2oyTF9BUEd6RUZiVjgycE9IS3E?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-07T15:18:00+00:00",
-      "domain": "Politico",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump says ‘we don’t think’ Russian plague case is a bioweapon - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXlrZWJmWVdLdE1oZldXNGlBZ1RkTzVPVmpsbGpfcDd5RUViUlViZFhCczR6YUVpMFlSc1YwQWg4SWN0bDUtem0zOEFXNWltODdVU3IzV2JQanhRREthSUx0ZnlEMGJOOGk2eHJ2dWdBS1hOUXU3ODI3bWl2VWN4SnRBTEFHdXpZUWhSVGw5MUxRTjBPWFpvcDdQaWhKUmdqbFItVmgyUFl5eEU?oc=5",
-      "category": "BIO",
-      "severity": 2,
-      "seen": "2026-10-08T00:32:48+00:00",
-      "domain": "The Washington Post",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Syria weighs military aid for Saudi Arabia amid Yemen war, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLWZMNEFpTGtIVEhwLWJHUXdGdGliYUtUazZhMk1yd3RDLW9yZllOblA2U1BvLVZaN2pvejZpaWwwenF5MzhObG93NC1BYzJhVGdIelROY2VXSTF6RTJ3MDROSzVYMUVoUm9UMHdCcTZEbVBxODRVVEYxRGIxZWljUHdiSVJDcUxubndSdFM3RFdNYmZOWDdBZk1tdXgzVzRFTGZmWlZPeDZVOGtZUXNwaEFEVTZnMzMxclRZ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-07T18:21:26+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "A nuclear clock synchronized to 229Th - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSMVE4UlYwb2hQWUZ4ZmVLMnRlZUg2bVNfUlBxUGZhVE4yWnBmUDBWTGloajZtWnBrbHNxekV4OFhGeFBoRkwwN24xc01zYVg5bENmU0xQYnlDdE1RT1Zj?oc=5",
+      "title": "A thorium-229 optical nuclear clock with feedback loop - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MUldxSWNGZlpKZVVoSzR2VW0tZXJKSm9jOWhLODZUMzRjNXUxMDJweEt0MUpZOXF0YVBnRlZCdlRXWm1WQXNGaHBaX2Rwa0pWTlNhT3FFb3lPYzRseWlR?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
       "seen": "2026-10-07T23:03:38+00:00",
@@ -144,31 +124,41 @@
       "sourcecountry": ""
     },
     {
-      "title": "What to Know About the Fears of a Plague Outbreak in Russia - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS0FUR3U1cTFYTzd4WmpkNE5XaFYtb2JGQndWSlMzVVNROG5UdW1YelppU01zLVA4T3VFSXdHN0dnQlhDdmhsMVoyckJnclFkZXJNX0Y2U2lfVnhYUHIydktxZHY3dlVITXJBeEpPTzc2SkFaamJKNmc2NVhjNV9QcTlsaTdrbFFFZDUyNUdR?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-07T19:30:08+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Australia’s current wildfire crisis linked to colonial land-use change - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOdlE0TldvQU44TF90Nmw3NG5EYUYwMDUzM0xUQlFyZW1wcUdPVjhZNzAyeWt0bzFVSVRTcm5EaFNaSTVGbWpWb3NfNGtjelhDamNmRjlEdU1rU0tJWjBv?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-07T21:51:50+00:00",
-      "domain": "Nature",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Attacks on tankers in Hormuz hit highest of any week since start of Iran war, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzlOYkh2NkF3OTFOQ0g5RFdjT0VSZXU4Y0U1cDREQnltUF9XM2VBVlk1bER5cTNTS00yaWctcDdnTjI3TG1jeWVxV3JIT2ctb1JVLVg4Nm13aENfNmlQSVQ2dHZLS2dabVYyYXQydWFEQ25SQVY1UkFORHd6djNHUHFkVEpwa3d6WkRiMy15SFRwV3l4anZiSXQ2YmR2bmxWZFhYTFE1YVNBRnc1ZG0tbHJDT1RacGJ6VmRhV3RnQ3g5UmZvdE5xZ3RB?oc=5",
+      "title": "EXCLUSIVE: US, Russia explore gas sale to Europe amid Ukraine war, say sources - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUEhaa1JlbmtzZjZfVFhHcXR0S3ZZUnRnTjBJNnl6UUQ3cjJPZ2JfQ1d5bDVpTEdvXzhwT2JrQTA5VGg4dVNweG9odGJwalF3cTd0clZUb1FJRE45NHVfS2R1bXRIQXliZkZPdFM4NGFkNkNlaTQxSU9Kd2R4WTEtX3FGMkx3YkR5X3lMaW9FOXRpemVncHlTRkZiWEdwakUzVnJ1NHVTdGhEWlRkNWIyeDJha2c?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-07T15:24:09+00:00",
+      "seen": "2026-10-08T05:04:00+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy condemns ‘vile’ attacks from Russia that killed 20 in one apartment - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMHJVbUtCYU1lUjBfLUhNSVdSYzBaeFdnRlM1bzRzMmk5UEctbExSNTlVOU5ZUTNNX3FCVUZGY0xfNkZuM1Z3UnRfMEt5dDJMLW91bWJER0JaRDQxLWVQNUNjRXBOYkxfMjNSTkkxMGU3YkVyS1Rqbk5NbEFhS0VuaWlqb0tjdUx3VE9lcUJXcVphY3k1OFhKVDdfTEQ1R0txZnBFNWdSMURvMnh2UVNUdGcxaVRfYUlqa0RBU01ZYmJwNE5qY1dXNVY2WVdJS2Z6a0RRbks4Y251dw?oc=5",
+      "category": "CONFLICT",
+      "severity": 3,
+      "seen": "2026-10-08T03:20:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Syria weighs military aid for Saudi Arabia amid Yemen war, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLWZMNEFpTGtIVEhwLWJHUXdGdGliYUtUazZhMk1yd3RDLW9yZllOblA2U1BvLVZaN2pvejZpaWwwenF5MzhObG93NC1BYzJhVGdIelROY2VXSTF6RTJ3MDROSzVYMUVoUm9UMHdCcTZEbVBxODRVVEYxRGIxZWljUHdiSVJDcUxubndSdFM3RFdNYmZOWDdBZk1tdXgzVzRFTGZmWlZPeDZVOGtZUXNwaEFEVTZnMzMxclRZ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-07T18:21:00+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Scientists in Vienna and Beijing create world's first nuclear clocks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ1FTSUp2ZFNWd1NVMW5pandncUJNOHFyajhrbmJ1Sm0zdl8xMG5Xemo1TFlLUHl2clVVb2hfQm42OTBMTDNjQWZUem95SFpMQ2kwalZZU29oN3JFcFE5R0Z2aHlKMldBZkFRQ3VKcUgxREk1eTM5STEtekhPUXBUT1JVcnJydFF5Yks4NkJCN2NmaUlMUV9Wb1puYlZaS1IzNU1VbDVBUQ?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-07T15:58:59+00:00",
       "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
@@ -184,32 +174,92 @@
       "sourcecountry": ""
     },
     {
-      "title": "Paxton admits Trump’s Iran war and US gas prices are plaguing Republicans in leaked audio - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaTJ6VkpwWW1uNnZFSGo2VWRYVDBvNlRUN1BkMnBOWU1Zb2tlT0o5LTdEMXhEdDFRRE5RaWdVRUNfUVhOYU9IQzV4S2RvUDJjQVd2Y19qTURYYUFPWWhmaHZGcTlrMkZsTlM2MXRmNmFzcVFua1lYSEVXNHlFNXdyVXkySm9oWEs1SzNTbEFIZ3B0aTNadjQzdFV5R3BYdw?oc=5",
-      "category": "CONFLICT",
+      "title": "Earthquake simulator coming to Balboa Park ahead of Great California ShakeOut - NBC 7 San Diego",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdUsxUXdaVlF4RXNBZHhWemZFRTAwdWpnZE5iVDU3dzRzdU1JWC1CaVVNYl9KcVhKdnFIaWFMZGsyaWt1Z2NweFRRZHVlTWxOQlVkdkVxakFSTTQzbkVMS2F0akJ2Y2tJUW12U0xEekJLeF9Vd2pXTEhKTW43WUNfd3d2WlZlYS1wYnRqd0RDdGRuT1FoSk5IblVpcmpSWmVCWlpuSVE5d2EyQjZYRFNkbndxVGgydUlGRUFpUHpHWGpFQWvSAcsBQVVfeXFMTWktQmdiemJLWV9SWXJ0Zzh4UDdvS3Faai1Kakt1aklFU1FObWFfRjUxYlVMRWxoRkZicXFaanBXUVEtNUtZbEY1NnBUOG81Z2d0NGwzTnFES29SMjU4WXZ3VUlVUC02d0plaVpPckRaQVllWDlOaDZiM2gwaFIyTDhJOFBkTHBhcXotS0NMdWZuVlhheWlqNENyMkJ6Ny1BdjNGX0t4a2RtRWVnTjRJSzdzWkFtQTh2bVpsNzVnb1JYVm9OWWdVT3ZOYzA?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-07T16:42:00+00:00",
-      "domain": "The Guardian",
+      "seen": "2026-10-07T21:38:16+00:00",
+      "domain": "NBC 7 San Diego",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "81 US military aircraft, drones damaged during Iran war: Report - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VRlBwZTdZNWI2ejRhSF9fY19lNi1oUDFTTXFYcGt1QTFGbTNOR1lIY1k5LXdtQVVnWjlGdExEd09zelpGcDdPbEowSjlaay14alJTR0NCZVJqa1dGS3Fjbld5S0ZOT2Y0UDh3Ql9tbHoxay1lQ2Zhenhrd9IBgAFBVV95cUxPakZxN1NJRGdwUzczRkg5UmlvbHI4eTF4TVFaZk5YVl9EYzNMYjZRaDdkNFU1TDFMZ1p1YUVUWF9SVkZvR0hRQ1p4d0VPa2FsM0RsMmFiZEVjZm9BRjJDTVZaV2NoVnJiOVVUNWxVZ2d3QnZ3aEZkUVpRTzRQNnFCOA?oc=5",
+      "title": "Attacks on tankers in Hormuz hit highest of any week since start of Iran war, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzlOYkh2NkF3OTFOQ0g5RFdjT0VSZXU4Y0U1cDREQnltUF9XM2VBVlk1bER5cTNTS00yaWctcDdnTjI3TG1jeWVxV3JIT2ctb1JVLVg4Nm13aENfNmlQSVQ2dHZLS2dabVYyYXQydWFEQ25SQVY1UkFORHd6djNHUHFkVEpwa3d6WkRiMy15SFRwV3l4anZiSXQ2YmR2bmxWZFhYTFE1YVNBRnc1ZG0tbHJDT1RacGJ6VmRhV3RnQ3g5UmZvdE5xZ3RB?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-07T18:13:00+00:00",
-      "domain": "The Hill",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Kremlin says France's test nuclear launch is part of 'dead end' anti-Russia strategy - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYVhyTEI5OXdMUkw0bkwwR0dhaUlpZGJCbmJZNU5IV2R6VXBscTJmLUFxUUZvb0Fnal9QM3NOWWN1UnFVbHNMYmt1RV81YnZmQUpsc1pSZ1VjSzEyb2lEYmk4ZkZ3QjBULXd1c1luS3FGN2h3MV90TFBaNXp1c0dYT1FMdkxybDMyYjdib3lKaHZPWmlvbm9IaWtuNEFLazA5RHhfVXpYZUI5RUoyR1ZrQXVLQkFZQmlFQTh4bENrb2lGeWJKZk95d1YzNFJ2S0ZaV0d0WE1XZ2Q?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-07T11:33:44+00:00",
+      "seen": "2026-10-07T14:24:00+00:00",
       "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "What to Know About the Fears of a Plague Outbreak in Russia - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS0FUR3U1cTFYTzd4WmpkNE5XaFYtb2JGQndWSlMzVVNROG5UdW1YelppU01zLVA4T3VFSXdHN0dnQlhDdmhsMVoyckJnclFkZXJNX0Y2U2lfVnhYUHIydktxZHY3dlVITXJBeEpPTzc2SkFaamJKNmc2NVhjNV9QcTlsaTdrbFFFZDUyNUdR?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-10-07T19:30:08+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Exclusive: Paxton privately blames campaign woes on Iran war, gas prices - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0NQMTBMRm5kcV9DRmpjdUhiZkdFQzRvZ0JNYnRuRlNTNzk1eVRvYUpnNTlUYnFzSURuZUxKaEpxZnpRYl9oMG1hbGZja1JVS21JZ1NtMTFEWDNIOFh2TWFUNVhqalk1WFBPaTFxY3diSFgtN0VPMFpWdzQ2eTJLN3pJb05zdjBz?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-07T16:21:51+00:00",
+      "domain": "Axios",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Blumenthal talks Trump, war — but not age — during ‘In the Room’ - CT Mirror",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbGl1aEE2RU54bHFka010XzNWY3A2ZENpZmVRc0NvbDlzWE45M1pRS0I5eFE0VllfMjgtTU1uTlM2U2E3cjBTRERMQjNHOHZRYnpUUzRRdHZ0aURlMWdyaVB1amFfampCYmxTVHE3YUlud0dyaDJGdEl1Yzd1R2lYdjNqMWM1QQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-08T00:36:31+00:00",
+      "domain": "CT Mirror",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Australia’s current wildfire crisis linked to colonial land-use change - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOdlE0TldvQU44TF90Nmw3NG5EYUYwMDUzM0xUQlFyZW1wcUdPVjhZNzAyeWt0bzFVSVRTcm5EaFNaSTVGbWpWb3NfNGtjelhDamNmRjlEdU1rU0tJWjBv?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-07T21:51:50+00:00",
+      "domain": "Nature",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Michigan’s Mike Rogers says trade war with Canada needs to end - Politico",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUdIUjJFejdPZEc5NEhZNUJlT3RGZnZOMXY0S1k3RXp0R0RYMjZLbjduQWtxbGhxVll5Wng3NzR6Z2NwUHUwUVZQQ3plQm8xT25mNmNCQUg4QWk5NDkyYjNsTExUbkZEbm5iZ1BuZHMxS2oyTF9BUEd6RUZiVjgycE9IS3E?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-07T15:18:00+00:00",
+      "domain": "Politico",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Nepal ends search for thousands of flood victims, leaving some families angry and others relieved - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2FEUnNMcWw2VERxczlRSlh4T2o5NGp5TEZxa2xpWGh3TWJ4NkJISVEwbGJvU1JPRVZNb2hvRVUwMHBSSWE2bTItbFBmOGdiejVCX2RBaTROQXd0NGNld25DZDNlbTRkZWVZYlZyUmJQQi1rbnFuN0l0czVzMUVxX2JYVUtxNk80OXVPeEp1NlN2WTBwWFZPN0J6dUZ6cWpqV3h0aDJIaUNvQ3dkVnlv?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-08T01:28:00+00:00",
+      "domain": "AP News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Flood advisory issued for Kaua‘i - Kauai Now",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hMDloQ2k0Y3VtVzdGWmZoQUx1MEpEa3NXRktfOFdRM2xaalpNTDBaUVBySTFwUEJaRkExSkEyWXlmY19XMnlESU1VazNJWGExUHBaUnNpejU1cFNGaW9XMS11b1ZZbklFT05YTmFucUxXLTc1bWJHeXdn?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-08T05:39:38+00:00",
+      "domain": "Kauai Now",
       "language": "English",
       "sourcecountry": ""
     },
@@ -224,82 +274,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "Learning Without Bleeding: China’s Lessons from the Russia-Ukraine Drone War - CSIS | Center for Strategic and International Studies",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT084NGZGMmRldWROY3VwTk56TkxXazZ1MVJKeDh6WnZOS1dkenFMa0dNYXNIWXZyeXMyTDgxRnJ0NkVmSDhvajh3eVJSb2dqbFhQaTU0OEZlTExhRmEzLUpYcmhsOTZjMmc2bm9ud0FpTTBpWXdzTThmTldkQ0czOThVWkJ4Ui04NWwwMEYzOVg0TzNiSlo5eF9OVQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-07T13:32:38+00:00",
-      "domain": "CSIS | Center for Strategic and International Studies",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "How Trump’s Tariff War With Canada Ensnared the Can-Am Spyder - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORE9YNnVpTFVHUm4xWlpJV09KLWdBZHRCUmhNQmtQdjhtR2dFcWg1aVM2S21HOWxYemhGNlU3WXZqejVTTFc3N1NvSVlvemF1dWhQRHhFNFdTWllDQURCSjB6V1lvMjFYQ0RjWlF2MFJnQnhHbjR3RTgzY1QyTHBhSV9PTQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-07T17:57:00+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "New interactive tsunami map helps Alaska communities prepare for the worst - Alaska Public Media",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMERERUNGSE1vcVVLc3F3clhyb3I2WDZCOU50YXJYN1NrWllUQWxfZXRHNVpUVkZiSlNmWmtsSVZNc1RONjF1bC1rclBsMmlfSzNoZlQzMVd0Q3huUzRQVmkxd0NjQVZoaEJUY0JCSm55Y3Y4MlJEcUdDSjVrZEpXQUdJdmU5aEJNQnRBWWlaeUNaNTBZRDl4bG5sVUNQU3NBMVlFa0k5RXVlWGR4Tk01UFB0VGNUdDRKVDZha2dib2gtVGNycHc?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-07T22:52:00+00:00",
-      "domain": "Alaska Public Media",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "US military aid to Israel continues three years into Gaza genocide - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS0puYWU4VzlRcmFrMkVhSE1hd2w1M3dSMDdRRWdFNkJWWEQ5cWFnU1VxT2xLNzVJNFE5SGhqWUg5X0c5V3F1bGNUS01jSmVCVjB4Ty1sRGU0ZUtKdUY2OGNXT0JkX1pCQnoxYlFLR1pSZEhRdXVmREtIWk5aT0ptSlViSnNJOE0tdTRneHJDaTNjUEh6ZjZfSlo2dktLbVdPWmlRdm5NYWFtQlVHV0xvSdIBtgFBVV95cUxNcDhhWWtZdHhPV2FZSmtaWmp0LTg3NDdJTE9ocW1iYzVRa2dlVkU0aFlsaFA5aHpJNjFZOTB5ZzBJMU8tU0RfOTY1cDBEZUxiNkpIdWpwYlBoZXBUVGhpek8zQ1NJdlBwb1dGZk5lMXEtY1lwaVNqQlNiRWFObHlKX3RvbEQyNlU2dlJvemU2eXA0ZUVQOTdqM05KYTlSeWNQdnpEVnR1N0tLcmpWejRXbUVycThMUQ?oc=5",
+      "title": "Mamdani marks first Oct. 7 anniversary as mayor by blasting Israel's war in Gaza as genocide, facing protesters - The Forward",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiMi0xeUthZjBmMG9rUTJDQ19HR0NjdlZxX045RFp3bk5YQV9xdFFxSVB5X0RqMVpnemctdWJaa0FvOEswTU9UZ3pMU3Z0a1l3Mjc2WFJtelVWVDVZMVRaNGc0LVY4ay1BeHlhMDVxZnRPcWJWMDNKcFd4Nnl6MHM?oc=5",
       "category": "GENOCIDE",
       "severity": 3,
-      "seen": "2026-10-07T11:25:18+00:00",
-      "domain": "Al Jazeera",
+      "seen": "2026-10-08T04:59:10+00:00",
+      "domain": "The Forward",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Exclusive: Paxton privately blames campaign woes on Iran war, gas prices - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0NQMTBMRm5kcV9DRmpjdUhiZkdFQzRvZ0JNYnRuRlNTNzk1eVRvYUpnNTlUYnFzSURuZUxKaEpxZnpRYl9oMG1hbGZja1JVS21JZ1NtMTFEWDNIOFh2TWFUNVhqalk1WFBPaTFxY3diSFgtN0VPMFpWdzQ2eTJLN3pJb05zdjBz?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-07T09:56:08+00:00",
-      "domain": "Axios",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBST3M3OWl1Z3R1OFBQaFRuXzBxeC1DVnczRVNFWm12c2NHQnV5OU9acWZLTllvSWNKcUE4NHBSV1oyQmFObGszUlE0dU9sUE9zZmk4NmpPZEJTNmZMRkZrU3NlWVlVSjF3czJHVVd30gFzQVVfeXFMTl9lOGNDTDRpUHJsdU80NU5NV1NTTVhua25JazF6eHA4TC1aNGNqWm5aaHBXM3hkYjZqZGFGYzR6NFdrcnJZdnRzRTBUYndZZEhIa2gwUHhwNTlvbkNmYk8zNG1DSFBMaDk2LUlidmJyRHZYdw?oc=5",
+      "title": "Kremlin says France's test nuclear launch is part of 'dead end' anti-Russia strategy - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYVhyTEI5OXdMUkw0bkwwR0dhaUlpZGJCbmJZNU5IV2R6VXBscTJmLUFxUUZvb0Fnal9QM3NOWWN1UnFVbHNMYmt1RV81YnZmQUpsc1pSZ1VjSzEyb2lEYmk4ZkZ3QjBULXd1c1luS3FGN2h3MV90TFBaNXp1c0dYT1FMdkxybDMyYjdib3lKaHZPWmlvbm9IaWtuNEFLazA5RHhfVXpYZUI5RUoyR1ZrQXVLQkFZQmlFQTh4bENrb2lGeWJKZk95d1YzNFJ2S0ZaV0d0WE1XZ2Q?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-10-07T09:40:42+00:00",
-      "domain": "CNBC",
+      "seen": "2026-10-07T11:33:44+00:00",
+      "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Manatee County puts $125 million toward stormwater, flood projects - ABC7 WWSB",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWTluRlFvNmdXSkdYX29zZlEzbW1NTzJBMkUyd1o5YVpQQXBWTWN6bnVuRkotWmdHOExlMnJIQk9NdG0yVjhGMmV3Yko0VndxZmtmM1JBUFFFVlp2bGU2TXhfUDE3Q1pxM0x2d25hcHVRc3NtTHdGYVMtTW1OWnJ2a1VtWnpOTThLY2JFUEMtTUFWMm42N2NmM3NBYWJsNnU2bDNwZE9B0gG6AUFVX3lxTE8yZGk0bXVhN3hUMWVrZjY3WkdtcVdDWktzTTZ3M0JQWi15cmsySzZ3WGZPNk5VSzJ2RjlpcFpId3l1VXNKQkZudERkeFFmUUJkbmNueXB3ajBTOVBaenFZV3V6NktvMzE0elFyek9mU3BkYmhfMkZMR01WZEVId2FTWTc3QlB6R1ZFQTc2c2NrbVBoWTNWMm0tRVlMTHY0ckFHbUhiQW5aUDBXOTZqd25LLWt2N0dqSlRDUQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-07T23:02:00+00:00",
-      "domain": "ABC7 WWSB",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "\"They hit us bad.\" Newly obtained footage, witness accounts detail Iran attack — and U.S. retreat — at major post in Kuwait - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUTZvN2J2eDlaWml5TXNQYUM5LXFNX1QwdTlpanktTFpwbHMxMzZJUTNMSUlfcHBlWmdyVll4YjViZmg3eDRZRTMxZkpDUmwxQml4UmJZN01FU0E3RWhsOWtaM2prWjc5UDVpbmV3TjVGOUtqaE1BRlNoNGRiUEdGUlFza3c?oc=5",
+      "title": "Iran Faces Severe Challenges to Rebuild Missile and Drone Production - War on the Rocks",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbklJOHZNTThVVTZnMXVaaEZHQl9OUF91elA4bnJUemEtNHZJWHNkclYyaV9JeURJSmRPN1doNklDM1JGNG9UVlhKWkNtWldVbTRKS2RvSGRKM3hfQ0p0dzc3UnNDLWRRWE1WeGk2S1hXNzR2cGxqNWMxcmR5d3B2djhIVmZBQ2kwV19DdUJYRTdmdGxmazZPaVo0aw?oc=5",
       "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-07T21:00:00+00:00",
-      "domain": "CBS News",
+      "severity": 2,
+      "seen": "2026-10-06T07:34:12+00:00",
+      "domain": "War on the Rocks",
       "language": "English",
       "sourcecountry": ""
     }
