@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T00:52:08.776243+00:00",
+  "fetched_at": "2026-10-10T07:09:09.247958+00:00",
   "source": "Google News RSS",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "items": [
@@ -14,122 +14,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "Strong Panama quake shakes nation, but avoids major destruction - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2dqa3hDUGJObnZUWGtlc1dKaUpFazdkSW9HYko3eGU2SmZJS2pRR1luT2RlWFBEZkpqWmJ1V1lzdFB0RUNHTHpmRFQ2cEphSDdnR2owdmI2U1dYZXJmTm16MVhFNXpqLXU0OXdvT29KcDkxeVRLb1lWSEJtSjZUQ08xcGhEZmw0eXBqOHoxZE9WRVVZcG82Vk5aaHlOc2lvNjVhQ1pSbw?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-09T23:00:39+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "A 7.7-magnitude earthquake rocks Panama - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcGpCWG9ab0pJcjFtRmN0a2tjVnVzTkRoLVZ6SGRXTnBuNkUteEFCbElWeVFXZUVPSi11QndGLXBQY3ZxX29hdlBKNjlKcVNZMnNqSUtWMm9ZdTFxNnAwYzB6eTVORTlnZzI2NHVTMUJQbWU2dVJrSWxkUWxxR3RYUUNfcVRsUE5sUlFLcw?oc=5",
+      "title": "Two powerful earthquakes and multiple aftershocks rock Panama - ABC7 Eyewitness News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QNXpjanVLR2g4SHdTSXpFbVJSc0hrcEx5a005ZVNEeW1GdjZXQ0otVXJVVEVweW90dklSUWlJckhXZWlhR0o3d0gzdkMzNVZUUFoxSzJveUp2UGp2dnltbUgyb1FaX3pPSXZvVFNldjU4SThVbm5lRw?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-09T20:29:44+00:00",
-      "domain": "NBC News",
+      "seen": "2026-10-09T19:11:36+00:00",
+      "domain": "ABC7 Eyewitness News",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Major earthquake strikes Panama—damage and injuries are expected - Scientific American",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMkVNZEswSVJBakIwcmhTY2VxZkhaRnBicmpGdWVNNk8tS3czbndzdEZvd2hwZGNxdXJKT2Q4UkNVcG91NkhXOWhFcEJMaURPcmZpclVLVWxJY3dTbXpVejVoUjVzdngyaVJ1MnRpOURISHk0bkdxWThCNHI3ZEFnYlZNczNZLUhRUTh1TkNKLXdXMXFXRHJOeFlqZnBaX19fSkRmMU9tR092REc2?oc=5",
-      "category": "DISASTER",
-      "severity": 3,
-      "seen": "2026-10-09T20:45:00+00:00",
-      "domain": "Scientific American",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Powerful earthquakes and multiple aftershocks rock Panama - NBC 6 South Florida",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWkpWY2lEYlB0cVJSWGVBMFMyNzVVcDZ0T0hLSlpqLTR2OHNETlFXQV92cERUUkNGN1RNN3pEbGFzZVM1UVlhcVRYd2ZsczhEMFpuSjVya1FTamxJa2x1bjlMT3JVXzI4Mzh0TDdQUlRQR0FGRWdWNlJTZ0dTUjhJYlYzeVRmUm1HVXQ2dW40YmV2emdVNTdPcNIBoAFBVV95cUxNcGlrVnZqTjkzZEZLRXZWRGF3Sk8wajhxa2NkdmQ0VHlQWnhhZWR6cFN0MldBdmgtLVd3N2QwODVkS2I0eGNPQV9FMGtwSzRCMEVlSFoyU0g0cFoyWnVuVnZtbEpoamMzSlFFOFQxMXhIS1FSa0cySC13U3FJaUdKRmZWVkVhREowV1JnVWlUTWpoQkc2VmxvUlEwS25kZkpa?oc=5",
+      "title": "POTENTIAL COASTAL FLOODING, HIGH SURF AND RIP CURRENTS THIS WEEKEND - COUNTY OF LOS ANGELES (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMDhHUlhnMmpzM2Z5NEQ4MEdoWUw1THlUazJyeDI1TzhpNnZpcjN3NlF3bnFubDEydUpSVVdfX1d5UVRyWVk4WkpRMEZaY1pWdXJKMTZ5MXBLUUNDYTBXdmtYYndqRnN5MDBBMVlsR1FSLWp4TFVJTUR6endoaTVsVWlpaUZtX2p6N21tZDhubDBDVUEySDhFcGthcG5nV3lw?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-09T21:59:52+00:00",
-      "domain": "NBC 6 South Florida",
+      "seen": "2026-10-10T01:29:17+00:00",
+      "domain": "COUNTY OF LOS ANGELES (.gov)",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "7.7-Magnitude Panama Earthquake Sets Off Series of Aftershocks - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSjk5Q1BOX1YzazBLRXlsMjU1NU15VmVpbFI0MjhpZFpadm5PNTBIMnV0ZXBsWUVpb2VOdjBDMG52d1JnYW92T2NIeHlIdV9lTmZ6bDFDTXkxckZYSmN0Q0pVVUpGUnBRbHE4WXRnbHhSNTVNMDJtMVk2aUJyM015LTUyWEtfaXM?oc=5",
+      "title": "Map: Large Earthquake Shakes Panama - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPelZreWFHM040c05xcjRySFgzejdBRHc3ZGd2MGZWT0tyZnk0UmZRcDJsNFBVeWo2X2xMRlVJdzhpWkMwZVh0WHlxVzhFa3Z6SS15TzQwcTFSSDZLSFlSZmpFUHEyN0gyb0l4RUFOSnZzQlJnRFcxcjZXdjgtQ3dObkRpci1CdHVzVkh1Ml9BdG5IRDk5WmJF?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-09T23:24:20+00:00",
+      "seen": "2026-10-10T06:39:45+00:00",
       "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "7.7 magnitude earthquake shakes Panama - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVkVVRmE2Z1puYTFpVC1QbTNuY0pqdlk3QWJtNDJIVDZoNHF5UW9WX0h6NmJQR3ZUSkx6bFFZMmcxSzBsQmcwN3hWUEJkckxuYS1XVmJ5ZVFoSGZxX3ZULU8xMmxPOFBGRFkxU0xyWjRBM1FiLTktOERSRFc2SWJQWU42VUlFNmVGQ0VFRjAzUHpBazN4TTNHZG9KMnpwb3Z2a1J6VHZ3U1V5X1A4MXdQSXE1Y9IBuAFBVV95cUxQS1FmamJFcE8taVdRT25YM2taOUtFQXNwaWpLSDlDUnBvWjh2QkpqS0RnT3RZM0FTcWVFa1dBb3dLSnFGOW9EZWptRGpOcUpnUDAzOEZmXzdHX0lwY3pIR013S1BxR1Y4YnpRelhfcVVNdWRQN2tUS2htSTJIWGRYTkZnMl9oTTFZZmpndl9IOEVSV3lpRXNpdmZNRjhLQU01UE9DcVBKR0RnYVpMOE96SDljaU5tNzlr?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-09T19:07:45+00:00",
-      "domain": "ABC News - Breaking News, Latest News and Videos",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Orange County Beach Cities Flood Ahead of Weekend Storms - Voice of OC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVlZZRU9qNEVyaWlsNFkxWWpRdWdMMkJxd3RuZF9Gdlc5WTFTTTJGVl9mYXg1SUF3LVVUTXozdlJJdHpXUVAydG5QeW03WnpPQzJUVjZoakxVcGVaOG5tWUlKdFNscllGNXk4VXY4YWVidC1QVWNmVXlRXzl6a19kZEYtZVhrS3laV3E1RlZvMy0?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-09T19:56:04+00:00",
-      "domain": "Voice of OC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Strong earthquakes shake Panama, prompting tsunami alert - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmVRV3dHbUFrY1hVeUNIX2FoMEYxRk1tY2FkMnZ1SEFkSDNJYmVwSWkwQzUwd0t5V2JpdTVQeURHdktwcmdsZmxNXzRvbTZvWXNSdGRDTHp1RTFpVFZ2aWNxT2pOMVBReWtKaFF3eThCQTBTUnBrNWlrcnZkZWJuVm16Q1JZYTJmMTRNMWhMamJtZ9IBkgFBVV95cUxOZ1p6Q1V5UzBhUW1JZHlGOS1jcUVhVmdJMVdhQ1ZLLXd0bnRLVmdIbGZfYnRtSXQ2QU9PXzZNX1liOHdBLVd0bUZSdzhIM0NsaFJOc3l2aGE1cTE0dWo3QW5wYTJ4V05ZVndmdTl5MDQ2M0RtaFpBSnc0TG9vVkNHdWRmNDQ5aTFiT0JBS29TUEFGZw?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-09T22:10:56+00:00",
-      "domain": "DW.com",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM29LUTBWYWZpZ0Q1eTloYU1JV0RSRjRyZHgxcG9SaFVGMGtiYVo4bjU4OVhWaHJPQjNKeHhxQ2U4OHlUVTByQmZSa0tWd1oxMXd2X1dwbHczRmlLY0g3WDJwU2JHY0w3ZUE2VTE2T2FuaXZuWHNtSFJSaTI0Q1hybjY5UFZkQzdySnlUTDF5VWFDT0xRczA0Ml8ydmJscjVaRFIxMmgzaFhtLU9UcV96V3hPelXSAboBQVVfeXFMTmVRWEtHM0Y5ekVDRzNFUjdkS1dtUGdtZUdBanJKYVFEdmQwSVBTR0JtYnBTUnhVXzRDNGN5YUdlTUdEOXVvRkp4Q3ZZTG9wSElucDNEdzZZdlNnSUZjMGRYX3RNRDhiZE5QTHlNeEVoakp3aFBnMkJ0emZVcFZfWEZMQXQ0dmoxZHBhVUU1bnZaQmtZRmpObGhrc29haWhIbVJCMkdJQ2RlU013cEJqclFnYTRVUzQxT1RR?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-09T22:51:34+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Powerful earthquake shakes Panama - CNN",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lSmliX0hjeTJTSFJYcVhmMlBXZFo4VFlDSmZtT3RxLWh1WmhkaXJUcG03UG43UGMtbER6XzNDcDFCYVRvMXN2dk1CcFdtUnRyYml1bXdQV0tpSE9yNjVZOWtKYjlJd011eGhLZXNDT0hkNE1WNXVv?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-09T18:47:05+00:00",
-      "domain": "CNN",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Panama struck by 2 powerful earthquakes, U.S. Geological Survey says - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BRG5lb19OWjdveUU4RjJad3NPdE55b1N4R3BSSk1RMnJ1akQzMHgtM2ZEUG1YblJvbUQ4RzUzUFdocFpnZlVCQU1VMFNDTGlRSVVKdkpPcE8tNFJub1RKaEo1bWNYSmtISE1MVUtnNA?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-09T18:46:00+00:00",
-      "domain": "CBS News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Coastal flood warning in place for Malibu Coast and Los Angeles until Sunday afternoon - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yZU5sS21UWGlJNmhYWnpsNWZTWElUZUZsREtUb2ZOWlpab2JBNEs3a1lxX2lBM2hEaDRrYTdCWmpNbnV5Z3NkQkdxcTY2Qi1KZjhjeDRaUjdKdjJZX1d2R1VFeUNVTUZUbXdkTG5sYw?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-09T21:40:07+00:00",
-      "domain": "Sacramento Bee",
       "language": "English",
       "sourcecountry": ""
     },
@@ -144,112 +54,82 @@
       "sourcecountry": ""
     },
     {
-      "title": "Map: Large Earthquake Shakes Panama - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPelZreWFHM040c05xcjRySFgzejdBRHc3ZGd2MGZWT0tyZnk0UmZRcDJsNFBVeWo2X2xMRlVJdzhpWkMwZVh0WHlxVzhFa3Z6SS15TzQwcTFSSDZLSFlSZmpFUHEyN0gyb0l4RUFOSnZzQlJnRFcxcjZXdjgtQ3dObkRpci1CdHVzVkh1Ml9BdG5IRDk5WmJF?oc=5",
+      "title": "A 7.7-magnitude earthquake rocks Panama - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcGpCWG9ab0pJcjFtRmN0a2tjVnVzTkRoLVZ6SGRXTnBuNkUteEFCbElWeVFXZUVPSi11QndGLXBQY3ZxX29hdlBKNjlKcVNZMnNqSUtWMm9ZdTFxNnAwYzB6eTVORTlnZzI2NHVTMUJQbWU2dVJrSWxkUWxxR3RYUUNfcVRsUE5sUlFLcw?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-10T00:35:57+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Buildings destroyed in Panama earthquake - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMnVRbTZsbkN6bjlDUUxfUVBSMXBDVVJZdU1BTXRhNkx6SXhRMkZlQnpCcFBWUlEyTXFaN01KcTdITVhNUVZ2dk5OTUNTUEpYRTR3bzAzS0V6eUF1NWQtSk5VcUFwbVVtUFdYNFRXRGEzRzlhaHIyRDRnNjQ2NUFBNXJJZHlHeVI5bHlfUWhIc3NHZ1h0?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-09T22:34:49+00:00",
+      "seen": "2026-10-09T19:01:00+00:00",
       "domain": "NBC News",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "CNN photojournalist describes powerful Panama earthquake - CNN",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX0ZQdzhxU3FTMk9LS1F4cDdTNXRfLUphWlc3OEJlOWxoX0wzZ08yUlUzXzRYeklsOWFzcEhjNzJVYzNzQ0dXY3Y1YldOWTctckY5eWswTFBIY0k5elNTQnNSSGVPdzRDcG5wdm9mbkJNcFpzZ2VFdXlNaWUzclBkckx2NWxiUnowa0E0dmVzc3A?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-09T19:38:59+00:00",
-      "domain": "CNN",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN2UxdUFUNG1XdFpHSGNHZUFmQUFERDg0SmVjQVJlMVNvZ09sR01uRUdmSk85V1JkZVh5cjBIR0pBa0ktOEVDRU1aTV90SEpIREtmWG8xeVBiQXhUZUtFSVN4Sk1zT2NGcGRXRHBtRE5uYS1jV2Rtdll1X19xXzlKRHZPYTVpSnMwb25fTklzeTNrX0k?oc=5",
+      "title": "Strong Panama quake shakes nation, but avoids major destruction - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2dqa3hDUGJObnZUWGtlc1dKaUpFazdkSW9HYko3eGU2SmZJS2pRR1luT2RlWFBEZkpqWmJ1V1lzdFB0RUNHTHpmRFQ2cEphSDdnR2owdmI2U1dYZXJmTm16MVhFNXpqLXU0OXdvT29KcDkxeVRLb1lWSEJtSjZUQ08xcGhEZmw0eXBqOHoxZE9WRVVZcG82Vk5aaHlOc2lvNjVhQ1pSbw?oc=5",
       "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-09T22:07:24+00:00",
-      "domain": "The New York Times",
+      "severity": 1,
+      "seen": "2026-10-09T18:09:00+00:00",
+      "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "7.6 earthquake strikes Panama - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOHFrOGRuNkhRcmowY09iRkJkOUItWlVYbU53ckNpOXJQVDRqZndNcS01VVpnVUI1TTVaSldMbjljVDlJZVlBSkZfR3hNMWt4VFNnU2pYdjJKZ2tqem0yY0lfU05kdjJsaEJaQldvUmgzZ1hKY3lwQ1FMSHYtMFZLNnp5UEo?oc=5",
+      "title": "7.7-magnitude earthquake rocks Panama - NBC Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTEd5Vld2T2pDcm5MSTVnQjdmX0hFNF9XUnVYVEVYcVhGaXJLQzliUi1YYlhKb21LbTBITDVhY2VSaWdtZlZuVnFBY2FCN1MzMVJKRVpTODA3T2dlblRSYjhmRkVCSW1vQlVUeEpkRkdwWFhJam91UURlRVd2Q0drOU5MNzB3dEZhT3hwRDBuazdncndsbDFlUtIBoAFBVV95cUxPdmZMZDFYalJHdGtzeVRVeWpUMzhEbU1GR0l4aW5CRHoxM1FZQ3p1VVlMVDdVMVJialJSZG0ydXV4bkhiMlgzLVVZcFQ4M1Z1NHYxMW8tUFpxei1sTVpiZ0VkQW9oejlpczNybXpsZmhfWEs2bDFpZUIwanhDMWxENl9nM3NVY3ZzRDRsWFI2SmU2TExTOUNlOU9UYTd5VTdD?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-09T18:38:23+00:00",
-      "domain": "CNN",
+      "seen": "2026-10-10T01:16:22+00:00",
+      "domain": "NBC Los Angeles",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "7.7 magnitude earthquake rocks Panama - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSXJJZ1MyemROSnNPdFYtQjNIUTFIQmVqazM3Tm9pUnZNNXpEMEdaQjVqNkxNUS1FZEdacjhRdHJUSjlWdWp6NE9ROGZmMWt4ZDZ5RTYtbl9iTWRPeGRkVG1NSDE4emktWC1XcUs3cWpTT21wSE1Bb1U1cExQdENwS0RB?oc=5",
+      "title": "7.7 magnitude earthquake shakes Panama - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVkVVRmE2Z1puYTFpVC1QbTNuY0pqdlk3QWJtNDJIVDZoNHF5UW9WX0h6NmJQR3ZUSkx6bFFZMmcxSzBsQmcwN3hWUEJkckxuYS1XVmJ5ZVFoSGZxX3ZULU8xMmxPOFBGRFkxU0xyWjRBM1FiLTktOERSRFc2SWJQWU42VUlFNmVGQ0VFRjAzUHpBazN4TTNHZG9KMnpwb3Z2a1J6VHZ3U1V5X1A4MXdQSXE1Y9IBuAFBVV95cUxQS1FmamJFcE8taVdRT25YM2taOUtFQXNwaWpLSDlDUnBvWjh2QkpqS0RnT3RZM0FTcWVFa1dBb3dLSnFGOW9EZWptRGpOcUpnUDAzOEZmXzdHX0lwY3pIR013S1BxR1Y4YnpRelhfcVVNdWRQN2tUS2htSTJIWGRYTkZnMl9oTTFZZmpndl9IOEVSV3lpRXNpdmZNRjhLQU01UE9DcVBKR0RnYVpMOE96SDljaU5tNzlr?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-09T21:51:00+00:00",
-      "domain": "CNN",
+      "seen": "2026-10-09T19:07:45+00:00",
+      "domain": "ABC News - Breaking News, Latest News and Videos",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Panama assesses damage after earthquake prompts tsunami concerns - ABC10",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd25ocHMyWjFXVDdJYzhuT3BsTXZ1WW5PN2dMY0pHUEhqQWFWeHBMVkVDYUE0cmgwUmRhTEU2ak9wVnJnUTVINHFBd29iWkhMX3ZpOVQ5Z0QwSnNzQXlQcDJyNEpjVEtDejNOWVQyNFVvRmdlaEF0SlhKTExjcnNiY2gybTVFWS1XbFFIVlJGN0o1U05fV3RfcXdVTWloZ3NYbXI0YkRfcE9kcDdjQ1NwcnRRY0U2SnNFRmZsUUlXNWw0V0RFVzNuc3RwcVFXQkJLaTZkNEJoVHd1M3VocE1xeUtrZ0w4MG5q?oc=5",
+      "title": "Strong earthquakes shake Panama, prompting tsunami alert - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmVRV3dHbUFrY1hVeUNIX2FoMEYxRk1tY2FkMnZ1SEFkSDNJYmVwSWkwQzUwd0t5V2JpdTVQeURHdktwcmdsZmxNXzRvbTZvWXNSdGRDTHp1RTFpVFZ2aWNxT2pOMVBReWtKaFF3eThCQTBTUnBrNWlrcnZkZWJuVm16Q1JZYTJmMTRNMWhMamJtZ9IBkgFBVV95cUxOZ1p6Q1V5UzBhUW1JZHlGOS1jcUVhVmdJMVdhQ1ZLLXd0bnRLVmdIbGZfYnRtSXQ2QU9PXzZNX1liOHdBLVd0bUZSdzhIM0NsaFJOc3l2aGE1cTE0dWo3QW5wYTJ4V05ZVndmdTl5MDQ2M0RtaFpBSnc0TG9vVkNHdWRmNDQ5aTFiT0JBS29TUEFGZw?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-09T23:20:00+00:00",
-      "domain": "ABC10",
+      "seen": "2026-10-09T22:10:56+00:00",
+      "domain": "DW.com",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Panama Struck by Massive Quake, Sparking Tsunami Warnings - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaS16Y1NCVFJaZHJRUW1LbHFhTW9ERDdVQWxNUmV5VVlwMm1Zbmc0QTVJM2E3dURlZGgydHNfRG5jdEJ3SGdFclNTMkloN1VTeXVERV95R3JRcldidTlkbFJTaTNUSEpfamRDWWtOOVV5UnVqbTlvMHhpbnBQb2Z5RHlFYnhnSHgtLXU0b1dJZnU5SkpUSkwwcVBTdlFHa29VZVIzaGI3Z3JYUFRsVlVyb2hn?oc=5",
-      "category": "DISASTER",
-      "severity": 3,
-      "seen": "2026-10-09T18:17:15+00:00",
-      "domain": "Bloomberg.com",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Panama earthquake poses no tsunami threat to Hawaii - Hawaii News Now",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORDhNSjZJeEVMZkNBMGtsSzg3aW80Z3ZKQ1pzeGhzYUNUTm93MmtEU3kwNGtWRkQ4bi1hcnhMZnFxbGU5LWRtR3FVdnhMSFYyOHZ3dzdBRFlVVWN1QnRrT0FRN0xEdkx4S3VxWHdHbE9Nakd2M1owa0VFMXRSU2FVOERVU3BSM2tmSjhiTGJkWFhGalJZaFNNUGtMVko3QdIBsgFBVV95cUxPUFQyaUxKU3h3eEswNnFIcDJfYlVKX2w3a3FUYjVmQkxnYmZjOGJkUHA3SGpBTjNiZEZsRklSUHFKcEd1NFlUYVZTSnlDU0dmUGtLZjY3elhnVGVsNE01Z1ZSWmp4WWlGNWhIQ29ZcVRlVExrU1pzTVFQeUFFeHVpcjA4Z0t2S0ItanhwVmdudHZ0QzVGZFlpYV9VN0UtTUVKbE1TZE5NeXFGcy02N0JTT0Jn?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-09T18:30:00+00:00",
-      "domain": "Hawaii News Now",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Major earthquake shakes Panama - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUg0T1ZKbXg4WG1ZOGt5cnZINGd2Tjh6T2FFSENlVnRtQUhndWRURWdLNW1nc3RVOUFzQ1BLUFowbUl0aGxTQjFEcmxnOUJQY0NxYTcyRmVNSWc2bWxZakdSbnhuOEpDZ0tjRjlGSl95ZU56N3BXLWN6Q1ZMRHdXMl8xV25USEo0WndZSmt3QQ?oc=5",
-      "category": "DISASTER",
-      "severity": 3,
-      "seen": "2026-10-09T22:57:03+00:00",
-      "domain": "NBC News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Coastal flood warning active for San Diego County Coastal Areas and Orange County Coastal - Sacramento Bee",
+      "title": "UPDATE: Coastal flood warning active for San Diego County Coastal Areas and Orange County Coastal - Sacramento Bee",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIOG1WZUt3NzFya0RscXJVaTJFMTdDMmxUTWpzUzY4dWZwOWk3MjNNVGRoNzRqVHR4dzMxRW50UkkxbGNDZEFXMGc2czgzcmVMdG9IUXhQNF9Dbl83UFRYcmhaZlUtbUxkNlVQSE5WQQ?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-09T20:58:09+00:00",
+      "seen": "2026-10-10T03:42:10+00:00",
       "domain": "Sacramento Bee",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Panama struck by 2 powerful earthquakes, U.S. Geological Survey says - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BRG5lb19OWjdveUU4RjJad3NPdE55b1N4R3BSSk1RMnJ1akQzMHgtM2ZEUG1YblJvbUQ4RzUzUFdocFpnZlVCQU1VMFNDTGlRSVVKdkpPcE8tNFJub1RKaEo1bWNYSmtISE1MVUtnNA?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-09T18:46:00+00:00",
+      "domain": "CBS News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Magnitude 7.7 earthquake rocks Panama, damaging buildings - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMDVsTHJYaW8tY1B6NmxmRnhSVGstWU1vbUFvaE1leUQ2WHEzM3VTaEpzOVBORl8waXVxTlBZWUVWblZBR2dQZHNXTmN1R3lvNlMyNGJldzFJQm40eEZpaHl5MDkybTdBUUlSNmE5ckxSLUVndEtFSWdNTlZtZ1RzU3hyT2NPR2JfNUJQdUZrMFNzX0Q4TEp4N3FsOGZRd3R0dHBINzlaMWV1bk5ZREE0aFJ0SjVIOHhYLVhfMFd2RUpkTWlIaGRWbmln?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-09T23:30:44+00:00",
+      "domain": "Le Monde.fr",
       "language": "English",
       "sourcecountry": ""
     },
@@ -264,6 +144,106 @@
       "sourcecountry": ""
     },
     {
+      "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM29LUTBWYWZpZ0Q1eTloYU1JV0RSRjRyZHgxcG9SaFVGMGtiYVo4bjU4OVhWaHJPQjNKeHhxQ2U4OHlUVTByQmZSa0tWd1oxMXd2X1dwbHczRmlLY0g3WDJwU2JHY0w3ZUE2VTE2T2FuaXZuWHNtSFJSaTI0Q1hybjY5UFZkQzdySnlUTDF5VWFDT0xRczA0Ml8ydmJscjVaRFIxMmgzaFhtLU9UcV96V3hPelXSAboBQVVfeXFMTmVRWEtHM0Y5ekVDRzNFUjdkS1dtUGdtZUdBanJKYVFEdmQwSVBTR0JtYnBTUnhVXzRDNGN5YUdlTUdEOXVvRkp4Q3ZZTG9wSElucDNEdzZZdlNnSUZjMGRYX3RNRDhiZE5QTHlNeEVoakp3aFBnMkJ0emZVcFZfWEZMQXQ0dmoxZHBhVUU1bnZaQmtZRmpObGhrc29haWhIbVJCMkdJQ2RlU013cEJqclFnYTRVUzQxT1RR?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-09T22:51:34+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "7.7-Magnitude Panama Earthquake Sets Off Series of Aftershocks - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSjk5Q1BOX1YzazBLRXlsMjU1NU15VmVpbFI0MjhpZFpadm5PNTBIMnV0ZXBsWUVpb2VOdjBDMG52d1JnYW92T2NIeHlIdV9lTmZ6bDFDTXkxckZYSmN0Q0pVVUpGUnBRbHE4WXRnbHhSNTVNMDJtMVk2aUJyM015LTUyWEtfaXM?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-09T19:04:00+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Powerful earthquake shakes Panama, followed by large aftershocks - CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lSmliX0hjeTJTSFJYcVhmMlBXZFo4VFlDSmZtT3RxLWh1WmhkaXJUcG03UG43UGMtbER6XzNDcDFCYVRvMXN2dk1CcFdtUnRyYml1bXdQV0tpSE9yNjVZOWtKYjlJd011eGhLZXNDT0hkNE1WNXVv?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-09T18:47:05+00:00",
+      "domain": "CNN",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Panama Struck by Massive Quake, Sparking Tsunami Warnings - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaS16Y1NCVFJaZHJRUW1LbHFhTW9ERDdVQWxNUmV5VVlwMm1Zbmc0QTVJM2E3dURlZGgydHNfRG5jdEJ3SGdFclNTMkloN1VTeXVERV95R3JRcldidTlkbFJTaTNUSEpfamRDWWtOOVV5UnVqbTlvMHhpbnBQb2Z5RHlFYnhnSHgtLXU0b1dJZnU5SkpUSkwwcVBTdlFHa29VZVIzaGI3Z3JYUFRsVlVyb2hn?oc=5",
+      "category": "DISASTER",
+      "severity": 3,
+      "seen": "2026-10-09T18:17:15+00:00",
+      "domain": "Bloomberg.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Earthquake strands Phoenix-based band in Panama - Alaska's News Source",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGpydzRqRU5aQVZTeWRxSldmOE80V1dneGlzVFhUdGFSSzg0N044cVNkUl9fMC0tenk2NXI1T1VvRkpBREF1SkR3X1c0UktZbllxWHZzTlhDWUItdi1ZUlJMV0cxbXdfcEJVWWhSVG1ETFV0am1tOUNSZTZiZ2xFVGpURUdhZ3ZaZElLYWxtRXdhWkRjM19XWXluQVA?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-10T03:03:57+00:00",
+      "domain": "Alaska's News Source",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "7.7 magnitude earthquake rocks Panama - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSXJJZ1MyemROSnNPdFYtQjNIUTFIQmVqazM3Tm9pUnZNNXpEMEdaQjVqNkxNUS1FZEdacjhRdHJUSjlWdWp6NE9ROGZmMWt4ZDZ5RTYtbl9iTWRPeGRkVG1NSDE4emktWC1XcUs3cWpTT21wSE1Bb1U1cExQdENwS0RB?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-09T21:51:00+00:00",
+      "domain": "CNN",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Panama earthquake poses no tsunami threat to Hawaii - Hawaii News Now",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORDhNSjZJeEVMZkNBMGtsSzg3aW80Z3ZKQ1pzeGhzYUNUTm93MmtEU3kwNGtWRkQ4bi1hcnhMZnFxbGU5LWRtR3FVdnhMSFYyOHZ3dzdBRFlVVWN1QnRrT0FRN0xEdkx4S3VxWHdHbE9Nakd2M1owa0VFMXRSU2FVOERVU3BSM2tmSjhiTGJkWFhGalJZaFNNUGtMVko3QdIBsgFBVV95cUxPUFQyaUxKU3h3eEswNnFIcDJfYlVKX2w3a3FUYjVmQkxnYmZjOGJkUHA3SGpBTjNiZEZsRklSUHFKcEd1NFlUYVZTSnlDU0dmUGtLZjY3elhnVGVsNE01Z1ZSWmp4WWlGNWhIQ29ZcVRlVExrU1pzTVFQeUFFeHVpcjA4Z0t2S0ItanhwVmdudHZ0QzVGZFlpYV9VN0UtTUVKbE1TZE5NeXFGcy02N0JTT0Jn?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-09T18:30:00+00:00",
+      "domain": "Hawaii News Now",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uT21UUGRwd2Zqd29KZjZFYmFpRndnR29PeEkwRHhJMkFNV2JNVXo3TTVrYml2dnh3SFBSNktjRHVYV3FpQVZBQjR3WFFmek1QZ29mTlh4X1FZc0F3THNHajBKRDR6cmppM2phUFpjMkk?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-09T18:29:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "FIRST ALERT: Moisture from Tropical Storm Rachel prompts Flood Watch for Las Vegas - FOX5 Vegas",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRVBiMjh3YU5mVlZacHA2ZWZ4X25JQ0JyZkh4TkRqbVltOE9YbVJxdEFUSFNjaXJoTlRKN1ZsSVFtaUd6dXFBXzJval9WTV8yVTNvQ2Z0WF9kRFlCMWxPcUVWX0ZObUxwMWFscHZCOWFKMVNEa0xmN1ZuY2ZPVVlybHJya1RfVTZYRkhsUW9TSWVHSkZGVkpHeGdtV3Y4a2Q5al9KQTcwYlAwdzYtSVRJ0gHDAUFVX3lxTE1zM24zY1hMOHpEUlZLNGV2alFKV0Jhb0xGSFVBN1NPcGNpdncwY0VHZ2dUQ2U1MXMtQTJjN3Ita2dTSjhwTjdtRk1mUFhIQmNuZ2VRX3RDOG9mMHA2Y0cyaldSZ19PQWRna3ZhZTZaRS1iRUpTTnNyVGVsTnJaaG1HYmp3eURlSzdKOWxBaW54bnNzQ0dxcktrOWd0dlFNUUVnZzZUTTR6WElkbUlwQUMzazQ2TTh6emtLcUV0bEVzNGtPTQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-10T03:48:35+00:00",
+      "domain": "FOX5 Vegas",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Major earthquake shakes Panama - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUg0T1ZKbXg4WG1ZOGt5cnZINGd2Tjh6T2FFSENlVnRtQUhndWRURWdLNW1nc3RVOUFzQ1BLUFowbUl0aGxTQjFEcmxnOUJQY0NxYTcyRmVNSWc2bWxZakdSbnhuOEpDZ0tjRjlGSl95ZU56N3BXLWN6Q1ZMRHdXMl8xV25USEo0WndZSmt3QQ?oc=5",
+      "category": "DISASTER",
+      "severity": 3,
+      "seen": "2026-10-09T22:57:03+00:00",
+      "domain": "NBC News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Coastal flood warning affecting Catalina and Santa Barbara Islands until Sunday afternoon - Sacramento Bee",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XaFp2d19TdEdXVFo2Y2tzUDhIdXpqMVpuSEhLc1hUZE45SEQ3UEYzQVZJMjQ4d2d2UWtHQUhYeTF1eHQyWkw0MF9rMlBjTWJiMGdmaUUyYUZ5U0MxZVZRbUJaTkdHZnNXWHNRTm1SUQ?oc=5",
       "category": "DISASTER",
@@ -274,32 +254,52 @@
       "sourcecountry": ""
     },
     {
-      "title": "Panama rocked by 2 powerful earthquakes and multiple aftershocks, prompting evacuations - AP News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVl9TaDlyMTA4emtwWlhyemdqTUY2ak9BUzU4TWlyT3d6dEtfWGs1RWVESTZ3YlhBcmx0S1dhajROOEJjY2NvbDlHc0h0Z2s2a1RFY3dRSDJTSlFrOTVWWk5PVjBlVGtUTEtPSEpMeS1nZFE1eTFmWWJzUGd4Ym5mOE1KZw?oc=5",
+      "title": "Massive swells flood Newport and Laguna Beach streets, trigger emergency responses - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWFJZWjZrWi1JWkJ6bzlBczhUN0ptMFJoTlVQT0toR3VvNjJFMEhqd2lNckItTl9vcnBrTVM3d1RVeHRLRllSMFo2MkRfcHM0d2NuNzJHbkRyR2tjRDRmWGZlOEFGRzZ5ZUhZTHNIeERjbXV3QjZCUnh1QTZCd3I3T0dWelkxY3M4ZW9KWTlOVkNYNjdyNmZOZjhqaXdFallsQnRIMWtNTE1wNUN1Q0JoRXNKbmcxeXdPTG9MQnd5SENiRGo1ZHpTdmFuOEg5UQ?oc=5",
       "category": "DISASTER",
       "severity": 3,
-      "seen": "2026-10-10T00:26:00+00:00",
-      "domain": "AP News",
+      "seen": "2026-10-09T23:55:42+00:00",
+      "domain": "Los Angeles Times",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "No tsunami threat expected from 7.6 earthquake near Panama - Maui Now",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdENlVzF1dmxBUnhjOWRpalZ5ekV6R1R5Y1ZsSkw5b3FobTNnQ3U2VHE4aU1UZDhXZFkxemdraUJzcEtsdFJrTDllSzBpeE1QYWs3QzlFV1Z2aGlvazJTZUt5NV9PX194Q3NsUU5PLV9XM0lCR2NNdmpIaXFTb056aXpPTG5PNXRYandoUXJoZl8wczk2?oc=5",
+      "title": "Panama rocked by massive earthquake; widespread damage reported, tsunamis feared - Miami Herald",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWERidGRpeVVNcHBDdExyMkxVZTl1WlFHcUVYQXpOREpEbjJoTFY4NWx2MGl0clFneXJ4cVo4WFZJdDVOOVpxNFFIMEpPb3Vmd1pmazBLN0NZUXA1VXJzUG9CSUxUdzQ5ZWN5dVJWTzhMVnkyZlhkNkJ5M1ZUQUl1TkVqN2RtTnltb1HSAYoBQVVfeXFMUGc2RDNFc2tDVlhOZEFEU2pHNEUzQkpCU1Z1Y0JFOUY3cDhiWFhBZXRmc3VKMTRLa3NsZTV2ZlJwdzFGUUxVZ3hmTTI2T2gxMV9EdlhPTEZaYnRRSGNYTy01VmFJdlZkcHdLNjhRZW41Yl9tUkUwTzVaQ2ZMSTh0NjVvaUMxbF93ZlR3?oc=5",
       "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-09T19:58:08+00:00",
-      "domain": "Maui Now",
+      "severity": 3,
+      "seen": "2026-10-09T19:35:00+00:00",
+      "domain": "Miami Herald",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Jay Smith appointed Interim Flood Control Administrator - Coconino.az.gov",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hYnVXSXh3dkRsSmw3YldKcFNCTV9Sc3pENU9HYkRYckVvN0lqRkRrdW1fQlQtR0k5RElzd0JNNzRaRFRIX3ZFUTVRSjd1TU5KU21SQm4zTDZORUItVTBBNC1R?oc=5",
+      "title": "Navi Pillay wins Nobel Peace Prize after long career of investigating war crimes - PBS",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ3lob3JmVGpUdnFrMC1FRFBxWkRZM2hYNFVlSms5cDdwY21DYjRTUEhxZkdWWEtabW9PbWZ0RG1XajYwX19PZk1wTTZVQWlUWjhYbDhHaEVLaDN0WU9XaXRXcUs1Tzk2dVVqeThvUDVVQ2ktZmp3Y3NMSVhlczkwVUNNYTRUQlRNQ0MtSW1aRE9VYjNxSGZ6cVJicGktSmZxWmx4bWNSU3NCdkJZZFBlRFdBQ0M?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-09T22:40:03+00:00",
+      "domain": "PBS",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "New campuswide project confronts the legacy of U.S. nuclear bombing in the Marshall Islands - University of California, Berkeley",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObU12QWZvN1pWanFlTncxY2RBZnp0SWVjSWE5aEQ4UDF4ck04LTRncGpRZE5XOU0wS2VLVURSanJKZ0VkUGx3dzFHRXVkclJMYmFwWkRnbVFmWnkyTDVLQ3dWV0pheUZ2YkRzQmR3d3VFMzRncWhwVEQ2bEI4Z3AtRUcxLVhTRDB3bXlpSmlkLXJXWGR4aEY0S3JyUzA5UmFvbkp3cURUYnJadXFLNlNCUFRfZU5uLVRRZTYwNFVqclhSN3N4Z3ow?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-09T22:13:07+00:00",
+      "domain": "University of California, Berkeley",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Powerful 7.6 magnitude quake shakes Panama, triggering tsunami warnings - France 24",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORzdqN3JLdk03T1FaYVF0ZE44eEpKcmMzbE5UV2c4UWltVWk1NldhY21NVm5pWktvNlpseU5MQWhrUjBSclppbmI3UWhDeTlyV0VSdm9OV0F4LWF2bU9kU1E1cDlZdGE0dWFVdTF1dlVMakwyTzRmTDREU3hyM3BFa3FMX3hHRzVKUFdsZ1VwYnVwaW5XQWd5ZlZoQVJlZVB1THRHeU9FSEVwLTVSRzduUEZSS2szdw?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-09T20:37:50+00:00",
-      "domain": "Coconino.az.gov",
+      "seen": "2026-10-09T18:39:03+00:00",
+      "domain": "France 24",
       "language": "English",
       "sourcecountry": ""
     }
