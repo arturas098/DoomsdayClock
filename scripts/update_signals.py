@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 import json
+import os
 import re
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -31,8 +34,10 @@ CATEGORIES = [
 
 HIGH_IMPACT = ["killed", "dead", "casualties", "evacuation", "state of emergency", "massive", "major", "large-scale", "nuclear", "genocide", "pandemic"]
 
+
 def clean(s):
     return re.sub(r"\s+", " ", (s or "")).strip()
+
 
 def classify(title):
     t = " " + title.lower() + " "
@@ -41,6 +46,7 @@ def classify(title):
             impact = 1 if any(x in t for x in HIGH_IMPACT) else 0
             return cat, min(3, sev + impact)
     return "CONFLICT", 1
+
 
 def parse_pubdate(raw):
     try:
@@ -51,15 +57,62 @@ def parse_pubdate(raw):
     except Exception:
         return None
 
-def main():
-    req = urllib.request.Request(RSS_URL, headers={
-        "User-Agent": "Mozilla/5.0 DoomsdayClock/1.0",
-        "Accept": "application/rss+xml, application/xml, text/xml",
-    })
-    with urllib.request.urlopen(req, timeout=30) as r:
-        xml_data = r.read()
 
-    root = ET.fromstring(xml_data)
+def fetch_rss(max_attempts=4):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (compatible; DoomsdayClock/1.0; +https://github.com/arturas098/DoomsdayClock)",
+        "Accept": "application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.8",
+        "Cache-Control": "no-cache",
+    }
+
+    last_error = None
+    for attempt in range(1, max_attempts + 1):
+        try:
+            req = urllib.request.Request(RSS_URL, headers=headers)
+            with urllib.request.urlopen(req, timeout=30) as response:
+                return response.read()
+        except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError) as exc:
+            last_error = exc
+            code = getattr(exc, "code", None)
+            print(f"RSS fetch attempt {attempt}/{max_attempts} failed: {exc}")
+
+            # 4xx other than rate limiting is unlikely to recover immediately.
+            if code is not None and 400 <= code < 500 and code != 429:
+                break
+
+            if attempt < max_attempts:
+                time.sleep(3 * attempt)
+
+    raise last_error or RuntimeError("RSS fetch failed")
+
+
+def keep_previous_feed(error):
+    if not os.path.exists(OUT):
+        return False
+
+    try:
+        with open(OUT, "r", encoding="utf-8") as f:
+            previous = json.load(f)
+        count = len(previous.get("items", [])) if isinstance(previous, dict) else 0
+        print(f"WARNING: live source unavailable ({error}). Keeping existing {OUT} with {count} items.")
+        return True
+    except Exception as exc:
+        print(f"Existing {OUT} could not be reused: {exc}")
+        return False
+
+
+def main():
+    try:
+        xml_data = fetch_rss()
+        root = ET.fromstring(xml_data)
+    except Exception as exc:
+        # A temporary Google News 503/429 should not mark the scheduled workflow as failed.
+        # The website can safely keep serving the last successfully generated feed.
+        if keep_previous_feed(exc):
+            return
+        raise
+
     items = []
     seen_titles = set()
 
@@ -100,6 +153,9 @@ def main():
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
         f.write("\n")
+
+    print(f"Updated {OUT} with {len(items)} items.")
+
 
 if __name__ == "__main__":
     main()
