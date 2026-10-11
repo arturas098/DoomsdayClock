@@ -1,8 +1,73 @@
 {
-  "fetched_at": "2026-10-11T07:30:19.769555+00:00",
-  "source": "Google News RSS",
+  "fetched_at": "2026-10-11T07:33:10.045669+00:00",
+  "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
+  "source_status": {
+    "google_news_items": 35,
+    "lrt_english_items": 10,
+    "errors": []
+  },
   "items": [
+    {
+      "title": "Latvia faces new reality after armed incident on Belarus border",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3077169/latvia-faces-new-reality-after-armed-incident-on-belarus-border",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
+    {
+      "title": "Lithuania intercepts nine balloon-borne cigarette shipments from Belarus",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3077217/lithuania-intercepts-nine-balloon-borne-cigarette-shipments-from-belarus",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
+    {
+      "title": "Lithuania moves to lift constitutional ban on nuclear weapons: What it means",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3077164/lithuania-moves-to-lift-constitutional-ban-on-nuclear-weapons-what-it-means",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
+    {
+      "title": "Nausėda: Lithuania struggles to spend defence funds",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3077090/nauseda-lithuania-struggles-to-spend-defence-funds",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
+    {
+      "title": "Lithuania plans €4.8 billion for defence in 2027, substantial budget deficit",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3076225/lithuania-plans-eur4-8-billion-for-defence-in-2027-substantial-budget-deficit",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
+    {
+      "title": "Troops at Kaliningrad border are for stopping mobilisation dodgers – Lithuanian minister",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3076205/troops-at-kaliningrad-border-are-for-stopping-mobilisation-dodgers-lithuanian-minister",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
     {
       "title": "Map: Large Earthquake Shakes Panama - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPelZreWFHM040c05xcjRySFgzejdBRHc3ZGd2MGZWT0tyZnk0UmZRcDJsNFBVeWo2X2xMRlVJdzhpWkMwZVh0WHlxVzhFa3Z6SS15TzQwcTFSSDZLSFlSZmpFUHEyN0gyb0l4RUFOSnZzQlJnRFcxcjZXdjgtQ3dObkRpci1CdHVzVkh1Ml9BdG5IRDk5WmJF?oc=5",
@@ -20,16 +85,6 @@
       "severity": 2,
       "seen": "2026-10-11T03:40:00+00:00",
       "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Earthquake interrupts live broadcast - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeUstWENzWEh6NWRVZlhCM185a1hKcVQ2NkdjdE1wWC1GODVsSmZYcFJfUWc4RkVWN18zcTBxTEZCLVpzT1ZPaWtDMHYyUVVhOXdtWDV0ZWNEV3lKM2tPbF9Zazk4VTFzWDlGZFlFUlZBZ3NZd1MzbXpGSktvZ0FWT24xekpGQQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-10T17:23:00+00:00",
-      "domain": "CNN",
       "language": "English",
       "sourcecountry": ""
     },
@@ -60,16 +115,6 @@
       "severity": 2,
       "seen": "2026-10-11T00:34:49+00:00",
       "domain": "The Washington Post",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Russian Offensive Campaign Assessment, October 10, 2026 - Institute for the Study of War",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3hKMGNYZ3VCN1hTdThfdndjVEo2V3RKUjhFNlM2VEltRllMNWxFNU9oa2IzQXlLaWMzbzJyeWVEbGJMMmNQUVJES1VLVTRING9ramFGdzVtMWt0U0tyb1JQU184RUozNXZwY28tNThtWWxkUFZGdTk2RXBONHZ1S083Q3UxRDJZWVcyQ29jT2R2NnlHdUdyRWJrdTZwMkRRcHdZUDFCbFBJVTg?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-11T00:53:51+00:00",
-      "domain": "Institute for the Study of War",
       "language": "English",
       "sourcecountry": ""
     },
@@ -134,6 +179,16 @@
       "sourcecountry": ""
     },
     {
+      "title": "More than 10,000 without power as Hurricane Isaias’ remnants bring flood and wind alerts to Carolinas - WBTV",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmU1YUU1aENVczhmWDM3R1d0V1JYVlItVXQyZjRFSjlLN0YyaWQtbUhuRXZPTVdhRGdDTngxMzRjLTlGZzI2UU54UXkwZlRSSmFxMlBkMnFLRnY2RkVXTmFtcWFoR2NyZnJydzN5VDZMSnNJcGExZjE1cTgyckpqbmRBTlJ0aWEwLUlBOEdLVG54b24tSHJDa2sxdU5jTl9SMVdKYWZ1ZG4weGYxZXFDLXQwUjMwZ2JpZnZyWm9zUQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-10T21:23:00+00:00",
+      "domain": "WBTV",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Pentagon Again Increases Number of U.S. Casualties in Iran War - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXl5UlVxZURveWxEVGg4R3dwbXItWHl3WC1EaUYwVTh1MlVIY01Mb08yQ3liamhIYkpTY0ZUMi11dkNNRWZqQUxvRW02Vkt4M0N4YlotT2x3SHcxdUdHQWptazZIUDNXazEySEExMHpDWHM5dGYyS2w3blhqOEJiVGIzZ3BXM28?oc=5",
       "category": "CONFLICT",
@@ -164,16 +219,6 @@
       "sourcecountry": ""
     },
     {
-      "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmk1ZktpNHpjb3RJeXhEWjlKc2tfaVdkM3g5ZXpMX20zTnBad1pnTzZ6U0JMY2xqVjBCYlRGNHFveXpXNHJqLVdQLTIxMzFfdXotdEpMdWVQNnhQOEdSbUJOSUN1NkVtRk9jWlJpNjU1YXhFS0o0c2dGd3BuUldBT1oxdUxfTl8xRFlXOGtpRldLLVNiUmctN1dLRHNXUEg2YTRNM9IBqgFBVV95cUxQa2ZfMHNqWmxTYjkxc0wzbVZ1cmhiMkNmTV9uUVpuYldfSlNxc2hTTE5qMWxxX01pSlJmV3BBMlkySjQ1UGxhN3RXbHNyTkZmQy03ZWpiY3V5UmpYZ1NWc0REbXB6WVM1ZUF2bFN2MVNyZmx2bGNmLU9lMzVNb2NKc0p4RVF6TmdCNWtDcjJDcHR6OHBFLXNvSkhOVmlVcXVGNV9GQXV2YTRodw?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-10T23:03:43+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "Newport Beach closes The Wedge and piers after high tide floods streets - ABC7 Los Angeles",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZGctc0ZVTUpocHZZaF9TaGc2Rk1JdEJiRE1lREE0WERzQnpsSDdPV0dmVV9jd1E5cGJDd0pJTlJrdUhiT1ljTDVkMWQ1U2hWRzZ5S3NvRC13S0REdkpqRjlvWUFKN0tueHVEQV80RFZjSmRjYUtrTUtqRTN5cVFTRlRoMWo0WkU1SEp4NTlWNlZMZDEtOVhRQUw5clVNZlpiRHQ4S2RkVUdSWnZJWEFNWXdDeGd2NXg5QzJuNw?oc=5",
       "category": "DISASTER",
@@ -184,12 +229,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "More than 10,000 without power as Hurricane Isaias’ remnants bring flood and wind alerts to Carolinas - WBTV",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmU1YUU1aENVczhmWDM3R1d0V1JYVlItVXQyZjRFSjlLN0YyaWQtbUhuRXZPTVdhRGdDTngxMzRjLTlGZzI2UU54UXkwZlRSSmFxMlBkMnFLRnY2RkVXTmFtcWFoR2NyZnJydzN5VDZMSnNJcGExZjE1cTgyckpqbmRBTlJ0aWEwLUlBOEdLVG54b24tSHJDa2sxdU5jTl9SMVdKYWZ1ZG4weGYxZXFDLXQwUjMwZ2JpZnZyWm9zUQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-10T21:23:00+00:00",
-      "domain": "WBTV",
+      "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmk1ZktpNHpjb3RJeXhEWjlKc2tfaVdkM3g5ZXpMX20zTnBad1pnTzZ6U0JMY2xqVjBCYlRGNHFveXpXNHJqLVdQLTIxMzFfdXotdEpMdWVQNnhQOEdSbUJOSUN1NkVtRk9jWlJpNjU1YXhFS0o0c2dGd3BuUldBT1oxdUxfTl8xRFlXOGtpRldLLVNiUmctN1dLRHNXUEg2YTRNM9IBqgFBVV95cUxQa2ZfMHNqWmxTYjkxc0wzbVZ1cmhiMkNmTV9uUVpuYldfSlNxc2hTTE5qMWxxX01pSlJmV3BBMlkySjQ1UGxhN3RXbHNyTkZmQy03ZWpiY3V5UmpYZ1NWc0REbXB6WVM1ZUF2bFN2MVNyZmx2bGNmLU9lMzVNb2NKc0p4RVF6TmdCNWtDcjJDcHR6OHBFLXNvSkhOVmlVcXVGNV9GQXV2YTRodw?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-10T23:03:43+00:00",
+      "domain": "Al Jazeera",
       "language": "English",
       "sourcecountry": ""
     },
@@ -244,22 +289,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "Has Yemen returned to ‘full-scale war’? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM2l0eVRNdUNWT1pVd1VMNWRrUVVzQUxJTkV3YnVjeHMtRzd4NFVPYUd2ZlJwZW5tUXNkaWM1RkpJLWFjWC1Vdjh4eVQ3eUhLbGxqMGZ2dkVGcnd0MGhXSzg5RjNkQ2x6YVNDdk9CSmxscmtqdVNhT1l6QnJIS1NqR3ZxUmHSAYoBQVVfeXFMUEs0MXBLamNrT25Ed01xSExUaEh5X0l1NzlJbXZJVGcwUE16MEZuTm8ySTE2cHlMYXZnbC11bFdST21VZjQ2U0ppUW9PLU9mXy15NHhFbTF1ZnlJRmd5RG9CVDhCRWtKeDNHN01kT2hVellqQmp4cGI5Q0RMZWh5WWJGR3BJdUQ4cGd3?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-10T14:14:13+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "7.7 magnitude earthquake shakes Panama - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVkVVRmE2Z1puYTFpVC1QbTNuY0pqdlk3QWJtNDJIVDZoNHF5UW9WX0h6NmJQR3ZUSkx6bFFZMmcxSzBsQmcwN3hWUEJkckxuYS1XVmJ5ZVFoSGZxX3ZULU8xMmxPOFBGRFkxU0xyWjRBM1FiLTktOERSRFc2SWJQWU42VUlFNmVGQ0VFRjAzUHpBazN4TTNHZG9KMnpwb3Z2a1J6VHZ3U1V5X1A4MXdQSXE1Y9IBuAFBVV95cUxQS1FmamJFcE8taVdRT25YM2taOUtFQXNwaWpLSDlDUnBvWjh2QkpqS0RnT3RZM0FTcWVFa1dBb3dLSnFGOW9EZWptRGpOcUpnUDAzOEZmXzdHX0lwY3pIR013S1BxR1Y4YnpRelhfcVVNdWRQN2tUS2htSTJIWGRYTkZnMl9oTTFZZmpndl9IOEVSV3lpRXNpdmZNRjhLQU01UE9DcVBKR0RnYVpMOE96SDljaU5tNzlr?oc=5",
       "category": "DISASTER",
       "severity": 2,
       "seen": "2026-10-09T19:07:45+00:00",
       "domain": "ABC News - Breaking News, Latest News and Videos",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Has Yemen returned to ‘full-scale war’? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM2l0eVRNdUNWT1pVd1VMNWRrUVVzQUxJTkV3YnVjeHMtRzd4NFVPYUd2ZlJwZW5tUXNkaWM1RkpJLWFjWC1Vdjh4eVQ3eUhLbGxqMGZ2dkVGcnd0MGhXSzg5RjNkQ2x6YVNDdk9CSmxscmtqdVNhT1l6QnJIS1NqR3ZxUmHSAYoBQVVfeXFMUEs0MXBLamNrT25Ed01xSExUaEh5X0l1NzlJbXZJVGcwUE16MEZuTm8ySTE2cHlMYXZnbC11bFdST21VZjQ2U0ppUW9PLU9mXy15NHhFbTF1ZnlJRmd5RG9CVDhCRWtKeDNHN01kT2hVellqQmp4cGI5Q0RMZWh5WWJGR3BJdUQ4cGd3?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-10T14:14:13+00:00",
+      "domain": "Al Jazeera",
       "language": "English",
       "sourcecountry": ""
     },
@@ -300,6 +345,66 @@
       "severity": 2,
       "seen": "2026-10-11T06:19:07+00:00",
       "domain": "Sacramento Bee",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Fairfax-based rescue team joins Panama earthquake response - WUSA9",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWjZfVGRHMWt3d2U2dDFxUkJqM2JYUndITkk3YmUxR2lJZGhhSzZBRFhwamgybndVdGFRcUduMWd5UU9nOUVyZ1k2T1dZajI4YTZVQ0lBcmxOMHJWUlZsd18yVmpwVVJkd254MFlsbXA1N1d6QTNxdUNCREwwWS1yNHVXYm5yOXUxcHlTbGI1dWo0MUlXN2diODJnaHJOVlBfV1hVWTVpRlJoS1h0NHROTzJmM2NOdmRNVDR4dUM2TlhLMmkyRXg4TTZfY3gyS3ZLWF9Vc3RwVWRUaUMtVUd2aW1XcVFFVEFpWXE4UWtKajVDRTVz?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-11T01:30:00+00:00",
+      "domain": "WUSA9",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Flash flood warning affecting San Diego County until 1 a.m. Sunday, says the NWS - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FUFpKY0N4UmNsaXJUQi02WGdPUU5QQU80VE05TEsyQjdxSm80SE1OWFUteTEzMWhseHdtbC1OT0hBTkFacTRONkc0Y2JZWmN2OVMydG1LUWYwY0FFdk9SYUQ2LWtPN2R5TThhRjFadw?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-11T06:37:08+00:00",
+      "domain": "Sacramento Bee",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "At Least 12 Killed, Hundreds Injured at Saudi Airport in Houthi Strikes - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3A1N0dSaEowdHRsQm11d1EzUnJneHRRYWRYa2NWU0ZfeUgwOUNzMHpNN2dVWFJQeVRZRDdYTTJ5YUtwX2YwUEprdWowUW1hYXplbjlsbnBuaTk1RUc3ZnBseDgyMFI2Q09BNllMRXVUWm52RXQ1R3ViSEZpZW1OOWlqenhMSDlPMXY2NWVzOEpHTkctQld3WWJaNVh0M05rdUhTQlBCNGl2SXVqR29UbkVNMm8wR00?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-10T23:58:55+00:00",
+      "domain": "WSJ",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "'Hulk War: Infernal Rage' Unleashes the Full Fury of Infernal Hulk on the Marvel Universe - Marvel.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX05acVBnY0gzWXk1X1p3VklqNmF0SHhvVFhXLVVtNXhEVGdfU09ObzRQRU5KYVl6azlKYUpDTmpuT3c5VGJQZy1JT1VpWm5GdTYwWkh5N1lraXpBVkEydVlmTnF4NERHLUFhR29PazNPTDVQeVdYYnpCd2FrQVZZWFRTVk00MEFNaHlYMWI0VEhsdw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-10T21:32:17+00:00",
+      "domain": "Marvel.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Iran Update, October 10, 2026 - Institute for the Study of War",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSVFQZ3Y4RDZJZ3VDcmV3U1JITDZCWGdQNzVKWkd4ZVZfZEZ1akpWTk1yZzZyQVhndFVfTk5rdW1YYTNpZDE0NllNN015TWp2dDI1U0RqTWQxdDI2eU9udHdMZEc0NVlrVTI3QjVaUkRkazVRTTJEY3ROZVZWUHdIb1ZBMjA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-10T23:37:35+00:00",
+      "domain": "Institute for the Study of War",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ukraine war: Russian glide bomb attack on Zaporizhzhia kills at least 20 people - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VaXBla2l6ZlZUVmJqYWFBOUxocXhWUEVRcEkxOG4wZzIxV0l3UF9nMGV3Ri1zcnpkOHB4X2luNUZUZmxGUks0VVhpVDNPNWo1V0JScXBhX2pVMlk?oc=5",
+      "category": "TERROR",
+      "severity": 3,
+      "seen": "2026-10-10T20:51:12+00:00",
+      "domain": "BBC",
       "language": "English",
       "sourcecountry": ""
     }
