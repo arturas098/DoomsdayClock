@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-11T07:33:10.045669+00:00",
+  "fetched_at": "2026-10-11T08:52:47.656827+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -89,6 +89,26 @@
       "sourcecountry": ""
     },
     {
+      "title": "Russian Offensive Campaign Assessment, October 10, 2026 - Institute for the Study of War",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3hKMGNYZ3VCN1hTdThfdndjVEo2V3RKUjhFNlM2VEltRllMNWxFNU9oa2IzQXlLaWMzbzJyeWVEbGJMMmNQUVJES1VLVTRING9ramFGdzVtMWt0U0tyb1JQU184RUozNXZwY28tNThtWWxkUFZGdTk2RXBONHZ1S083Q3UxRDJZWVcyQ29jT2R2NnlHdUdyRWJrdTZwMkRRcHdZUDFCbFBJVTg?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-11T00:53:51+00:00",
+      "domain": "Institute for the Study of War",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "UPDATE: Flash flood warning active for San Diego County until 1 a.m. Sunday - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FUFpKY0N4UmNsaXJUQi02WGdPUU5QQU80VE05TEsyQjdxSm80SE1OWFUteTEzMWhseHdtbC1OT0hBTkFacTRONkc0Y2JZWmN2OVMydG1LUWYwY0FFdk9SYUQ2LWtPN2R5TThhRjFadw?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-11T07:32:08+00:00",
+      "domain": "Sacramento Bee",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Two powerful earthquakes and multiple aftershocks rock Panama - ABC7 Bay Area",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00RGhMQzIzYnMySW9kemlRQjZUWW5IaVhZVkFObmFoR284cjJrZkJxd1JIR3gzZEs0R2xjNWZ4aV95WWFrX0pnZVFLeVo0WDROYWxhcTg0dzB6NlFGM2ZoOVJNVk9kV19STEE5elhCOGJnTC1YQ2llOVhVcw?oc=5",
       "category": "DISASTER",
@@ -109,22 +129,22 @@
       "sourcecountry": ""
     },
     {
+      "title": "Villages evacuated as flash flood from Budhi Gandaki river hits northern Nepal - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1dZR2pxU3JFR1NEd3FVNEs5Q042Sl93bm9KUGRBT3pEYUpmZTljdm9nQ2FIaFRWNmtZVmtSNVA0Y24taVJxeUFSNE9IeHloNmdkeExrbGQxejFGN0RCekczWm1uc0NyRjUyWFJsTWJnclBkeF90c05JYXQwc3R4UnVRdk5namdOMmtqS1lXZzFPUGtoMW9PaksyLTBmeFIwNVBJUm04LVNFUlRYWFHSAbMBQVVfeXFMTzZwMUNnbVd3MmJicE1lTVlfOUdKc1VaOU9MeEp1QnZVLXRkZDJzMUNYSVJsQVZaVGNraE1nUFFLTHlfbGkwU2FuU01URmg4bmdmamUxQmtPV2tBVU9CcjRPdURDeFpxaWdTa29wUk1rM2FGQ1U1Mnd1TS03bFA0blJOYWVTUWxma2tLaS1kVk1LN3hITFBlcnJpLXdoYWthV20zRnBuRWR3ckdaQmU5LXYyWVk?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-11T06:52:06+00:00",
+      "domain": "ABC News - Breaking News, Latest News and Videos",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Pentagon raises official toll of troops who died during war with Iran to 21 - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTHZoelUtdHRTbk42U19GLVM4OGV3QlR5SFI4VFJzQzNObUlUS19BR1UyMTE0alVmMFppTzF2NFpNQUdBTUhhTjJFVVlGanQwdUM0UGRSb2p6eWJJenZQbDlScGlFU2FfbWJncUd5ZEUwX1ZsY2N5dW5wRUU4MlctVUpUbWNRdmE0MkFDb0RkcjJYRWdSdm1LWnA0M0lmQkdBTjRDTE9PbkFPc2FhNnpsQ3JVQzZ2Z1FwaE9sRkxHX1hqcU5ENFlz?oc=5",
       "category": "CONFLICT",
       "severity": 2,
       "seen": "2026-10-11T00:34:49+00:00",
       "domain": "The Washington Post",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Photos: What a year of ceasefire in Gaza looks like - NPR",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclV3MVIxQlZkLU15S3NVQXVndFlRYUZsLTM5dGRJR013VFhBWlBsbVN6NXFZT2pQT3B4d3R0OUFldVJzcmt5MnJMRmp3RjY3bU41VG9hMkowdWtuNUpPd0xKZWZHcHdQMS1KMmZEQWF6eUNfb0pSMW9XTDFDRmhqcDR3b1V0dGVYWE5KMUZVR2lUSXd2SXNUNFNZWGlKZw?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-10T09:00:00+00:00",
-      "domain": "NPR",
       "language": "English",
       "sourcecountry": ""
     },
@@ -139,6 +159,16 @@
       "sourcecountry": ""
     },
     {
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-10-09T07:00:00+00:00",
+      "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Putin relayed Iran war proposal to Trump, Kremlin says - CNBC",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9reE82RTlXQ0dWeU9VQ2hqcTRId1hxZ0VSeEU2ZHBfa1NBd0dsQTAtbXFtMkpld1N2MWNjbFFrQWprZ1FLZU1ZQUVjcDlHbUFOdHF0T1JwdV9CRktCcFpSNUZzSEh3ZHU2a0FtZ0hKSEY4SzJtc3luU21PZ9IBgAFBVV95cUxOQTZlbjRaZGxKSXVpakFCZGtHekNRRGdLZUd4UGc3a0pyNnk3aGlFQmdNVEN0LXRXQ2dQNDV4RUpMY2UtYlVieTlDck5tZkQtVXNYSS1lV1c1QzVFR1NqQnJRZHJHMVFIT3FiSkFPMnFQclRfLVlmOFZZakxIZUxteg?oc=5",
       "category": "CONFLICT",
@@ -149,42 +179,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "Update on the M7.7 earthquake in Panama - Earthquake Insights",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOG82M293NjBVUWpOb1htQ3ZTNUV6d0xVU2Z0YlAzdXpkcGdVc0UybUZ0TU1EcXhUWlRxRUpFVzVpNE5xcWNVbDVsVUcwbFZhRjBkQVRWMVF5RFh0Z3hmbk41VG5MOVcyMk5SYWg5Z2REcWhWd21aTjFfRnNTRVNvRHNncHRQS3c?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-10T20:57:51+00:00",
-      "domain": "Earthquake Insights",
+      "title": "Photos: What a year of ceasefire in Gaza looks like - NPR",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclV3MVIxQlZkLU15S3NVQXVndFlRYUZsLTM5dGRJR013VFhBWlBsbVN6NXFZT2pQT3B4d3R0OUFldVJzcmt5MnJMRmp3RjY3bU41VG9hMkowdWtuNUpPd0xKZWZHcHdQMS1KMmZEQWF6eUNfb0pSMW9XTDFDRmhqcDR3b1V0dGVYWE5KMUZVR2lUSXd2SXNUNFNZWGlKZw?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-10T09:00:00+00:00",
+      "domain": "NPR",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ0xqVGwtbDRuaFVMR3JfY2FMczBGeC1BTXZKb25xajl1d29hWFBHaWpYZFNVSGw1dERESlY3US1EQWlqRjRKWUpnS1l3VW5sTG5FSzNKLU5FczNmcVJLeDlISkJYbnByMDB3b2dqakVnR2Q1ckNKRmYwN2YxYjdLWHdfZFVMd3FrZGZRUGhrUHJ3em9wYUhOX0U1QTVqbmRaNDd4cEdCdnpPSEkzSEJfNUlfTWdlT1RxRVRzRWtBaUVldlc4aGtyUVFXQmZjTGNZaGpkcFdvYkFGc1dRdlNUMjFXVEk?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-10T23:02:13+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Long Beach officials announce preparations for more flooding as Tropical Storm Rachel targets SoCal - ABC7 Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY05ieFJ1QTExbVBQU0lrdzk3WG5lMjVnV1FDNldEaXBSLW10RUtOQ2Fub1lQSVR1Vmp3U1paeWxZaGlaZU9ZQzRIWGM1WlVZMGtZbklvN1lONmZsQ2VsZ2dzVGxoY1IzZWZSa3RWR3psWWwyY24xbmtucWN0QzBDa1lac3lXeGZ0VEdJSnZGcEdQRXJiOWtZZWtSVGIzWmFFcklMNzVaQVh5cEdMcENNOUtMWlYtSEFtRGZlN1B3?oc=5",
-      "category": "DISASTER",
+      "title": "Trump calls on Ukraine to replace Zelenskyy amid tensions over Russia deal - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGhVUFFuc21VY0Yxd29Rb1plWTVoWWo0WVpfOTEyTzJVanJRd1JCSTVRV0phdjM2UkRtMUZMaUJuckVLZC1vLTV1X3pDU2JCOWZFb1B6OEpfcGptOU1ZNWlKRnhWSnZ5UEhZd2NIVjNkMUNjbmNhMTFKT3VUUVZjZUVGSi15cUVlNHVxbGhvVWduX1gzRFppc3BBNThtSkQwc1pkMTlKSlh5c1YtTXFnVDZ30gG3AUFVX3lxTFBYNHcyeFdIRkpzd21TZGZDcVZJblgzNXV6NWZfckNyMDQzLUxlYzJzcFhmYlhrengzZ3V5WElmUU9SNlA5VFR5Yk5LMU1xNWo1eWptVjNzQ1QySUpTNE1fSlo5Z3lJX3FvUTRJT2Fpekp3eDlQd0YtYU8zWS1jdGhQNmU2WjBiWlFvN0E2RVd4N1NNMFF2czl1enpFTzNfUWJZa1RXNEV2U3BHRGxNSWQ1SEtCc0w5SQ?oc=5",
+      "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-10T22:56:46+00:00",
-      "domain": "ABC7 Los Angeles",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "More than 10,000 without power as Hurricane Isaias’ remnants bring flood and wind alerts to Carolinas - WBTV",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmU1YUU1aENVczhmWDM3R1d0V1JYVlItVXQyZjRFSjlLN0YyaWQtbUhuRXZPTVdhRGdDTngxMzRjLTlGZzI2UU54UXkwZlRSSmFxMlBkMnFLRnY2RkVXTmFtcWFoR2NyZnJydzN5VDZMSnNJcGExZjE1cTgyckpqbmRBTlJ0aWEwLUlBOEdLVG54b24tSHJDa2sxdU5jTl9SMVdKYWZ1ZG4weGYxZXFDLXQwUjMwZ2JpZnZyWm9zUQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-10T21:23:00+00:00",
-      "domain": "WBTV",
+      "seen": "2026-10-11T06:56:45+00:00",
+      "domain": "Al Jazeera",
       "language": "English",
       "sourcecountry": ""
     },
@@ -199,12 +209,42 @@
       "sourcecountry": ""
     },
     {
+      "title": "UPDATE: Flash flood warning affecting Imperial and Riverside counties until early Sunday morning - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jdmltbHF3YUcyRHBaUWNPMTQ0d0NtU3VkbkxLYk5YZzBnSnBxOThoWjdMWmxJY2h3SkRWRnYyOVpmMXM0S2FRNlhPRmJWS3FSMjU5UVE0d1dZVTJvbnVvRnFqMWtVM0RHZFVid0JNUQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-11T08:21:09+00:00",
+      "domain": "Sacramento Bee",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlZqTVZkYlUxR2xKODRtSHFhLUI5ZVk4MWlwUURPZTRJSy1UYjdKak1ZbzdGMG80dmNOTVlVbUtvbW1zUU9hWE5QeU9xc19wWE50TnR4M05sQ0c0aFI0ZmYtTGN6Q0hwanJUajNzSlRfaVBQNXdPMUlfQlpfb1JHTGlQWkg5aVdOTE5SZ29NRXZLSW85enZHa2dCOVFSWmFpUEptcWMxa1JxVW15ZGhLLTRRcDEyeXBEWkw0RnJR?oc=5",
       "category": "CONFLICT",
       "severity": 2,
       "seen": "2026-10-11T04:03:00+00:00",
       "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmk1ZktpNHpjb3RJeXhEWjlKc2tfaVdkM3g5ZXpMX20zTnBad1pnTzZ6U0JMY2xqVjBCYlRGNHFveXpXNHJqLVdQLTIxMzFfdXotdEpMdWVQNnhQOEdSbUJOSUN1NkVtRk9jWlJpNjU1YXhFS0o0c2dGd3BuUldBT1oxdUxfTl8xRFlXOGtpRldLLVNiUmctN1dLRHNXUEg2YTRNM9IBqgFBVV95cUxQa2ZfMHNqWmxTYjkxc0wzbVZ1cmhiMkNmTV9uUVpuYldfSlNxc2hTTE5qMWxxX01pSlJmV3BBMlkySjQ1UGxhN3RXbHNyTkZmQy03ZWpiY3V5UmpYZ1NWc0REbXB6WVM1ZUF2bFN2MVNyZmx2bGNmLU9lMzVNb2NKc0p4RVF6TmdCNWtDcjJDcHR6OHBFLXNvSkhOVmlVcXVGNV9GQXV2YTRodw?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-10T23:03:43+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ0xqVGwtbDRuaFVMR3JfY2FMczBGeC1BTXZKb25xajl1d29hWFBHaWpYZFNVSGw1dERESlY3US1EQWlqRjRKWUpnS1l3VW5sTG5FSzNKLU5FczNmcVJLeDlISkJYbnByMDB3b2dqakVnR2Q1ckNKRmYwN2YxYjdLWHdfZFVMd3FrZGZRUGhrUHJ3em9wYUhOX0U1QTVqbmRaNDd4cEdCdnpPSEkzSEJfNUlfTWdlT1RxRVRzRWtBaUVldlc4aGtyUVFXQmZjTGNZaGpkcFdvYkFGc1dRdlNUMjFXVEk?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-10T23:02:13+00:00",
+      "domain": "The Guardian",
       "language": "English",
       "sourcecountry": ""
     },
@@ -229,62 +269,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmk1ZktpNHpjb3RJeXhEWjlKc2tfaVdkM3g5ZXpMX20zTnBad1pnTzZ6U0JMY2xqVjBCYlRGNHFveXpXNHJqLVdQLTIxMzFfdXotdEpMdWVQNnhQOEdSbUJOSUN1NkVtRk9jWlJpNjU1YXhFS0o0c2dGd3BuUldBT1oxdUxfTl8xRFlXOGtpRldLLVNiUmctN1dLRHNXUEg2YTRNM9IBqgFBVV95cUxQa2ZfMHNqWmxTYjkxc0wzbVZ1cmhiMkNmTV9uUVpuYldfSlNxc2hTTE5qMWxxX01pSlJmV3BBMlkySjQ1UGxhN3RXbHNyTkZmQy03ZWpiY3V5UmpYZ1NWc0REbXB6WVM1ZUF2bFN2MVNyZmx2bGNmLU9lMzVNb2NKc0p4RVF6TmdCNWtDcjJDcHR6OHBFLXNvSkhOVmlVcXVGNV9GQXV2YTRodw?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-10T23:03:43+00:00",
-      "domain": "Al Jazeera",
+      "title": "Iran Update, October 10, 2026 - Institute for the Study of War",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSVFQZ3Y4RDZJZ3VDcmV3U1JITDZCWGdQNzVKWkd4ZVZfZEZ1akpWTk1yZzZyQVhndFVfTk5rdW1YYTNpZDE0NllNN015TWp2dDI1U0RqTWQxdDI2eU9udHdMZEc0NVlrVTI3QjVaUkRkazVRTTJEY3ROZVZWUHdIb1ZBMjA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-10T23:37:35+00:00",
+      "domain": "Institute for the Study of War",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Coastal flood advisory affecting Catalina and Santa Barbara Islands from Sunday to Tuesday - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xcWV1SElrU2JmaFV0MGJwZUtRLWdOdWFGSENhbzd6ZlJwWVdqZnBOblZscW1OaTBnTG1QNHVuUlRCdEhRVElqa0NCeDJkeWUxZHNSNXhhaE9uLVpJZVNYb2Y5Q216dnFmbHB4QV9BMA?oc=5",
+      "title": "Long Beach officials announce preparations for more flooding as Tropical Storm Rachel targets SoCal - ABC7 Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY05ieFJ1QTExbVBQU0lrdzk3WG5lMjVnV1FDNldEaXBSLW10RUtOQ2Fub1lQSVR1Vmp3U1paeWxZaGlaZU9ZQzRIWGM1WlVZMGtZbklvN1lONmZsQ2VsZ2dzVGxoY1IzZWZSa3RWR3psWWwyY24xbmtucWN0QzBDa1lac3lXeGZ0VEdJSnZGcEdQRXJiOWtZZWtSVGIzWmFFcklMNzVaQVh5cEdMcENNOUtMWlYtSEFtRGZlN1B3?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-10T21:08:10+00:00",
-      "domain": "Sacramento Bee",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Tsunami alert after major earthquake rocks Panama - Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1Nlp2OXF6elc0cGFHV0dIWVhjX3ZUVncwcmJuQjB4MFIwUXVPVG9IeXc2Y2RGaC1hSV81Z2VuMkxGcGFOUl9BMDZFQXdTLWQ3bFZqMDl6dHJ5eGQtVWduWEl1YXk5dkZ0ZzhjMHpfZS1qUURY?oc=5",
-      "category": "DISASTER",
-      "severity": 3,
-      "seen": "2026-10-10T12:19:53+00:00",
-      "domain": "Phys.org",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Flood advisory affecting Surry County until Sunday morning caused by intense rain - Charlotte Observer",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51M1VLb19GWjdmN3I0RkRtNTh3MGU0UmtHd2dvZ2hXVGNmM3VXVXM3ellrRlZmVWI5Y3gyY3B2S1Y5cTFfMG1WYTZvWHphc2pHdkhtWnRuVG9PVDJrZXZpS0twaHRXeVNFNnRsUWluZl9Bc1ZLQk9lVWd0Si1fdw?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-11T05:27:07+00:00",
-      "domain": "Charlotte Observer",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Coastal Flood Warning issued as Tropical Storm Rachel nears: See expected landfall - FOX 5 San Diego & KUSI News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1abzFNRUNrcmxTUDZCamlMR0hNb2dDT1ptSVpFbnRIY2kyZ0g3QWtMMnIwS3BrbXZLUVBjWnplRGN0UDk3ejBjeVNQREFlRDB4Z2E3UzVIWWFhNzJYVUxISUFiRkt0UjYzelBSbXRZVHF3VGFublHSAXtBVV95cUxNdEhtR2I5UF9UMGhvYXBrdHI5bEY2R1RCVW1OaTRoek5TMWQ1UzBvRjhrNmlxbTF3SGE0UzQtMXI0SUM2endEdWFvVEpfelZLOS1IUWpFUzlteWNBdTFaUHktRWRJUUgzX3B1R0ZZNlduTU1NdVlTc2gwRTg?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-11T00:07:41+00:00",
-      "domain": "FOX 5 San Diego & KUSI News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "UPDATE: Flash flood warning issued for Midlands Saturday night caused by thunderstorms - The State",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MLWxBZWlteDhSTEhldXFHbldLUkcwVW1NYy14OTRJdWkydTgyT1ZfQjlObUhsbk9oSVJfcHZURXI5bWVHcjR3WW1wOGJ6M3ZrUmFYTWQyNDkwNnNrbFBhbkFEUFAtV0ZGT2ppc2IxWHEydw?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-11T02:05:07+00:00",
-      "domain": "The State",
+      "seen": "2026-10-10T22:56:46+00:00",
+      "domain": "ABC7 Los Angeles",
       "language": "English",
       "sourcecountry": ""
     },
@@ -299,42 +299,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "Has Yemen returned to ‘full-scale war’? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM2l0eVRNdUNWT1pVd1VMNWRrUVVzQUxJTkV3YnVjeHMtRzd4NFVPYUd2ZlJwZW5tUXNkaWM1RkpJLWFjWC1Vdjh4eVQ3eUhLbGxqMGZ2dkVGcnd0MGhXSzg5RjNkQ2x6YVNDdk9CSmxscmtqdVNhT1l6QnJIS1NqR3ZxUmHSAYoBQVVfeXFMUEs0MXBLamNrT25Ed01xSExUaEh5X0l1NzlJbXZJVGcwUE16MEZuTm8ySTE2cHlMYXZnbC11bFdST21VZjQ2U0ppUW9PLU9mXy15NHhFbTF1ZnlJRmd5RG9CVDhCRWtKeDNHN01kT2hVellqQmp4cGI5Q0RMZWh5WWJGR3BJdUQ4cGd3?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-10T14:14:13+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Flash flood warning for Spartanburg County until early Sunday morning - The State",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6R2xORjBVZS1ROURraldfMGc1YVU5Q1dsY290TFRqTzE5VE1CcWdDOXNVTXV1bmZLRVRtNlNHWkUwLTRFZk9vMmtIWS0xajBNZlZyalRJcXJpRUhBWFZfcm9Wd1Q3TTd5M21aeEEyZllUdw?oc=5",
+      "title": "Flood advisory affecting Surry County until Sunday morning caused by intense rain - Charlotte Observer",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51M1VLb19GWjdmN3I0RkRtNTh3MGU0UmtHd2dvZ2hXVGNmM3VXVXM3ellrRlZmVWI5Y3gyY3B2S1Y5cTFfMG1WYTZvWHphc2pHdkhtWnRuVG9PVDJrZXZpS0twaHRXeVNFNnRsUWluZl9Bc1ZLQk9lVWd0Si1fdw?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-11T03:03:06+00:00",
-      "domain": "The State",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Nuclear Power in China - World Nuclear Association",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNTkxdWE1SEpHMnBsNXpseVRQYXliTm9SUk9RZEtsTC05ZV82OUhxek0tLVVFX096LUd0OGoydmI4Q25pOWZiR2F0Nk50SzNpbUplNmpycDBrWFBWUEdhZkd2NGpBX2oweGNGQXd1Y25lMWlWbjdnNXQzdWo5V1d0V0JfamptSDRScVJwM2NRVHY2UkcxMmNPa3dIU2U?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-08T07:00:00+00:00",
-      "domain": "World Nuclear Association",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "UPDATE: Flash flood warning for Western North Carolina until early Sunday morning - Charlotte Observer",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhcTREdUZxMzRSLTgtNmtqQnp3eW1nZTRmNDBpYWpEUGZlT1lwSndZS2lzdDdXU0ZDeGc0MDRUT05GNjh2TXM1VzEzNkl1STdzc0lkNjY1Nm9mN09JbzhTbmM0LWlVWUMtOTgtZVNlVmlKei0ya1BraWllS3g2QQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-11T03:34:08+00:00",
+      "seen": "2026-10-11T05:27:07+00:00",
       "domain": "Charlotte Observer",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ukraine war: Russian glide bomb attack on Zaporizhzhia kills at least 20 people - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VaXBla2l6ZlZUVmJqYWFBOUxocXhWUEVRcEkxOG4wZzIxV0l3UF9nMGV3Ri1zcnpkOHB4X2luNUZUZmxGUks0VVhpVDNPNWo1V0JScXBhX2pVMlk?oc=5",
+      "category": "TERROR",
+      "severity": 3,
+      "seen": "2026-10-10T20:51:12+00:00",
+      "domain": "BBC",
       "language": "English",
       "sourcecountry": ""
     },
@@ -349,32 +329,62 @@
       "sourcecountry": ""
     },
     {
-      "title": "Fairfax-based rescue team joins Panama earthquake response - WUSA9",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWjZfVGRHMWt3d2U2dDFxUkJqM2JYUndITkk3YmUxR2lJZGhhSzZBRFhwamgybndVdGFRcUduMWd5UU9nOUVyZ1k2T1dZajI4YTZVQ0lBcmxOMHJWUlZsd18yVmpwVVJkd254MFlsbXA1N1d6QTNxdUNCREwwWS1yNHVXYm5yOXUxcHlTbGI1dWo0MUlXN2diODJnaHJOVlBfV1hVWTVpRlJoS1h0NHROTzJmM2NOdmRNVDR4dUM2TlhLMmkyRXg4TTZfY3gyS3ZLWF9Vc3RwVWRUaUMtVUd2aW1XcVFFVEFpWXE4UWtKajVDRTVz?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-11T01:30:00+00:00",
-      "domain": "WUSA9",
+      "title": "Nuclear Power in China - World Nuclear Association",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNTkxdWE1SEpHMnBsNXpseVRQYXliTm9SUk9RZEtsTC05ZV82OUhxek0tLVVFX096LUd0OGoydmI4Q25pOWZiR2F0Nk50SzNpbUplNmpycDBrWFBWUEdhZkd2NGpBX2oweGNGQXd1Y25lMWlWbjdnNXQzdWo5V1d0V0JfamptSDRScVJwM2NRVHY2UkcxMmNPa3dIU2U?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-08T07:00:00+00:00",
+      "domain": "World Nuclear Association",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Flash flood warning affecting San Diego County until 1 a.m. Sunday, says the NWS - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FUFpKY0N4UmNsaXJUQi02WGdPUU5QQU80VE05TEsyQjdxSm80SE1OWFUteTEzMWhseHdtbC1OT0hBTkFacTRONkc0Y2JZWmN2OVMydG1LUWYwY0FFdk9SYUQ2LWtPN2R5TThhRjFadw?oc=5",
+      "title": "Tsunami alert after major earthquake rocks Panama - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1Nlp2OXF6elc0cGFHV0dIWVhjX3ZUVncwcmJuQjB4MFIwUXVPVG9IeXc2Y2RGaC1hSV81Z2VuMkxGcGFOUl9BMDZFQXdTLWQ3bFZqMDl6dHJ5eGQtVWduWEl1YXk5dkZ0ZzhjMHpfZS1qUURY?oc=5",
       "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-11T06:37:08+00:00",
-      "domain": "Sacramento Bee",
+      "severity": 3,
+      "seen": "2026-10-10T12:19:53+00:00",
+      "domain": "Phys.org",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "At Least 12 Killed, Hundreds Injured at Saudi Airport in Houthi Strikes - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3A1N0dSaEowdHRsQm11d1EzUnJneHRRYWRYa2NWU0ZfeUgwOUNzMHpNN2dVWFJQeVRZRDdYTTJ5YUtwX2YwUEprdWowUW1hYXplbjlsbnBuaTk1RUc3ZnBseDgyMFI2Q09BNllMRXVUWm52RXQ1R3ViSEZpZW1OOWlqenhMSDlPMXY2NWVzOEpHTkctQld3WWJaNVh0M05rdUhTQlBCNGl2SXVqR29UbkVNMm8wR00?oc=5",
+      "title": "Coastal Flood Warning issued as Tropical Storm Rachel nears: See expected landfall - FOX 5 San Diego & KUSI News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1abzFNRUNrcmxTUDZCamlMR0hNb2dDT1ptSVpFbnRIY2kyZ0g3QWtMMnIwS3BrbXZLUVBjWnplRGN0UDk3ejBjeVNQREFlRDB4Z2E3UzVIWWFhNzJYVUxISUFiRkt0UjYzelBSbXRZVHF3VGFublHSAXtBVV95cUxNdEhtR2I5UF9UMGhvYXBrdHI5bEY2R1RCVW1OaTRoek5TMWQ1UzBvRjhrNmlxbTF3SGE0UzQtMXI0SUM2endEdWFvVEpfelZLOS1IUWpFUzlteWNBdTFaUHktRWRJUUgzX3B1R0ZZNlduTU1NdVlTc2gwRTg?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-11T00:07:41+00:00",
+      "domain": "FOX 5 San Diego & KUSI News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Flash flood warning for Spartanburg County until early Sunday morning - The State",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6R2xORjBVZS1ROURraldfMGc1YVU5Q1dsY290TFRqTzE5VE1CcWdDOXNVTXV1bmZLRVRtNlNHWkUwLTRFZk9vMmtIWS0xajBNZlZyalRJcXJpRUhBWFZfcm9Wd1Q3TTd5M21aeEEyZllUdw?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-11T03:03:06+00:00",
+      "domain": "The State",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Has Yemen returned to ‘full-scale war’? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM2l0eVRNdUNWT1pVd1VMNWRrUVVzQUxJTkV3YnVjeHMtRzd4NFVPYUd2ZlJwZW5tUXNkaWM1RkpJLWFjWC1Vdjh4eVQ3eUhLbGxqMGZ2dkVGcnd0MGhXSzg5RjNkQ2x6YVNDdk9CSmxscmtqdVNhT1l6QnJIS1NqR3ZxUmHSAYoBQVVfeXFMUEs0MXBLamNrT25Ed01xSExUaEh5X0l1NzlJbXZJVGcwUE16MEZuTm8ySTE2cHlMYXZnbC11bFdST21VZjQ2U0ppUW9PLU9mXy15NHhFbTF1ZnlJRmd5RG9CVDhCRWtKeDNHN01kT2hVellqQmp4cGI5Q0RMZWh5WWJGR3BJdUQ4cGd3?oc=5",
       "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-10T23:58:55+00:00",
-      "domain": "WSJ",
+      "severity": 2,
+      "seen": "2026-10-10T14:14:13+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "UPDATE: Flash flood warning for Western North Carolina until early Sunday morning - Charlotte Observer",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhcTREdUZxMzRSLTgtNmtqQnp3eW1nZTRmNDBpYWpEUGZlT1lwSndZS2lzdDdXU0ZDeGc0MDRUT05GNjh2TXM1VzEzNkl1STdzc0lkNjY1Nm9mN09JbzhTbmM0LWlVWUMtOTgtZVNlVmlKei0ya1BraWllS3g2QQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-11T03:34:08+00:00",
+      "domain": "Charlotte Observer",
       "language": "English",
       "sourcecountry": ""
     },
@@ -389,22 +399,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Iran Update, October 10, 2026 - Institute for the Study of War",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSVFQZ3Y4RDZJZ3VDcmV3U1JITDZCWGdQNzVKWkd4ZVZfZEZ1akpWTk1yZzZyQVhndFVfTk5rdW1YYTNpZDE0NllNN015TWp2dDI1U0RqTWQxdDI2eU9udHdMZEc0NVlrVTI3QjVaUkRkazVRTTJEY3ROZVZWUHdIb1ZBMjA?oc=5",
-      "category": "CONFLICT",
+      "title": "Fairfax-based rescue team joins Panama earthquake response - WUSA9",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWjZfVGRHMWt3d2U2dDFxUkJqM2JYUndITkk3YmUxR2lJZGhhSzZBRFhwamgybndVdGFRcUduMWd5UU9nOUVyZ1k2T1dZajI4YTZVQ0lBcmxOMHJWUlZsd18yVmpwVVJkd254MFlsbXA1N1d6QTNxdUNCREwwWS1yNHVXYm5yOXUxcHlTbGI1dWo0MUlXN2diODJnaHJOVlBfV1hVWTVpRlJoS1h0NHROTzJmM2NOdmRNVDR4dUM2TlhLMmkyRXg4TTZfY3gyS3ZLWF9Vc3RwVWRUaUMtVUd2aW1XcVFFVEFpWXE4UWtKajVDRTVz?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-10T23:37:35+00:00",
-      "domain": "Institute for the Study of War",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine war: Russian glide bomb attack on Zaporizhzhia kills at least 20 people - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VaXBla2l6ZlZUVmJqYWFBOUxocXhWUEVRcEkxOG4wZzIxV0l3UF9nMGV3Ri1zcnpkOHB4X2luNUZUZmxGUks0VVhpVDNPNWo1V0JScXBhX2pVMlk?oc=5",
-      "category": "TERROR",
-      "severity": 3,
-      "seen": "2026-10-10T20:51:12+00:00",
-      "domain": "BBC",
+      "seen": "2026-10-11T01:30:00+00:00",
+      "domain": "WUSA9",
       "language": "English",
       "sourcecountry": ""
     }
