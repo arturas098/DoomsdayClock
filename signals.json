@@ -1,13 +1,45 @@
 {
-  "fetched_at": "2026-10-12T07:22:03.483833+00:00",
+  "fetched_at": "2026-10-12T17:56:32.816536+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
-    "google_news_items": 35,
-    "lrt_english_items": 9,
-    "errors": []
+    "google_news_items": 0,
+    "lrt_english_items": 8,
+    "errors": [
+      "Google News: HTTP Error 503: Service Unavailable"
+    ]
   },
   "items": [
+    {
+      "title": "Lithuanian PM: We should ask Ukraine to strike more Russian data centres",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3080239/lithuanian-pm-we-should-ask-ukraine-to-strike-more-russian-data-centres",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
+    {
+      "title": "Lithuania says Trump-Putin diesel deal weakens Western position on Russia",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3080189/lithuania-says-trump-putin-diesel-deal-weakens-western-position-on-russia",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
+    {
+      "title": "Lithuanian lawmakers propose legal protection against AI voice cloning",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3080130/lithuanian-lawmakers-propose-legal-protection-against-ai-voice-cloning",
+      "category": "AI",
+      "severity": 2,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
     {
       "title": "Latvia faces new reality after armed incident on Belarus border",
       "url": "https://www.lrt.lt/en/news-in-english/19/3077169/latvia-faces-new-reality-after-armed-incident-on-belarus-border",
@@ -39,8 +71,8 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "Nausėda: Lithuania struggles to spend defence funds",
-      "url": "https://www.lrt.lt/en/news-in-english/19/3077090/nauseda-lithuania-struggles-to-spend-defence-funds",
+      "title": "Russian large-scale attack on NATO not likely – German intelligence chief",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3073267/russian-large-scale-attack-on-nato-not-likely-german-intelligence-chief",
       "category": "CONFLICT",
       "severity": 2,
       "seen": null,
@@ -49,364 +81,14 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "Lithuania plans €4.8 billion for defence in 2027, substantial budget deficit",
-      "url": "https://www.lrt.lt/en/news-in-english/19/3076225/lithuania-plans-eur4-8-billion-for-defence-in-2027-substantial-budget-deficit",
+      "title": "Lithuania to propose EU ban on Russian grain transit, sanctions on agricultural oligarchs",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3076118/lithuania-to-propose-eu-ban-on-russian-grain-transit-sanctions-on-agricultural-oligarchs",
       "category": "CONFLICT",
       "severity": 2,
       "seen": null,
       "domain": "LRT English",
       "language": "English",
       "sourcecountry": "LT"
-    },
-    {
-      "title": "Troops at Kaliningrad border are for stopping mobilisation dodgers – Lithuanian minister",
-      "url": "https://www.lrt.lt/en/news-in-english/19/3076205/troops-at-kaliningrad-border-are-for-stopping-mobilisation-dodgers-lithuanian-minister",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": null,
-      "domain": "LRT English",
-      "language": "English",
-      "sourcecountry": "LT"
-    },
-    {
-      "title": "Trump claims Russia and Ukraine agree to energy ceasefire - Axios",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVF2eXRIalp5NDI3SDlpcW9xVkVfTXlWb1VYN2NveGg2OFFQMTVTb01mVUFGVTl0SHVJbTl0YXFwOXJmNURFQ29TRm12MGFoRmRnSEx3aE84X3VGWjlsMnktMTZOaURXRE9VTXNuUl8zWWRPMW5obVlmSDI2ZUhtZFplQmlaQQ?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-11T23:17:51+00:00",
-      "domain": "Axios",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Iran calls latest U.S. proposal to end war 'insufficient' as Netanyahu's corruption trial resumes - PBS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXRjcFVOT0JlLXZweVZyNTFOcy1CUUV2ck1uekRRUFRTN0JlemlmTlREc0VRT2w0QllyUnRHS1JSWUI2Yld3QzNMOVdKMFJmQ2dtcHR5QVZxb2staWdoMkJJMFo0XzhaRjZuVi02NDFJZTZOV2s2ZDN5cGN0b2RpY3pyU3JzanZLX2V2R1l3ZjVUS1ZfTHY5Um5heEU2UHRTcjhpLVgycThkMFhiYTNQOXdBaVR1VGcyTndhak1qa2JXa2pBTk5n?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-11T21:43:11+00:00",
-      "domain": "PBS",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Panama suffers over 200 aftershocks after Friday's 7.7-magnitude earthquake - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYmFscG9BNDlCQjE3NWR6ejJORWRuTjhOX0hrRF9aaDc4T21aNVliZEdFU1UyV0JqS0hZMmh1YTh0TkdpYlB0VDNscUlUbkF6alYtT0hnY1BwSUhsamlMTGI2UDFPbmRzclF4VHRmNDdFMFRTRFZIWTBIaThxMW1fRjEwazMzd1M4Q05GS2hiaGVUOUQ1a1RHeTYwbmptZ21LUTFuQlVPYlJKQ1ZYc3BkYm1uc21EMnNjSXNVUEhnV3lMS2tGeEw2SVlR?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-11T22:29:43+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Flash flood hits northern Nepal, damaging bridges and sweeping away homes - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVVlqRDhhQWtGWGoybzVaNkJhX3FwNjU4bnhVbzY3Y0FOcHpsQ0phRlJ5RGs4ODBfOVhVdjhtcHJ1VXVjQTBScF9lbGNlRjEzMEZhYjJQRDV4RlRVUS1oM3NxTTRWeGhZNUF5QXQ1MnUwQWhRN0xBTld4WlY3SFg2enowc3JzaGFpOVBKbS1MdHBDV1FHWG5UZmp0bnJFTHNtWWtVLUlRcUQzbkxPYURJU1Q4b1Q?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-12T01:40:00+00:00",
-      "domain": "NBC News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Fixated on AI, the world has forgotten what is staring it in the face: nuclear annihilation | Simon Tisdall - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUhSbnlacEpIWXd1X1dJQ2FwWFBBT191b2VRYy1yckhzNzF2Z01LY0cxbkdkT1J0Yy12YXlJbTR4WDlLVkw4YVNkRi1LUHBreGhjbWtXV3RxWlFRVERYRHItTWNhaExQQzQwc3lENTVJU0l0SnY0V2otZWZkNHJ4bGxaNml1NWZxRGtGQ2JrazVjMWMxNjVEZm5R?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-12T03:19:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiting for details - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSFhUNWlxY0VWSjhteUoxY1JNYnIxR2RJLXV4NE02eWxKd1lsRU1JNHB2aUVmeDNDZzBWaWVPM0JxUlBIcEZCMkRnQkJ3dlBPYjBxcko3TGlaSEY4ZndpN05FVDk0NFowU1J6bmhxUkpzRGN6STdQbnNyS0Z6X0t6dmhVcVFTQkZWQ2NGY9IBkgFBVV95cUxQYTAxSjdOUGkwUWxZNmwwbUNkckYxTnM5cUFXakhSLVg2LXp5R0lIYVliZnl5SmlvelFnVXdjR3FMRWxscnlBZFdQVXM2blJBV3VLMWFPOXlSeUxubW90RkZKMm5BeWRNc1VSX1N1T1lqczNHZVVxeVAwUnpaNklKVXNCZ1V5alIzX19SVFF2Z3dvdw?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-11T19:32:40+00:00",
-      "domain": "CNBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "What to Know About Trump’s Russia-Ukraine ‘Energy Ceasefire’ Claim - Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYTByWWM2cENyMzB1eFpob2d3NlEydG9BUWFrNUZsQ3VZQjAzbGE2dGxfSE1reExNMEhsOGE3UVJhWldSckRnZjV6RFNYcHJ6TDVTMmVFaWZpa29WMHVyZkpwMEs1cVJNekNQN29XUXQ5NG10dlFKTWJLV3B6WW1Sc3NZdDhsck5WS0oxYnV3Wnd4anNHWFN5S1pWdzZNQjNVbnRRTUdtNA?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-11T19:45:35+00:00",
-      "domain": "Time Magazine",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Flushing home invasion: Man beaten with crowbar, robbed - ABC7 New York",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZVlhSGNSaTlCaGUybXkzNnJ2Rzk0ODZLZmFlc0I1QTlMbGFHY2htUWpETXFGS3JPR05IZFVPS2hJUWlPeWk5NE1WT2VCVmJicW1YSGYwMlZPbFJCcThmcTVHSV9DcWN6RlhIRTIzaU00cjlTaDFNeTF0Sno5TC1nUlcxeXl1X0dFU1NJMjVfdVpxUFB6TmZHNjFxYzQ0OFgtWHo5TTgtSVhwWFd4QnNrVUJDamI3Z9IBuwFBVV95cUxOV3FtS0I1UTgyZ3pXYmZZbTJKeDBBTjFKeDJLM1JtNmdJU2VLUG52YWN1MGlRcFJUdEF5Qm56aXlvbENzWXpFTWZKNmI5M1p5OFFnQWo0YmQ1U1JzTFhnVy0wQ2VyMnRmMkJhc3dhNW5Ca1k5UUdIRTlGQzJtSmEwcUFtT29kNzQ4X1dwR2hLQkozTHNNZUxYUF8yMlRQQVJYS3Y2TUxjZHlMZDBnT3dCMkhTMTg1UmFCSlow?oc=5",
-      "category": "WAR",
-      "severity": 3,
-      "seen": "2026-10-11T17:50:10+00:00",
-      "domain": "ABC7 New York",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump says Ukraine and Russia have agreed 'energy ceasefire' - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04QUtQbDZLV05uX0dPcEwxc3poa1BGZGVYdmVjM2NzQ3pUMkowOVd6ZzBMTGRZNG9KVlhUNHNqR3o1SG5sel96Rnd3YVJQMjEwZ09zRnoxSFcxQ2s?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-11T21:36:40+00:00",
-      "domain": "BBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump says Russia and Ukraine agree to an ‘energy ceasefire’ but Kyiv says attacks continue - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamZWc0pzUzdKd3YzOVM2MXRGdTc1akUwMDBma1pxUkt1OXd3ajk5RUlhLS1xaHJsVVdwVXk5cDVaMlFIcGxqSWtpelg1UUsydjFIZ3VpSXBKMTBnVlh3TTFUMGdjNlBtMWhEZmFpSnFTNVBDMWx1OVN5X2xGQS1DUndqS2RPQ2FBWXIxNGE5QzFhX0wzaW9vWUkwb2VoUHhGZU5Z?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-12T04:56:00+00:00",
-      "domain": "AP News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump announces 'energy ceasefire' between Russia, Ukraine - Politico",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1VQSGhZaTdJcC1sT29sUTJZZjFYd0tpQm4zN3VJRklkc29STTdGWk1vZlljS1drNGFBUnVYYVN5M2t1OV9TeXJscVpsTWw1cGNSaGYwU0pFN203aTJ5M1g1b1NoVFpnbklMNDV1OWJ2cGRqV2RJLVFWRndLQ2lNMEp6aEdISzBHZmZjQ25VMTBrdw?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-11T15:07:00+00:00",
-      "domain": "Politico",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump claims Russia and Ukraine agree to energy ceasefire, but Zelenskyy says that’s ‘news for me’ - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNenNrNjdxdUZuN0RldlJxbHBrYWM0aEdGU25GM21GMTZjZ3I3YXNlcnNWazNNcEdid3FuNUUxblppNDFSUmpBeE4tWjN5U2QzbVZ3U2Q5QlZVblFNaHFFTHZpWVBCbjdCQ1RTWkc2aDdESnNwaEhGX0ltVUpUdUl2YW53RU5BVGx2OF9hR2xxREpWWkM4dF8tMHZmVnFQbGJHZGgybEJNRWNkVUJVR3c?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-11T15:02:00+00:00",
-      "domain": "NBC News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Zelenskyy says Russia violated energy truce announced by Trump - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUDJUUzVWVzMtc09KVVpjTzJQbUNyWHpWSm1CejhEV0QyNG1NZXo2d3pRSWNLcW1kaVVPclhMQndnUU5ZcHdtWWowRWI0S2thVW1DUUZnOF9JOUZKYkcwOTViSUIyZjMxdmdmcGRBUDV1WjRMWXAxaWtvc180SVFWQS01d1BaMDdySF9xbGIyMjBCSVRYXzhlZWxXSdIBoAFBVV95cUxPR01OQ1hsMkJ5RWhiZHE2V1o5YlJ3emNtdWFsWllxX1NOQm0xSDlfS0E2dzZid01wVV9iS3VMSWg0TTNTRVJXMXM3OUZHYml5cUZJX1RMSVZXX2ZVMm1rVnA4UzhJQ3hvTjlUNkFxVTEtclhmS3h3YVowZDJub2JiTUZVZFctZ2FHRDh4N2ZpeHQ2ZUlTWXZPLXFoTmdNSXdW?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-11T21:26:06+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0xoWVo4eTNVMU5uQXk0Rk9WeWlMaWN0TFlDbWwzX1FqNy1iWW5iUzk0REtlMGNVSnlGWkRCb0tySkQwRFZ0NzVDQzRFVk1IcWNqVFIteWpOVTRVM01xblZ0TzN1dWdlNUdYWTRMUUFBOGhwQ2xTYl9NaTF0bmk5UllSanctMGJDT1g3MnVuX1IxTWpwR193RHoyV1BEd2FqOWlDcg?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-11T23:26:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump bears down on Zelensky as Russia keeps up attacks on Ukraine - Axios",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHZpRnVWRlc4eWdqQzRGNnFiY2xheFhYb3Z6QXFrWGFQNk9aUkpuemc5cmQxSnFYMi10YjJPRzQtWmtVRkZHNWJlM0s4S1VvdVFFT19vdndGYWYzUFdxOVRvQk1laV96VGFkN29oeHpNMWItUzR1MW43R1dVd3I0ZWFTd1hNRUxqUER0TmhvcENYNGs?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-12T03:17:50+00:00",
-      "domain": "Axios",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Villages evacuated as flash flood from Budhi Gandaki River hits northern Nepal - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHJiTE5uU0t3VjY2XzhVV09yeXR5OV9OWDdYeHpJMk15WW1ScXplQnZIRFJWT2RkdHpfRHhMZjZhUDdVcmZoUldnUXo0bEtPa1F2Q3JHWGtieFV5YkE5WDdNa29lbVNpWXBaQ2ZhQWNrRzQ1VkhkLVdaUjNOYjlpZHRVTVU2TkZPTlBvM3FSOUpBVmhXMFhYUzVBUHI4UlpUMm5HYnd3RUFSY0pt?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-12T01:33:00+00:00",
-      "domain": "AP News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Two powerful earthquakes and multiple aftershocks rock Panama - ABC7 New York",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QNXpjanVLR2g4SHdTSXpFbVJSc0hrcEx5a005ZVNEeW1GdjZXQ0otVXJVVEVweW90dklSUWlJckhXZWlhR0o3d0gzdkMzNVZUUFoxSzJveUp2UGp2dnltbUgyb1FaX3pPSXZvVFNldjU4SThVbm5lRw?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-09T19:11:36+00:00",
-      "domain": "ABC7 New York",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump says Russia and Ukraine reached 'energy ceasefire' - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGthQXk1OHFPRzlYcjNKVnk4R1pDQXIyTExXMk02TUU3Qy1WbkFxTFhjRXc2MlpmM0s0bDdwQ1Y5V0JDWHpCdGpfRGxzWFlrU3F0d3FBSjY0X25udzkwVkxBamdoS2xLUE0wWHdVTy1RY0N6dnRmd0dnMnJtU2FQNGpaazRqSU1zcWhPV201ajliQmJPcmZ3ZWZUaXNEWTVx?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-11T14:31:48+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "As rising waters flood homes and temples, villagers protest India's $87 billion river-linking project - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTElpdjF1UmxmZFZUSnB1c2VCVHVyTlJ0cktqZmNHbmJGVXNsRUx0aUtGNDZuUFBzU3c3VEQ3UXN6M1dkX2hSeTBnOXFIS2hIWTRRSWs5bDBWVUVkSEFQb3ZvVkZUVlFjWVhLOUEwNmgtTDVFV1d5V2hPb1VxYnBodzlyRVVhQl9YMC1wUWgtdkxlSzl2X3ItYjJvQlg2bUZraE1SSDgxVlNSR3ZmOXVjMzdvU3VrS1FQY1FuT3NqZmY5X3NlTDEwdFpkYk4?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-12T01:03:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "UNICEF Panama Situation Report No. 2 (Earthquake), 11 October 2026 - ReliefWeb",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRVlhQklxVDgxcjR5bWxjUXlURHZCazlEeDBhN0dONV9hdXgxQ3Y2WkozYmhtLW1ScmdqWkpxZ01iUW5wTnNXWTBYZWYyNjZaLXlEMzZSUVQ5a1JLTzFQZTBzOEdNR2psajB3c1ZmXzNkZXVWUnlTTTZWamxBT2tlU0pNcjJMVVFHdXJ6QS1CcWtmbHR0c0Q5ME9ycFV3YUk?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-12T06:02:32+00:00",
-      "domain": "ReliefWeb",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Five people missing after Nepal flash floods sweep away houses - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQWZMckprSWhOeDhBejJ0MlFUUDM1Z181bk9aVDJLLTFyM2NFWko0WmVhZkd5QmY0RXZONTgyaHBURFIxMWNPZTY5QVNMV0RlOGdVX3NsNXRwSXdZWXhzN2hFcHJ5Z2hLUS1palZiZmE0eFZRM3JXVkhaSGE4ekVuZnR1NWFwRnJi?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-12T04:26:00+00:00",
-      "domain": "The Japan Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ0xqVGwtbDRuaFVMR3JfY2FMczBGeC1BTXZKb25xajl1d29hWFBHaWpYZFNVSGw1dERESlY3US1EQWlqRjRKWUpnS1l3VW5sTG5FSzNKLU5FczNmcVJLeDlISkJYbnByMDB3b2dqakVnR2Q1ckNKRmYwN2YxYjdLWHdfZFVMd3FrZGZRUGhrUHJ3em9wYUhOX0U1QTVqbmRaNDd4cEdCdnpPSEkzSEJfNUlfTWdlT1RxRVRzRWtBaUVldlc4aGtyUVFXQmZjTGNZaGpkcFdvYkFGc1dRdlNUMjFXVEk?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-11T17:24:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine's Zelenskiy tells ABC he will organize elections if Russia agrees to 60-day ceasefire - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHBvR1Y0bmdYLTV0NHhWQXE1MFFTMHlvYmZRYnRILVMxM3JiSnJaSVBmbUkzVmN6VXptNnBsNDhXRXZEX2hBS1FOZGhyc3Zid3poMksyLUVLNHZkTGNUekxjWUlyejF6N3hpVDdQcFE4OG92REpjamxKSzV0YURObE9xV1FwYlJ5TVUwZjB5N3hSYzJLTUJuV0c0VG1TZ29jMlN0dDQyOTNDR2tBR1dRRS1jWmloaGVTbU9LOEN2ZnBFZFlmdHJn?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-11T15:27:56+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-09T07:00:00+00:00",
-      "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Flash flooding sends water rushing through streets near Las Vegas strip - KSNV",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORTVnbHBDWjJNdUNUYTJMemprSy1NYXMwMjlXNXhtNXpWbkYwdTlNRWJjMkduQ0NwTmhQYkJfTXo3QVQyNDdOaTIwd05ScVVQdnZRMHBBU21aeUVMUVU4eF92TVJmNTI3TmFZRVpEcmR2eTViQVEtTXdGazJLbkhELWVaWFRjRFp6cjR4NUhaek1KOEZ3QkVtTk5lOGVYTDFmZkRJak5SVTJfQWloYlE5eDctQV9MczhUc29lODdPT3owYjV0VFpJSlZFc0I5dTV1QXREYmJ2MlplRTh5WERCV0M2VFBLNVpRNmN2SUlXeldHQU0?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-11T20:25:19+00:00",
-      "domain": "KSNV",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Hormuz attacks intensify as efforts to end war on Iran stall - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOajZFRE5qcjI5WGVBUWVORmRYZ01xNzFGS0RvR01PLVY4UEx1dUFwQ3FkZlA4QWNOeTJSR0NUVUZQcVR1UjdaVmNBRU1yZ1ZuT2gyWDkzRlA1MUE0MXkwU3NEdWJWbzNodU9nY1pLU0VyT0pRQ0FjbVdEcFFSVEMxNnNHSjRHdmNUZmVGNjd3ZV9YTTJpc2U4dTRJUHBJOUlMendhONIBqgFBVV95cUxOVTdCRlJ6b1lUaVNqQlB0cERHWTB3TG5sRl9nSURfalAzZEJOTi1Ba3dkNmQ5ZGFoelJVMUhDY0l3QzQ2bWhFcUlfalkycDIyRFFiNGpaMGdSRl9pRHFpTGh6YXZJb0MwdGx1T1E1SDd3NjhkNmc0QlZibTdVbzBQNUdYQ0k4eHQ2TjJ6Y05lMW5FRHVEd3Nfdi1KZE1CdmthbDNMeHZjelVoUQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-11T14:05:52+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Hurricane Simon and Post-Tropical Storm Rachel Bring Flood Risks to Mexico and Southwestern U.S. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdERxa0NDVkxEZlF5dXo5OGVxQ2lQNDZEdXMtUHhFdnVfZTg0UElzaUo2NGtxQ0ZVZkk4VUJtalFDRmZsWlByUkJVYU9EdG1NWGszajV0TEZsSW8wX1o5ck9XSF8yRlFteUhvblptUFhGNmhqbGtKbzVDdGhtQ2MxN29ncnpid0Jt?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-11T13:40:47+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Morning Bid: It takes two to make a ceasefire - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByQ0pKUGhDTEVObXEwZ1JPWWVjRWgzcUVtR2N5MkI4MlFMTEpNbk1iOGJwZjdvZU9ob2FKS3MyaVhic0pQNmZJQVhSMDY5UU1vekdXdk5naGt1cDBjSkh6enlTMTFTM2RTdXM2MG00MXNMMWJKNVJucWpTM3ZXekU?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-12T04:32:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "The History of Nuclear Power in Space - Department of Energy (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xdXdsX2xfOGVGUmlqX2pxQTY1ckp2R3lDdVA0Rmo5dFI1VWtrVmpEb0NOb2VmaUdiUzFRZ3ZsWGx2TjkwZ2hrN0s0WlI4Tmw3cHN1UERTT0YyOVFKN0h1X01OR0R1ZXMzR0ZSZmtVMA?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-08T13:45:59+00:00",
-      "domain": "Department of Energy (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Anduril unveils interceptor missile family Steelfin to counter varied threats - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbEREV3BlQTNlOGhDZFRxVGY2TXBNYnFFMXpuSndaQ2pkZks1Q1FiekRWZG5GdjdoSnEyZXVEOS15a0xGM3BsWWttejAzaG9nTl81TG5YVTNGUnFYZ0NsTEpWV2xfSjVkV05CUVhKWDEzUVpQZzhSSTRiV3NIMFhaR2laNXRoYnUzSUlScnFldjFxc3BiZmtQRmg1MWR5cGJGOEhOY01ubmUxcWJOR3JzbkJOd2I0R1A5a3lsMGJ5bUl3bVpDTVpMblhYaERRRDN6YWtfOFpncw?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-12T04:07:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Preventing and Mitigating Flood Damage to Solar Photovoltaic Systems - Department of Energy (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYndOZGVEVV9nWGF6NkdBalpQRTZvY3pSb3N2OHMwcWlud2hlRFh5OGoxNXBOOHROOE1Hd1dxV3k4MEJxTnF4aTlRVnhYQnFPUzFZUjYzSUpDR0U4QXNiMUJ5Smg4OF9mSGZ0bUwzUVNoWUxWbFpLcHFDTlFuTWJ5YlR2VklrM19IbXAzeHdEN05Ea1F0Znk0LUxqb0VuaFE?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-08T13:45:59+00:00",
-      "domain": "Department of Energy (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-09T07:00:00+00:00",
-      "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "North Korea continues streak of weapons tests with multiple ballistic missile launches - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPaGVTQ2poU192cFhMYzRnWjRJS2N4Y2dPUTVySjJsTVM3V2tIYzJzRy1iX0ExT0tMbTdNdFVXNEY5RGR1aUQzNUs3MWpPc2g0Tmg3VVBhWUQ1MDhfbHJ2cWQ1MGx0VW1zVmt5Z0pzVzByTjZBbC1FUlIwVlQ?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-12T02:37:19+00:00",
-      "domain": "CBS News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Outbreak Investigation of Salmonella: Sprouts (September 2026) - U.S. Food and Drug Administration (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNG1iTHdOMDdWTnlPUEUtM09Da3VidGZoMUV0U3Z1cmQ5amFramhac0dCdWpVckp2d3FMeldzSUtIN0M1SklFemMwdmtWYnZic2NVcy1iZFNpaE9ubU1EU2Z3N3V5TlhIeUwxQlB1SDFGOElvWEdZYVE0d2Y1Z1FZY1BsaEVsVXVUMzE0WEdhQS00OXdyQnRYTENlNGJYbktpSDRlNklWTzdJdGZfd3c?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-09T16:30:00+00:00",
-      "domain": "U.S. Food and Drug Administration (.gov)",
-      "language": "English",
-      "sourcecountry": ""
     }
   ]
 }
