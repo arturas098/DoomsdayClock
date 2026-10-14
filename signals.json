@@ -1,13 +1,43 @@
 {
-  "fetched_at": "2026-10-14T06:09:30.924756+00:00",
+  "fetched_at": "2026-10-14T11:53:46.596442+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
     "google_news_items": 35,
-    "lrt_english_items": 10,
+    "lrt_english_items": 12,
     "errors": []
   },
   "items": [
+    {
+      "title": "Interior minister asks to extend military protection of Lithuania’s Kaliningrad border",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3082220/interior-minister-asks-to-extend-military-protection-of-lithuania-s-kaliningrad-border",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
+    {
+      "title": "Lithuania seeks to designate Russia’s military intelligence agency as terrorist group",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3082129/lithuania-seeks-to-designate-russia-s-military-intelligence-agency-as-terrorist-group",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
+    {
+      "title": "First troops in returning US rotation arrive in Lithuania, president says",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3082052/first-troops-in-returning-us-rotation-arrive-in-lithuania-president-says",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
     {
       "title": "Eastern flank criticism mounts over Ireland’s EU defence budget cuts",
       "url": "https://www.lrt.lt/en/news-in-english/19/3081351/eastern-flank-criticism-mounts-over-ireland-s-eu-defence-budget-cuts",
@@ -39,34 +69,14 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "How is Lithuania preparing for the worst – war?",
-      "url": "https://www.lrt.lt/en/news-in-english/19/3077302/how-is-lithuania-preparing-for-the-worst-war",
+      "title": "Super Intelligence - NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
       "category": "CONFLICT",
-      "severity": 2,
-      "seen": null,
-      "domain": "LRT English",
+      "severity": 1,
+      "seen": "2026-10-14T07:59:03+00:00",
+      "domain": "NASA (.gov)",
       "language": "English",
-      "sourcecountry": "LT"
-    },
-    {
-      "title": "Lithuanian PM: We should ask Ukraine to strike more Russian data centres",
-      "url": "https://www.lrt.lt/en/news-in-english/19/3080239/lithuanian-pm-we-should-ask-ukraine-to-strike-more-russian-data-centres",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": null,
-      "domain": "LRT English",
-      "language": "English",
-      "sourcecountry": "LT"
-    },
-    {
-      "title": "Lithuania says Trump-Putin diesel deal weakens Western position on Russia",
-      "url": "https://www.lrt.lt/en/news-in-english/19/3080189/lithuania-says-trump-putin-diesel-deal-weakens-western-position-on-russia",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": null,
-      "domain": "LRT English",
-      "language": "English",
-      "sourcecountry": "LT"
+      "sourcecountry": ""
     },
     {
       "title": "Does a Russian lab worker's death carry pandemic risk? Experts say it's unlikely, with one caveat - PBS",
@@ -75,6 +85,26 @@
       "severity": 3,
       "seen": "2026-10-13T23:32:57+00:00",
       "domain": "PBS",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "World’s Energy Order Tested Again as Iran War’s Reach Extends Further - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekFBLV9XVkZmX2hLR0ZHMGhxMzB6Rkp4ZHhWLUFSd3N0VW1pVG9FOHlhal9NNk1JbjRNaDlMemJTZ2ZhWFBOS2FFMzJVSXhMRVNPNXZDTlhkTVBDZVNmOU54WjNseDAyeWJnSjZ4cU9MdmpaZlFtOVhGRENhakdzb3l2YzJVZW95MUhhSFd3?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-14T10:48:42+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Exclusive | The Houthis Are Building an Advanced Missile With Chinese Parts - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ITkpCSEp4NVcyNXpuS0FwY082d09qTWxQTk9majc3Mnp4cFlxSjI5NFVaZE83ajhKMWlzOHZHcWlwRkRLaXJ1Z0JtM0lRcHFaQzhpalRhd3NLNFBsY2o4RWxDZUplOGNGRXRSdFBIUEZTM1BfY25uSmV4dHkyUQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-14T02:00:00+00:00",
+      "domain": "WSJ",
       "language": "English",
       "sourcecountry": ""
     },
@@ -89,21 +119,11 @@
       "sourcecountry": ""
     },
     {
-      "title": "Exclusive | The Houthis Are Building an Advanced Missile With Chinese Parts - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ITkpCSEp4NVcyNXpuS0FwY082d09qTWxQTk9majc3Mnp4cFlxSjI5NFVaZE83ajhKMWlzOHZHcWlwRkRLaXJ1Z0JtM0lRcHFaQzhpalRhd3NLNFBsY2o4RWxDZUplOGNGRXRSdFBIUEZTM1BfY25uSmV4dHkyUQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-14T02:00:14+00:00",
-      "domain": "WSJ",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Russian missile attack on Kyiv kills two, Zelenskiy says no warning received - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLW5OV0ZHelpkMDB3VlZCUGVNYl9KRExhWmNZakJjMUxsMzg0dHFOZXJtenRzQXpGUXdydDNYdHZ2d05Tc2RmZXdSeFZMeGJZSkgzUVYyMmdzSGZYWVY5NUJfOFU2RFBMQTlzRmNCZElNbnlaQVN5UU5qMVBaR2VjX0xCWHRCZw?oc=5",
-      "category": "CONFLICT",
+      "title": "Singapore pollution spikes, East Timor shuts schools as Indonesia wildfire haze intensifies - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbWNJbU8xUXFUUnBwakxUbEtfTURTWFlZd2xIdVJoU3RkUW1aTTBYN0ZIVmozQ2lfUVBVd2IzYlJPQnJpWDZEcGo0REpSbms1LV9pS2doZzBwdlR2cm0wOEpMZkp0NUlTS1hpN2k2akFhek1FWW8xYkYzZzNZZmloOGFjcVFmbG9yd25VVHJiZThPcThEaTJsNjBxSXE5SV9mUFBkZ3E0NHlmSEU0RHZnU3hhRWN0NXZFTEliUVRxYXlNSjJFZzlDQkROSlM?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-13T23:13:39+00:00",
+      "seen": "2026-10-14T10:52:12+00:00",
       "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
@@ -119,6 +139,16 @@
       "sourcecountry": ""
     },
     {
+      "title": "Zelenskyy talks Trump, rising diesel prices and the ongoing war in his country - NPR",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTnVINlJ5LWlsNXdwYWlOS0xQY3o4TFZSSnIyakxwRVBhYVVNY0tBcFBoNkdydVh1R3NZRmRweG85TGxYMi1oNEpxZkRfcVVwNUtNbTNGSDc0Y2VpUGtwRUZyT21laTB6cEItZnpJSjZmMWpsYmdsSFRsOTBDLV9CU256eXdyMEhSY0dUVXpZUXgycWtsQ2VWTXh0YnBrYWtOUHpjTS1IWFFKWVlTcnY2Qm85Nl9MZXBLeG1kTUlBcw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-14T10:44:37+00:00",
+      "domain": "NPR",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Allies gave Ukraine no warning of impending missile attack, Zelensky says - CNN",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vdEVMOHlpZm1GaWlMTVhULUZOeFR4MXhDaU5WWVNTd0MwclFFckQxTDltWXg0M0NQajYwdDRrNDRHYnVOMkt0aFNTdEZXQXVrQy1xd1BkYTU5QzVTdV9sNm4wWE9fQlVOY2lodkk2WDRUWk52TFBnVEVkMW9ZQQ?oc=5",
       "category": "CONFLICT",
@@ -129,12 +159,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Aftershocks follow 4.2 earthquake near Gig Harbor - FOX 13 Seattle",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSnV0VTBuUHRlaDdEd1JlVjhONkRVU1ZDY0Z0eElyV1ZwcXlIMUJxamV2WUJOaThXenBsbl8zX0EzNTB2RTlCcjl6cDRLeXRVMHZ1ZzIzN0FIaHFpX3gtTnU3MTFUdHJweXBFaFdsQ0FMNFQ5LW9EaXUwNEpYc2J1dU1VeVJybVnSAYwBQVVfeXFMTTR1aTJSR3VYMnlBOEtYbExxdjNWTm8wOGRyWTBabXhyQl93WXFYODU4NTFPVk1kd3NHUzJHS3hyTF9ySUI4b3phMkdsaklLby1GRVpMVWRGTm9jWFRzWi15a3VyanJfLUNIRWNJNWxmTW9xampMNjBySmNYU2FDdEJjelRRM1lIeDNYcmg?oc=5",
-      "category": "DISASTER",
+      "title": "The Iran war's unexpected impact on US defenses against China threat downplayed by top Army leader - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTDVDV3VOUEthck54M0wxUG5xMVg0R09Nd21LaHlQUGtQTmlTcGhDdkNKUjJ6RU9ZaFZ4S3ZqeHdtQldxazE5SGszSDFydHFiT2huSFZNam83M0ZlOVhsaUxQOFZGb3RTWEhkMEh0WnJGV3E5UWIzYl9ld3BkM1FTMlQyTE9aVGpJVlNlQzQ5elVVckFQd1l6b1FYSTY0cnduU21DZ0IySFBCd2xOd0ptVm9lbjV6dUoza2JPSNIBwgFBVV95cUxQRWpGREpRbjRzeE9lQ0VRaW83czh0VWx0RVFGUUE2TkMyWXVCajh3MTZmZmNaVzhYdzM4Nm56NXVSRk1mQW15ZWdWYmJOaWppd3dLdnY2UWRtV1FlN0lRNDNwSWdxbXZVNXZldDltOFlkM3o2U1RXZHFiN3hhZnpNeGl3eF9TVWRZdGdKR0ZTREV3SGN5MFpIOWVwOGNmUWQ2VUhpY0I4Qk5ZdFNSdU1GeVd5MDczcFpVM2dUR2tETFkwUQ?oc=5",
+      "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-14T01:36:07+00:00",
-      "domain": "FOX 13 Seattle",
+      "seen": "2026-10-14T10:00:28+00:00",
+      "domain": "Fox News",
       "language": "English",
       "sourcecountry": ""
     },
@@ -149,52 +179,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Ukraine war briefing: Zelenskyy decries ‘absolutely unjust’ lack of warning from allies after Kyiv plant strike - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONi1HcG5uR0JIY1ZCTnhPb0M0VTZTcWxCOWJzUDBObDJCYlgzU2d1ZkVtZDMwaF82LVNFTlR2Nk1UWktwcFVILWktREozQVNnU2lKcXVxSU1sWTJCVVZDOFhUQVpsQ0RTVTZrd0xVZUM3VGFQT1ZkN1hnUjJ2UjVaZXFfTlp0dVJBMG1xNXNUalE5bVJCbUNlWmsyekFzX1BXWHBXQ0xIZm9jRDIzUTBkX1ZuR3o3Ul9qbHQ4Qkktc195RUUyMWt3Q0x6dTRzLTVWYXZ3Rk1ySjl1YmpXM0NHMmQtRVNKdGY2LWc?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-14T03:19:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZzRCT1BEckNubkQ4V2N1RUZZQUhZU3NWUEtWRzlDbjdsbzFIYmQxZlFmT2RtTHA2d0lkelhGTklyV2RWTFROQnpVWU1IV3ZleGQ2cEJOakp5T3VUTkFTOVhtVUpxVXNDa1lEU3ZZcWlqZUswT0NsMWNzU0dRR1U2bGpyd9IBiAFBVV95cUxPek9nRnpJSEdtRDhZZnpheFFVTUdibjY3ZWxSSkNqRndpbFVabjhuSENyaVR0bi1nTGU2NFI0b1JINFlmSnZab2ZpMjFmeXVzR3F4WVZPVndUbGpFNHhxcGx0VkZtSC1uZVBPSGRRd0dodDZ2QV81b0QyV2ZKSF9tcDVMS3JBN2RO?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-13T11:53:45+00:00",
-      "domain": "CNBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Iran war costing US households average of $2K each: Moody’s - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNWHJ2SXk5emhxQVk4N2lnVlQyc2plb0g4ZU9qaWZvXzB6Z1ZXOGtweUxFQlhGYXY5ank2M1FadVpNRDNCYXBlX092WUw3ZzkxLUZuVmh3RVk2S1U5QUMwTTBXUWx2WGFoX0lJZ2szQ0xrN2VhNUEw0gF8QVVfeXFMT2NOcUJxYkVYSU1ibFpMX1I0OWh4T0VLb1hqTkI0UUxLeWdLZ1dDQVVFSVFUbVpYd0Z2cm5PS1pkQWhRT25xdUs5MnFFaGY0djZ6NUZLYjA5ME5GN0JwRVF3ZWVrOWJHVFU2T0FlNXVobllfZkx5TW5WSTRmaA?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-13T20:38:00+00:00",
-      "domain": "The Hill",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "What My Son Is Learning From Artificial Intelligence - Greater Good: The Science of a Meaningful Life",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWko1cF9xQjVnclFKcHBxTDl1dDNwNTlldW90cWFZOVBYaFpwMk1makQydU5vQXdlbjVSYjE5RUhFVFEyQmtyY2ljQzdoU0RqUkJvdGtOeWwxSTB0V2dlT2hqbHhaVVd0cWxoWHdrai12SUNfanFHLXBFdDVVRm1HTzRaZTVxM3BtX3ZSYy05TVB5ZC1nbm1TMjJGVFlWWWM?oc=5",
       "category": "AI",
       "severity": 2,
       "seen": "2026-10-13T17:09:40+00:00",
       "domain": "Greater Good: The Science of a Meaningful Life",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "With Only Three 'No' Votes, UN Adopts Political Declaration On Pandemic Preparedness - Health Policy Watch",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0htTjVFNjBmYjFTUU1ZQlBFcy1MNV93cXhOZ0tqNE5NVGNpcktWZW5uVVRmVHNpQVhsZGRqaGNzd1ZxUkF0bm0tTE5VZWlwS2NlcHg3MmxIQnBWREF3Sml0OHdMeHNaUnFEaXp2b0FTcWtIUW92SUZsNUc0MXZtZDJvWHBOV1d2eE14QVlocmNNVG8?oc=5",
-      "category": "PANDEMIC",
-      "severity": 3,
-      "seen": "2026-10-13T09:17:15+00:00",
-      "domain": "Health Policy Watch",
       "language": "English",
       "sourcecountry": ""
     },
@@ -209,32 +199,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "Ethiopian troops enter town on border with Eritrea, stoking war fears - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaEN5VVVFVlVuRmZOcVFieDNvREhpOV9fRDRZa0ROZU1XcGhPb0RYcUJ3cG1oRjNuenh2NXFIaERFbmV3MVVmU3dOMkJmcXRnVTZ3aFY0Z1ZJZW1CQ1pveHZCa3loUFpZcHQ4T0I5bE51Z2tqVk5oV25mTnBWczlaV2o2d0pjQ29Na29MejRTSVZoclBHdWVGSUhOSmhqZmhUTWNvZFllbDk1WGdtY09hMDNQVC0?oc=5",
-      "category": "WAR",
-      "severity": 3,
-      "seen": "2026-10-13T16:27:45+00:00",
+      "title": "Saudis launch new strikes on Houthis; Iran-backed group threatens U.S. if it joins in - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjJxRmNFWVFOVlEtUl9td2J5VXowU3BKQTJJd28ybW9EZ1VaRmlLZTgtbFNLTEVldC1RQTE0NDIwMU4teThZUmF1WkpsSDNwcjh1WG5vYWQxNGtMQmdydUpPSFdYeHpUb1pXVEFBRTQweFdxbkpEZlBQb2Vza2EwXw?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-14T01:14:00+00:00",
+      "domain": "CBS News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Russian missile attack on Kyiv kills two, Zelenskiy says no warning received - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLW5OV0ZHelpkMDB3VlZCUGVNYl9KRExhWmNZakJjMUxsMzg0dHFOZXJtenRzQXpGUXdydDNYdHZ2d05Tc2RmZXdSeFZMeGJZSkgzUVYyMmdzSGZYWVY5NUJfOFU2RFBMQTlzRmNCZElNbnlaQVN5UU5qMVBaR2VjX0xCWHRCZw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-13T21:50:00+00:00",
       "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaU1pNWJVZ2x4MVhKNXVXbnVNYmVHbjljUU1hN0tyWF9EaHcwV0NOVlNoS0V3ajZqRXpleWtDQlRUUlJWVmNTYkplWkdjbzNjUXh2eDk4aVoyRFlPS0dyYXFMcU82aEtTWUVkcG9na0FNUlBtWE5QbVFXZFlLbzBTWERrai1GbWhiMWVxYnJSanJGaWpBNzNGSjRn0gGfAUFVX3lxTFB5M3JjZElvbUhfdXVUdV9nTWRna2ZSLXllUnNIQi1vZm9ZbEMwNnpVaGZHNWU2cWQzV3d1dmdQWXNNWVFvazVIT2todE1fdFhoUmdMVWFsVHl6Z2N6YU85WTlaQ1BVZHNhdTVFNlR5OHhLQnVBdVloOXpuajI0c2RaRmpIekpOSnRVdzVkVEpaclZfMng5elJjcTU1YTJqNA?oc=5",
+      "title": "From Allies to Enemies: Ethiopia and Eritrea Edge Toward War - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb2FQTWlGMzdwSWxvMmdvRDNvc290Qkk2bnpjbkxIaU5UZUVrXzZPbWgzR3JuQ2dPOXkyYlk1VjhMNl8teWJ3aE41UFFLS0pnYlB1ZGEwS0lPYzJYcWRkVjZwdkw3NEgtUXFwZm5jdDd3cXVxdlZCMnEwTDNway1tZmZtMXhjWFl0RmtOTlFB?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-13T15:11:04+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQclNMUjBGVmx4QjBVdXI4WHh4VmYwaFVBbXNpb2d5SWxzM1BPY3BHYnphXzJFbkd3TEJYaUIzcXRRVk9MZWF0NWpoTTVCMVRibWNWd0FUeTV4eWJzM2NkMXoyeEk3NE1TcWxoTktNYjM3dDFsQjJpendKcV9QZVBvQXVrelJ1MGs?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-13T18:06:00+00:00",
-      "domain": "The Guardian",
+      "seen": "2026-10-14T04:01:07+00:00",
+      "domain": "The New York Times",
       "language": "English",
       "sourcecountry": ""
     },
@@ -249,6 +239,116 @@
       "sourcecountry": ""
     },
     {
+      "title": "Ethiopian troops enter town on border with Eritrea, stoking war fears - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaEN5VVVFVlVuRmZOcVFieDNvREhpOV9fRDRZa0ROZU1XcGhPb0RYcUJ3cG1oRjNuenh2NXFIaERFbmV3MVVmU3dOMkJmcXRnVTZ3aFY0Z1ZJZW1CQ1pveHZCa3loUFpZcHQ4T0I5bE51Z2tqVk5oV25mTnBWczlaV2o2d0pjQ29Na29MejRTSVZoclBHdWVGSUhOSmhqZmhUTWNvZFllbDk1WGdtY09hMDNQVC0?oc=5",
+      "category": "WAR",
+      "severity": 3,
+      "seen": "2026-10-13T16:27:45+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "‘Massive’ Russian attack on Ukraine kills at least six, damages power sites - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR255TWFCcWE0UHZFUTlzMlNtZVNKOUhDanV1eFNHMDVDZ2F6ZVVaZlA3QUtNTVB2RXJKZTdqRGJSaldhU0lVWVRESzRtZ3hYbVZJNnY1R3hxdElwV0RwX2w2R2JJSk95aGFqM21lQmJTTFhqR0NMLWQ0ZEpPWnVYOWNFWW1XU2NfNGRiaURZSlBKYUdaeGNnc3BwZ0wxelN4QUlILVpqSXdLbjZ5T0daem9Bb9IBuAFBVV95cUxOTkctWElMd3BpWDhKMm8yQ2lXLWgxWFE3TTFtV05zdVUwQV9PRjlFSGIwSUhzVnpnRng5NWFBWjRZQS1MZ1hfYzVLOVZaLVVacGxRclJpOVQ3bDRNSWt1OTZ1a1dhOTZkTnlrWXVHMHRtT1BzQ1RqTGhCcGZVQWloZUhkUXNZOWZWcG5JU21ibk5ZMEpDWTI4aEdOR25TVEhsS2liVkRDbTFpdGtwSEFEQTA0RjlzUFZD?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-14T09:40:36+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy decries ‘absolutely unjust’ lack of warning from allies after Kyiv plant strike - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONi1HcG5uR0JIY1ZCTnhPb0M0VTZTcWxCOWJzUDBObDJCYlgzU2d1ZkVtZDMwaF82LVNFTlR2Nk1UWktwcFVILWktREozQVNnU2lKcXVxSU1sWTJCVVZDOFhUQVpsQ0RTVTZrd0xVZUM3VGFQT1ZkN1hnUjJ2UjVaZXFfTlp0dVJBMG1xNXNUalE5bVJCbUNlWmsyekFzX1BXWHBXQ0xIZm9jRDIzUTBkX1ZuR3o3Ul9qbHQ4Qkktc195RUUyMWt3Q0x6dTRzLTVWYXZ3Rk1ySjl1YmpXM0NHMmQtRVNKdGY2LWc?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-14T03:19:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Houthis launch fresh wave of missiles across Saudi Arabia - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbVJ2WVgxOVVKWmpNZjB2MUxXY3pxNmZqVEpvVWw2SVM1UXRZSHljbUVmR0tFUjlTbWJGeDVWSjhwQzliMk9mWVgzVTl6UHZpcHNJbURSWXdJSHJzcWtHQWJLWGFueUxwY0g4cVppeDh5bExmQjdsQkhfSUdHVzlFYWk3VE5oc2RicjByMndCSjFDMWhNU2JodGJNekg?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-14T09:45:38+00:00",
+      "domain": "DW.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV3VzaTd1VDVxNXczQ2FRa2FsXzdOV0Y5ZlFoaUthcVJhUnlFMHROUUMtWWZzUGZNWFd5WVNZbnJyZ3A4azRaUzNabVQ1U2ZMMmNYTzM1R2ZoeDF5dVQ0Q3FldDNEMW5lVC1oaVQ3Rmdaei01eS1GaFVla0prYUVZeEtJZlBZV2hoUm8yVTJNR3RYSXlhZTBPVWswNmdTWE5nclRiSldzUE91cXNZbzRGZzVOSFpMX294VWs3UlFpV2Q1Z09xTnl4Rw?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-14T10:29:28+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "The Iraq War’s Complicated Legacy - The Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uaHJ1WVYwWGVnOGJjblZNc0FTZnptZ1FZYXNvWXdhVkdnSGR2SlpxTU5meEdOOEFaQkJJekxZZHlzdjZZQ2ZrZ0Z2RFFkaGQzTVhmMnJabW5OWnRTR3JnSGt3a19QVkRSTlhpMlFsQzNIVGhqdkI0?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-14T05:04:40+00:00",
+      "domain": "The Dispatch",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ebola cases top 9,000 in DR Congo outbreak - CIDRAP",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tNFp6RGt1aFdEWm00ZG1wTVVhSkh5OWFTZzlaZG9JUjMwbE1VUzdPWUN1b0RXU3dub21JdXh1dGxvckR0NUhHTGFUencxeFFHNjNVZERoNGxXdGhTZlVoYjVkOFF1bV8tNGkwTlVCNkNKdWdYc0gyRzdhNA?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-10-13T19:18:00+00:00",
+      "domain": "CIDRAP",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Iran war costing US households average of $2K each: Moody’s - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNWHJ2SXk5emhxQVk4N2lnVlQyc2plb0g4ZU9qaWZvXzB6Z1ZXOGtweUxFQlhGYXY5ank2M1FadVpNRDNCYXBlX092WUw3ZzkxLUZuVmh3RVk2S1U5QUMwTTBXUWx2WGFoX0lJZ2szQ0xrN2VhNUEw0gF8QVVfeXFMT2NOcUJxYkVYSU1ibFpMX1I0OWh4T0VLb1hqTkI0UUxLeWdLZ1dDQVVFSVFUbVpYd0Z2cm5PS1pkQWhRT25xdUs5MnFFaGY0djZ6NUZLYjA5ME5GN0JwRVF3ZWVrOWJHVFU2T0FlNXVobllfZkx5TW5WSTRmaA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-13T20:38:00+00:00",
+      "domain": "The Hill",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Alabama coastal restoration project could inform Louisiana work on lower insurance rates - Louisiana Illuminator",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbjNHeFNSMUVOVl92WWNTazRxTGYtZ1RHeHl5dDBlSzBNQm1MaDBLQV91d3hLdVFibTBNNEU1ZVoxR25JX2l0VzItTFBsS2FWcGZmUnV3MUloTFVSRjh1QXg3WTE0ekM5YVR2WldJOFBwWWlBQ2pUSHVDdEdxRVBNUi1uMjJMUQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-14T09:05:42+00:00",
+      "domain": "Louisiana Illuminator",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaU1pNWJVZ2x4MVhKNXVXbnVNYmVHbjljUU1hN0tyWF9EaHcwV0NOVlNoS0V3ajZqRXpleWtDQlRUUlJWVmNTYkplWkdjbzNjUXh2eDk4aVoyRFlPS0dyYXFMcU82aEtTWUVkcG9na0FNUlBtWE5QbVFXZFlLbzBTWERrai1GbWhiMWVxYnJSanJGaWpBNzNGSjRn0gGfAUFVX3lxTFB5M3JjZElvbUhfdXVUdV9nTWRna2ZSLXllUnNIQi1vZm9ZbEMwNnpVaGZHNWU2cWQzV3d1dmdQWXNNWVFvazVIT2todE1fdFhoUmdMVWFsVHl6Z2N6YU85WTlaQ1BVZHNhdTVFNlR5OHhLQnVBdVloOXpuajI0c2RaRmpIekpOSnRVdzVkVEpaclZfMng5elJjcTU1YTJqNA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-13T15:11:04+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Namibia takes step towards nuclear power - World Nuclear News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSGx1bHRqUHdhZGFraEI5aGJ3T3ZPNVRDR3lhaElCb2F5Mk50bXdIR2o3Mko2VXA2N1l5ZnFweVZPajhHdnh6b3J1enJZejIxWjktcmJhVVpyVGRvMmFkVnFWelVEblREQjRmU1NfVFptSnJiYWVFZ29XNEtFdEYxbm9tT3QybDQ?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-14T10:13:16+00:00",
+      "domain": "World Nuclear News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Hinson, Turek share views on U.S.-Iran, Russia-Ukraine wars amid high fuel prices - Iowa Capital Dispatch",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeGYyTXhXRWZwMkFGeXQ1ZWdjOGdUMVhRcndlRGJyQVliN0V6ZmxFMTZndzRvdVFkc3daNkxSU1g1TXFPd3FnN1ZCOW1BcnhnSGktTTZreFRoVjJBRXIwcm5jYkxhZjBkM0JLWkhPVVlnejJxcWxIXzVtS0JfZ0FVS3FLVG5KTy1DTEc3Rzd6ZU1NdU93LUdDSERvbGRqVDhXNE13TTVKcnMzTlh3OUFCbjZoV2JGdEU3enYzSWhNWQ?oc=5",
       "category": "CONFLICT",
@@ -259,12 +359,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Super Intelligence - NASA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDdCUDJLUjJFbjJuNXNwbWgyMjFJRkg0a2MzR25XNFBWb1U2WUh6QWRNMXRWd1JqXy1RVzhhSTVIVlNCOWhCSGVzdFVOcUw1bnc?oc=5",
+      "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line operations - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxQ2dNaDItdmx5VHFaSFYwaGtCTW5LNWdWdkEtVE1DYVZKN1IzcHQyeEl4dUJnUkZQS0hBTGx2aUdFZmZjRHRKekdibjB5b0FqN3BvWERKNlNzLTA?oc=5",
       "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-12T22:36:37+00:00",
-      "domain": "NASA (.gov)",
+      "severity": 2,
+      "seen": "2026-10-14T10:04:28+00:00",
+      "domain": "BBC",
       "language": "English",
       "sourcecountry": ""
     },
@@ -279,132 +379,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "Coahoma encourages employees to access free Mississippi Artificial Intelligence Network training - Coahoma Community College",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaUVYMUdlQks1SWNMVENjS3Q5Y2RWRTBoV1poUmlDenRVVHlaRjcxZXBEZjhaZ1RrRVJ2cy1qVG8wekpTSUpMY0RZSHJocW9uZElhOXJBdHhLTU52SEhEeFpmRWk0eE94cUUtbHltTkZ2SVg1ZUZkX2tFaFRkQjV6UkZjdklDTjIzc2ZILW9TQUVUNjRPNmNQd1lYOUZmM1U?oc=5",
-      "category": "AI",
-      "severity": 2,
-      "seen": "2026-10-14T01:47:29+00:00",
-      "domain": "Coahoma Community College",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "World’s Energy Order Tested Again as Iran War’s Reach Extends Further - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekFBLV9XVkZmX2hLR0ZHMGhxMzB6Rkp4ZHhWLUFSd3N0VW1pVG9FOHlhal9NNk1JbjRNaDlMemJTZ2ZhWFBOS2FFMzJVSXhMRVNPNXZDTlhkTVBDZVNmOU54WjNseDAyeWJnSjZ4cU9MdmpaZlFtOVhGRENhakdzb3l2YzJVZW95MUhhSFd3?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-13T13:24:00+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "War Collides With Saudi Ambition at a Gathering of Oil Powers - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UVGdYaFBRZGtoOGJsVEktVHlfdk5HTmgxZkJVYkJJcjY2NTBKT3dTVkdjbkJsUEF5YzhPRlRxVUgxak54czVGMzN1M0xnM0Y2U0J6SS1jUWJNaGNkcVpzQVVuRXVLZ0thVkl3UFFHbHlPeU05NS1qRzZScWo?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-13T13:54:42+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "WHO welcomes adoption of United Nations political declaration on pandemic prevention, preparedness and response - World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcE5FbVVaV2ROcXN5a0RpYzk0TnJZZC05eGE2Q3p5N0ROSVFiZ3lxY3F4bFk4WUV0Q29tM0VUbG5YV1I5SS0tWDF0M0dnMktxNnJZVkE3eEk4bTFVcWVzUHBqODRpM3Z0TlhoRTR5VTd0Wlo5ZWtQaTlhMjJrOWRzWG55SmtZYzA3d3luZm1tRDJpVHRsNGZaZU4xZTVuR0ZRV3Jnc3JCNlBkVXFmRUJ5UXREU2k3TjJ1NURnOVNLRDJ5Vi1FZTJBUkJFbEgwWFowWGpGaUtJYWg4NUdyMHhSNk5qeUZhdw?oc=5",
+      "title": "Pennsylvania announces sixth death in measles outbreak as case numbers rise - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQclNMUjBGVmx4QjBVdXI4WHh4VmYwaFVBbXNpb2d5SWxzM1BPY3BHYnphXzJFbkd3TEJYaUIzcXRRVk9MZWF0NWpoTTVCMVRibWNWd0FUeTV4eWJzM2NkMXoyeEk3NE1TcWxoTktNYjM3dDFsQjJpendKcV9QZVBvQXVrelJ1MGs?oc=5",
       "category": "PANDEMIC",
-      "severity": 3,
-      "seen": "2026-10-12T20:39:30+00:00",
-      "domain": "World Health Organization (WHO)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "As Houthis strike Riyadh, Saudi Arabia confronts the costs of U.S. war on Iran - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXU0Wi0tVm5aMk5WYWZNYTBlLW9uVktRN2VyRUxPQUpUazM3cXVLRnZNMF9ad01tVWFZUlBRWV9WVU9BOGoxXzdFWWMyQndhclVId3R5VlBIeTBOTF9JbnN4eVdnWThmd19ZWktfYlJwYTdHNkRZaGFtX3Roci12TWR3OE5EVi1ERDhWOHlGSV9XTDRScG9uakVjRlVzTnBpYk0zZWthdHg4SG9tRmVkVkZsWDM?oc=5",
-      "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-13T18:39:31+00:00",
-      "domain": "The Washington Post",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "US trial begins for Rwandan-American accused of role in genocide - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa2xhMkw5Zi1KM0k4LVR4T2lwRV82RzB0cGlBT2FIREhwclF2UlZPd0dySVRrVVZ6VmM4SWtMdzhmd2NzU3hpZC1rNmhuTUhYQ1JFUWFzRlpKYjJoeUpRVlF6YVkyYWRQcWhUSmpQbDQ3bHU0cVlxclloSlROWDI1aWJHbDAxYXR4eDYwRjBXZ0NFUHFaRTlVNmpwaUNRYWthX1VvckNjRkhlQdIBrwFBVV95cUxOS21fNWpYa0lEQTBBY2pCei1ZTkNzOGtuZXZfVVdTQnVNaE42anVtWjR0OWNFWTRWX1ZXaTZxb3pZRU1EbXhpSjJIZXI1ZGVkRUFOUHlZY2RMaGQwRDdYYXdZenBJdy1EVkJ0TUxnRWZ1RGVMZ2tSZWw5anN4SWQxczZqcHo1bkJobllMYXpKcFViQmIwY2x3Mmc3b1J3b1ZneVJ5S1BnTXZ2Z2ZKQjlV?oc=5",
-      "category": "GENOCIDE",
-      "severity": 3,
-      "seen": "2026-10-13T22:41:08+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NTXliU09wdmZTVFFLc3dfamVjQlRpUnNuVXY3QmpLLUVGYjVXZHBZNm8taks5cTJaVUNndmNFZy01WGxNcFp0YzFlb0NZcXBQclBsZFF1T1o2SGM?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-13T22:29:55+00:00",
-      "domain": "BBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQendRTVVJYVZDS1U5M0E1TkhXVml1MFlodFhUWUNqamI5M2NSNEZZZXlVeHRoTDdodWFpWFhnWTM4TWVmLV9US2xLSjA1UVJIVlo0bGtKQzVjcTctTGc2RUxrVkhXaTRGM1dETURiWUhWQTQ5bWt6S0Z5TmFUak4wT1JOQWFyckphN2VFUjFMMndCWmpKQUJ0TjZnRW4yVlQtdkJMRWtPdTdvSG5obFNtVGRZb0NpUkN4Tkl6RncxOA?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-13T13:51:00+00:00",
+      "seen": "2026-10-13T18:06:00+00:00",
       "domain": "The Guardian",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "MI5 tackling more state threats than during Cold War, warns intelligence chief - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45ZnlWc1BPdHJLQUxVblQ3MmVrLTR2Um55eFZPdlJXUzlYMDN6RXVxYkNRaFlLeGNaNG5jcndWdWc0Nm56dmJ1aXlsOFJXbFpuNkdaTXdSSzZXQ2s?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-13T15:52:15+00:00",
-      "domain": "BBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Omaha agencies offer long-term flood recovery help in Millard Woods - WOWT",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUldJandmUHZaRFh3TEhYeUYwZHB6T0dCNjVYTzNNYUpLVEc2S2EzV09ydDRER0JpTzRCR1NXUUJqMUc5M2lZWnlLV3h5QVpoQnhGN1dpdkhiMWp5Q2t4d3MxTnhYeXRPR0lOMlRrczhELWtzSmVLcEVyRXNlTklLdGcta0NmR0NGV3lLUEkyb2F6YnB0UmstVks5c1QtZ9IBsgFBVV95cUxPeDBJelBZTG85ZVh6UEh0TGthTWRFZm9Ma2FXQWUyLWhBSHdNTDJnQkd2eWV4ZEpyUTdNWTdHLUZjMDZTS2tIQlFQTlJna1ByaGtlMV9ROE9yY2dzRVNES21raG5kdDdUWjRkSjV6a29wVHA5REJobW5YR2xYZkhVa2ZhQk9LS3NTaUJKbWZuS0p0ZmpYZzhKejk1dmQyTU1adl8ydjBVNElWelFjeV81Z1pR?oc=5",
+      "title": "PG&E warns thousands of customers of possible power shutoffs amid wildfire risk - ABC30 Fresno",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWC1NdjhIZVlCQnZTMWVaWU1xSjZHRWZDQWl5RVp2ZW44bTFvVlVvd2djSUpEdF8tTnRqWGdwQWE3QVlPbGNfem85T0pFamFZeUNzTjlBQkdUU0tOTTNoak56RzFJdFNuSXlHZnowUC0zUFlFX3E4cDY4VG5nUGFkMlpCMEJITkR4QUNGTTNzWHNoU2RuYUtlYXRLNlRxSWpqMlpUZ24xV0HSAa4BQVVfeXFMT0djMmhJWm15M0VfaW15WDFYYlVXSnIzOVFqWmQ3SzEyYVJMZjZveUUwRmNET1BvdU83WkF0eHQ0dEh3dmVzVVZJam9PQTM3VnFBOUVHdzU5MkFSWXdJcWFKNkZBTWN4ckk5Y0s3RzVha2dsamNEdDVCXzFjTG1IaWo4eHNOVlMyU2pDQmxLX0U5TVhoU1hIeWhlUmVaWURfbHJvSi1fTEM0Vm50X25B?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-13T23:50:00+00:00",
-      "domain": "WOWT",
+      "seen": "2026-10-14T06:24:13+00:00",
+      "domain": "ABC30 Fresno",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Saudi Arabia Intercepts New Houthi Missile Attacks on Riyadh - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmFPdkk2bElFdDJEQ3l3NWdMWGwzSEEyNWVLb0pHajNQSGlQMDdHblpDX2pSVzZoRG96MzU5TzA2clhlWWxHcGxQUkh4UmlRbkJBelRkZks1dlQxOWhQZFpMNVRDano4MWpSQ0N2c1dndksyYk1wUU40MVcwMFQ3Q0dhaUVubjlrUjR0Z01NY2ZJZ1ZncFo5TXkzbzVLRFpkdnJYSDdvcWlpclV0eVJZb2R2blc?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-13T16:30:15+00:00",
-      "domain": "Bloomberg.com",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "The Iraq War’s Complicated Legacy - The Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uaHJ1WVYwWGVnOGJjblZNc0FTZnptZ1FZYXNvWXdhVkdnSGR2SlpxTU5meEdOOEFaQkJJekxZZHlzdjZZQ2ZrZ0Z2RFFkaGQzTVhmMnJabW5OWnRTR3JnSGt3a19QVkRSTlhpMlFsQzNIVGhqdkI0?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-14T05:03:39+00:00",
-      "domain": "The Dispatch",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Clark County offers earthquake safety reminders - KLAS 8 News Now",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZjllQUd6eWFpcXpBb2FZek1MMk1zUkZSR01ZLTU5dURIRnV0T0pRMGQ1OTVXbk9kRGxjTjZHU1JFeUtsMzhCb2Y4MkNXS09LaWNqUGtISUU3ZEdRdTZOZ3NaNEdBbTNmLWRJaWwzcmw4Mnk5RWE5QUNvbVl0LWk3QllaWDR5c0psYlM1anpqZ2JGMDjSAZgBQVVfeXFMTmpGWmlrR0lzYzcxZUl0aTF5MDFPWElxLVNFVkFZXy1kT1RUZC1IRXpUeFd0eWVHeEhIZlFBYXJyRzVTaVZkQld5N3J1OVFxc2FXcERGc1pHMW9JV240TG1tZzREWlFCd3Jka2tkODlnT3JjQTZ1dmZYYmpQVUpjdjhseEtSYnlzU3VfQjZiWGN3SENBUW9XdlI?oc=5",
+      "title": "Intense waves and floods batter California waterfront homes and boardwalks - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nalNwUDl2UjdrLWYwNHh1VUc4NVRFQVFvaTA5WFJKUV84OUxCTUJnUkFVcEtqZm11Q0V6dUlUaVExWk1DSGljdzVla2Z2UDhibFU4MWlyQjl4QmpBdUZTTGxMd3B3M0FTb3YtM19HUzdqVnpuNXZzb3AtWQ?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-14T00:20:44+00:00",
-      "domain": "KLAS 8 News Now",
+      "seen": "2026-10-13T18:25:00+00:00",
+      "domain": "The Guardian",
       "language": "English",
       "sourcecountry": ""
     }
