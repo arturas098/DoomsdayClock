@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T23:55:16.972549+00:00",
+  "fetched_at": "2026-10-15T04:40:38.859440+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -69,22 +69,22 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "GFFP and Coconino Forest Restoration Initiative completes Community Wildfire Protection Plan - Coconino.az.gov",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQaHJjcDBEb3NRcUNHVl9tNjBTMW1HeENhV0RnLVdpNE9QQTlCdFVkb0xobnF4OXJULTA5RUxxUG5sRkQ4THV4c3RZd18tRGtBdE1DX1ptcm1zWWF4M0tRaEN0YjZGNWs?oc=5",
-      "category": "DISASTER",
+      "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI) - Financial Stability Board",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlowZTZteDU0NjQ1YU9jVWhWVi1WS2gzUlFyN1c0T01CTTBNb0tkeUZfdWJEQ09NNnUtV1VyQ0NDcC1pZ0VnUWt6MnB4cWxhMVJZdDc5SGdrR2I3clFHVHJLa1U4cVlYTXg2djVIVnR5ZU5Mb2VGOGI0aFZocWVFeWJyNWpHVnNYaWN2UW1RQzdKYVBZa1lwSWpVN2RocnpjbkVqdlNuakVxMC1yeEJTVUpBS0JZWVBJ?oc=5",
+      "category": "AI",
       "severity": 2,
-      "seen": "2026-10-14T20:16:20+00:00",
-      "domain": "Coconino.az.gov",
+      "seen": "2026-10-15T04:00:07+00:00",
+      "domain": "Financial Stability Board",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Are You Prepared for an Earthquake? - UC San Diego Today",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KTTB4SF9oY3A2eE53eDlkb0xaSW9rSXcwX3lEd1d4bXdQOUh1Q253WmFqQ3Ztb2htR2JKVDhEdy1hZXRlUWFFblhHWGtENXF4VGFWbDVQMk1GWi1yMHZOTUhCemJkalhyQVFNSXBuRjM?oc=5",
+      "title": "California’s annual earthquake drill is Thursday. Here’s what to know - The Oaklandside",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2dVc19ETkpLcXJvZDB3TnByWWhnTE1vbld1MWEweUlQbDJBbko1bmxFYkNodUVRdEJKejZMQWUtT0p6Y0Q3TExKZm9wY1ZXZmhzM0UtVWxGanNRQzViQnpoc1ZxR1NlQlBPUFh6NzZzb2Rqd2ZSakhXVUVJMzVZOTNfSlRpOGRtQ01F?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-14T20:26:15+00:00",
-      "domain": "UC San Diego Today",
+      "seen": "2026-10-14T22:18:52+00:00",
+      "domain": "The Oaklandside",
       "language": "English",
       "sourcecountry": ""
     },
@@ -93,108 +93,18 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTlIVXVnazYxNTFrWEppcUVrV3ZIVUVNY2RQQURkSGtDR29wcnJ1SUxqSnNlc0ZTVFpnN0RORDBqNFRHWFZBTXZiMWp0TnBPMC1uZnZIWkJwTHI2UGJn?oc=5",
       "category": "AI",
       "severity": 2,
-      "seen": "2026-10-14T21:45:00+00:00",
+      "seen": "2026-10-14T22:55:28+00:00",
       "domain": "Nature",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Participation in California Prison Programs amid and after the Pandemic - Public Policy Institute of California",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN08zbkh3bWlfbEp4WlRZSThXWmJUZVlsR09XMWxER3NObUlpazZZR04tT0dVYXpOZEFNbW9GdFZoN0VNNnVra2YtMk93VkxRYzVCRnEzTDVCdExNNjJyTmxERHJqYzFQMlpBR0hsTGNNRXNXeE1wY25XWklFNTdsZzF6RzRnclBiQl9aQlJCT0lvTFpWUW5NellLQzJHZWQyNkZlZkJ3VVQ?oc=5",
-      "category": "PANDEMIC",
-      "severity": 3,
-      "seen": "2026-10-14T20:23:00+00:00",
-      "domain": "Public Policy Institute of California",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Commentary: The Fix Our Forests Act builds on years of wildfire lessons • Source New Mexico - Source New Mexico",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaDlXdHRMSGRqcnc2YlgzanFYdVltUTZzSU82b0lkWlhaNnhGeDI4MEpZdWkxcmMxSlVISU5YelM2T0I0Q3dOTk54ZmRnWi1OTm1UVkJnOVhhT2hEd2xkSFpmb2FoRjgyMlVXRTNfWDV6OVo0SEswRE5IQkpXcWFWdDN5RDk0cy1mRzROSEM1M2oxVENDSnhV?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-14T18:49:04+00:00",
-      "domain": "Source New Mexico",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Art made with GIS data and CIA spy images captures human impact of war - Northeastern Global News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkZKRG5PWEwzejZWUGxCZlc4OXFPVXRNdm9MOFhLNnFKRTBtUmRxTUdZa3htWHlkVWp3T0NfYmxBdTRlTVljcVFtclFJRVRoR2p0cDlNdXlMdHhKQ0ZiT04yclRFWmJ6R0VJU1NDVGFVMF9BRVN0TmcwMzFkU1NPVUdQeWNsMXFf?oc=5",
+      "title": "Hegseth: Autonomous Warfare Command Has Always Been End State - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRktHN1M4M3pPUzZBdmdObTBXQUVWN0xIZ2lzRTRfY0E2SzZSVnJxeUs3cTB1Wlk5bDFfTkl6TklscDdMRnRPelpvbWN4eC1mZWY0MG1LSmtWWHhsdmNYbFA5ZTRmRmtxWW1HaEpSbUVXOXF6cUF6cVRpSVV2blVSZ1pKdVlxbTJPRm8xOS1Xa1BEc0ZCRXVSdlgxdHprSVhsWTkzRUJvX3NiNjF0Z1JGOGwtVHRfdmwyd2ZRVDkxOXA?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-14T20:14:38+00:00",
-      "domain": "Northeastern Global News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Wide-scale cropland loss has consequences for wildfire resilience in the American West - Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51NHdBNmNJN3pBVWRhS3poLU51RXB5NkxxUzNIRmhNcm9kRkJ0dURxcVhTd3NQanVQQV9tQ3puQkExLUVYU2RnTVMzNVFHenN0NTJZeDY5RjNld3o2QmZHRzdjTGFWU3ptc19ETkJ2c3dNY2QwUkEzcHJLN0w?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-14T20:40:02+00:00",
-      "domain": "Phys.org",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Tehran signals escalation in conflict IRGC likens to a ‘world war’ - Iran International",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PWG1iYklCN3ZDdFl6VjhpLVRrWl9vWklrbV8yblNubkxzMm9KaWtpdDViYjdZWnhPMDdaMXBwNmY1Q0N2N3dfQkU1UkFCSXl0SEE?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-14T17:55:04+00:00",
-      "domain": "Iran International",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "911 calls reveal possible cause of outbreak at Walmart center - WSMV",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLTRUQ21mY3hHWWR2ZWpXWFVwaWZYUndJUmgtdFZXNElyS0JEOWlRREpKOFQ5T3lBVGE3TWhCOUNuYjB2MUxEbDc2RG1ZV0ptc181VW9tZHRnZXNFVDQzUHRpSjR5eF9pMVBXTld1VmZRRTZyMEJ4YVpKNFRkRVRMZnI5a212aDRYQlE1TVJnY3pOaTFySnFrMEJB?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-14T18:56:00+00:00",
-      "domain": "WSMV",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "From Allies to Enemies: Ethiopia and Eritrea Edge Toward War - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb2FQTWlGMzdwSWxvMmdvRDNvc290Qkk2bnpjbkxIaU5UZUVrXzZPbWgzR3JuQ2dPOXkyYlk1VjhMNl8teWJ3aE41UFFLS0pnYlB1ZGEwS0lPYzJYcWRkVjZwdkw3NEgtUXFwZm5jdDd3cXVxdlZCMnEwTDNway1tZmZtMXhjWFl0RmtOTlFB?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-14T13:15:41+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "UPDATES: Severe storms firing off in southern Oklahoma as flood threat persists - KOCO",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWnR4VDYtX0V2OHhwREl2NHFyMzl2ZHJMZ1F0eG8zMmUtdmNnOTgwa253SDdVY1d3dG10THhhc3ZNbjNkT2wtb09fMTJUVWs1X1hJVlEwN2daRy1qc2JKRWo4OXBKN1IxWjJ2QUNBY0tGelNCZ2JUWnVRTzlYUXFqZDdrOENlLTBQeThQQW5hOEJZYXZ6QXZYVW1XcWkxVVFtUHc?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-14T20:10:51+00:00",
-      "domain": "KOCO",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNV3VzaTd1VDVxNXczQ2FRa2FsXzdOV0Y5ZlFoaUthcVJhUnlFMHROUUMtWWZzUGZNWFd5WVNZbnJyZ3A4azRaUzNabVQ1U2ZMMmNYTzM1R2ZoeDF5dVQ0Q3FldDNEMW5lVC1oaVQ3Rmdaei01eS1GaFVla0prYUVZeEtJZlBZV2hoUm8yVTJNR3RYSXlhZTBPVWswNmdTWE5nclRiSldzUE91cXNZbzRGZzVOSFpMX294VWs3UlFpV2Q1Z09xTnl4Rw?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-14T21:12:59+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative - Columbia Law School",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHJneUFEd0JsTEc3ckpyejh4LXJfM0lEYlBYazJ0RXNlQTF2WURyOWMyWTJPU0NOYkpuLWpzVkFWWmRGV1NLMWJmV1FPb3VPcTZBMVRvWi0yYmg2LVdpUzRwUG1zUU1RbVEwRlJJX05aS282Vm1CWUJMcHBqSERsQ05CQ3paRGlmZXVSdDZ2M3lQSHRSMkhjQWxMM1hTdEFaTVdiTXZxcw?oc=5",
-      "category": "AI",
-      "severity": 2,
-      "seen": "2026-10-14T14:53:52+00:00",
-      "domain": "Columbia Law School",
+      "seen": "2026-10-14T21:47:32+00:00",
+      "domain": "U.S. Department of War (.gov)",
       "language": "English",
       "sourcecountry": ""
     },
@@ -209,92 +119,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Iranian Missile Production Infrastructure after Epic Fury - Foreign Policy Research Institute",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZTE2czFnT1NMOGxrLXQ0TmlSaFpfbU1CYnl0ZmxlZlZPS2JkTTFibXdCckhBSVZwODVrLXBlNjhMekE5M3lzZ3RnbW1zZVNaaHVYckZtVFUweUpCN3h4SGNIY0NFckJNOXVpbnllcjkwWU1oYzZKYk1zQmEyNEJPQmlyS3pyNGtYZ2tiMUNMcllYVklWOFRyZ1lIYw?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-14T21:06:28+00:00",
-      "domain": "Foreign Policy Research Institute",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Houthis launch fresh wave of missiles across Saudi Arabia - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbVJ2WVgxOVVKWmpNZjB2MUxXY3pxNmZqVEpvVWw2SVM1UXRZSHljbUVmR0tFUjlTbWJGeDVWSjhwQzliMk9mWVgzVTl6UHZpcHNJbURSWXdJSHJzcWtHQWJLWGFueUxwY0g4cVppeDh5bExmQjdsQkhfSUdHVzlFYWk3VE5oc2RicjByMndCSjFDMWhNU2JodGJNekg?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-14T18:32:19+00:00",
-      "domain": "DW.com",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Policy Brief: Participation in California Prison Programs amid and after the Pandemic - Public Policy Institute of California",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWGZObEZGN2hrcEQ0Znd6OGlfdlJLUkRFTGRGb29nOW9QSDlJRGZ6UUZoT1JpY3RFQ2xuNGt4aldqSGdtN0ZhZWpNS1Q2NWt0VVlBZGUzbzhjSk9ILXdkT1BzVkdfMzIwWWtDRlNZSjBEaTNnMDJIc20wcTYzdkpWQ2pVMG1BRHNaSDVzOVg0YThwZ1R3ZDdSYl91enVQRHlxaVFzUGRmbXhIVFRmYUstNlFtX3F0S2FucHc?oc=5",
-      "category": "PANDEMIC",
-      "severity": 3,
-      "seen": "2026-10-14T20:32:45+00:00",
-      "domain": "Public Policy Institute of California",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Same-day heat wave and wildfire smoke exposure is increasing worldwide - Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqZEx2VVdSa0F6eGRwTFBLSUVNdURnSDZJYXQ0OURJVG92YVY1WE41TWV5YnhSS01LUE1XX0hic3k0YTV3RUhMLTBOWW5sUWd2MjVJUDZGWUFub01CR0wxTkpCX0RHZE4yZXh6R2M4SGphaTJ2?oc=5",
+      "title": "UPDATES: Flood risk remains with storms moving through Oklahoma - KOCO",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWnR4VDYtX0V2OHhwREl2NHFyMzl2ZHJMZ1F0eG8zMmUtdmNnOTgwa253SDdVY1d3dG10THhhc3ZNbjNkT2wtb09fMTJUVWs1X1hJVlEwN2daRy1qc2JKRWo4OXBKN1IxWjJ2QUNBY0tGelNCZ2JUWnVRTzlYUXFqZDdrOENlLTBQeThQQW5hOEJZYXZ6QXZYVW1XcWkxVVFtUHc?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-14T18:21:20+00:00",
-      "domain": "Phys.org",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Singapore pollution spikes, East Timor shuts schools as Indonesia wildfire haze intensifies - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbWNJbU8xUXFUUnBwakxUbEtfTURTWFlZd2xIdVJoU3RkUW1aTTBYN0ZIVmozQ2lfUVBVd2IzYlJPQnJpWDZEcGo0REpSbms1LV9pS2doZzBwdlR2cm0wOEpMZkp0NUlTS1hpN2k2akFhek1FWW8xYkYzZzNZZmloOGFjcVFmbG9yd25VVHJiZThPcThEaTJsNjBxSXE5SV9mUFBkZ3E0NHlmSEU0RHZnU3hhRWN0NXZFTEliUVRxYXlNSjJFZzlDQkROSlM?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-14T11:25:59+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "A Peace Built on Nuclear Threats Is Destined to Fail - Jurist.org",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLXFRVnAwendhd3pIVC1zeE41cGJSSzdFSjR2MEoyRVdZTDJsakZCaXJLaFp3dXAyQjIxTnpQbUwzVmRXWnRyYnRtN29ZQ3kzTnNQMXJUM2R2SnJwbWNsNVJsRjJfSFZkSXNrS3RvckFFZFVhZlN5QUsyazYtWnI0OG1uSUVpcW16NGlUc3RfeG4xREFRMnhTUzdwVQ?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-14T21:22:02+00:00",
-      "domain": "Jurist.org",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "ABS, DOE-NE sign maritime nuclear MOU -- ANS / Nuclear Newswire - American Nuclear Society -- ANS",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSS3pZSWpSN29BQnNYSmtBZ2N4U2dLamNvbzl6dVFNXzFMLVJ2UFFDTnZpNUFwYzdPbDRVVHVmbHpSN1BqX2hnek9wYVNoRzMwVWtwa29jZWNUU3c1bXlsWF8yZ3Q2UHpFb2VIUVc0cVhaLWRLaXhEUlNvYV9uQzg?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-14T20:37:42+00:00",
-      "domain": "American Nuclear Society -- ANS",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Kentucky health officials urge vaccination amid worst measles outbreak in years - Spectrum News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM0Z1Vi1QMEx5WFllcENTMllWMGdLTnJJSGxEY3R2ZWQ0MXhwbG1KX2hFd3h3T0JpMzhPamF0NkVmbnVjUGpzdlB3RU5yTERnSm8xRFhweGpjcWdrQmtqTzQzZG5MY28xWDZPRGpPemVOclh0VU1kWEZUTHVLTEQ5dDYyNA?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-14T21:55:00+00:00",
-      "domain": "Spectrum News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Houthi ballistic missile manufacturing - ArcGIS StoryMaps",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBReG5hQlNDTzNKSGdKaW1PNVdmMGRNWTFoTzJJWTZIbFR4cFZRVERkNDZONHBiYmtlYmQ2TnBQb0pweG5WcHdvREdnSEN6TFo4eTNnRWc5RzdVVTlwdGdfR3hJR3doQks5VU9pSjVUbGdpSHdaZmRrUA?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-14T16:28:59+00:00",
-      "domain": "ArcGIS StoryMaps",
+      "seen": "2026-10-14T20:10:51+00:00",
+      "domain": "KOCO",
       "language": "English",
       "sourcecountry": ""
     },
@@ -309,82 +139,62 @@
       "sourcecountry": ""
     },
     {
-      "title": "Mission adopts policy for artificial intelligence usage in city business - MyRGV.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbFhaZTBOYVE1bDZLa05VekJCbEJJeFVhUmpETnprMzdTbkhUUXMtbklQTnRzQWVqNEdVYUMtWk5SR2xuMnJwcHF4UmlVNWFWYUVWUktTaXZOYTFxcUxSUS1yNGU0U3JuUkpaNWNva1c4dlhaVjc4b1ozUlp2aWlldkpkQlFXd2h3ZE1PRXZnV2tyMnBtNjYwR29pX3N6MTBldV91SFlhV1JjYWFRRUFhR010VQ?oc=5",
+      "title": "Seismic activity on Oct. 14: Earthquake near San Jacinto, CA detected - magnitude 2.3 - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nTWJ4YkIzWW9uZDhXVTBiRTJKcVh2eXgtT1dUSWUwd3l5MHhHeV84bU94WllaeHZ0eGxVMElaejlXZjdFYzBObnBSQnp5UGFsYkRraUdkOUJ4dVE4REo5eXJIczFHN05tYjBmemlfaEw4Qll3N2FBVUdVdjQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-15T04:17:08+00:00",
+      "domain": "Sacramento Bee",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "MHI Delivers Three Replacement Steam Generators for EDF's Nuclear Power Plant-- Compliance Certificate Obtained from French Nuclear Regulatory Authority - Mitsubishi Heavy Industries, Ltd.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUMDVKY3RZQ0ZkR1Fjc0hsNC0xSlozWjFJX2tfNTdVRFN5NU9nTjlOYmdwTF9sb2lXaE1pdGRyd2FsMXdFaEFoeUhFMlhNNHc?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-15T02:03:09+00:00",
+      "domain": "Mitsubishi Heavy Industries, Ltd.",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "AI @ CLS: Columbia Law School’s Artificial Intelligence Initiative - Columbia Law School",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHJneUFEd0JsTEc3ckpyejh4LXJfM0lEYlBYazJ0RXNlQTF2WURyOWMyWTJPU0NOYkpuLWpzVkFWWmRGV1NLMWJmV1FPb3VPcTZBMVRvWi0yYmg2LVdpUzRwUG1zUU1RbVEwRlJJX05aS282Vm1CWUJMcHBqSERsQ05CQ3paRGlmZXVSdDZ2M3lQSHRSMkhjQWxMM1hTdEFaTVdiTXZxcw?oc=5",
       "category": "AI",
       "severity": 2,
-      "seen": "2026-10-14T22:05:00+00:00",
-      "domain": "MyRGV.com",
+      "seen": "2026-10-14T14:53:52+00:00",
+      "domain": "Columbia Law School",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "So you don't like the war. What are you going to do about it? - Responsible Statecraft",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aeWpidldrRmZnT1ZpR1ZVTnQwVVdoQkp3cVVMUDRJeG1LbWo1ZnBDMlQ5MnQxNHpsMTZWR0Z3b2d0VjdfS0hLaUlRaDBxUXYyWDJGSzBHRmpud2ZCUmhYMXRBWGxUTnc?oc=5",
-      "category": "CONFLICT",
+      "title": "911 calls during outbreak at Walmart warehouse reveal possible source of illness - WSMV",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb3RJUFRVVjJNa3oxZFJQMTBrR3dYeE9FTmQxLW5ONkd5NFROT1FtYk1KV2Y0VnZka1RCd1dKVVFqUjdsVFJhd1pqcmJtT0JkazhhS1VMa2hrYnRMNE5Xa0tkUjFOSjZYSXZsM2FlSW9IeW04T3gwN0xFNDlvclhfVVA5NlliZGtzWjk4eTVwSnhuakR0RkF0UGVvYm0wRjdYa2JBSm9VNkpmWEk?oc=5",
+      "category": "PANDEMIC",
       "severity": 2,
-      "seen": "2026-10-14T22:48:37+00:00",
-      "domain": "Responsible Statecraft",
+      "seen": "2026-10-14T16:00:00+00:00",
+      "domain": "WSMV",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Rep. Carra urges Trump to address artificial intelligence threats, raises concerns over data centers - Michigan House Republicans",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGhBU3p5OUNRdE4yRVVFM1k5RTFxbVd0WldwZlE2U1IyVGdnTndUeUVNOEhRR3dLcnpJYVR6ZkZuVVJPeTRUc1lGNlZNc21KUzQyWFFfb0ZXMF9qOHB5RDZZZVpkYmx3WlRJcWo5MGpQREhkSjQtdkdVUzNsLU9pazJHdEZoV3BUSGdrc0Rpdmcxdy1peDlVeDNjUjJUVjdpMmlHLUFhdFo5Q1B0MDBhVWVtX1JoclV1Tl9VOGwwX01iUjQ?oc=5",
-      "category": "AI",
-      "severity": 2,
-      "seen": "2026-10-14T21:04:55+00:00",
-      "domain": "Michigan House Republicans",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine says new Starlink restrictions disrupt military as it reels from intel gaps and Trump clash - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFZxOFpYUkhfNjVDUzFoSUhVQ3JRdERHWXdlbk1PUW9zc0tvNEo5cnVnODNTUHA0V1lmX1hyVERYc2FtX0d4MjMzdVZOVGpETjNTTy1FaHpFakZKYzQwWW9RV2hJeE9nQ0JoSUs4c0FJVE1ZSUdsWk5zSmxJcHVEaHJza2NjSEd1RmNYNVM0MHUxcDV1dzBraTB2UUh2RzhSdk05VmMyOUhVeEdKcFZjXzZGYUhTSlE?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-14T19:55:38+00:00",
-      "domain": "NBC News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Exclusive | The Houthis Are Building an Advanced Missile With Chinese Parts - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ITkpCSEp4NVcyNXpuS0FwY082d09qTWxQTk9majc3Mnp4cFlxSjI5NFVaZE83ajhKMWlzOHZHcWlwRkRLaXJ1Z0JtM0lRcHFaQzhpalRhd3NLNFBsY2o4RWxDZUplOGNGRXRSdFBIUEZTM1BfY25uSmV4dHkyUQ?oc=5",
+      "title": "Iranian Missile Production Infrastructure after Epic Fury - Foreign Policy Research Institute",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZTE2czFnT1NMOGxrLXQ0TmlSaFpfbU1CYnl0ZmxlZlZPS2JkTTFibXdCckhBSVZwODVrLXBlNjhMekE5M3lzZ3RnbW1zZVNaaHVYckZtVFUweUpCN3h4SGNIY0NFckJNOXVpbnllcjkwWU1oYzZKYk1zQmEyNEJPQmlyS3pyNGtYZ2tiMUNMcllYVklWOFRyZ1lIYw?oc=5",
       "category": "CONFLICT",
       "severity": 1,
-      "seen": "2026-10-14T02:00:00+00:00",
-      "domain": "WSJ",
+      "seen": "2026-10-14T21:11:16+00:00",
+      "domain": "Foreign Policy Research Institute",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Ukraine war: Why is Starlink internet so important on the battlefield? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HOERYQmNFRTNwNXpWcHpiNmhkbGs2MExuRk0xS0JyWjhMN2lObnpiTUFhdnExOUt5Ml9BdHlUakZxUm5WbUhUOXo3QS1HcURRazdjeWZTR0RrNTA?oc=5",
-      "category": "CONFLICT",
+      "title": "Great Shakeout Earthquake Safety Drill to take place on Thursday - WIS News 10",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOamgtWUtQenM4eWpnSEFJVGpOaklna3hMRzBXelBvcjM1VGx3TGMxUy1ySFNqNzJVZU5kTnBiYURlNFg0NFF6VTdUeG1iY29MRXdlNHhEdnBoQzk5aV9LVHV6LVhTYjhjdWt1U3BsQWh1RlNRMFUzc2RETXdxLXdQWHBCZnk1UFh2dGJIY1VLRG0yMVRJTkFV0gGrAUFVX3lxTE9scGVQYVlUTEdpS1BDdDRuNDQtR3Z1WDVKRzlual9kZVllQVRZVk1sUmNzNzhaV2o4R0tqX0JkeDJOdXl1MzVQTVJuSWROUzNPdzQ1ZDlQalZNVW1PblM4MUcyZzdWMnVyaVo5WmtZWWMzZ0xQdi1KZmVQeWU4SDlzWlROR1lxRTRZSXkwdVRuYVlBYWY2cmxiYVo0bXkzcWp4UWF1NXZ5NGhkVQ?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-14T19:52:04+00:00",
-      "domain": "BBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Doug Ford warns Trump's tariff war with Canada is here to stay - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53VEZodGU0ZFN2WEtrWkhlanV3QnZTN3p0VDNTUHc5Vm1ka2R5SWRsaVdDekVZTVRIb1NGUlVVRnFhOUxPS2EybGx3TmpZOXQ3Qk4wMF9SeDRMOGtUREw4NzFwNldJVWVLaGJhZ1NfTjFkTkdDZENiVUFn?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-14T18:37:00+00:00",
-      "domain": "Politico",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "‘Massive’ Russian attack on Ukraine kills at least 9, damages power sites - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR255TWFCcWE0UHZFUTlzMlNtZVNKOUhDanV1eFNHMDVDZ2F6ZVVaZlA3QUtNTVB2RXJKZTdqRGJSaldhU0lVWVRESzRtZ3hYbVZJNnY1R3hxdElwV0RwX2w2R2JJSk95aGFqM21lQmJTTFhqR0NMLWQ0ZEpPWnVYOWNFWW1XU2NfNGRiaURZSlBKYUdaeGNnc3BwZ0wxelN4QUlILVpqSXdLbjZ5T0daem9Bb9IBuAFBVV95cUxOTkctWElMd3BpWDhKMm8yQ2lXLWgxWFE3TTFtV05zdVUwQV9PRjlFSGIwSUhzVnpnRng5NWFBWjRZQS1MZ1hfYzVLOVZaLVVacGxRclJpOVQ3bDRNSWt1OTZ1a1dhOTZkTnlrWXVHMHRtT1BzQ1RqTGhCcGZVQWloZUhkUXNZOWZWcG5JU21ibk5ZMEpDWTI4aEdOR25TVEhsS2liVkRDbTFpdGtwSEFEQTA0RjlzUFZD?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-14T13:12:43+00:00",
-      "domain": "Al Jazeera",
+      "seen": "2026-10-15T03:16:00+00:00",
+      "domain": "WIS News 10",
       "language": "English",
       "sourcecountry": ""
     },
@@ -399,12 +209,202 @@
       "sourcecountry": ""
     },
     {
-      "title": "Russia’s frozen hinterlands have long been feared to harbor disease risks - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHJVY2dtanFETzUzYzh4d2N5Z1pVclJETTd0R2RnWXAzaU1PSy1OZEtkWmVnNUlSUmF5Tm10UG5TRktkRW5raEV2YmlIcDl5UW5CMjREZHdRa1kzYVpsT3d3SnRkTUdUdGIwNnh5T3JfaHZiRmNocGZhVmJLY21zdjdVSVVSa0kzUXdUZnczLXJWcW1XSFowRlNZemZjcmsyTnVCRlg3R3hPa3N4X1habA?oc=5",
+      "title": "Santa Ana Winds Prompt Fire Warnings in Southern California - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3E0VXdiOVVDRVd1YVozV1VBWmc5bndZSGtkRVlTZlQ1djdXWjRhVFdoT3ZCbHBlVFJxZVNoOENLeFFJMnlQcmRRMkxCbjhrelNJVUJnelk2N0cxeWVZcFZ1c3hiTmkxLWdmR2R2MTZtbVUwY29vRzNHb1UzbXF5MmJGYw?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-14T21:56:37+00:00",
-      "domain": "The Washington Post",
+      "seen": "2026-10-14T20:49:23+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Overview of consultation responses - Financial Stability Board",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTFl6MzRpNks5bGt0cE1adGdqbVhEX1hpUFBwSGlsSnhnM1FTd0RNUXVYZ3NqRjdrZDduazBRR1VFa2xhdElsdnRkTjlJLTI0VVlFMFFfd2RCOU1DM2RDUms0bmhLT0p3YVdIX0psdkFXT181dVM1TzBpS05LeHJvblRfXzY2V290TmRGUTNLWXFtOHB5d0RQaHFqckxfNzRjOXdyR0d2aFBud0tGRkVhQVQ0RnRnZ196czJSb2pobEpTeGpjLWR0ZFZSZWNwUVE?oc=5",
+      "category": "AI",
+      "severity": 2,
+      "seen": "2026-10-15T04:00:07+00:00",
+      "domain": "Financial Stability Board",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "3.0-magnitude earthquake shakes Riverside County - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTU9POXkySDc5Vm52T0x1UWxxSVZnekRhZ21VS1dVTVhQNTZERFliWFJHdW9pQ0hqWFc1cktWZnlUV1gtRXlQOVdjZXJKRHdodFRVd0lualFkZmJQTldZZURZMkFrUS1SLWhpeUZGa1haSzFIUXp6ZFFaTlBpNTlOemtYaHhvQ21nUFd3dkx3?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-15T03:49:40+00:00",
+      "domain": "CBS News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Singapore pollution spikes, East Timor shuts schools as Indonesia wildfire haze intensifies - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbWNJbU8xUXFUUnBwakxUbEtfTURTWFlZd2xIdVJoU3RkUW1aTTBYN0ZIVmozQ2lfUVBVd2IzYlJPQnJpWDZEcGo0REpSbms1LV9pS2doZzBwdlR2cm0wOEpMZkp0NUlTS1hpN2k2akFhek1FWW8xYkYzZzNZZmloOGFjcVFmbG9yd25VVHJiZThPcThEaTJsNjBxSXE5SV9mUFBkZ3E0NHlmSEU0RHZnU3hhRWN0NXZFTEliUVRxYXlNSjJFZzlDQkROSlM?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-14T11:25:59+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ukraine war: Why is Starlink internet so important on the battlefield? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HOERYQmNFRTNwNXpWcHpiNmhkbGs2MExuRk0xS0JyWjhMN2lObnpiTUFhdnExOUt5Ml9BdHlUakZxUm5WbUhUOXo3QS1HcURRazdjeWZTR0RrNTA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-14T19:52:04+00:00",
+      "domain": "BBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Houthi ballistic missile manufacturing - ArcGIS StoryMaps",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBReG5hQlNDTzNKSGdKaW1PNVdmMGRNWTFoTzJJWTZIbFR4cFZRVERkNDZONHBiYmtlYmQ2TnBQb0pweG5WcHdvREdnSEN6TFo4eTNnRWc5RzdVVTlwdGdfR3hJR3doQks5VU9pSjVUbGdpSHdaZmRrUA?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-14T16:28:59+00:00",
+      "domain": "ArcGIS StoryMaps",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Caltrans works to raise flood-prone Highway 37 ahead of El Niño storms - NBC Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1VQQVpDLTRrclhuZ2dEZjFIRHNtNlJUNXN6RTdsbVd5R0tzdm1wRUtOZlIzNVh3WUdaWndoZERvQ3hVZ2cyamFaemZ3bmZYS3pCY0JwV1BGZUhUN2pNdm9DaWFWaHFyZkFPMmlVR3ZlYVljdVlDSGFreC12ZkdKYkZHNmpTcGsxMG13TNIBlAFBVV95cUxOTGdKWDVYaXJLdjV3aGRZVzFPdGt2NEhJU0RzRG1fSXgzcUpPSFpSSl9seDBrRmZ6M09RRjdrS1VsbXFXOVl3TlplSEVkUWkzVTFSbHZDRk4yLWdRRGVCY1R3cE9yUVI3QV9udHVMTzhadTdqZ3VLVHl2MnR1Rm9Qbm9yM3pHLW5sYmtHYVl4N2lDaUh1?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-14T22:21:58+00:00",
+      "domain": "NBC Bay Area",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Mission adopts policy for artificial intelligence usage in city business - MyRGV.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbFhaZTBOYVE1bDZLa05VekJCbEJJeFVhUmpETnprMzdTbkhUUXMtbklQTnRzQWVqNEdVYUMtWk5SR2xuMnJwcHF4UmlVNWFWYUVWUktTaXZOYTFxcUxSUS1yNGU0U3JuUkpaNWNva1c4dlhaVjc4b1ozUlp2aWlldkpkQlFXd2h3ZE1PRXZnV2tyMnBtNjYwR29pX3N6MTBldV91SFlhV1JjYWFRRUFhR010VQ?oc=5",
+      "category": "AI",
+      "severity": 2,
+      "seen": "2026-10-14T22:05:00+00:00",
+      "domain": "MyRGV.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Doug Ford warns Trump's tariff war with Canada is here to stay - Politico",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53VEZodGU0ZFN2WEtrWkhlanV3QnZTN3p0VDNTUHc5Vm1ka2R5SWRsaVdDekVZTVRIb1NGUlVVRnFhOUxPS2EybGx3TmpZOXQ3Qk4wMF9SeDRMOGtUREw4NzFwNldJVWVLaGJhZ1NfTjFkTkdDZENiVUFn?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-14T18:37:00+00:00",
+      "domain": "Politico",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Oct. 14: Earthquake of 2.4 magnitude registered close to Maneadero, B.C., MX - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DSTB4bTNINW1OSURiRFF5c0p1WndqOUdKZWdlajdsU0lkdmxEUDhtSl8wZ3lyNUJIVTh5UDkxRmM1eDBzWGd2V2FUTlZGc25sTFU3cFBNd0g1aXZxb1RxeklTQkJVbWhyREZDOWdRYXQ1eVJYWmtjdkNCMVg?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-15T02:38:11+00:00",
+      "domain": "Sacramento Bee",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Panama: Earthquake in Azuero & Veraguas - Situation Report No. 04 (as of 14 October 2026, 14:30) - ReliefWeb",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM1dFN3dWeXNkemJBcjlTVmcyTWZORzJFWkxjMDNxaW5zSnY1cDA1T3NvTGdHcE5JNEIyelQ3ZkR3cWo1Rl83cnB5U0R6TDNlbVV5TmEyNFVCeUY3ZEFfQ24xd0JyejZHUENHczFkNEhxbFczdFJEVlNYajRqQlZaamJPaFVGcUVVaFZsaTVwZWJxakhoc2ZodHFMN0NYcFR5ZlZtREg1TXhxYWQxQjhCTHZVZw?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-15T02:28:04+00:00",
+      "domain": "ReliefWeb",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Yemen’s Houthis are bringing their war to Saudi Arabia – and reframing the narrative of being an Iranian proxy - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLWVmVEotb1BzUHozdnlpcnBrNU9VbzdOckxJc3ZmN0lVNnRpLTdoVThtQ1lXZk5wLXJ1OE1EMmRXMmJvNUxBWGJkcHdtaWNWMVlFOEdkVjJUd3k5d2ZmX1JJUnRTX1JhUVdFOGVJQzNDT3gxa0hBUGFuQ3c2N2tSVlVZako3bmlXQnh5V2JMWml6UUk0X1RoM1NXZ04zQjVILTVLVTh1OTh4Sm01Y2E1RXdfTDRQdzFOOEVrakVhN3JWMmR1N2tHNnU0MU9zb1hPMDZsaFR0OXhZQQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-14T17:57:45+00:00",
+      "domain": "The Conversation",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "‘Massive’ Russian attack on Ukraine kills at least 9, damages power sites - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR255TWFCcWE0UHZFUTlzMlNtZVNKOUhDanV1eFNHMDVDZ2F6ZVVaZlA3QUtNTVB2RXJKZTdqRGJSaldhU0lVWVRESzRtZ3hYbVZJNnY1R3hxdElwV0RwX2w2R2JJSk95aGFqM21lQmJTTFhqR0NMLWQ0ZEpPWnVYOWNFWW1XU2NfNGRiaURZSlBKYUdaeGNnc3BwZ0wxelN4QUlILVpqSXdLbjZ5T0daem9Bb9IBuAFBVV95cUxOTkctWElMd3BpWDhKMm8yQ2lXLWgxWFE3TTFtV05zdVUwQV9PRjlFSGIwSUhzVnpnRng5NWFBWjRZQS1MZ1hfYzVLOVZaLVVacGxRclJpOVQ3bDRNSWt1OTZ1a1dhOTZkTnlrWXVHMHRtT1BzQ1RqTGhCcGZVQWloZUhkUXNZOWZWcG5JU21ibk5ZMEpDWTI4aEdOR25TVEhsS2liVkRDbTFpdGtwSEFEQTA0RjlzUFZD?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-14T13:12:43+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Oct. 14: Earthquake measuring 2.2 struck region near Walker Lake, NV - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pdlg1cUM0dURNSVcxYWhWNlJ6RjdGMER4T1ZUOVAzTXhxVlNYdXZiVWt4N0dJc0J4OXhEeHBrUVRCaDhNTlYwUk1jLWZxakRYUHdpY25zdzNuNXNHNTF1MWNqSFk1c2JHbmhPamdoUjQxc3BoN2EtX3FsOFU?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-15T03:47:08+00:00",
+      "domain": "Sacramento Bee",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Alabama Forestry Commission warns of wildfire risk during Hurricane Isaias debris cleanup - WBRC",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGhQaE1FUzNyanhfMlpaUGVwTGFUVFBFUFdWYmNZajA1QmZKaGpKT2g5Vmp5M0tXbVdqbDZkZEFkQ3FqZzd5NlM4bDhJVV9lWnVsUGZZSzM0UHE4QjFBUjBISmJoN295Vi1DZlJOb283ZldqMkNIQm9vcDFiOVdQVlBnOFdhdXJIVS1SUjMtUWdfWG9WNV9kZ2tpcnZKLW9MVnp6R0tyQWJsYlRYWDJENHpKVTA2QjNCckNv0gHPAUFVX3lxTE9VSmlWdjA1c2ZqUk9wY0RtY3JRdlRwSkNrNEdvck05TUZvR25GMm1INjk4MGVCTUNUekh0Q1hrbVR3SUsxVktsRkluU1RpVmgzMUlMczBqNnZEMWoxTkNEVHluS0tFR2F1czIzZjlkTnJNRkppbVJRTUh0eEE3QjVPMFNsQjNxWjVocmUyd29CV3V4eVZ1d3R4ckVVSFhnaXlIZEpFTFJjVDRVZjJqWkw4ODNDaWY0bXJzT2U3OW9EdkVwMmR4TVhLeXpmVlU1VQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-15T02:00:00+00:00",
+      "domain": "WBRC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Secretary of War Pete Hegseth Will Participate in Historic Panel Tomorrow at U.S. Army's 2 - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaUVDZENJY1A0MnJCMUxHZW9YbWlHZENCdWJaNUhwSndNa19ocFM1VjhZNUZrTGpNWGRxekFFNU11MmhNRVE3bXRfb2Vsb2xWM1Z6S0FUaVVIOVFVTmx1aWpvSzQ4TUlNWkNlbTcxSGREcnprMVphSUxMYzhoTW04QnpWeFFtSUVhTVRmWVFSbDBpYTdfYnk5ZV9vSFViS0pORkhjZTNoeVh3Vy1CcWwwaFZXUlVxaXJYaUFQQ1BOUjVFY3pmUFY1cTM3b3BZTXBQbS05R05HTTA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-13T14:04:40+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Exclusive | The Houthis Are Building an Advanced Missile With Chinese Parts - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ITkpCSEp4NVcyNXpuS0FwY082d09qTWxQTk9majc3Mnp4cFlxSjI5NFVaZE83ajhKMWlzOHZHcWlwRkRLaXJ1Z0JtM0lRcHFaQzhpalRhd3NLNFBsY2o4RWxDZUplOGNGRXRSdFBIUEZTM1BfY25uSmV4dHkyUQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-14T02:00:00+00:00",
+      "domain": "WSJ",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Update: 3.0 magnitude earthquake recorded near San Jacinto, CA on Oct. 14 - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FcXFNMnk0UlZQNmJRa3l6Z0ZtUmhLcHYwMTV5MU1pWk84eXEtWjJQcl9BWlMyWk5qNzZCN0tHNHFqTHpJZkMzenZ0MHJqV0lER1dURU5jNXZPcTctWUZxbWtEdUV6cEswNkpCUVhMYzAzTTVkUWllZVBKMnI?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-15T04:05:08+00:00",
+      "domain": "Sacramento Bee",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Tons of trash fill Tropicana flood basin after weekend storm - FOX5 Vegas",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRHNILUx6VFlaMGhxdzc0Z3cxdEdJVHBSaWVLNGJBS3ExMzBzdlhUb3NLT1VCeWFpOHBKTjdIaThkazZBckNMLUVLTGljbmJXcVZQcTZZUlRXeEF4eDNDZ09KSnhfWjhIMjdMb3B3TXFIbEdNaUI3Ul82LVplU1ctcVY4RGtNSEkwaWVob3NTaEUyQTlxZ29xRHU3NNIBrwFBVV95cUxPMi05ckdBYVBJZTdmWVE2YU40STNLSHFEOUpWWGNyWFd1dEI1c0g5Q3VPZTJzdmI2S1JxYUs0b09oOXpMUW8xWjhMV0JOeUtQRlE4eHpjVGM3aTIzYVBBN2VFTGVob3pBakZlRjdZRjhkUHBHeHEyNHFiUkJIazFVcVBDYk9DMU1jNFpfQkZtemNvV1dBOFBtQVpqeUI3YkVlVXNKZFB1M3dsQXl2NFkw?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-14T23:36:00+00:00",
+      "domain": "FOX5 Vegas",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Whose Side Is Trump Really on in the Ukraine-Russia War?: News Article - Independent Institute",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbFBiNVNpU3I0ZmxaYmZHNnkwaFlvaV9PbDFxcFlacGp3dXBJUGw3bTVjYUprN3ZfNHd5bXBEVjhJQmlqbF9jWWtvZjhBdTlUWHEtdkFFd04zejVOc1E1NmdTV2YyUVM3X3ZjSjVrWHo1UHE3QWpLUnc3UTZ3N1pBUFBDcDh5dm1aTUEybnR4bGFJajByTDZZYUw4a3A1djY5?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-14T22:01:58+00:00",
+      "domain": "Independent Institute",
       "language": "English",
       "sourcecountry": ""
     }
