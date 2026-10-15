@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T19:08:58.827965+00:00",
+  "fetched_at": "2026-10-15T22:19:35.704946+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -69,7 +69,27 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "Opinion | A Blue Wave? A Blue Tsunami? Or Just Blue Sprinklers? - The New York Times",
+      "title": "Android earthquake alerts now available in more than 200 regions - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNERZUzctUThaRTNhd04ydjJORXp2QXBueEEwWkVDM1N2U21yMl9wYWtBLTlvMG8zanl4d0pZa2NhYkNXUGk3VllyMEQ3RXRmWnpjam8xOG5EZElVQUdTRW9CamphaFdjSWJoTDNfSExjZV9QRDhhdGw2Z0tGMnZ3YlRwNmpXYk1IdXVfRGw4eERJTGRpdUFxVm1oUTFwMm9PQ0xxZg?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-15T16:20:06+00:00",
+      "domain": "blog.google",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Tusayan flood mitigation plans presented to Town Council by Coconino County Flood Control District - Coconino.az.gov",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaT3pjMEp1WkYxVVRfY1dIVldXMjE3dlJvamRPS2FfSXJncGNtSWd4b0pVLXhtT0RQMzBtaDNIdGpmSUhpaTloSGROMmxEZDFUZ2t4ZVBsMHVyLTFxaXFvUUd3?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-15T22:02:21+00:00",
+      "domain": "Coconino.az.gov",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Opinion | A Blue Wave? A Blue Tsunami? Or Just a Blue Ripple? - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWFaR2tCR3Yydl9vWEVOUUY3RWFxNUJEUGxvcEhJbHl3NDdkcVMtMmZMWmk4Y05wLVQtNlNkU2N2NldmaHFqMDVCY1gxX0lGWmdaMXdDaUNqUm5kSlNVbTVyME13T0xyMDV4eElrZzVkWlFhN0o3V3ZEeDdWYTRtREtPVFdSeVJGR0QxLUdB?oc=5",
       "category": "DISASTER",
       "severity": 2,
@@ -79,22 +99,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "A look back at Seattle's long history with earthquakes - FOX 13 Seattle",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZQldUYzZwRHlQQ2l5X2p6TXdZTUp2SE05djNzV2dtamM2VXExM01sSU9lVHJGUzg0d2l0XzJNaGlVaEphSWRzbTk1X0RaQXFJRk9VXzc5bFhnVDZ2anNMQUllM2o2SlgzdFNv0gFwQVVfeXFMT3JPRmZYR0VGTS11eHpFa1R4SnEwem1mQXNZYWoyZENUaHhMbTE0TXpYT0ZTbGpRR0hBb2cyc0h4VmQ2Ny1JdzFoaHdoM25yakpGY2Z3bG53dDhUR0duc3V4YWdoX0tQbXl3UEJMREFtWg?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-15T13:58:07+00:00",
-      "domain": "FOX 13 Seattle",
+      "title": "Ukraine Strikes Russian Refinery After Moscow Breaks Trump’s Energy Ceasefire - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOC04U2ViZ2xJWTZ6YTJkbVBMUkx2c3M1V0M4aXl1Z2VXVGs3NlVfSFlhRWtVVHVtSlRqdEVPQ2poQkhhNV8xN1NXbGUzbS0ybl9jaDljM3BSTEhrN3ZCa2hIZW1seTUzREdhRWtCTXN4V3ZsWDhlNUNTTFdGeGV3NzRrQU43Z1hMZmE5dzU1R2xDRnVJVENFRm1DMjlOWnRLalI2Y01obkM0aWoydlNYSg?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-15T17:09:00+00:00",
+      "domain": "WSJ",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fNUFycEtoM2tnclA4RkVaZHh0bkZJanktTm9YdmdEYkI2WFJMQTBaOS1BS19uZ3c2a18tMS1BSFpqcGlfUkRuaVlOWkNNZlBvcTNNWWxJbjFqblU?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-15T17:18:49+00:00",
-      "domain": "BBC",
+      "title": "Magnitude 5.6 earthquake rattles remote region of Interior Alaska - FOX Weather",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX2U5azNfUTVlMXdmUFVKdElDYmRsdW9TcVh1YjZIME1BaU40NXQzdU40ODl3OWtCX2ZzZDJlOW5NV19xVFpuTU1Ca3RsUjNRcDBvQnpyWXdKd1hwX3FGVXJmeFpLOVlFdHlPdjFXXzAteUdTOGpBZHdQT1VxTmttVzlTMjBpc1hQcFlKUWlOZS1qVmV5LUJWd0U3TVhyaUFPeG1HcmFSSEZzd9IBrwFBVV95cUxNSEJJdXE4U2JweFJabzFVU1U3aThtWFdGMWtndDhQOVBYQjF3ZTNSa3FoUU9jZHExN1hualpjb0dQd1NQODVtLWtHM2hDYzI5ckVjdzNYa3lBSnhoSzlyckZNbVN6aGxobS1wMEhVakRqbkRzOFV5OGQ1SjJSUjd3M3lfaENNREpDYm0zV3ZWNnd3S2JEanV3OTdRdThLdUV2ZFFlX2FFT3lYWTlEWEw0?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-15T12:18:00+00:00",
+      "domain": "FOX Weather",
       "language": "English",
       "sourcecountry": ""
     },
@@ -109,22 +129,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI) - Financial Stability Board",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlowZTZteDU0NjQ1YU9jVWhWVi1WS2gzUlFyN1c0T01CTTBNb0tkeUZfdWJEQ09NNnUtV1VyQ0NDcC1pZ0VnUWt6MnB4cWxhMVJZdDc5SGdrR2I3clFHVHJLa1U4cVlYTXg2djVIVnR5ZU5Mb2VGOGI0aFZocWVFeWJyNWpHVnNYaWN2UW1RQzdKYVBZa1lwSWpVN2RocnpjbkVqdlNuakVxMC1yeEJTVUpBS0JZWVBJ?oc=5",
-      "category": "AI",
-      "severity": 2,
-      "seen": "2026-10-15T04:00:07+00:00",
-      "domain": "Financial Stability Board",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Magnitude 2.7 earthquake hits near North Bend before Great ShakeOut Drill - KIRO 7 News Seattle",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZlcwQzRrb25GdWMxekVET2hnbFlSSG9FUnhidGRNcXk2TnAzVzlfa0pnSHRPVmdnbDNvRzhmZnM4MjdaQ1NmTjJRb2o5TVQ2QzZwMDNuWFFaX0Y2OHlqZmg4eUZnUUZsemUtYUpnd19Qb1dETUo1ZkpmM3VQTV9HOU9yOE9WRXlTUS1wTWpRVElaVms1QVhoYkdUX3FTWGt6TjJoeEFpZm9tcmtnSlhWeWtLV3NFV2hZTUpLTlFKRUlaVVJ5clHSAdoBQVVfeXFMTlRnTlVXa0xzTGxGd3lVRlRzZWUtMFZiTWNlUlhFcldfUXhLaS1RWG1SZjd3NkpQV0lUVEJVYjd2M0NkMHBIdWR2aWFjTHdndDBFdGwxQk1Wc2dDcUw2Z3BJaWNUeE91TG1wakN5bzdUUGJKX0FwN1Y2Qy1YdkV0TG9HZ3VjaGRWUG50T3Y0aG5nX1dZVWdqZmxLNzMyTGdXMW1tTTRMaHN3ck1uSWpyaEhsZHZaa1VEZFItRWYxM2dhaE1kdmpFcnZQVExvX2pGa3lMc3lIWTlYb3c?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-15T14:54:07+00:00",
-      "domain": "KIRO 7 News Seattle",
+      "title": "Elderly man killed in home invasion - WTVA",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zdzRZMlNLM294bXN4Y3hkcGVhaWtybTRRSDRwVmNrSFpsSmpXdzVXZ21kbEpyc0ViRzIyWWYtZXlYNjdkVzZmU0F0akhNS3ltYWhqSTUtVFUxbXh4RUZ4NHJCMDlza2pUQkRzek1rV1ZscTDSAYcBQVVfeXFMTmwwNnVfemhBSHFqN1JTbDMxeXZaelJxUUNnbGlGS1hjQWMzZWQ0REZjVjMxNUFwSW5uM3FVUjY5a2hzUzFTU3ZTUUxHSFNvaUdBdjRpNTZ3aUFlTi1ld1VyaGMtWXVoaWxVWDlBc2l1WFk5dDBCd21Xb0l1YkM2dXlfRkZXQlE4?oc=5",
+      "category": "WAR",
+      "severity": 3,
+      "seen": "2026-10-15T18:05:00+00:00",
+      "domain": "WTVA",
       "language": "English",
       "sourcecountry": ""
     },
@@ -139,42 +149,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "North Korea Tests First Submarine-launched Cruise Missile in Nearly 3 Years - USNI News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUZpWFhWLWg4YkxxMERaZFBNWXlqY0ZJYUFOUTlBVzBWZ0RndlQtaVBQLWF2a2ItYnNlQUI4UjFqcl81ZFBXOENtbTdNcFhHckd6aEZjNEdxVmJJR25KdkF0N2tZU2kxMjRPS1B0b3R1ZkE1emQ2OXo3VjJUdUZhMXBQeWNPZjZzMUxrdXJaX1pGMnpUOUhjdGJYQlMzSTc5RnhKWTJDeUEtbXlE?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-15T16:40:00+00:00",
-      "domain": "USNI News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "COMMENTARY: Oil's long view darkens as Iran war refuses to end - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2VycDJiM2tHUVV0LUZHMjgtcmdqOHQ2QWZkakF6eGlnY2ZmaHduOE80Ul95NjVTTVFtVFR5d3l4Q09QdU15YWI5MzVxYzdnUWlKRXgtR0lGakUyV243MlJPamhMRFIxTF85SWRJclNQLTlJTW9KUHR6OFdFMUpxaURpYkdISHJPRk5ZMDNIZ2h5Zm9rVVVzQTk0Uk56VXdYY1d5ZGduNDJUcVA0MjNBaDNB?oc=5",
-      "category": "CONFLICT",
+      "title": "Newport Beach Looks to Bolster Flood Protection After Balboa Island Flooding - Voice of OC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY0pTOFQzdWhBM2RqSE9NSEFScFNpSlVEbC1lelNVemtTVnVoMmRQYlU1Wm5MeUdCNFBRRG4teXpSZ0k1Y0lLT2VHOW5DcF9fU3FqSVJ6ZElpSy1aYzNpMVpad3ZMdlg0NDV1OWI2bmJCVGFlOVQ0ZElMcUQydmJuRkp3NmZZbzI4d1hZUW1KRXk1enZqclhkNjhTWlQwZUVybWV3Nk5LVVBpOXM?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-15T06:00:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Opinion | California's ballot propositions fuel its longstanding tax-and-spending war - CalMatters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUWNyZG5IUExTdldZQXlCdHBkRG91ejlwcnVxZ253eUM3OHJvcXpxLXl6S0lwWGtRLWNXMmRnY3VrWldWSUVxRmlKM3M0bVA4NkpwMkFSNUktbDdtejQtR1NGcEQ3eHdkWEVHaGRTdTlFbGRucFBuT2pwRVFnRzdsaXNicmZPWXpPWDdCM3ZMb01nVXNi?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-15T12:00:00+00:00",
-      "domain": "CalMatters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire' - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFl3OWJIa0lCbFk5dVZOSEFHMjJpdHduQXg4UjJ0YUtyTDFfNVdwTFpfZzdaa2JXWThXZUNuSEtWN2wyTTJnc180QU1NZUplVVB4R0kza08yUTZKOFAxQlVrMTMzZ1R5cHppMXpwa29NSFJ3LUxsc2ozaVBPR3hWN182SS3SAYoBQVVfeXFMTjlIeWQ4WVUxNHdmcVhPdTdLLWRGX0twWXlXRzZIWG0wLXU3NE5ucWFRUS1taXpmcDFNQlljUXdKaXBxLXg5OTJvR0hZWHFSa05YaUlzSUNNT1F3a195aE9DejlvUk5tN0Y1ZGJWNlJSZnNkWXBGMzJxMlZMYjJERlNUbWViMDNCRF9n?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-15T07:46:30+00:00",
-      "domain": "CNBC",
+      "seen": "2026-10-15T21:00:00+00:00",
+      "domain": "Voice of OC",
       "language": "English",
       "sourcecountry": ""
     },
@@ -189,6 +169,16 @@
       "sourcecountry": ""
     },
     {
+      "title": "FSB finalises sound practices for the responsible adoption of artificial intelligence (AI) - Financial Stability Board",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYlowZTZteDU0NjQ1YU9jVWhWVi1WS2gzUlFyN1c0T01CTTBNb0tkeUZfdWJEQ09NNnUtV1VyQ0NDcC1pZ0VnUWt6MnB4cWxhMVJZdDc5SGdrR2I3clFHVHJLa1U4cVlYTXg2djVIVnR5ZU5Mb2VGOGI0aFZocWVFeWJyNWpHVnNYaWN2UW1RQzdKYVBZa1lwSWpVN2RocnpjbkVqdlNuakVxMC1yeEJTVUpBS0JZWVBJ?oc=5",
+      "category": "AI",
+      "severity": 2,
+      "seen": "2026-10-15T04:00:07+00:00",
+      "domain": "Financial Stability Board",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Santa Ana Winds Trigger Wildfire Warnings in Southern California. Here's What To Know - Time Magazine",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkVQRk5udW84cC1kYXg3cjZXdkc1UV9rY3lVaGRXSEZ2T05rc1ZuajE3cUktZ1JpZnZoQzN3enA2aGVIWGtiYWhPSVd6OUI3REVZNTVBa3hNTjZVcnY4YndiRV9XQm1WSG93YlJRYXdRWXI4NFJIc0xJMWhYb3ZTWDk1bVhrT2dLQW40ZVVrQ1BkTk0t?oc=5",
       "category": "DISASTER",
@@ -199,22 +189,62 @@
       "sourcecountry": ""
     },
     {
-      "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0UwNl8yVFFyTHZ6SjlHY3g2allSUmZVTFZ3d3R2ZEx0T09SckgwMTdMUjE5dnJpc1hDcnFDOXYxMVlnVFkza29LODQ0djhWeVVTUUtWMXdoSjlCaERQclg0TXZMVGdPSF94ckJpbTNaYjVad0FnMlhiZXhlTS1kZnJ1Z2w0aFlKakJhNmQzYmZDWHdrbGY5SUJqU0F2ODU2WnhzUjJGTQ?oc=5",
-      "category": "CEASEFIRE",
+      "title": "North Korea Tests First Submarine-launched Cruise Missile in Nearly 3 Years - USNI News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYUZpWFhWLWg4YkxxMERaZFBNWXlqY0ZJYUFOUTlBVzBWZ0RndlQtaVBQLWF2a2ItYnNlQUI4UjFqcl81ZFBXOENtbTdNcFhHckd6aEZjNEdxVmJJR25KdkF0N2tZU2kxMjRPS1B0b3R1ZkE1emQ2OXo3VjJUdUZhMXBQeWNPZjZzMUxrdXJaX1pGMnpUOUhjdGJYQlMzSTc5RnhKWTJDeUEtbXlE?oc=5",
+      "category": "CONFLICT",
       "severity": 1,
-      "seen": "2026-10-15T10:08:00+00:00",
-      "domain": "The Guardian",
+      "seen": "2026-10-15T16:40:00+00:00",
+      "domain": "USNI News",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "TotalEnergies flags quarterly profit surge as Iran war continues to drive energy prices - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSjBJVjY0bVpoWDlsbGtrMnpFS0ZvcURsLUZMazd5S0o2Zmw2R2s0ZXc1NzBYb1YxUnNhdENBYzBfajVLVHZiWGJtdk5PbTRLb1BzaWdsNEJDY3lxUFV4TW1wTUpTRmZGTXVOb3JDdVFNeUFTcFZEbVNPcmJBMS1lazUtZVdJbENMMVAxQWRXallDRjZlQ3lINVBfaVppOXBPSHpmUkxqRVdNalVZWVZBcS01cEhWZnlTTDFnRFBoSTVxdkt5?oc=5",
+      "title": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFl3OWJIa0lCbFk5dVZOSEFHMjJpdHduQXg4UjJ0YUtyTDFfNVdwTFpfZzdaa2JXWThXZUNuSEtWN2wyTTJnc180QU1NZUplVVB4R0kza08yUTZKOFAxQlVrMTMzZ1R5cHppMXpwa29NSFJ3LUxsc2ozaVBPR3hWN182SS3SAYoBQVVfeXFMTjlIeWQ4WVUxNHdmcVhPdTdLLWRGX0twWXlXRzZIWG0wLXU3NE5ucWFRUS1taXpmcDFNQlljUXdKaXBxLXg5OTJvR0hZWHFSa05YaUlzSUNNT1F3a195aE9DejlvUk5tN0Y1ZGJWNlJSZnNkWXBGMzJxMlZMYjJERlNUbWViMDNCRF9n?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-15T07:46:30+00:00",
+      "domain": "CNBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Saudi Arabia says it thwarted a missile strike on Medina, and other Middle East developments - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVQzNWxwVUxqYThJN1JqdEg5dXpXU3ZKVjZ4Z3BiSWpick5JOHNMSnY3ZjhfcGcxd25uZHRObmVhb2hCOWlKaEdSckJZLXJhb0xLaloxb2lOQXZ4X3lPTWZ2LU1acVlMeUZNYUtZNlRsQWhlaTRpOExSVnA5MlVyaThMOVlzRFRsNXNnUnJ0ZjViaS1LYURnOWNVX2gwSXJBWjAtSXZzcw?oc=5",
+      "category": "WAR",
+      "severity": 3,
+      "seen": "2026-10-15T20:19:00+00:00",
+      "domain": "AP News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "COMMENTARY: Oil's long view darkens as Iran war refuses to end - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2VycDJiM2tHUVV0LUZHMjgtcmdqOHQ2QWZkakF6eGlnY2ZmaHduOE80Ul95NjVTTVFtVFR5d3l4Q09QdU15YWI5MzVxYzdnUWlKRXgtR0lGakUyV243MlJPamhMRFIxTF85SWRJclNQLTlJTW9KUHR6OFdFMUpxaURpYkdISHJPRk5ZMDNIZ2h5Zm9rVVVzQTk0Uk56VXdYY1d5ZGduNDJUcVA0MjNBaDNB?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-15T06:06:00+00:00",
+      "seen": "2026-10-15T06:00:00+00:00",
       "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ousted general warned of years-long missile defense shortage before Iran war - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWNTdkVxSFAwejREYWszQlhvM0RtWUYzdU5OcDRzSlNmVEtlWld0dmxYUER4MHVnaEJBRm4tdzNpVEprTTJ1RzFBcFJpc3FzTWo2ZHpxTEs4UkRSbng0dkI5QzgwdHdnNl9QeVZsVndPX21ZRjgxak9QdUxwaWt2NTMwNnY?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-15T20:28:00+00:00",
+      "domain": "CBS News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Santa Ana Winds Prompt Fire Warnings in Southern California - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3E0VXdiOVVDRVd1YVozV1VBWmc5bndZSGtkRVlTZlQ1djdXWjRhVFdoT3ZCbHBlVFJxZVNoOENLeFFJMnlQcmRRMkxCbjhrelNJVUJnelk2N0cxeWVZcFZ1c3hiTmkxLWdmR2R2MTZtbVUwY29vRzNHb1UzbXF5MmJGYw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-15T19:29:00+00:00",
+      "domain": "The New York Times",
       "language": "English",
       "sourcecountry": ""
     },
@@ -225,6 +255,26 @@
       "severity": 2,
       "seen": "2026-10-15T11:45:06+00:00",
       "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Opinion | California's ballot propositions fuel its longstanding tax-and-spending war - CalMatters",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUWNyZG5IUExTdldZQXlCdHBkRG91ejlwcnVxZ253eUM3OHJvcXpxLXl6S0lwWGtRLWNXMmRnY3VrWldWSUVxRmlKM3M0bVA4NkpwMkFSNUktbDdtejQtR1NGcEQ3eHdkWEVHaGRTdTlFbGRucFBuT2pwRVFnRzdsaXNicmZPWXpPWDdCM3ZMb01nVXNi?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-15T12:00:00+00:00",
+      "domain": "CalMatters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Preliminary 2.5 magnitude earthquake strikes near Gilroy - NBC Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWFKejJVRy13NW9kZUQ4YjRFQzhVNWx1UUVhLVNhT3V5cGhSaG12Sm14LWF3ZVFvZnhTX2ctODAtdXpheWRZaVpoUHdNZ2Q5d1kzZEpOOHlRNXh5dk5KYU1ydkNtT0lMei05TWRTcXVDdGNLcm1jSHY1a0oyLWRqT3dqNFN5RmxtbDFUb3hnU0NDejd4Mkdacmo1b9IBowFBVV95cUxOS0t5UTJjQ1ZtZzI4YXR2NHhVTVdGRmxHMjA0Y0hIRnFGaTI4VnRhWF9IR1UzV1g2eWQ4cEZrdnBfWUZOZ1dvVG1QOVpzQW9XT3hpWkJycHJYSUlfdUJZN1ZQSDhtRHEzUm9PM2wyRlFKZFdESm15TEhSQm4zUDNnRWEzaDVGbWQ3OHhHOHZ4Z2RlcnVyeVVrQWJid0Y5Tkk3WXJJ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-15T18:10:31+00:00",
+      "domain": "NBC Bay Area",
       "language": "English",
       "sourcecountry": ""
     },
@@ -249,6 +299,56 @@
       "sourcecountry": ""
     },
     {
+      "title": "America's next war could reach US soil, top Army general warns - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWk1EOC1aZHYyZGswNjZxaUxoQUdsY3o4elBOTXBnbXNRbWc2SFA4czBjVFVVYzRUX29pNVpDOUZMY291bXNnZUFTdXhVc1ZCU1IySmdoZDd0bnM2UnQyYzlTMzFKWGt6Zkd6Q2x2eTNLSmtLcEZYRnA0V0tTSy0wRTc4eWxrT3B4alZLRWlDNWZzQUxKYmdVZtIBngFBVV95cUxPeGs3alYxWEJLR0VyLUFKVjB1OV9GUFl2S1MxdjNfb1VDS0ZGekdxdEVuUkJBTjktNGxHS0Y5NmFycDJTdjUzSVgxSmw1VmNCXzNCa1haeE0xX052VXpKM3lWdVBSQUFZcUFKblpUUUh6eWthdHlPby1ROURjczE3RU9CMXVhcGhaR1BnNzg1RldaZ0ZvMUhDOWk1WFR3UQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-15T16:59:51+00:00",
+      "domain": "Fox News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Blackburn promotes coal, nuclear while Green vows to protect rivers, forest and farmland - WPLN News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUl4MENtemZHdDdvTmZ3NnJkNmVrR0xwTzdXbkhNclBiMXlLSjhXX0RkSlZIVkFGRko4RTJ2SkF0bGtFYWRFLTd5NXg1emp2MjI2eXR2TmRwQjZqaHpfeWZLYmFwaTVsSzZnbDZjRjNucmg1Mm8zQU9ERHBVdW5kRHc2aTVmSW5iMGc3YmMtN3c1YzZCNXBPWjVSbTZwcTcwOVdCV0Y0Z19UaFZJZGc?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-15T20:13:09+00:00",
+      "domain": "WPLN News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Don't Wait for the Next Storm: City Officials Stress Preparedness for Rain and Flooding this Fall and Winter - Inside San Diego",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbUlHLWM0ZHpNMDQxbEtHaUp2LTlPMW02LS1CeTJQTTFLa3dLZ2dQOHB0TXkyUklTU3lTbTZVSWZkbWtYSXYwUTJZMW4wcTYyVXBPQWlqTVdaZjNFX202Z2ZqSmJHeVJTVkFINHY3WVRjMmNwamhpVUxJR01TVXNZYmw1Q2k5UDA2bFctRmloYmstdklBejR4MmZQaDJGVWZIeTMtWkxIb0VwQmo3VFpCc0Jpdm9IWEVxdDJaaQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-15T21:42:30+00:00",
+      "domain": "Inside San Diego",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Merkley, Markey Announce Joint Resolution of Disapproval on U.S.-Saudi Nuclear Deal, Setting Up Senate Vote - Merkley (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdjBhQTFGMFJLOTNpUDd6OC1vU1AxaFRTMHI0RDhheTlCUkZPdDhqejZRYmVqbjBta09hdGdaVFNERU56bk0ySTROcnlUMlQ3NlR1Q29kNS1aa2lBbzY0ZWJ0NS00d19hTzdEdVdNRVlSM3FsbmhqR2R2bk1nZmxYNVphX3VjcEhFdWtVTV9QX1k5Z3F3UTgxcTY0dDZFaDEzb0tsR1I0b0RzVVBGVi1jQV9VdGtKVUpES1FCU0xLQ0t2YjZGS3RuVW9pMVFsQmd5UHc?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-15T19:04:38+00:00",
+      "domain": "Merkley (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Hegseth Welcomes U.K. Counterpart to Pentagon - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzB5V05BQldMX2NVU19RYnNHYk5PWk5yS2x3Qzc4QTBiNnFUdlJaYzl2enhYdHJsRWNITldYZURQRWNidFBJdnVkTmUwNkFEdHNJZTFEcV9FY3F2Q0JDX1U5QmVvTmFnUzhhY2s0NkVuNGYwUHA4a1o3dmg3ZEJhZTVXMDMwdWVHblp1TkV4Z0ZfbW5lUVR1SmpMUzZpbVc0VFhGOUFWRl9nQQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-15T20:40:20+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Trump says Iran war will end “soon as I want it to end - CNN",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ObkZ6WEdlRFhLOWE1Mi12SU1nNXkwSlo5azlkcGFQSUVZVUhfNlV4TllNbEY0VlBhN2RBVnd4NHljWm1TN21oWEtrRzk4eXQ5M3h5dmplYzI0VTQ0RFdnWUE0NGhwQklab3E4U0dVM0c?oc=5",
       "category": "CONFLICT",
@@ -259,12 +359,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "The United States Discovers Soviet Missiles in Cuba - Council on Foreign Relations",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzdkSWxqZUxRQ1RTZDJ6Vk1XaWM4TUVlZ2Y1LXpyblN4aU1TWk9VLXUwb1FjYktpRXAxX3Q0b2N1bTZOYWl1Q1pTbzdDN1I1LW1vcnl6bW94SFJKUDY3S2VFdmhSS3dCTFp1YzdfWXlnRk5RV2lTUjZYejlDUUNnSFQ1Wm9aY3c?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-15T14:57:07+00:00",
-      "domain": "Council on Foreign Relations",
+      "title": "Democratic senators set up vote on blocking Saudi nuclear deal - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQclp0czhvZDRFb01IWkR2bFBwbkcxTThreFFwR0p3QWVFM3h3LWpCZnpNMDhaTjg0Q0l1QTBDdUphUTBCbEp5ZWtqd3Nld01kVHZHbUFyc0tRWkczWmZsNDJJR2JsM2NlOEdSNzlteE9udFNLMjliRGJoX3VzWHkxaUktLXLSAYoBQVVfeXFMTkt1bm9jUGw2R1JSM1pQUG4td1lYa203ODdpR0h2NmpzeXN2cEhCbGh5U05uaGloTC1ORlRWSjBQenllM2VVVHhqT0hLd2dwUGtyMjZObEp1dFRtMEE2M05LTG1tZWtfcHpSaEJZV0RKZDF2bmg5Ymt0YlpZNWQzYlBObmkxclZGd2xR?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-15T20:52:00+00:00",
+      "domain": "The Hill",
       "language": "English",
       "sourcecountry": ""
     },
@@ -279,66 +379,6 @@
       "sourcecountry": ""
     },
     {
-      "title": "Merkley, Markey Announce Joint Resolution of Disapproval on U.S.-Saudi Nuclear Deal, Setting Up Senate Vote - Merkley (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdjBhQTFGMFJLOTNpUDd6OC1vU1AxaFRTMHI0RDhheTlCUkZPdDhqejZRYmVqbjBta09hdGdaVFNERU56bk0ySTROcnlUMlQ3NlR1Q29kNS1aa2lBbzY0ZWJ0NS00d19hTzdEdVdNRVlSM3FsbmhqR2R2bk1nZmxYNVphX3VjcEhFdWtVTV9QX1k5Z3F3UTgxcTY0dDZFaDEzb0tsR1I0b0RzVVBGVi1jQV9VdGtKVUpES1FCU0xLQ0t2YjZGS3RuVW9pMVFsQmd5UHc?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-15T16:47:19+00:00",
-      "domain": "Merkley (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "The Brain’s Tug-of-War Between Impulse and Self-Control - UT News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZVBXMGlJdEk5d21wVkVLX09TSnp0aXJ3TnowTU9QSm5VWWFZamh1VUJMZ3hOVGNFbWNubF9nQkYyS2dic1pHODhDRTU5cWFxQ2VCeFgySkJzbWlRVkZnVDlXeUNRQl9Jb1lTY2FYQ19fa2hOREsxdzVjdUNHZHVra1hKSDh3S3BnOWpSUHdnWGs1c0lT?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-15T17:01:17+00:00",
-      "domain": "UT News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Texas resident finds second world war-era grenades in box bought at estate sale - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSDlzYkhXX0p1Q095OFQ1SkE3bnR2clh1TmRGa2IzOGxXbUNXMk1qMzdVdW01NXZ6M01MWUFNdzY4Y3RJS0pGeWt6TXF6V0UzdXJZamFMWDZFel9wMEl6ZElZYXdNVWQ3MGUtVGE3UUJuVnlmMFJ0WlRsa0RZNkVnMWMxOGk0Y1lEYldObUlvTUctSHJIbHc?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-15T15:46:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "3.0 magnitude earthquake rattles close to Petrolia, CA on Oct. 15 - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yUWo2ZHJYWjhXRW1xUk9SRXRFWlcwMEVvTHZHLVhnUVdVODdYWjI1QXZvNjZKYUF5d3Q0eFpXUDR5QWVSQ1ZGZGIyX1ZZbWxmTlBnVDYzekhWT29VNW9mSGJ4eG5jMV9sMkV0ZmkyZFk2RFVaVC1IWkNzVnE?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-15T17:47:10+00:00",
-      "domain": "Sacramento Bee",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "America's not ready for the consequences of space warfare - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yOGlHYURtdi1UZXZBeXFfQnJVcFZHWUx5UkFGZjhTd3dKOFpXd1VJaDJfaFp2VC1sOFJndDlhNDVkMzdqZ3JFWGxnQ3JOQjN4bWdlTldycU4wbDlRc3ItVWFiSm4xdw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-15T10:17:34+00:00",
-      "domain": "Axios",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "IAEA Supports Capacity Building for Nuclear Energy Planning at Regional INPRO School in Kazakhstan - International Atomic Energy Agency",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTk2MDR3c3RBamJwMEotQ2dXYUgzQkFwaTFReG1YVEVWdlFsWGtSNG93elVYckxZM1JkSFpIcXV0azR5REJLSERRWWd5MVlTOWdRazNpWjNLQ2Q1LUdfd2MyUm9DRktET01jbjFab0ZqNzdlUnBQNUxBMjJaZ2JkWm1FRWxEb2QtbDVWTGpUQkZXcWtlNXZNb0VfenlidC1CS01fN21mTUFDQnRxd2ZiazB2MGpQQTNZZGI0cGo1SHFSdDdDelZabkN1ci1EUEgw?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-15T14:52:07+00:00",
-      "domain": "International Atomic Energy Agency",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
       "category": "PANDEMIC",
@@ -349,62 +389,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "A Jumbo’s Journey: September sickness, October outbreak - The Tufts Daily",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdkl4Qk5TQktLelhzcVZtbVVRNzZhZ0tLMmlwdThCUDVrMXlhaGJ0Y1ZHREk4Um9SX1hac05Mb1ZuN3Nlc3Zwb3hkVEtxTHZqVEtpd2E0cjNheTF6YUdMcFJHRU0tbTVfWUxBaUxGUnJUcTBYTjVCMHJQSmNxNUJvYzIwbngteFU4cFc1X0hIMWtZQjBxenFUTnVxUQ?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-15T08:06:58+00:00",
-      "domain": "The Tufts Daily",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "“There is no ceasefire here”: Ten Palestinians on life in Gaza today - The New Humanitarian",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONTFRRGpkbWxneGJjbWlSZ1Q3VmhOWlJZR3BBTm4wcno2VzdvME1kX0pDTENhMWJidzJqNWtZWTJMUTduQ3JaOTN4V3VVYVk4V0ZyZ09iTTBqcFhhTXU3RFhtNkY4UUd1N0N2aE91XzRNZnF3QTZkVGZjQ0RLRGZrVHc3OWdhY2VXNE1jRFQ4c05XbEZheGpVS3FGZTBUa1dyOGxHYzhYR01yRnVtdDRheEUxbGl3QQ?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-15T14:15:43+00:00",
-      "domain": "The New Humanitarian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Lt. Gov. Juliana Stratton on Iran war, ICE accountability, and Supreme Court reform - IPM Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZzRhYUJILXQ1ZGxramNYeFlZZXUxUDg1WHRiTTR0UzN2UlYwdHdyd3FFaTZXMlVwTnVwRzA1M2FqYmRoRm51Y2NMNGRWSjVVclBKNk5aZXFsX2JKczRHMllWSEhjUEEybDhZX0ZBU1dPdk9BQ2dBc3c3UUpRNVhUakNqNVl3ZmxLQWVIeG5veGZGdkxBQWFycHZDaXV1RFk5eklDMUgtMA?oc=5",
+      "title": "Contracts for Oct. 15, 2026 - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYTk1djFqOVBhNDlQWldBSlJZbDBoeXNrQmVSbjFlVVUtbzIyeWRXYS1xMEV4OWRlZVd3a0szcVMya1ZOWncxckJ5d1d4U19zalY3dGFZSmNISE9iQnI4RnJTMHkxckQ5NVE0eUktX2VZQXVUQnBNS1ZqbkZ3bHMweHZQbVFfLTFTODhDdUgyQQ?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-15T17:40:35+00:00",
-      "domain": "IPM Newsroom",
+      "seen": "2026-10-15T21:02:17+00:00",
+      "domain": "U.S. Department of War (.gov)",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Why FEMA Is Falling Behind On Flood Prevention - Taxpayers for Common Sense",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOG5pVWFPSkhBeEY5elZfMmI4YkVlZmM2cGFKZWJzWVFLRnNfcHlybFNkNGRPZDNrSVpnamRrWWNtbG03YkFsQWFoajV6NnlqN3RxVl9SVzQ2YnNra0x4a19qR3RjMENxZXZYY3lndGt5WGFCdDJBUHdUTmRzc0wwZkdGdUhEWnN1?oc=5",
+      "title": "Barre wins flood recovery funds for long-awaited North End housing - Vermont Public",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUk5yWVhGcTJwVG53YjFzRmF6Wk1GcE01OGNicl9QZy1ld1BINElzM05Lb0FQMVVPYnZCWm9fRzhYSWpHZkhDNjlHbEZHVFptNTJSZ0tueFdOc0pzS3VSeHcxMlprU3RkekhWYWIwUUNGZEhTQ3NrTktLdnB1RHpYOTVlQTJpM0JWNzZHd0ZiQktVMmNvNUpRbDZWazdjZklJYkow?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-15T16:51:44+00:00",
-      "domain": "Taxpayers for Common Sense",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Saudi Arabia says it thwarted a missile strike on Medina, and other Middle East developments - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMVQzNWxwVUxqYThJN1JqdEg5dXpXU3ZKVjZ4Z3BiSWpick5JOHNMSnY3ZjhfcGcxd25uZHRObmVhb2hCOWlKaEdSckJZLXJhb0xLaloxb2lOQXZ4X3lPTWZ2LU1acVlMeUZNYUtZNlRsQWhlaTRpOExSVnA5MlVyaThMOVlzRFRsNXNnUnJ0ZjViaS1LYURnOWNVX2gwSXJBWjAtSXZzcw?oc=5",
-      "category": "WAR",
-      "severity": 3,
-      "seen": "2026-10-15T14:15:00+00:00",
-      "domain": "AP News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Democratic Senators Move to Block U.S.-Saudi Nuclear Deal - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOelJydzJ3bHkweF9tWV81WTd2OEFFcWxIaGNQbndEMlkybGdQQTNrdUctdkdVbGFFbEtBZkxDVUFWYUY0aGxKQmpwdElreVROX0VMUG1WX054LVo2TXF4S292NWs1SHFtN2VrQnJ6TEI0cTEzeFhRbUI5WGxUdVZYQU1OeXQ4QQ?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-15T14:29:31+00:00",
-      "domain": "The New York Times",
+      "seen": "2026-10-15T20:35:00+00:00",
+      "domain": "Vermont Public",
       "language": "English",
       "sourcecountry": ""
     }
