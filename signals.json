@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T23:36:31.274032+00:00",
+  "fetched_at": "2026-10-17T04:27:45.206884+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -83,68 +83,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjUwMFo1WUtEN0t1RFpuaUh5N0c5UGFOSW1oVGZZbDZFLXYzbUI2MFJmdS0wM294ZDliYXo5dEU1Nk9rOHpOMlJITWpBQmRRV2pJczFTSVg2SmRyNU8tTVZrMGlhcFZuTXhpNW82ZHlzVjZ6SGlCRFpVNmdkdnotUU83dDU0S0pq?oc=5",
       "category": "PANDEMIC",
       "severity": 2,
-      "seen": "2026-10-16T17:37:01+00:00",
+      "seen": "2026-10-17T01:56:26+00:00",
       "domain": "European Centre for Disease Prevention and Control (ECDC)",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "ABC launches an updated wildfire tracker - ABC7 Chicago",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDRSUWFKOUZYWE5XMnRCU2ZYbnh4VGZMUkxwakt2c25PUFZXS2szdFprVzZ6Nkg0eDJJZkhCWDZWSW5JdW1EOE9ObmJucVo1N3YteEFGNzB4MGpYSVRMTDhydHo2WFV5MmVfQnV4OWxvOU9YamVFcWViV3RKVEFsZkFadw?oc=5",
+      "title": "Japan mistakenly sends emergency alert warning of 9.9 magnitude earthquake - Hawaii News Now",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUHZxU1l1blFEcGxvU3V1ZGhTb0NPNGpxUUVZUkw1QmhETDNQM2pEV1lRaFpUa01EQkRESGVZZ3FGamJVTUhiT3F0SWVwUTlpc3UxUFdCbWlkN2haakhNXzVmV3JSbnlrdEJKOXpsVU14NVg1akZ0d1J2c2JHaU5BUUtmd2stQ2lyRDJZMHlKNDE2OU1uOV9IVzJyRGZvVlFKWnRmNkFWQk16bGpBcnh3OGlB0gHGAUFVX3lxTE9Bc2VnRVRzT3Q5TlV6U2drREI3T2dWbllocGlxbmVFcHZKV3NZY3JEcFVzclFkOGJ4S1dfOUdlRzItc1FDZjEwekY0UTBYV2dEXzBrWjlmVU5EUk5yLUhlYlotc1dUeTZOaXUxMTI4anhWWnFUWk9XR2ZKdWdfY3R3UC1xMDlGU2l4WVlpSzRoSWlLSkZXdmhybXFjYzZfSWlpMkdOUEhzTXNDMW1iTkxZQnFMbXBqckdMWWtkSV9URHM5Mm9DUQ?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-16T21:54:09+00:00",
-      "domain": "ABC7 Chicago",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Japan Mistakenly Issues Warning for Strongest Ever Earthquake - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVNTRUs3anBKMHV5ZGtyblE2cnZoczQxNHJHWnFuMTZyNHIwTW5VYTRUMFVhTGlMcHd0c1Y3QzVUVV8zOFBXdW1WVDhKaFVTN3VVRHZzUjY4d1pscWVDUEdSa1lYd2xIR1Mzb0o0WnptUFQzY1JqRFdyeU1jYUx4eUJuMElJaFZBTUtKc2txZlc?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-16T14:08:18+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Evacuation orders issued as wildfire burns in Orange County, California - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFcwRVc4dmRiNFczM2U0S2dCSVd4ZWwtZXFJejlWX25XRTA3em0ybXJkU3gwWkFtb3VyVGhOcm93YW1SVUUxcXRrYnE4cUFod3lVcDBEWTkyTU41YmhzY1A4ejVyRlRUejdiNWVVb0JvWW1oVmpVY0NybFNwSm1URnhacndQN1Y5S0RJbmxqcldIUXBJVWc1dlBGalo3N0J0S0ZrYV9BZm9KV0R6aWdLVVh4ZzFvaTkw0gG-AUFVX3lxTE95YjYtenV2NDJMRlhWQ0pMWi12dlBQLW9JNlhqV1pSeFloMG5ISGNJWS1CWnJiN29TZHNvQUd4VXlvdmdBTkhOOVEwZDNNR3JhVllNMDdWRlVKZlk3RFZlLXVDblYxd1dqQ0p5SkhqXy1mTWVHcGJOazVWc3drcy0tMTJzMHFNZkFEZmUwZlZ6eFVhMWN6dE1SNFQ4YkJCZzBxcXRyVHdRLWlBZ29jLW5IYjFsdG0wc2FQR0FLQVE?oc=5",
-      "category": "DISASTER",
-      "severity": 3,
-      "seen": "2026-10-16T21:53:23+00:00",
-      "domain": "ABC News - Breaking News, Latest News and Videos",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "New wildfire in Southern California explodes in size, burning multiple homes - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkc1NDhnMkUyTlV6UndVN3BRd090LWphS2Q3WFo5cGl0dDVrc1BZTWVBVjhXME1NQ25rekZDRUZmOTR2WXNGV0g3Y0ZOaEJmeEVaU203TFhRaW1zaDhsUThBVFV4QWIxWldZeWFKTlBmSDhyOWtlSWJHeGhLYVZVQ2RENXJ3LVgya25R?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-16T22:07:45+00:00",
-      "domain": "CNN",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Global Strike leaders held Missile Community Cancer Study Town Hall - Air Force Global Strike Command (.mil)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeTNzT2Fjak0xbmhVV21QdUNNM043cEZfdXhkSUFILUt3YlZ6VWxLbkY4V2tBTzNkOF9SdGRhWmlMenF2T2VULU9RT2dyVmZ4S3VJQjNuRHBZaFpsVzY4emhqOWNwakhFXzNHTFZMVmNHaFhQY0N6WEZRSjRkMk1MUmxUN1N1Q1ZiNnFnM3pLcExGTm14WG5kYTh5M09SVFI3eExnYTFjd0VKY2RHWFdKT1J2dnpfb2NIS0xFOWdUeFQ5N3FVM2VPa2Nn?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-16T20:48:42+00:00",
-      "domain": "Air Force Global Strike Command (.mil)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Bleach: Thousand-Year Blood War - The Calamity Anime Goes Out with a Bang in Final Trailer - Crunchyroll",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONWZXblQzVldPOWYycklZdktGbUhwekFuT3lrSFJIZlczRU5XMnlSc1lNSEQ4d0UzM1lXYnhZWEFNMDYxTklHRGtELVh0eGRwaV82QUM1aDNsd29QajY3ZHBVNlRxQ20yTHdxVHJEN3ZJenZKV1lKMXhhRXlIYXEtTWdlWHJxZzZ5U2R3cWRWOXJuTGZ5cGtERVlybWRVQnFtUkVoaEJoQmRDMkxEWk9TQWktTTU?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-16T20:01:00+00:00",
-      "domain": "Crunchyroll",
+      "seen": "2026-10-17T00:27:00+00:00",
+      "domain": "Hawaii News Now",
       "language": "English",
       "sourcecountry": ""
     },
@@ -159,121 +109,11 @@
       "sourcecountry": ""
     },
     {
-      "title": "Earthquake of magnitude 7 strikes Russia's Kamchatka Peninsula, EMSC says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQzJGRXBGQV9tSWo1S3NWenFNRG5MbVZ5dUhUeXE5TjN0NjFqVEZLN1FNVkdzMV9FUi1TRjNIU1lLOGhBR3kyRzJjb1p2dG9ucnUzX2dZM3djWFRqcmlzODFsNjluRWQxR3RvWGdhN2hTNHoxUDVRTjk4azVzQVJ2QTB1S1ZCLTI5dDA3TkJ4Z0V4c0o5RnRVWmM3Y0dIem4zbWdnaF8waU1Ecng4Y3VTa0h2a1JSTlY0X19WMG9WU21NU2c?oc=5",
+      "title": "Japan Mistakenly Issues Warning for Strongest Ever Earthquake - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVNTRUs3anBKMHV5ZGtyblE2cnZoczQxNHJHWnFuMTZyNHIwTW5VYTRUMFVhTGlMcHd0c1Y3QzVUVV8zOFBXdW1WVDhKaFVTN3VVRHZzUjY4d1pscWVDUEdSa1lYd2xIR1Mzb0o0WnptUFQzY1JqRFdyeU1jYUx4eUJuMElJaFZBTUtKc2txZlc?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-16T03:50:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Malibu wildfire rages, triggering evacuations in Southern California - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2daUzRfcjA2Yl9QZENieGhXVTdLWUNCa2VSSm0zcGM4cUhnZkJZYkJlWTRhRVFFZmduVjRlcy1pSEJzVmVxbTIzTHZGQzZQN1E3MTZOU3BtNjBJOV91Wm1maEI0TThTSEN1Y09wNmV1RV9DcE5BeGRralE0M2dTRnZzMmwxem81NVFNYWNOYTlVRU4tVC1DUFlnZnhpSlJBd1pQcGkxdlphS2pYNDBFSWRB?oc=5",
-      "category": "DISASTER",
-      "severity": 3,
-      "seen": "2026-10-16T18:35:20+00:00",
-      "domain": "NBC News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Multiple Southern California homes are ablaze in a fast-moving wildfire fueled by hot, windy weather - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmJmSmdlU0NrdkN0LTJXMGYtbHdsTTk1dTFhY2tGbHVtRENWSUtGWVFHbk02ZVJsWnZwZDJQTGdVbm5xOUpCanFtMXhOUlh1VVdXWVFkQjVkQ29OeFRqWExBdXgzQWFGSXNsWjA1V3lHdjdHNGhfNFpINGlpenlpVHlIRHhvTTdoclNZOUlORk5BakdtMXJXLVNlQkI?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-16T21:46:00+00:00",
-      "domain": "AP News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Norway faces public dilemma over divesting from companies involved with war in Gaza - NPR",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa2xfdUNjMEVhNmFsUXBXV09QRjdVQ2xEVnYyeDJCTGFPMGRJbFQ3YkNlcEFNRmRPM0VLbHFjSXhEa2J0aXlLdzYyVklGOVpHQ2xCa2pjTTR5REZCeGVmeEM3WXl2VlVkcmVpc1VEczAtQ0U4b202S1F2Q2FEcGdwbUdNLUw2a3lrT09MNGxPRWt4WXFBSnRnZ3JDdmxmUFBYemZZSW5QaExIbER6Ujg2VF92U20yUFMzR0k4T1lsZ0ZwOG9JRFgw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-16T20:56:02+00:00",
-      "domain": "NPR",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "3rd person in Kenya tests positive for Ebola as DR Congo outbreak spreads to 8th province - CIDRAP",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlJfLU1Fc3pVT3pSWXhiWUc4ekNXUmRWNkg1QndSTmNxSW51cFZFLTI4MlVHSm5Sd0pYSkdGZWxTR1QwR0hBQ2FwMDNxUWE1ck9YN2FaZEdCYXF5OUdkTXVwZHprTEd5WC11dC1GendVdWEzbkRENDliSGJmMVFCbzBrUEk0UDlVQ3ZKblJncjUtYWxDVHM5N3ZRb2xsZW5JZ1NVN2R5UHozVjBRb2c?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-16T20:03:44+00:00",
-      "domain": "CIDRAP",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "How Iran messaging highlights cost of war ahead of US midterm elections - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckE1c3laVXZKWGlFMEUwMEcwQXR4VDBqRlJxRUo0M1pMWk9SRDVtOHMzLU5qNzJxYW92NUw3QkVadlNlUU5OZWJjeG9ubURBNlpKNnVHU0otOWV4Si1GenlwV2tadElpRjRjQkM1aGlJTGZUeGJfU3JWSGdNQ0dUc0szQ0hvdFZPWnhKaURtcXJuMVlBeFdZdVdhbENBZVlfVk9yaXdtZWFsVEgyVnl3NWRjSdIBuAFBVV95cUxNaTFsRERla2prbU16VDhKWUhCbE1NTVRQVzZ1bXRJcHBQeGtmR19aVzlWVVdFNzBHT3N0b2ZsazRiSDV1UWJWXzJCZXhLeTNjWXJqWWdCN01iWmxDcno2M2xKN0w3VjhrandDcGlrRGtENTdTcGVERE50a1JRV0VSSzZGZ0lQMTZOZFZZT1VpLXloM1dqelFsSl9oZEgxWldjOHhCUGNic1BHUElFVTRPX3R2N2pzRUlG?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-16T18:28:04+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU0VwdFZkd3lnSzQxMElHeVhmMEpUQ0djVDdIYWhNWmkyaVFqY2lCTHg2Y1dhaVptZmg1enFieXE3REp0VEozWFFXWnk5MkswVFNWMEY1Tjg2RFlfbS1saVh3Z3VncEUwV2JUZ2lraGJZX1l0SU1WWlpZN0lzbWYzZ3ZSRUFiR1BNV2diWkZMLWxhcWVYNjUxcmJpWm1PR3VZalVKdGh2d9IBrAFBVV95cUxPTnhySWdKVzhLY3BHb203M2hGT1pqYjJUM0t4Wklyb0JMdW8yZ1JZTlJmalY2RHp2MldsMlp5Q093ZDlNczhIYXlGRVY2eHhwTHItMl9QWnhkQ0RZQjBuemlEVkducE9NWUFMRzZhRUthVEgxVWFVNGVwQi1tcV8xQ1VhclcwNWpYOENOQndTVWZZQ0RKM3VWYlBRWGQwZ3RBUXp3XzlHQkIzbWlQ?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-16T13:45:32+00:00",
-      "domain": "ABC News - Breaking News, Latest News and Videos",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump rules out using a nuclear bomb on Iran: Why that matters - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEVJeVVzcTNFVC1FOUYtQWMtY0NiSVBxdmFYeHRUM0gwcFN4ZVhiQ1FNRV9SekM3TG1CaGMzQXU0MzhKd0htR2lvWjhGSWdCOTBXbU4wSWtLT2t6Q05MbmtneGNXSW5qRWxjVWpWYXUwemNuN1FzWXo5ZVNiYlh4ejNDT0c4clU1RVAyVjFvd0tzQlQxblhXSDBVcnRGNmg4R01pR2ln0gGrAUFVX3lxTE9Jdng1akZhN2pvQ01wS08zdGVYRzgzRGhIWVZBNmlNTWIybnlRdm5HZ0JVVlp3UE1qd1B4bEgxS3h1REVUUUtwRGt3d1pDeVBxQWdodkJJV1VHTUwwMkdTV3B3ZzlSTUlEVWxPSlFwS2kzRjRiU3Jnd3BGQ0w4TEgtekR6bkFLUmxsYU5lcG5CVU9DZHJxREF3QkRZejRtTlN5TE45MmVIQVlrZw?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-16T10:25:15+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Oregon wildfire grows to 20 acres near Three Fingered Jack - Statesman Journal",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUmNzSWtuUTA1MzBSNGFUcWlweDAwVi1Ic0dIUUhiTXVUbDhEZTlzSFM1bmNwanJlU2Vxci0xQmJtTmwtaWpvdHJaeUpNcW1aV0VTNTBTd3NpMFQ3TXJxZ2d3am1GNThuWk1Oa3Z2bVJsZW9rUHpQY09ZcF9pYzFwRFltVmpzbkRYemdnckpNQUplbUZKT0MzTVZ3aEZNYlFFTng4N09HTUxhbW1Kb2M1YklSazQ2UEU4U3FfcHBXSFFjbjFMQnU4UjNuaElKY2NERDF1MUQ5WGwza0VoTGVldUViY1ZDOUxEVklxTzczdW8zUnZR?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-16T23:06:00+00:00",
-      "domain": "Statesman Journal",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Android earthquake alerts now available in more than 200 regions - blog.google",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNERZUzctUThaRTNhd04ydjJORXp2QXBueEEwWkVDM1N2U21yMl9wYWtBLTlvMG8zanl4d0pZa2NhYkNXUGk3VllyMEQ3RXRmWnpjam8xOG5EZElVQUdTRW9CamphaFdjSWJoTDNfSExjZV9QRDhhdGw2Z0tGMnZ3YlRwNmpXYk1IdXVfRGw4eERJTGRpdUFxVm1oUTFwMm9PQ0xxZg?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-15T16:20:06+00:00",
-      "domain": "blog.google",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Gusty Winds, Hot Temperatures and Dry Air Raise Wildfire Risk in California - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOEF0RG03NkM5VTlKOTBQRi1nWm9ZXzlpM2VvTmhCdFF0TUlZUWliV1BlUTN3SWdFclJra3JzcWZmWXdOQVNweXYzSi1JOE5LdFhUeUJlenJ2ZlFaQ2ZWdE1HNVNYaXZGVkFJeGxuemkyRzJ3ZnVkamdaUVkzT1dJeTRIYw?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-16T19:35:00+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "California Firefighters Race to Save Homes in Orange County - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRmpIa2pNUzZjaFlyaV8yV2lTMjV5ejBtd1pnWnh4eFJQZzNyWjVSTlVTQXJPNnV4TlRnaVR1SnlMQzJweFFzRTdCY1JPVWR2d2pNWVVCa0l6cmluQkNPelNTZkZ3My1MNjlPWVJTTVhnV1lNMHhLaTFOcFBkUW92djZfT2NZUQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-16T18:54:47+00:00",
+      "seen": "2026-10-16T15:01:28+00:00",
       "domain": "The New York Times",
       "language": "English",
       "sourcecountry": ""
@@ -289,62 +129,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "China says it will curb tech exports, including AI, citing national security risks - PBS",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV1VUdmQwc0xPcG5KT3AxZFJ2dVJTVXNFc3RYc2lUTlA2R2xGeGJ3TjVqRGlpYUt2WUhNNEZDSDZkX1dJYm1INV9TaTI3eVlMM0RIaHh4V1g4U2FLdGJWOGJNRjFia1Q1amNoWUwzamlLWGFDVVhPNlZzbjRoU29YN3V1X2wyM2E5clBsTnp2MGJkSDNjOTFSVWVBd3MtZUZ1Sk1Yb1JGOGhZUlVoQmR3azVzZzU2Z9IBuwFBVV95cUxOSGI4Vm0wMmNIV3ZNY1NqNkRsaG1kTkd1bm1aZ3ZwZkFERU9YQ29Id3Bnc3FOU2NFNHVPbWwxclR4ZlFYY0hYLVNuMW1KbVRnNGdNTXpQODVReFdOaXZMV3E5cGx3ME9Ha25CZ3V3OXF1Zl9KSFhjWldWcHBwbjJDdGFudGJXVTdwY3dEa0JpYU96VEJqdG5hdW5pVmVvaEcxcFZXUTZoSVlpTWFtMTFlOE1YbUtVYVlBZTdV?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-16T22:00:29+00:00",
-      "domain": "PBS",
+      "title": "Evacuation orders issued as wildfire burns in Orange County, California - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFcwRVc4dmRiNFczM2U0S2dCSVd4ZWwtZXFJejlWX25XRTA3em0ybXJkU3gwWkFtb3VyVGhOcm93YW1SVUUxcXRrYnE4cUFod3lVcDBEWTkyTU41YmhzY1A4ejVyRlRUejdiNWVVb0JvWW1oVmpVY0NybFNwSm1URnhacndQN1Y5S0RJbmxqcldIUXBJVWc1dlBGalo3N0J0S0ZrYV9BZm9KV0R6aWdLVVh4ZzFvaTkw0gG-AUFVX3lxTE95YjYtenV2NDJMRlhWQ0pMWi12dlBQLW9JNlhqV1pSeFloMG5ISGNJWS1CWnJiN29TZHNvQUd4VXlvdmdBTkhOOVEwZDNNR3JhVllNMDdWRlVKZlk3RFZlLXVDblYxd1dqQ0p5SkhqXy1mTWVHcGJOazVWc3drcy0tMTJzMHFNZkFEZmUwZlZ6eFVhMWN6dE1SNFQ4YkJCZzBxcXRyVHdRLWlBZ29jLW5IYjFsdG0wc2FQR0FLQVE?oc=5",
+      "category": "DISASTER",
+      "severity": 3,
+      "seen": "2026-10-16T23:52:27+00:00",
+      "domain": "ABC News - Breaking News, Latest News and Videos",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "US records 4,410 measles cases as outbreak grows - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSlZlWkpjR3dJLWlTWnNFX1RUcTdiNHhtbm9wbHFpS2FtdzJhN2k2MFREaE5MM1FiZXJsc0ZoWUVOQWlpZlBJLVFTSFA1Q000UE05YWExczlTei1iTlIzOGhTMmw4MEVvOTBmVUdlelFxZEVyRE15VVVWZExzaXhjTHJqaFI4TF9PME9OTHh3STRibTjSAZgBQVVfeXFMTWREUWJHN2piZDEyWmdzVlZ6dUVQb25kNlNmTVRQRjVTMmgyVy1GN1FPYVotSkw5Q3JxVFFsYWNRdEp6NkIxTkZUaUF3VWRLRW11Zl9Ea1NZa29VT05hTVUxQzFBNGN4ajFEMEN1UmkyOVhIc0wtZjdxQmREUkROU2M5QTVMa0Z5R3FvbG5JcDZ5X3ZnSDdodWs?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-16T17:53:55+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Church sends emergency aid to Panama after earthquake - Church News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSDBCbFZJM1RiR0xBaWR4T2pNVTVUU2FtemFTeW55YTYxcjVIZWNtN1l0TEhaTEdlU2FzWnVlc3Rlck42ajdPTzdQOXZQSXNGeGplUG9fMzNmLWFaeU1kY2hDaTE3ZF9wQ0JhbVpXTlpzLXZqbXllZUVGaGpfQzRLeTd6SWxBUkt5a013THVncGdKU2FyUlh6RGZZWFoweklOSnQzUWJsX2xlbS1EVlUzVzh3?oc=5",
+      "title": "ABC launches an updated wildfire tracker - ABC7 Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PejRMdmFjWXRLYXNzSWlXNTdCVk03OUQ5U0NRVGtQeVlXT2IyQnhNZ2p0TzBRSERURnByQTFvSTFNX19fSHZKWVVQb201S3NoaTNkUHIyYWwzZHNZSTQzbzlMNVpwWWxMWTFZYm95S3F0TllHakpQcUdB?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-16T22:00:00+00:00",
-      "domain": "Church News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Measles outbreak nears 1,300 cases in Pennsylvania - American Hospital Association",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYldVSzVlUWdRLWJBQU16VDhDdU5yeEJpbVpuT3Fyam11cDNEbm9xVzI3ZnJvSEhJdzY2end3cnZiRFVGcFJoREpmSHo1VTlRUThaQWVla08zWjlNTG5lZUIzM0FBeFdVcmxidlJCQnpJNzZuYXplOWJSdjJCejh0bE9EejlFcXN0ZUs5UkhmbVhpZ0gzeVE?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-16T21:00:00+00:00",
-      "domain": "American Hospital Association",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Three universities launch nuclear education consortium -- ANS / Nuclear Newswire - American Nuclear Society",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWXJyVEtHUGRxampUeGNrRWZYSmQtdmFNdEVLb3ROdUpJVjRmMVU3LXNlOWFHZWc2WGJ0RzRGZ25aaWhHUEZwZzFNdWR6c3FXOXBvT0tSeWhHS1doSy0tTTVQLXE2RVBSOGdROFhDb0hqVzJhMGJ3bXhHWEd3OUlobmo3S2R3UWVyeHgzM1hXc3NOMFlsdlpvTA?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-16T19:27:59+00:00",
-      "domain": "American Nuclear Society",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Contracts for Oct. 16, 2026 - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVRPUk1LTGJwRURFVjA1NFpFSlJIRzZjeXlMbnhWZ2U1dW5NRlVuRHVDMUF2U1dkMGFjS0VObldRYWxPTWJ4MzM1VG0xT0lCVWtoaTJFT29JRUVIT3dyaENFbk9GVHpMaF9taGhPdU9ZRV93bXA1X2g5bzBFalNBTWZLUmtBN3htMTZYeVJLcw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-16T21:22:34+00:00",
-      "domain": "U.S. Department of War (.gov)",
+      "seen": "2026-10-16T21:55:19+00:00",
+      "domain": "ABC7 Los Angeles",
       "language": "English",
       "sourcecountry": ""
     },
@@ -359,32 +159,72 @@
       "sourcecountry": ""
     },
     {
-      "title": "New Colorado law could help homeowners save on wildfire insurance costs - KKTV",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdDRHYU8zdm5jTWlyenB5c1RTSXp1aUFwd3Jlc3RXeU5Nck9pc2k2Y21BQXVndFA3MnlRU1hHZlMxWTd0bXRNN2Jjam55aGlrUmZWUHRFQWFJTTY4cW1jWGhWWEs2dDFTMVNicmJHQldNMk4xWjFncHI2Rks0dzdFWWpraWJ4UHRia0tJX2VrRUV1MEVIbXZYdDYyZnNOcm9Tc3hr0gG3AUFVX3lxTE1zVDNzWGxRX2JXVnJKZFJTS3czVURNbzJnUXZvOVc1Q1RzbGtiZmczdEJ2bV9fN1djdjd6UTlZSGdfVzlOWWlyT1pDTjdKc09MdnBfdnJFd1plVk9VNVJlUURtOFdVT2hLSFNNZEx6Mm91SEdHdU8ybGh6SjUtOXd1UUQ3Yno4Zmw0anJsbkpjNUl5U0N2cG8tTFRjRnFKdFhXOWxLcFVrbnpuSlNHdHVsQnphTFppaw?oc=5",
+      "title": "First Alert: WCK Responds to Norte Wildfire in Orange County, CA - World Central Kitchen",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Ua1FnQm9WZkoxUGJjR0c0MjhlZm4yZVlaUHBtczNVZmJEUVlVM0I0SWdUVzBjUkF0ZW0wY3NYdThXOGE2MThIZnZMaUM?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-16T22:17:00+00:00",
-      "domain": "KKTV",
+      "seen": "2026-10-17T00:24:49+00:00",
+      "domain": "World Central Kitchen",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Russia's Rosatom targets year-end nuclear start-up at Turkey's Akkuyu - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS082WVY1RGJ0ZjQwWUU3UmZqWC1pbF9qeGNkQ2h2MVdhTTMtb3FxLTh6d3owa3BJY1A4NnplQXZzVmtyQXZWZ0RLOEMxdDVTUTM1a25oaEJCeTFxRTh2ZWU1dkgzZFljRUUzQW1mMjZCZ1U5U281WnloZVVLOTEzVndrZkJzM19BMWpQNmR1UGFoS05oeVR3MUhad1NXRmEtQXpmek9XSWlOcHRkU29kcmw5T1FqMUk?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-16T15:51:13+00:00",
-      "domain": "Reuters",
+      "title": "New wildfire in Southern California explodes in size, burning multiple homes - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZkc1NDhnMkUyTlV6UndVN3BRd090LWphS2Q3WFo5cGl0dDVrc1BZTWVBVjhXME1NQ25rekZDRUZmOTR2WXNGV0g3Y0ZOaEJmeEVaU203TFhRaW1zaDhsUThBVFV4QWIxWldZeWFKTlBmSDhyOWtlSWJHeGhLYVZVQ2RENXJ3LVgya25R?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-16T22:07:45+00:00",
+      "domain": "CNN",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Trump says he won't use nuclear weapons or send ground troops to Iran - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tVUVZclRnWDk3N29XeWRoV1pvUmNrTVJWZ2NOWEdKSlpMZEJtTUU2eFhXT1paWlZ1VEJHTDNPbElvbzczMjF6NTd5X240T1dyRzY3WGRpNUlocC13amVJSWVxai1ucTZQOGF2X0F30gFzQVVfeXFMTXJ2ZWlobThNeHNpX0dXeVdkYU9aaE9CZHVGeUdvaS1EQk9NQXVCbmJTeURnaEVwQnh4WmVBNjFJMUp1MjF6bTBmaExFdVNEMHdSbC1RVkY0ZWpVSXlRdjBsUng5Uld6RDF0SkNJZVdsaFY2bw?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-16T07:56:55+00:00",
-      "domain": "CNBC",
+      "title": "Global Strike leaders held Missile Community Cancer Study Town Hall - Vandenberg Space Force Base (.mil)",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ1FRR2h0NHYtdld2WEYwdWYxRDhpM2RXendhTW1OUEFOampQdG9UM2dkZDVXT3gzT0lFVDNYWFVwSE5TM3N1ZXRfUE1JRFE3N1ZWa3c2MXpaR1lSS3V6RVduQTg1bWhtLXBJZ044eXp2OEZyQWMwZkRQSEJVYzhmMmtweGVPTjZ0RzloNWdDZEFPR2JrdTF1NkdFakNYTFN5OFhJS1RCbUszcnZQOHRwdFJycTRxWXczczhlQ1VveG9td2t6enppaV9MeU1mNTVDWFBtcGtVVkI4Nms?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-16T23:39:36+00:00",
+      "domain": "Vandenberg Space Force Base (.mil)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Contracts for Oct. 16, 2026 - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVRPUk1LTGJwRURFVjA1NFpFSlJIRzZjeXlMbnhWZ2U1dW5NRlVuRHVDMUF2U1dkMGFjS0VObldRYWxPTWJ4MzM1VG0xT0lCVWtoaTJFT29JRUVIT3dyaENFbk9GVHpMaF9taGhPdU9ZRV93bXA1X2g5bzBFalNBTWZLUmtBN3htMTZYeVJLcw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-17T00:33:32+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Bleach: Thousand-Year Blood War - The Calamity Anime Goes Out with a Bang in Final Trailer - Crunchyroll",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONWZXblQzVldPOWYycklZdktGbUhwekFuT3lrSFJIZlczRU5XMnlSc1lNSEQ4d0UzM1lXYnhZWEFNMDYxTklHRGtELVh0eGRwaV82QUM1aDNsd29QajY3ZHBVNlRxQ20yTHdxVHJEN3ZJenZKV1lKMXhhRXlIYXEtTWdlWHJxZzZ5U2R3cWRWOXJuTGZ5cGtERVlybWRVQnFtUkVoaEJoQmRDMkxEWk9TQWktTTU?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-16T20:01:00+00:00",
+      "domain": "Crunchyroll",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ukraine war briefing: Russia building non-negotiable ‘security zone’ inside Ukrainian border, Putin declares - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcUtsWmEwUHZLemRtSGN1cTY2TmNaX281Q1ZUcDFDWm01UEtZQzVlM25sY2ZfYjZKcmpnRFY3SmJfbUVDc1R5Q1h3cnk1ODZBNmN6Q1FEWGo1NEVJNm9QM2kxVXJyV1Fyb0ZtQ0pfV00tMWNLSWFOSDJXbElJQTlucERfVDJDSVdTOU1FYjhBTHJyaVNjZHkzLVBNVjg3RWJ4ZTZUNW9kTjdHeEdNZVlweUl6d1psLTFnQ3ZnN1UzS2RFdVRlZVp5Y0pHc3FqTlZCdmhxMHNxbHlhNU1kdFlzSzRLMXM?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-17T01:15:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Church sends emergency aid to Panama after earthquake - Church News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSDBCbFZJM1RiR0xBaWR4T2pNVTVUU2FtemFTeW55YTYxcjVIZWNtN1l0TEhaTEdlU2FzWnVlc3Rlck42ajdPTzdQOXZQSXNGeGplUG9fMzNmLWFaeU1kY2hDaTE3ZF9wQ0JhbVpXTlpzLXZqbXllZUVGaGpfQzRLeTd6SWxBUkt5a013THVncGdKU2FyUlh6RGZZWFoweklOSnQzUWJsX2xlbS1EVlUzVzh3?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-16T22:00:00+00:00",
+      "domain": "Church News",
       "language": "English",
       "sourcecountry": ""
     },
@@ -399,12 +239,172 @@
       "sourcecountry": ""
     },
     {
-      "title": "Ebola outbreak update through October 14 - Outbreak News Today",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeDN6MmlmS1pYTEwwZ1hOa0dGQVVzQ29fZURTa0FXQnRwTU8tUllvLXJUc1FsX253U2VrVnFQZW54NDJnLVdFbzg5cS1CandJOTEyQW5wUThwR3hPSktRNTJQX1pCdmZ5OURFZVl3ZUI1eEdxVWVhRkcyUktvVEFubWFTSGY?oc=5",
+      "title": "Six homes destroyed, two firefighters injured in Southern California wildfire - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMGZ1ai13UmxWcWFqUENrbDBuS3F0RmljWTEzclNrQjh0OHdNV1pROXBSUy1BZlFvWDFub1RFQUR6RnEyeUo1NmtDdmNYZXE1Ni1qRkhYb0VITEtvTUdxaUp0MUpjWDdPUFpxUG96aXJBbWtWWTdxcTdSNXNkSWNVNER5WFpibVJyZ3o1YmRwTmhlOW93YkNhWTVtT1FCYlFSMEVTRjBn?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-17T02:04:55+00:00",
+      "domain": "NBC News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "The Axis of Upheaval Goes to War - Foreign Affairs",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMcHhnem5jLWkwbEZmbTRLQVpabzB5VHpyQXVmMTVUN19wSzRmeFZia19wYllKNlJTMTlxbWNTdGl3Y0hMN3FtQmNXMXpkUVBVZ1RITm9qZFJITzg5aVFwenNBUXRQR25QMGc?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-16T08:00:00+00:00",
+      "domain": "Foreign Affairs",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Evacuation orders as fast-moving Norte Fire burns homes south of Los Angeles - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MQnpkeHh1U2lVU0NmaXZGZG5fVlRhOHFHcUx5QjRQWk12dEpjQnl2RXlQQVIxQV82ZklHSVFHM0pQRUJWN0RlMlFPY1VkYVBmY2tGSUxTb18teWM?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-17T01:36:39+00:00",
+      "domain": "BBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Android earthquake alerts now available in more than 200 regions - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNERZUzctUThaRTNhd04ydjJORXp2QXBueEEwWkVDM1N2U21yMl9wYWtBLTlvMG8zanl4d0pZa2NhYkNXUGk3VllyMEQ3RXRmWnpjam8xOG5EZElVQUdTRW9CamphaFdjSWJoTDNfSExjZV9QRDhhdGw2Z0tGMnZ3YlRwNmpXYk1IdXVfRGw4eERJTGRpdUFxVm1oUTFwMm9PQ0xxZg?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-15T16:20:06+00:00",
+      "domain": "blog.google",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "JFK Learns That Soviet Missiles Are in Cuba—The Cuban Missile Crisis, Day One - Council on Foreign Relations",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTldRZWs0OW1GanU3ZmRxaTM5VExKR1RKSWxYZlRjaHNRa2dvbFNRNHRtMUF4N2cxcFFncF9LT3RacU1OM1RjaEdUelBrMjJhSDBxV1NlYzF2ZE9XUGg2MjNCcHlRWlNncFktNlNfYjZiWmFYMWlvOGYwbjd3NFdTX1B3T0NjVS1JdVE3MWZoSFZsUTJqOU1TRWRGVzZwYmhUTzFZZ3ZSYzQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-16T15:07:16+00:00",
+      "domain": "Council on Foreign Relations",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Terry Tao Is on the Front Lines of the Debate Over AI and the Future of Math - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5obDJaUW0zTDU0Q2RqRGd6QlRabDFENjNiMTJtR0ZLOXkycWhXNjVlT2Vxc1hFRWhacTd6MEFyM01fU1c5UmNxME82N1VVVDFCWnBKWVZ0bDdvVXRZLXFXaldhNF83RG1keHVIV04xVQ?oc=5",
+      "category": "AI",
+      "severity": 2,
+      "seen": "2026-10-16T20:15:45+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU0VXNjdtQWhONTUxd0ZKTm1jRTJndEVFbGpCYzJFV0c5RTNFQ1BwclF2TmlEZHVCMDdZNkNsWEtSUkVpbDVYZ3U0SUlNTzVILUd6bVJVRkg4OWRnN0NJd0hrZ3ZkMTUtdVZnd1U4U2xOM3UwYXdrMkJSTWJ1aVlBQnVOZDNZUnpnMUJzWG9ZQ0Y1RVJx?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-16T20:15:00+00:00",
+      "domain": "AP News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Oregon wildfire grows to 20 acres near Three Fingered Jack - Statesman Journal",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUmNzSWtuUTA1MzBSNGFUcWlweDAwVi1Ic0dIUUhiTXVUbDhEZTlzSFM1bmNwanJlU2Vxci0xQmJtTmwtaWpvdHJaeUpNcW1aV0VTNTBTd3NpMFQ3TXJxZ2d3am1GNThuWk1Oa3Z2bVJsZW9rUHpQY09ZcF9pYzFwRFltVmpzbkRYemdnckpNQUplbUZKT0MzTVZ3aEZNYlFFTng4N09HTUxhbW1Kb2M1YklSazQ2UEU4U3FfcHBXSFFjbjFMQnU4UjNuaElKY2NERDF1MUQ5WGwza0VoTGVldUViY1ZDOUxEVklxTzczdW8zUnZR?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-16T23:15:00+00:00",
+      "domain": "Statesman Journal",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump rules out using a nuclear bomb on Iran: Why that matters - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEVJeVVzcTNFVC1FOUYtQWMtY0NiSVBxdmFYeHRUM0gwcFN4ZVhiQ1FNRV9SekM3TG1CaGMzQXU0MzhKd0htR2lvWjhGSWdCOTBXbU4wSWtLT2t6Q05MbmtneGNXSW5qRWxjVWpWYXUwemNuN1FzWXo5ZVNiYlh4ejNDT0c4clU1RVAyVjFvd0tzQlQxblhXSDBVcnRGNmg4R01pR2ln0gGrAUFVX3lxTE9Jdng1akZhN2pvQ01wS08zdGVYRzgzRGhIWVZBNmlNTWIybnlRdm5HZ0JVVlp3UE1qd1B4bEgxS3h1REVUUUtwRGt3d1pDeVBxQWdodkJJV1VHTUwwMkdTV3B3ZzlSTUlEVWxPSlFwS2kzRjRiU3Jnd3BGQ0w4TEgtekR6bkFLUmxsYU5lcG5CVU9DZHJxREF3QkRZejRtTlN5TE45MmVIQVlrZw?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-16T10:25:15+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
       "category": "PANDEMIC",
       "severity": 2,
-      "seen": "2026-10-16T21:22:26+00:00",
-      "domain": "Outbreak News Today",
+      "seen": "2026-10-14T07:00:00+00:00",
+      "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Thousands of German prisoners of war were sent to Texas during World War II - KVUE",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNXJuZVM2RnZOVVpYSW42R1hla2tnTzd4d05aLWNxRkpLX3pWOVVuTzk0a2M1RW1oa2xYMFg3bGQtNXhUczZtZzlRVXRDaUJRRFpHVFhncWhhODZRYVNtT0ZUNXNKV3hFR1FGaHRKbUdVWFRXTFhSdDF0dERGT3lwc3pPZEtpeVFWWTFFOURETnVrTEYwVDRtU3ZzRnpHZExaLUpMUndSNFJhWmtHRGthOF9jREhWa0d6M3Byak56MFliQk1xWkRr?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-17T01:47:00+00:00",
+      "domain": "KVUE",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Can a wildfire create its own dangerous winds? - NBC Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMnlrQVVnWG9WZUkyUlhoMjlsQ2ttSjhEZzM0OXdTOWFCVW85cVRFZ2U2VS1JaFo4V3hhd1pUaEU2OGlwVDFqalBqWmhWWml1cndLcy1SWGtib1g1U1ZwNmR1OXRlSmNHSDlNT0V0T0NLUF82WUFEZkpubV9rX05EUDJTdVBWTTJLYWgtZmtBLTFOcWFubEljY3pTc2hvb3dQQ1hLNFhTd3h0cHNrZWs4QXE4RU5LSU3SAb8BQVVfeXFMTnVja1RTeWg5M0RpaHF6VW03aHBiQzQxbUllb1dFRV9EUDd1YkhoNlNoWW9iVlVETjNEWk51VnN0ZzVnNVVmVUxyQ1dCVlktMnFHZ3MwZ0N5TjF2MFJCSzFMU01GSGFZUVJEdklHdGljQlNoendXMXh3NlptWDBDdFV0d0xVa0FrMGtERDU3X2tBcE5qUC1YNFhvRFRudlQtSlgzVTVvcW13VElwTmQ5YlA5OGJPT2lERXNYVmNxdU0?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-17T03:57:35+00:00",
+      "domain": "NBC Los Angeles",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Handheld Chip War: Intel, Qualcomm Hit AMD at $1,799 [2026] - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HWW0tZWdWSEREZXFVYThUdU1fWEpycXBBMkZRYmhZekZXSlNaNWtFRFh1QUFMNGY5djNXSV9XaE94dTBfLVYxVWxxMzhTd2p1NlQ0Qk01aVVEeGpEV3J2Y0tHQVRfUGFGa19mZ19XZFBlUmpoMGc?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-17T01:25:10+00:00",
+      "domain": "https://tech-insider.org/",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "In lives and homes, 2026 wildfire season exacted a high toll — and it’s not over yet - Boise State Public Radio",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVThTaEdjYktSQkZJSzlkX1hIc0xZM24weko3MkJuTlFGekhKR0Vta2x2Y0VHakpsb19EOEVFQU1kc1hvLTFwemZuMl81eElaRjEtUUtXV0R2Y3Q1MmNKY2hxXzN3QzJHWFlIdGFJNHROVS1mUlRqcFBFNkRCcEVsdWQwQWJELW9wakk0U29GYzI1SWpyR0F5blRkWVZrVkhZVWJyUlM2cXo4b0JVU3U5UWN0OGctaEcxaG81NHV3Y3BJcFQ4NjJLOF9VQTNVLTQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-16T23:58:00+00:00",
+      "domain": "Boise State Public Radio",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Repaired flood channel fencing cut open again near Harmon and McLeod, HOA president says - FOX5 Vegas",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUlRMNU45UE5hZEcteTVVTWFpRUdGMzI3Vnl2QmRPVkE3Vm5VUnVQdC1ldWk0YjBoSUN1aU4zVjhWRjJMaC1UdkdTc2pCTXA2X0N5akRpRFY3ajh1RHRyMFpvUENuSUtKRjBpWWNVamp6Y3N5YlFEeWNFUl8yVnFMNlhBdGxFOGM4cXZ4SUZ4dHFuVkwtSGUxU0NyMFhPMW9fYVFuanJldWQzLUM4c2Z1N2g4VENwakVDVGJNbFln?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-17T02:53:00+00:00",
+      "domain": "FOX5 Vegas",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Southern California wildfire engulfs homes, prompts evacuation orders - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVVRRZ3o5SlJGa2wxQUxWRHZWM3p0cVVoRU1ILUZNUjZ1am92Rm83dU1hTFNKSmJlZ3N6S1ltYmxPSFdhLTRFQVNGcmVsT2xUMUdXbnhXbTl0aENYWGp5bEVaa01LQktseUY1ZHJHUExDSjZkbXJ5aEJVZzFzNHVMbW1aUTdCNTN1NFJnemVpVEtsQUlXR2Rtb2Z3T21nRXVReF9CVlFqcmhHbzVYNHRr0gG0AUFVX3lxTFBOS1RHODlIdThxamYwY2s1X1ZFU0Z3dFRKVzd0VUlWTVpPd2FUWVRHVW1VQXpYNVNLOV9UYmFpenpNbDB5cUY2Y0VydXJMUENKLTFLb1pxbU1jVVVRTFNydlBYMkNtT1M2ZkhYQXNvdGRsdGpHamdtZE5xUEI0cTJSWWtmRzFGVGphMzJyMlJSMUszYmwxRUR5ZUpXYTVqT2MxZFZHYmMyUFR0aUVROXhiRnM5Sw?oc=5",
+      "category": "DISASTER",
+      "severity": 3,
+      "seen": "2026-10-17T03:37:05+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Firefighters Race to Control California Wildfires as Winds Threaten to Spark More - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRmpIa2pNUzZjaFlyaV8yV2lTMjV5ejBtd1pnWnh4eFJQZzNyWjVSTlVTQXJPNnV4TlRnaVR1SnlMQzJweFFzRTdCY1JPVWR2d2pNWVVCa0l6cmluQkNPelNTZkZ3My1MNjlPWVJTTVhnV1lNMHhLaTFOcFBkUW92djZfT2NZUQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-17T03:14:28+00:00",
+      "domain": "The New York Times",
       "language": "English",
       "sourcecountry": ""
     }
