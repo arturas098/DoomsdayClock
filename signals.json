@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-18T11:06:56.913273+00:00",
+  "fetched_at": "2026-10-18T14:35:10.368223+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -73,7 +73,7 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LWHhRQnpkQ2ZnV3c2OHRUMDJSem1HUHh1d18xbWhDc2E3SGVqMTFFbmZBaFdwRmZRZThYYjhvVGMyTHVONHVWdEpJTmV2TG9IdDNyMlVqZERRSGZjNVA0QWYtaGFTZjJiTlVTQWFhVjBvRzFhSks1eDd2SHY?oc=5",
       "category": "CEASEFIRE",
       "severity": 1,
-      "seen": "2026-10-18T10:11:17+00:00",
+      "seen": "2026-10-18T13:16:28+00:00",
       "domain": "Vatican News",
       "language": "English",
       "sourcecountry": ""
@@ -85,26 +85,6 @@
       "severity": 2,
       "seen": "2026-10-18T10:28:40+00:00",
       "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "As Iran war spills over, Saudis and Houthis see fighting as only path ahead - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcEJaeEpsVGVjMFo4YlNuNXhoMXBpLVF3OXNWNDFRSnphZzJ2dGRlMnJKRFl0WlR6SDJoODFSZ1cta2tHTmJQQUtYX1NzVlVRVTNLUGVCYVNadVh4NVV3b0JJOWg4eUtUb2dKbmV6cVo4ZTJrN0k1UUZvM1BERFotSFVQVnNndHJOVjFfTWFMSDBzQkM0bFlKbWVaNFE2Vld1cnlzN3FOeWwwLXhEaXVxcUxkbw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-18T10:32:48+00:00",
-      "domain": "The Washington Post",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Live - Iran’s new defense minister urges US personnel out of region as Washington signals longer stay - Iran International",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrcnBqMUFFX1cyREwxckpUbVNRS0FRcUhUS2dlMU1xWnZmWXFKR01HbFZqaHBhYTlJRk9Rb2kzN1FrbmNVbTRFVmViNFFtOVBRWkdXQWVXZkpyWEFfcGc?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-18T09:17:37+00:00",
-      "domain": "Iran International",
       "language": "English",
       "sourcecountry": ""
     },
@@ -129,32 +109,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "Several homes destroyed after wildfire hits Southern California - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGI5MGZiay02WGJ3dk81d0preUJWcERqZ2VqNGVyUmdrb3BGbUZyd3NNUmRfVzFJelRjSldCb29UNDctbUFpLUx0MnFhR3pSU2ZNVldKbWNhcjJWU0tPRFhrV1ZiMWRYRnB1Skt5R0huSGJlRVJ3LTFyU3pocy05TmxmUGhnMmtOMlA5N05pM3BqOGlTTHBscnhBWHlFakpMcGVxUjJEVGhUei1KMTZlQUJhYmttaWd6cmNv?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-17T23:07:50+00:00",
-      "domain": "NBC News",
+      "title": "'You are the real target': Netanyahu warns Iran developing ICBMs, nuclear weapons to target US - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Qa0x3MUZCcVpESlhBNGhWTml1RnpZYkVpNFlKMVlUT3lJYkEtY3lsbkp5M1Rxem5Xbk02VGJWZGpUYVlOYlJKY05EODVCd0lFRWE2UXM2RlpEWS0yTWUtOWtka1RPeG1Dd3loeW5BMUJ1am5lcHVLVUkwOA?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-18T11:09:31+00:00",
+      "domain": "The Jerusalem Post",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "The Victory of Asymmetry in the Iran War - Council on Foreign Relations",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43OUIxMHNwSW04WUVCMm9kdjd0MDBNWjBaeWl1aWZqT3VEODFEamJiWHRsRHBBQ1Q2eVFYRGdsbFVmb1cwRjZDN3JyZWpOQjhBbEdmVWNfVEgycV9uREtJMEYwMzdSaDJZb3E2UUgxeFgyMVhkT3V2OA?oc=5",
+      "title": "Scott Bessent says prices will come down after Iran war: ‘we will get to the other side’ - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX3pMdGo4RnV3dUFGY296STN2LVI2N3JoVTd3UzNWbEp6Ykh2U2RVX2J4N2I2eHpiVFRYdlFIcG0wMEpFVmphTnVKUjVYMDVKNktBaDdzbXlyYmYzbVdWZDRIUU55OVQ4STVLSE9Rb2ZyTjdSS2k5YWlMYlJBWVBNc2FDVnJXQ0ZrN3JyMDAwaHNkYW16cDE5b2J0N0NDVTRaYUZPczUybkVRdUxjS3BGR0lEejlOY0pHVWh2X04tN2I4ZnNYN1l6bEx5SjV2ck1ZVGQ4VktWQXY2NlU?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-16T16:56:08+00:00",
-      "domain": "Council on Foreign Relations",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Congo confirms Ebola outbreak has spread to eighth province - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjVqWTdwRmJJenVaNWxPNGNIZ2Q3a0RuMVNCOVFyXzZYTjA0WW15OF9lR1pLUVlQamlndV91UVJWRnpjbDNERTQxdEJDb3R6Sm9NWTNrSkVRcjFGSXktd3RuZG14TmdDb1VicEl2RjVTMkRQUnlYYVhhVTdrU3duY3RfTnM3LU9SZndETG0xTWc4dk9SbEVObGVPRmwwSDNBWVRLUzhKZ19TZ0ZwWm5lcFRKcE1ob2JvYXBFYThkazdBeDA?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-18T10:04:49+00:00",
-      "domain": "Reuters",
+      "seen": "2026-10-18T13:58:44+00:00",
+      "domain": "NBC News",
       "language": "English",
       "sourcecountry": ""
     },
@@ -173,28 +143,38 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFcwRVc4dmRiNFczM2U0S2dCSVd4ZWwtZXFJejlWX25XRTA3em0ybXJkU3gwWkFtb3VyVGhOcm93YW1SVUUxcXRrYnE4cUFod3lVcDBEWTkyTU41YmhzY1A4ejVyRlRUejdiNWVVb0JvWW1oVmpVY0NybFNwSm1URnhacndQN1Y5S0RJbmxqcldIUXBJVWc1dlBGalo3N0J0S0ZrYV9BZm9KV0R6aWdLVVh4ZzFvaTkw0gG-AUFVX3lxTE95YjYtenV2NDJMRlhWQ0pMWi12dlBQLW9JNlhqV1pSeFloMG5ISGNJWS1CWnJiN29TZHNvQUd4VXlvdmdBTkhOOVEwZDNNR3JhVllNMDdWRlVKZlk3RFZlLXVDblYxd1dqQ0p5SkhqXy1mTWVHcGJOazVWc3drcy0tMTJzMHFNZkFEZmUwZlZ6eFVhMWN6dE1SNFQ4YkJCZzBxcXRyVHdRLWlBZ29jLW5IYjFsdG0wc2FQR0FLQVE?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-17T23:21:19+00:00",
+      "seen": "2026-10-17T23:18:25+00:00",
       "domain": "ABC News - Breaking News, Latest News and Videos",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Six homes burned and two firefighters injured in fast-moving California wildfire - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcU5DN3V4VDdIbm52NXl5N2Y1SVk4cDNiOE5pbWEybVluM2Zxb0gtNnJQaTlqb01FVUtJT055UWhJTXVzSU9MU0VXMTZXVGRWc2libDdJYUhsbmp5em8yckV2RGJ3RDFMRWhFdjdDNDBWdVNXNTJjaVpyVFlJb2xDMU9jNA?oc=5",
-      "category": "DISASTER",
+      "title": "Kremlin says Ukrainian attacks won't change war aims as Kyiv hits Saint Petersburg - AFP.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYW1qQkw0RkRLM3UwQW9lV0xBMGhpYmE4ZWVMYkxYR2hFVlZlcExUbXJSd3RyZ3FQUkVvcWU5MUVwTVRiUEFrcXhiVms5YTVhM3F4MGJCcHVxdUJkMEdCd1l3TkJjRDdRdTZ4d0F0SUhVblJlQV85TWZmOW0xT1htQVU2RDFkejh5WjF5X3RfQ2pDWkQyNk82OWx2QlFPVGhFVGRn?oc=5",
+      "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-17T18:10:00+00:00",
-      "domain": "The Guardian",
+      "seen": "2026-10-18T13:05:13+00:00",
+      "domain": "AFP.com",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "At the center of the state’s growing measles outbreak, it’s business as usual - Inquirer.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUcya21TWEJnc3Z6MVBXNEFDMWREZDNxRnBxWmVnSGlRRUlPTER1czdfZF95RG9wVmNMd2xmQ3NXQ1hYZzNzekNBVFE4djA1MEVvTjQxWUZjZWRWRW1tSkltLTZLSHY3YV92UFBPRDcwWnRxZlY4REVrZklERWpONG9KX2xCR091RDFJ?oc=5",
+      "title": "Live - Iran’s new defense minister urges US personnel out of region as Washington signals longer stay - Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrcnBqMUFFX1cyREwxckpUbVNRS0FRcUhUS2dlMU1xWnZmWXFKR01HbFZqaHBhYTlJRk9Rb2kzN1FrbmNVbTRFVmViNFFtOVBRWkdXQWVXZkpyWEFfcGc?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-18T11:53:25+00:00",
+      "domain": "Iran International",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ebola outbreak update as of October 16 - Outbreak News Today",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdU9XSS04ampYbjNQN1pPeHVEU2liNWlZWGI4ZjJCZUZDTjQ4TEwtclZYRmRiMEhscFdnWnZQLW40LUtsN2VCUXZReVFFNElCcFpvajVzSng1eHllNzdYMUI5RjhYbVppbGJFRVlmYU9VYWxTUVZ0dFVTdVJHMWU2NTluYThUVms?oc=5",
       "category": "PANDEMIC",
       "severity": 2,
-      "seen": "2026-10-18T09:01:00+00:00",
-      "domain": "Inquirer.com",
+      "seen": "2026-10-18T12:20:11+00:00",
+      "domain": "Outbreak News Today",
       "language": "English",
       "sourcecountry": ""
     },
@@ -209,102 +189,32 @@
       "sourcecountry": ""
     },
     {
+      "title": "Salt Lake City’s Cold War-era fighter jet will be scrapped - The Salt Lake Tribune",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Uc1dBVWVOWDhQSWdRQzBZZTktVVEyU0hJaGFoQWg1aHpUN1gtQWxXLUNBZkhRS3VLbzJXY3dndUM0NmZHMFFuWTZxUFJGVzVVQjRDYi1PdEdfcVI1V3hUWXJGaEhBUDFlM1VURVZVR1dEN3F4ajRNZURiMG8?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-18T12:06:02+00:00",
+      "domain": "The Salt Lake Tribune",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "At the center of the state’s growing measles outbreak, it’s business as usual - Inquirer.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUcya21TWEJnc3Z6MVBXNEFDMWREZDNxRnBxWmVnSGlRRUlPTER1czdfZF95RG9wVmNMd2xmQ3NXQ1hYZzNzekNBVFE4djA1MEVvTjQxWUZjZWRWRW1tSkltLTZLSHY3YV92UFBPRDcwWnRxZlY4REVrZklERWpONG9KX2xCR091RDFJ?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-10-18T09:01:00+00:00",
+      "domain": "Inquirer.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
       "category": "PANDEMIC",
       "severity": 2,
       "seen": "2026-10-14T07:00:00+00:00",
       "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Why Iran-US negotiations keep failing - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzJfRTJ4WDA0NTdUSmF4MVVvZzNNMVVUaTJRZkkybFNuTVg3dGtHV0RDTGFvM2V2dWk5YnpRSjFQSHdmZFdWZVdPLWJWYjFRWXFSWkVQWERDcW5CeWNXQ2M1U0pxZ1ZkNXkyT016Zk1lRElfVVBCRDAwVVIwOHZqMlpSYlFFWlpzOGtv0gGQAUFVX3lxTE03ZnQySURobzdsN3VPTHdqQXI3YnVYZ2RxemJaX21kUG9pYjZYTF9LbWpvM3doM3UwUG05RldmSVRGeFlQTVVYQnRMOVJPS0s1aWFfdklESXFUcE9hSlJsRFNtMTVBX1dNUmozS1NyOWsweWtsN25DM25qNzZucERDdWNna0RtMURjR1c3NW50Ug?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-18T07:37:14+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Replenishing U.S. missile stockpile after Iran war will take at least 4 years, sources say - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbGRMNkRHUlhqOXo1U0hJMFNMZjZNSEU3OGwzcEI2dTNUNXVQeGM3YVY5VGNucjhqTXVSTFl6REJMV0JKeDZsendWUV8zZ28xUXZaMWR1RHhjTVFJMkxFei1mVHdncDhoS0RlUUlMX2p6ZHVMbXduLWk4TmthLWdka3VMSlVZMWZraXY0ZU5SQXFjSEdHMDR6TW1RdzlQMlY4RFNzV2g0TG1TV2pqYVpBMnNaMWpfZUszRnc?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-18T00:48:00+00:00",
-      "domain": "CBS News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine war briefing: Trump’s sanctions waiver is a ‘60-day pause’ to analyse economic impact, says Rubio - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaVhFZmZzMkExNWFNeFp5S2dJVUkwMjdWbGVSQjhsN0UwM2FjM05fLUF2VmVTaGwxMUEwMHl4bmRTRUpuRW80U08xekZlUi1NOHBZbXJzYWo4dE1lbzM1U0hHLUF3Q3p4eDJnWnRHcmdBYWhSV3liQW4tb3Y3VUxyWFNpSVNiT0JJdVJMQVFPM2J4UVJsZjRXbE1lbVlTTGJ3Uzdwc3BuRm1UczJrLVdCNTVzWE9yZVFqSWNIc21XWW1JTnVySmZUMDVHaER2RjlXVHhZQmFqbkFvZ01TOFpV?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-18T01:10:22+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "St Petersburg under attack from Ukrainian drone swarm - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlZMWDY1UWZoZzRJSUFYMnZHbDFGZ0dvVHlxWmpBS0JUVlQyby1BQ3ctOTNTdDZWa2h0cmxrMDlyMlJSZWhCTjNhal9mcE9HVVBWT0JxZVJ2VUMyZFpMRVM1T0Z4NjFsZ2pSVFJ4YjZQUXlpajVXdFpvYXFaY3BuMFp6QzNTMEF1WllwVmlWUUdPNTNpUHZNTlREU1dUZjhoejJhTC1fUHPSAa4BQVVfeXFMTVZKUmZRZFd6eEo3eGw1VGVuRGxiS0hnTnhTMGUxS0ZCYzJ3SmQyUlQzcjJqdHZ2R19qb0Ytc0ttQUt3eENZbDR3UF94dlJMaEJaTVVsMk9RY1NjeEJoU0stLTJzN0dkd25qeXdRektNa2NDWmd3X2NxQ1MzejlMeHExNTRKNGdlSGhEWl9NZ0JfcmpPb0pQbVMwRGc3dVhhaEpFcE5sbUN4b1QtVHhB?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-18T04:58:19+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rcjl6VmJKdEY2OHY0VW5wMVhLeFZHUVhqRjYtVnNJMXluWnR5bnBocDQ2ajdTRGZmY0V5TWcycXA0MmZsTk4zUnRyVXhvQTEwME9HN3VfTQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-17T16:00:00+00:00",
-      "domain": "UN News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "2.3 magnitude earthquake recorded close to The Geysers, CA on Oct. 18 - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RSmhSeDZwRG0tb1c1aUpiTG1CbHlDbi1qaGJHWWVFYXdKNHNMUHp2eWtXNHd0cTIwM1NxZEtNbkpXUEpydEUyeDlsSTRPb05uOW5RQ1UyU2xRRzl1NWpqRVU4SWtqNEdaYjBXcmxPZC1UMXYzNndEZm9SQV8?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-18T10:55:06+00:00",
-      "domain": "Sacramento Bee",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "John F. Kennedy Solicits Dwight D. Eisenhower’s Advice—The Cuban Missile Crisis, Day Two - Council on Foreign Relations",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMnNBVjE5cVlyalJ1WWtYUnQ2cmx1N1FlSFJ2azF6c1pTa3VlOTI0Z0lONms0bC0xd0Z5THBRTWdiX24zNVcyUlBVTEppT3hVR05CeHVtTVBCTHh5SnliTUYyb21adzB0RWV6N2IyTjFFcXgtQW1qY0lmTE53RkF2YWpsTTlxcGZydEtMMEEzTVRfeFdTalh1MElWYXVrRXpVNUt4NzE3bUFCbDFQR1VHbnhCUQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-17T16:50:19+00:00",
-      "domain": "Council on Foreign Relations",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "A(H5) Bird Flu: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5maC1Rb3ctQTcxOG5XenBoQzVEa2xNMGpXaEp1c1pVQXo0NnlUVXN3ak9jR05iSnhhVG9fSC1leHdDY1lFS0pPUUZQeXo0R0Rza0g1bkdEbTd0WjJkLW1VSFhtaVprZ1px?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-15T07:00:00+00:00",
-      "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "3rd person in Kenya tests positive for Ebola as DR Congo outbreak spreads to 8th province - CIDRAP",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlJfLU1Fc3pVT3pSWXhiWUc4ekNXUmRWNkg1QndSTmNxSW51cFZFLTI4MlVHSm5Sd0pYSkdGZWxTR1QwR0hBQ2FwMDNxUWE1ck9YN2FaZEdCYXF5OUdkTXVwZHprTEd5WC11dC1GendVdWEzbkRENDliSGJmMVFCbzBrUEk0UDlVQ3ZKblJncjUtYWxDVHM5N3ZRb2xsZW5JZ1NVN2R5UHozVjBRb2c?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-16T20:03:44+00:00",
-      "domain": "CIDRAP",
       "language": "English",
       "sourcecountry": ""
     },
@@ -319,6 +229,26 @@
       "sourcecountry": ""
     },
     {
+      "title": "Why Iran-US negotiations keep failing - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzJfRTJ4WDA0NTdUSmF4MVVvZzNNMVVUaTJRZkkybFNuTVg3dGtHV0RDTGFvM2V2dWk5YnpRSjFQSHdmZFdWZVdPLWJWYjFRWXFSWkVQWERDcW5CeWNXQ2M1U0pxZ1ZkNXkyT016Zk1lRElfVVBCRDAwVVIwOHZqMlpSYlFFWlpzOGtv0gGQAUFVX3lxTE03ZnQySURobzdsN3VPTHdqQXI3YnVYZ2RxemJaX21kUG9pYjZYTF9LbWpvM3doM3UwUG05RldmSVRGeFlQTVVYQnRMOVJPS0s1aWFfdklESXFUcE9hSlJsRFNtMTVBX1dNUmozS1NyOWsweWtsN25DM25qNzZucERDdWNna0RtMURjR1c3NW50Ug?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-18T07:37:14+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzhqQlNqYWdrQzFNTHpobVpTUndWZ3NoOWpxRXVoNUdYckdDaDVkSmtwbXJ4Y2RnZDN6OTZ0VjFLM1FfNHRZTGVOSXA4T19lamlwb3ZPQWFXd082VmNlWEJhQ082OHJvalJCdFNXa3B1NW9pVkhYVkZ6eG9uWk9YMTBzMlRQQV9QN19WclB5aWtwdjBKRlhyY1I2cFBoQUVZRlVvcVlCbHNpUG4wcGlSWdIBtgFBVV95cUxOR0tmR1ctSUduRlQ1Z3A4SlNJMUwtT28zSWNWYWRvWDM5d0dIaFcxQ3pvQnFRTTFlSHA0ODlJeEo5UHdzSC1hNDFLazEyUUN3T0JWMlFlTjlnZjFGTTVtNWVfSEwtbkhRd1BnR19VblIzTElFc1I2NXgyT1YyNElQYmxtTWJ3RmdDWldvdV9CYi0xaGZ4ZXJraXd1M2R1VGtmMFJWQXhmOERBYmpSYXEySGEzMDZ5Zw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-18T11:13:21+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall - AP News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmNuX0Jsc285RXhjY2Fud29veUhrRzdDQUhQT1lnaEpncUVmanpPbUZSRkJOSDBDSXVxUkVrMjNJclhWQ1BuVFh3R2VYWUlxU3pYdW9HcHJkMTQ3X213Nk5McHl0ZWJQN0pyQWhETG9lX01mQTBNVnBQZURDMXlLeVZtRmtQbGJONnk2OXpsRGx5YUNLVFpB?oc=5",
       "category": "CONFLICT",
@@ -329,22 +259,92 @@
       "sourcecountry": ""
     },
     {
-      "title": "Man whose wife died in Iranian strike presses Vance on \"fundamental failures\" - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ucU1sMUw5U0dRcGhMcDhITUhsLS13SjNLbzhJWUIwTDgzdzZuYzZRdlA2SmtzQ0pScV9qMkZhN2JyTzNRRUJ1dHNTWUpkSjJNU2FYTEp6SlRBNWZXSGFuOGdWck5BaFFoaDBUcXdhVGFrZFU?oc=5",
+      "title": "'Like we had a war': France counts cost of violent protests - AFP.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1udkpHV3gwM0lacjI1Z3p2RkhicW15SjFYcnl5bC1tY1hUM21OYk9kZFZscFBFampsUXpUZUpuUTl3OFlOdVV1ZldraWt1ZkdvNFdPcHY1ZVBLc2FaeU9YYUpiNUVEWXFXU2hvWHBzcWl6eTZRYzF2bA?oc=5",
       "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-18T00:46:00+00:00",
-      "domain": "CBS News",
+      "severity": 2,
+      "seen": "2026-10-18T13:05:13+00:00",
+      "domain": "AFP.com",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Simulations explore nuclear mitigation of asteroid threats - Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTcwdDlSN2VpanZMRjVxX3FIaWdfTDdxcjJpQlNoZU1hakxud2FpTGx5SVVvR0dxOXl2SmJtYWlPSXEyRFVpV1lXN1pOb2FJMUZjOU9RT214N0pFQ3N6NnpMY2NVYmFEN1drR3BBb2NaN0N6ZEswM040TE1aMk9TMXBONmJILThPQ0E?oc=5",
+      "title": "2.3 magnitude earthquake recorded close to The Geysers, CA on Oct. 18 - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RSmhSeDZwRG0tb1c1aUpiTG1CbHlDbi1qaGJHWWVFYXdKNHNMUHp2eWtXNHd0cTIwM1NxZEtNbkpXUEpydEUyeDlsSTRPb05uOW5RQ1UyU2xRRzl1NWpqRVU4SWtqNEdaYjBXcmxPZC1UMXYzNndEZm9SQV8?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-18T10:55:06+00:00",
+      "domain": "Sacramento Bee",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Iran signals possible nuclear policy shift, threatens US retaliation - Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xZ2puTDJaTm9HR0VoQ3oyUjgwYV9ka25jUTJhdl95cWFsakxZUnZWbnhlTGpyUXlRWkI1eXM4bjRoaHRXSkNJaEZvMjdGV2lZd2c?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-10-17T19:00:05+00:00",
-      "domain": "Phys.org",
+      "seen": "2026-10-18T13:21:17+00:00",
+      "domain": "Iran International",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "A(H5) Bird Flu: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5maC1Rb3ctQTcxOG5XenBoQzVEa2xNMGpXaEp1c1pVQXo0NnlUVXN3ak9jR05iSnhhVG9fSC1leHdDY1lFS0pPUUZQeXo0R0Rza0g1bkdEbTd0WjJkLW1VSFhtaVprZ1px?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-15T07:00:00+00:00",
+      "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Use of Artificial Intelligence by Bangladeshi Doctors and Its Impact on Medical Learning, Research, and Clinical Practice: An Internet-Based Pilot Survey - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPejYzTml5STJnZnB3MWdxSkdNOHc0YTkxYmNLWC1OQ1ZWRVlPVG05UHgwT3R3MDVqQkNEQ1V4SjBLQzd5LWEwR21nbmN2UktkVVNPdjhGYlUtOTFQZjk5QlZnZXFOMTlOeGU3OFRqRUp1Q1NwNzc2U2twWExGY1A3SldQZUExNVJac2NJSEEtTWloTVRlallmbWY4MTRXZzZxekxZMHBvM3hLRUtRc05yanlpR3lQVmhweE01UXR5OTdqVGkzYTdESjRacUVKS2NiM0hpN1haeXJ3Zmlrc2JQbTcyNGdVU0dlNlpHZE9vX1FlVjBieDI1T0U1RVJXenl0YmlsMFFlV3NWSVExdldmUUJTTlF3bWVz?oc=5",
+      "category": "AI",
+      "severity": 2,
+      "seen": "2026-10-18T13:19:34+00:00",
+      "domain": "Cureus",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ukraine war briefing: Trump’s sanctions waiver is a ‘60-day pause’ to analyse economic impact, says Rubio - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaVhFZmZzMkExNWFNeFp5S2dJVUkwMjdWbGVSQjhsN0UwM2FjM05fLUF2VmVTaGwxMUEwMHl4bmRTRUpuRW80U08xekZlUi1NOHBZbXJzYWo4dE1lbzM1U0hHLUF3Q3p4eDJnWnRHcmdBYWhSV3liQW4tb3Y3VUxyWFNpSVNiT0JJdVJMQVFPM2J4UVJsZjRXbE1lbVlTTGJ3Uzdwc3BuRm1UczJrLVdCNTVzWE9yZVFqSWNIc21XWW1JTnVySmZUMDVHaER2RjlXVHhZQmFqbkFvZ01TOFpV?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-18T01:10:22+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Six homes burned and two firefighters injured in fast-moving California wildfire - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcU5DN3V4VDdIbm52NXl5N2Y1SVk4cDNiOE5pbWEybVluM2Zxb0gtNnJQaTlqb01FVUtJT055UWhJTXVzSU9MU0VXMTZXVGRWc2libDdJYUhsbmp5em8yckV2RGJ3RDFMRWhFdjdDNDBWdVNXNTJjaVpyVFlJb2xDMU9jNA?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-17T18:10:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNHRzVfU3BUQV84MFNyU1JOTnp2UmY5RnZoQ3RGZWFLRWo4WFBaRU9KaHBPTHFtNzhNWDlwRnZaMkdMLVBSMmdtRnVCWkpMMXZyU21LaVZEN3hXYjh2RUlGMmtCTWVBM3VCSVVLX0hZZDZKdl9WRWI3NzNOREM4ZjZMbVZvbUxKNjc4cTUzalFOOV9O?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-10-17T12:00:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "The Iran War Has Cost $2,000 Per Household — So Far - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVFhpamNQUWhNT2pZQUsyWjhYZ1FaR0UtTXBaQWllXzg3YU12aFB4QlpfTU5XRDZGRjRJRVhwdDFtZHNLLTY1bDRWcjZDOEJzMGExTUVNRlVodVpEemhmeENvUlVKT1JvS2tsWDZHRXVRdjFsZWxIT0hzdnFVaUxlUnhBVzJrakxqVDJrbUJqVE5WS0Z1dmRKbUhZWnZIeVpGcjZwa2xndVB1QQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-18T12:26:27+00:00",
+      "domain": "Forbes",
       "language": "English",
       "sourcecountry": ""
     },
@@ -359,12 +359,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Heavy rain prompts flash flood warning in parts of South Florida - WPLG Local 10",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU0p1THpKeXE5Szc1ZXE5bkFxUVZCNXdqbE5Od2lPTFFqcmRTdVNRRjR3M1NxMjVza01JeHpPRVNrYlQ2NzhYNjJ2V3RkckVVMUY5VlFQTlV3QUlwV0hTVDkyRnE1SGJFOHZvanMxcVBYcnZGU3lxeXFRamQ2cWxnNnlQZFEyZmlPTGphcVdMNFRHUVRxaWVIOElQWmMxaVJUdndISWVjUVVHMlkz?oc=5",
-      "category": "DISASTER",
+      "title": "St Petersburg under attack from Ukrainian drone swarm - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlZMWDY1UWZoZzRJSUFYMnZHbDFGZ0dvVHlxWmpBS0JUVlQyby1BQ3ctOTNTdDZWa2h0cmxrMDlyMlJSZWhCTjNhal9mcE9HVVBWT0JxZVJ2VUMyZFpMRVM1T0Z4NjFsZ2pSVFJ4YjZQUXlpajVXdFpvYXFaY3BuMFp6QzNTMEF1WllwVmlWUUdPNTNpUHZNTlREU1dUZjhoejJhTC1fUHPSAa4BQVVfeXFMTVZKUmZRZFd6eEo3eGw1VGVuRGxiS0hnTnhTMGUxS0ZCYzJ3SmQyUlQzcjJqdHZ2R19qb0Ytc0ttQUt3eENZbDR3UF94dlJMaEJaTVVsMk9RY1NjeEJoU0stLTJzN0dkd25qeXdRektNa2NDWmd3X2NxQ1MzejlMeHExNTRKNGdlSGhEWl9NZ0JfcmpPb0pQbVMwRGc3dVhhaEpFcE5sbUN4b1QtVHhB?oc=5",
+      "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-17T21:00:28+00:00",
-      "domain": "WPLG Local 10",
+      "seen": "2026-10-18T04:58:19+00:00",
+      "domain": "Al Jazeera",
       "language": "English",
       "sourcecountry": ""
     },
@@ -379,32 +379,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "US, Israel face threats of war if oil prices keep rising - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsY1JDdGkySENGaDFUSGF4MTdTTlNMeXFSYXhnZWZKdWxjeV9BREF3X0FVY2hCWmlQNl9DRE1ZdktlZWdqMGxQRE15dHZJdEc0c2NJdE1tLTQ5MzJwcEpjUGxkRmNPUE40NkE?oc=5",
+      "title": "How the war in Iran is affecting Ohio farmers - Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS2hJX3lLQmpFVWpFaWpXTldVb2JlUDk0a1JtZ3R3dWs1YVBCUnRkRVBmM3FLbFBHOExHWENsV3U5WTdBaDNtbTcySGdhZlpDbThhaWNITlR2RFVQdEUtSmQ0alNkdkZROHhUbWcwTllMZml3NWRmTC1DWUlTNmtvSUlnZHFFT0wyYlZvNS13LVczWUxVdENjdkg2Y2xXcU9EUG5RMGNR?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-17T19:27:05+00:00",
-      "domain": "The Jerusalem Post",
+      "seen": "2026-10-18T13:00:00+00:00",
+      "domain": "Spectrum News",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "U.S. enters a dangerous new chapter in Ukraine war - CNN",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVXNyZTBPVUkyUWFLaDQwNFhwZXdSSFRTQUdfbjBmanRsSmM3UzRucy1sZk1SY1A5dExpRlQ1V2hRT1c5TU9PaTZKTnAwMVYwOFRwNjJSQ0FvZXp0R1NzX0Y2MzVKOWtFTU1lTlNucmxpREVsamhBem0yazF1UXJIcjcwRlV4VGlhZ0FrczlYVFBvTnlDRWtN?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-17T15:19:28+00:00",
-      "domain": "CNN",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Breaking: New wildfire reported in Los Angeles County on Oct. 18 - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aV3dOYTA1Um5QOEpkMzFCX0ZaSmJQR0ZYUWw3UVJ4WGpHVGNyT3ZOY1ROeVZDTV93M0pfNW9RUWJXUUtVNHM5M1l6WF8wVUlYNmZQS0FWN2JNV05kblpFZ0lSQWFrYVVjbUY0Z1FfWml6a3l5?oc=5",
+      "title": "The Image of the Great Flood That Stuck With Me: Caskets Floating Away - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUUFYcnI1eXZZWUdaOEhza25FbGM5Z0hRS0xrbzN6SXpGZXJnYVhpbHB0QUpFOFU2dU5fcUxiMjRsY2ZNTXlyaUVNa3RyRUkyZ0JJc2tvNVhabkhPZk5mLWRWNTViNDNJZ2tfS3RmaHI0UW1fUGF6NEdWQXJGZVo2aDBncFllZw?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-18T08:26:50+00:00",
-      "domain": "Sacramento Bee",
+      "seen": "2026-10-15T09:01:19+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "The uranium cubes that exposed Nazi Germany’s nuclear failure - Science Daily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rN044dnFrZl9oX2hBYmpyOTVSUTB0WVFrR3hrS0Z3ZzdvOS1VQVRRRXpBVG9kLUxTYVlmMGpsM3RScXVoM1VzR1JWdE85UmZENkFPbmhpVWJ6d3ZZWEk0MWFPMnhLSEhQcmhSSUtfMA?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-16T12:34:50+00:00",
+      "domain": "Science Daily",
       "language": "English",
       "sourcecountry": ""
     }
