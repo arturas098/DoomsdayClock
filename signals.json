@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T22:20:10.409831+00:00",
+  "fetched_at": "2026-10-18T01:03:30.697198+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -69,22 +69,32 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "Pope urges humanitarian ceasefire in Oleshky in call with Russian President - Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LWHhRQnpkQ2ZnV3c2OHRUMDJSem1HUHh1d18xbWhDc2E3SGVqMTFFbmZBaFdwRmZRZThYYjhvVGMyTHVONHVWdEpJTmV2TG9IdDNyMlVqZERRSGZjNVA0QWYtaGFTZjJiTlVTQWFhVjBvRzFhSks1eDd2SHY?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-17T22:04:50+00:00",
-      "domain": "Vatican News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "Fast-moving California wildfire burns homes as people are ordered to leave - BBC",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MQnpkeHh1U2lVU0NmaXZGZG5fVlRhOHFHcUx5QjRQWk12dEpjQnl2RXlQQVIxQV82ZklHSVFHM0pQRUJWN0RlMlFPY1VkYVBmY2tGSUxTb18teWM?oc=5",
       "category": "DISASTER",
       "severity": 2,
       "seen": "2026-10-17T19:13:21+00:00",
       "domain": "BBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Several homes destroyed after wildfire hits Southern California - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGI5MGZiay02WGJ3dk81d0preUJWcERqZ2VqNGVyUmdrb3BGbUZyd3NNUmRfVzFJelRjSldCb29UNDctbUFpLUx0MnFhR3pSU2ZNVldKbWNhcjJWU0tPRFhrV1ZiMWRYRnB1Skt5R0huSGJlRVJ3LTFyU3pocy05TmxmUGhnMmtOMlA5N05pM3BqOGlTTHBscnhBWHlFakpMcGVxUjJEVGhUei1KMTZlQUJhYmttaWd6cmNv?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-17T23:07:50+00:00",
+      "domain": "NBC News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Wildfire burns at least 570 acres in Orange County, California, officials say - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFcwRVc4dmRiNFczM2U0S2dCSVd4ZWwtZXFJejlWX25XRTA3em0ybXJkU3gwWkFtb3VyVGhOcm93YW1SVUUxcXRrYnE4cUFod3lVcDBEWTkyTU41YmhzY1A4ejVyRlRUejdiNWVVb0JvWW1oVmpVY0NybFNwSm1URnhacndQN1Y5S0RJbmxqcldIUXBJVWc1dlBGalo3N0J0S0ZrYV9BZm9KV0R6aWdLVVh4ZzFvaTkw0gG-AUFVX3lxTE95YjYtenV2NDJMRlhWQ0pMWi12dlBQLW9JNlhqV1pSeFloMG5ISGNJWS1CWnJiN29TZHNvQUd4VXlvdmdBTkhOOVEwZDNNR3JhVllNMDdWRlVKZlk3RFZlLXVDblYxd1dqQ0p5SkhqXy1mTWVHcGJOazVWc3drcy0tMTJzMHFNZkFEZmUwZlZ6eFVhMWN6dE1SNFQ4YkJCZzBxcXRyVHdRLWlBZ29jLW5IYjFsdG0wc2FQR0FLQVE?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-17T23:18:25+00:00",
+      "domain": "ABC News - Breaking News, Latest News and Videos",
       "language": "English",
       "sourcecountry": ""
     },
@@ -99,12 +109,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength - PBS",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON3ctZzVVZmROUF9ucW82clpVMWMzUXVUQ0xFendFWlh1U1lEbXRmTlh4TUJKR1lHT0FpLUNiUWZ1aDRkTjM0ak52X0QzR2thSGNKSUptNXdXOTQxM1gtYk9zZkJTN1Jjek9LY2Y5M2RWcERwZ2RheV9DSXBCZEItaFNWYlR2ZXp0c3dMVS1YQnJkY3F1TjVDaEJpZFVCcFYyTTJwNXZmTEvSAa4BQVVfeXFMUFNuYkZZWEZjUnIwMTZCNWVaTXEtMmh4OXZPWjRWVmkwS3liMHVMcEJmeHBocEJFQ2Z5d013RkVZOXQxWjc2emNMNTdTY0N2WDVmVDMzTUNhVkVXU1NQSk9kSUlwdDNibGs5eF91dGNSMVhZV2k3enN0cUE5X0piZ2E3dHlhZTkwOWp0S2FJTkdLd1Zub1lNRmR3WlNPMHBoUElxUm0yV1RYaFhkV253?oc=5",
+      "title": "Hegseth Thanks Young Americans in Knoxville Who Say 'Send Me' - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZnZzS2pDaHA4cEEzMWtWV2NqbnQ4Zng0STVZOFBKRU83OVMyc2pDUU5nSGh1LVBsd3h1V21ZQ1o4Q0RlUVBaZG9VSWNKZ0dOSWtkR0c3S1Z6STYyV056Z0hzbGpjdUo4bmU1dnN2c0xPLV9FMHlTZEVQcmJoMGtaTWxvZ2hycnBaWkhkQlNzUC1ZVExUdmU1ZlRtQ0c0OENHem5JaUZRWWpUejBKYnJoNnVqLTh0UHZNSTRqS2R0aw?oc=5",
       "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-17T21:04:33+00:00",
-      "domain": "PBS",
+      "severity": 2,
+      "seen": "2026-10-17T20:37:32+00:00",
+      "domain": "U.S. Department of War (.gov)",
       "language": "English",
       "sourcecountry": ""
     },
@@ -119,12 +129,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Wildfire burns at least 570 acres in Orange County, California, officials say - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFcwRVc4dmRiNFczM2U0S2dCSVd4ZWwtZXFJejlWX25XRTA3em0ybXJkU3gwWkFtb3VyVGhOcm93YW1SVUUxcXRrYnE4cUFod3lVcDBEWTkyTU41YmhzY1A4ejVyRlRUejdiNWVVb0JvWW1oVmpVY0NybFNwSm1URnhacndQN1Y5S0RJbmxqcldIUXBJVWc1dlBGalo3N0J0S0ZrYV9BZm9KV0R6aWdLVVh4ZzFvaTkw0gG-AUFVX3lxTE95YjYtenV2NDJMRlhWQ0pMWi12dlBQLW9JNlhqV1pSeFloMG5ISGNJWS1CWnJiN29TZHNvQUd4VXlvdmdBTkhOOVEwZDNNR3JhVllNMDdWRlVKZlk3RFZlLXVDblYxd1dqQ0p5SkhqXy1mTWVHcGJOazVWc3drcy0tMTJzMHFNZkFEZmUwZlZ6eFVhMWN6dE1SNFQ4YkJCZzBxcXRyVHdRLWlBZ29jLW5IYjFsdG0wc2FQR0FLQVE?oc=5",
+      "title": "Six homes burned and two firefighters injured in fast-moving California wildfire - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcU5DN3V4VDdIbm52NXl5N2Y1SVk4cDNiOE5pbWEybVluM2Zxb0gtNnJQaTlqb01FVUtJT055UWhJTXVzSU9MU0VXMTZXVGRWc2libDdJYUhsbmp5em8yckV2RGJ3RDFMRWhFdjdDNDBWdVNXNTJjaVpyVFlJb2xDMU9jNA?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-17T17:41:42+00:00",
-      "domain": "ABC News - Breaking News, Latest News and Videos",
+      "seen": "2026-10-17T18:10:00+00:00",
+      "domain": "The Guardian",
       "language": "English",
       "sourcecountry": ""
     },
@@ -139,26 +149,6 @@
       "sourcecountry": ""
     },
     {
-      "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rcjl6VmJKdEY2OHY0VW5wMVhLeFZHUVhqRjYtVnNJMXluWnR5bnBocDQ2ajdTRGZmY0V5TWcycXA0MmZsTk4zUnRyVXhvQTEwME9HN3VfTQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-17T16:00:00+00:00",
-      "domain": "UN News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Six homes burned and two firefighters injured in fast-moving California wildfire - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcU5DN3V4VDdIbm52NXl5N2Y1SVk4cDNiOE5pbWEybVluM2Zxb0gtNnJQaTlqb01FVUtJT055UWhJTXVzSU9MU0VXMTZXVGRWc2libDdJYUhsbmp5em8yckV2RGJ3RDFMRWhFdjdDNDBWdVNXNTJjaVpyVFlJb2xDMU9jNA?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-17T18:10:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "The Victory of Asymmetry in the Iran War - Council on Foreign Relations",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43OUIxMHNwSW04WUVCMm9kdjd0MDBNWjBaeWl1aWZqT3VEODFEamJiWHRsRHBBQ1Q2eVFYRGdsbFVmb1cwRjZDN3JyZWpOQjhBbEdmVWNfVEgycV9uREtJMEYwMzdSaDJZb3E2UUgxeFgyMVhkT3V2OA?oc=5",
       "category": "CONFLICT",
@@ -169,32 +159,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "Hegseth Thanks Young Americans in Knoxville Who Say 'Send Me' - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZnZzS2pDaHA4cEEzMWtWV2NqbnQ4Zng0STVZOFBKRU83OVMyc2pDUU5nSGh1LVBsd3h1V21ZQ1o4Q0RlUVBaZG9VSWNKZ0dOSWtkR0c3S1Z6STYyV056Z0hzbGpjdUo4bmU1dnN2c0xPLV9FMHlTZEVQcmJoMGtaTWxvZ2hycnBaWkhkQlNzUC1ZVExUdmU1ZlRtQ0c0OENHem5JaUZRWWpUejBKYnJoNnVqLTh0UHZNSTRqS2R0aw?oc=5",
+      "title": "US, Israel face threats of war if oil prices keep rising - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsY1JDdGkySENGaDFUSGF4MTdTTlNMeXFSYXhnZWZKdWxjeV9BREF3X0FVY2hCWmlQNl9DRE1ZdktlZWdqMGxQRE15dHZJdEc0c2NJdE1tLTQ5MzJwcEpjUGxkRmNPUE40NkE?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-17T20:40:24+00:00",
-      "domain": "U.S. Department of War (.gov)",
+      "seen": "2026-10-17T19:27:05+00:00",
+      "domain": "The Jerusalem Post",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Flash flood warning issued for parts of Broward, NWS says - NBC 6 South Florida",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUQ0R0JtWXRHNDFIX2NhWV9kNzVyb2ZpaWJId3VNTE5lbzNUM1FCd3FqVWx6SWtCcnNmYVZpaUdXWk1CYlN1cXVQUURwY3hoZ0xjd3VfcHluaHlhSEljQ2xLWHdQNy1JSnZNLTlSM1gxRU5aVUU2YVM3OEdJN0xka3B4T1ZQMHJtUno4MFBRSXdTV1R4Wmw3dHBSbVdaemVxU25F0gGrAUFVX3lxTE1NUUJGMVdxSzdlLVhfYU9NT0JtSjF4TXVyQWFFU2I5MjVqZ1drak1EczJ2dWV5RjA4UWhuRFNtLUdiQmpqNFUxU0xJRUhXM1RybzBHTXlNcTFJdVB3QlhUc2hodk8zbGgyZG1zSHJZeUZZeTNVUVdaall5V3FIMVJmWWdtdDhoLTZ4RUdFRFZsTmVIZTF1ckdPdkl1YkxpZnRlckhmeUNNM1czaw?oc=5",
+      "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rcjl6VmJKdEY2OHY0VW5wMVhLeFZHUVhqRjYtVnNJMXluWnR5bnBocDQ2ajdTRGZmY0V5TWcycXA0MmZsTk4zUnRyVXhvQTEwME9HN3VfTQ?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-17T20:30:08+00:00",
-      "domain": "NBC 6 South Florida",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "2.6 magnitude earthquake rattles close to Petrolia, CA on Oct. 17 - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YU3gxbVJhaXp0WGgwMG03V19PYkx5M0hRX1JnWWdIczViY3BPdm00dHRzYkdmcGFSa2RaMlRBRzI3Z3pVLXg4VTBHQTdaOEw0VGhLOURvQzBYbmwxa2dlTU1DUG5nQ2JCX3dtMk5pdXZmRkI0VGNuSGZ6X0k?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-17T22:00:06+00:00",
-      "domain": "Sacramento Bee",
+      "seen": "2026-10-17T16:00:00+00:00",
+      "domain": "UN News",
       "language": "English",
       "sourcecountry": ""
     },
@@ -209,12 +189,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "US, Israel face threats of war if oil prices keep rising - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsY1JDdGkySENGaDFUSGF4MTdTTlNMeXFSYXhnZWZKdWxjeV9BREF3X0FVY2hCWmlQNl9DRE1ZdktlZWdqMGxQRE15dHZJdEc0c2NJdE1tLTQ5MzJwcEpjUGxkRmNPUE40NkE?oc=5",
-      "category": "CONFLICT",
+      "title": "Flash flood warning issued for parts of Broward, NWS says - NBC 6 South Florida",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUQ0R0JtWXRHNDFIX2NhWV9kNzVyb2ZpaWJId3VNTE5lbzNUM1FCd3FqVWx6SWtCcnNmYVZpaUdXWk1CYlN1cXVQUURwY3hoZ0xjd3VfcHluaHlhSEljQ2xLWHdQNy1JSnZNLTlSM1gxRU5aVUU2YVM3OEdJN0xka3B4T1ZQMHJtUno4MFBRSXdTV1R4Wmw3dHBSbVdaemVxU25F0gGrAUFVX3lxTE1NUUJGMVdxSzdlLVhfYU9NT0JtSjF4TXVyQWFFU2I5MjVqZ1drak1EczJ2dWV5RjA4UWhuRFNtLUdiQmpqNFUxU0xJRUhXM1RybzBHTXlNcTFJdVB3QlhUc2hodk8zbGgyZG1zSHJZeUZZeTNVUVdaall5V3FIMVJmWWdtdDhoLTZ4RUdFRFZsTmVIZTF1ckdPdkl1YkxpZnRlckhmeUNNM1czaw?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-17T19:27:05+00:00",
-      "domain": "The Jerusalem Post",
+      "seen": "2026-10-17T20:30:08+00:00",
+      "domain": "NBC 6 South Florida",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Android earthquake alerts now available in more than 200 regions - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNERZUzctUThaRTNhd04ydjJORXp2QXBueEEwWkVDM1N2U21yMl9wYWtBLTlvMG8zanl4d0pZa2NhYkNXUGk3VllyMEQ3RXRmWnpjam8xOG5EZElVQUdTRW9CamphaFdjSWJoTDNfSExjZV9QRDhhdGw2Z0tGMnZ3YlRwNmpXYk1IdXVfRGw4eERJTGRpdUFxVm1oUTFwMm9PQ0xxZg?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-15T16:20:06+00:00",
+      "domain": "blog.google",
       "language": "English",
       "sourcecountry": ""
     },
@@ -249,52 +239,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "How the US-Iran war upended two critical global trade routes - CNN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkhLc0FrR3BPSms3TDdwX1QxN2tFaUpMM2t5eHQyWWFyYUxqN3JNUkdfU2hERzltNkZJY09kc0RMVGF5cWNURjlkNndGUmpkMmFINk5za1AxOWZzSklYcHR6d09OYWR3TzM5LXd1bDItb0oxaGYzNmNwUUwwLW5xa18tRW5qYm0tVWQ3aFNteVZMa2pVX0pISEY3OUV4Vi1ZZUxCOA?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-17T05:00:45+00:00",
-      "domain": "CNN",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Android earthquake alerts now available in more than 200 regions - blog.google",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNERZUzctUThaRTNhd04ydjJORXp2QXBueEEwWkVDM1N2U21yMl9wYWtBLTlvMG8zanl4d0pZa2NhYkNXUGk3VllyMEQ3RXRmWnpjam8xOG5EZElVQUdTRW9CamphaFdjSWJoTDNfSExjZV9QRDhhdGw2Z0tGMnZ3YlRwNmpXYk1IdXVfRGw4eERJTGRpdUFxVm1oUTFwMm9PQ0xxZg?oc=5",
+      "title": "Heavy rain prompts flash flood warning in parts of South Florida - WPLG Local 10",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU0p1THpKeXE5Szc1ZXE5bkFxUVZCNXdqbE5Od2lPTFFqcmRTdVNRRjR3M1NxMjVza01JeHpPRVNrYlQ2NzhYNjJ2V3RkckVVMUY5VlFQTlV3QUlwV0hTVDkyRnE1SGJFOHZvanMxcVBYcnZGU3lxeXFRamQ2cWxnNnlQZFEyZmlPTGphcVdMNFRHUVRxaWVIOElQWmMxaVJUdndISWVjUVVHMlkz?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-15T16:20:06+00:00",
-      "domain": "blog.google",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "A few quick tips to prepare for an earthquake - Santa Cruz Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOFl0LUdYVmVmUkpUTTJzemtLWWcwd3ltZEdYUTdEaVZ0OHJlQ2E3LTYwLW5kZjVxTUtvOTlIZld2eURYZWFCTEliTTRGOHBCTU9Zc1FMR21IRkJhUGZPMmpTeDI2VTluZzExNWoySmVkeEIxaHd2cnBLcEFmRTRMemlSM0NkTG9WamRLeUJjSGZGZjlobEE?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-17T16:48:04+00:00",
-      "domain": "Santa Cruz Sentinel",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Hegseth Administers Oath of Enlistment in Tennessee - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiT0xZM0tSdUxENF9qM0lhZFpXTlFrUFFZWTVwYlUwQ3NVYVVwdHJrRS1EelhrTEdVT2h0M3hvVERLYVdvUV90b0VQTEk4cTI3czN1S293Y0J6dXFFVGNuZ2xVUHI?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-17T18:32:21+00:00",
-      "domain": "U.S. Department of War (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "3.1 magnitude earthquake strikes 13 miles east of Forks, PNSN says - KOMO",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZURRazhUYkdyRjNrMFFneURMTXFncXp4RjNMVVcwMUh3cXBiclJqOThVSGR6cE9vNHYyUUZucWkzLVQydU8xbE5iYmF1WTdrQmxVbFNRaG16U0hFMGtieFdMR0k2ZnhIRDl3SzgzNTczQ0ZsdG9mNVVZcGE5cXR6TmpkczdJVWRxUkxGUk83Q1A4RmZiMmFnZ0xuVlJfOWtuaXVOczFTbS1heTNlVnM4UW5DQlpmZnB0d2ROMDdnSmFyRHEzUHdwc1VvazdlYzdDM0gyZ28zSnpYc0hHZkZXVWpLR0ZDTkxSQ0FlSGE1dTJuZkJIcGxqTG9CSnk?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-17T04:41:24+00:00",
-      "domain": "KOMO",
+      "seen": "2026-10-17T21:00:28+00:00",
+      "domain": "WPLG Local 10",
       "language": "English",
       "sourcecountry": ""
     },
@@ -309,22 +259,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "Oct. 17: Earthquake of 2.2 magnitude registered close to Tres Pinos, CA - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4amR2SG5FMWxiQ3lVckJRTVFhX1JWbVF1dVFkbHNhcEtVbnpMUTlqQUV2Q2NUM0dBdmpiMnluR3MxcjhNRmt2ZE9iUjR1ak9xS1pSM21NNmhRejVqeFhfYTZSNkVtZE8xOGpMSkVlcWdadnZoTk1ibmJUREE?oc=5",
-      "category": "DISASTER",
+      "title": "How the US-Iran war upended two critical global trade routes - CNN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkhLc0FrR3BPSms3TDdwX1QxN2tFaUpMM2t5eHQyWWFyYUxqN3JNUkdfU2hERzltNkZJY09kc0RMVGF5cWNURjlkNndGUmpkMmFINk5za1AxOWZzSklYcHR6d09OYWR3TzM5LXd1bDItb0oxaGYzNmNwUUwwLW5xa18tRW5qYm0tVWQ3aFNteVZMa2pVX0pISEY3OUV4Vi1ZZUxCOA?oc=5",
+      "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-17T15:56:06+00:00",
-      "domain": "Sacramento Bee",
+      "seen": "2026-10-17T05:00:45+00:00",
+      "domain": "CNN",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Gov. Rhoden Strengthens Wildfire Response Through SEAT Base - AerialFire",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZHNDbTFzS2lseUVRZ1Fid2djV2JBRE9VV082NTFVYkVaRGFfaXBHN093dnhBSHYzS1pLeFRqUmxfWHI3OExGWDhnSHB6NFQwZ1JrajZGMnFWR0wtQ1FEMjZiY0FYM2xSNy1FLU1CMnItRWFJVWpYSGZVWTlHYlB1ZlMxX1NsSl9RVWxnZzFZVUU2MHFZSkJ1VTFnaTE?oc=5",
-      "category": "DISASTER",
+      "title": "CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNHRzVfU3BUQV84MFNyU1JOTnp2UmY5RnZoQ3RGZWFLRWo4WFBaRU9KaHBPTHFtNzhNWDlwRnZaMkdMLVBSMmdtRnVCWkpMMXZyU21LaVZEN3hXYjh2RUlGMmtCTWVBM3VCSVVLX0hZZDZKdl9WRWI3NzNOREM4ZjZMbVZvbUxKNjc4cTUzalFOOV9O?oc=5",
+      "category": "PANDEMIC",
       "severity": 2,
-      "seen": "2026-10-17T19:43:58+00:00",
-      "domain": "AerialFire",
+      "seen": "2026-10-17T12:00:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Hegseth Addresses Cadets in Knoxville - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGclVOOHhtbktWejczTnVfV3lVUEs3RWZyRE9NUXJldjB0dkdNWHNpQ2E4ZDVLUGlGbV9xZG5OY29Ha1pXZnp3RFJicmNMSV9QOXR1Nm80X2MxMVY4WkR1V1dUTTI?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-17T18:32:21+00:00",
+      "domain": "U.S. Department of War (.gov)",
       "language": "English",
       "sourcecountry": ""
     },
@@ -339,22 +299,42 @@
       "sourcecountry": ""
     },
     {
-      "title": "Bangladesh is battling measles. It's a 'real warning' to other nations - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVdDQ0N6V1RSeHlVS2lLcmJqbjVyUlJ1ZFJFYWFlWFo0MUtWT3hmUW1MSzRxaXI5SGJza2N1dzdFUG1venFSTnpUSGlPUVpIUHRIZGV0TTBCVVc0Qk5valRHWlUwRjdDbVp6MUdRSmFiUm5MaTU0dC1mOHY0Si1kb1lqdUp2NXpDMmZaVTQzUWlMcTJUZ01JUFNUTWt4UTdqYlFlbU1R?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-17T12:02:13+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "3rd person in Kenya tests positive for Ebola as DR Congo outbreak spreads to 8th province - CIDRAP",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlJfLU1Fc3pVT3pSWXhiWUc4ekNXUmRWNkg1QndSTmNxSW51cFZFLTI4MlVHSm5Sd0pYSkdGZWxTR1QwR0hBQ2FwMDNxUWE1ck9YN2FaZEdCYXF5OUdkTXVwZHprTEd5WC11dC1GendVdWEzbkRENDliSGJmMVFCbzBrUEk0UDlVQ3ZKblJncjUtYWxDVHM5N3ZRb2xsZW5JZ1NVN2R5UHozVjBRb2c?oc=5",
       "category": "PANDEMIC",
       "severity": 2,
       "seen": "2026-10-16T20:03:44+00:00",
       "domain": "CIDRAP",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "2.6 magnitude earthquake rattles close to Petrolia, CA on Oct. 17 - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YU3gxbVJhaXp0WGgwMG03V19PYkx5M0hRX1JnWWdIczViY3BPdm00dHRzYkdmcGFSa2RaMlRBRzI3Z3pVLXg4VTBHQTdaOEw0VGhLOURvQzBYbmwxa2dlTU1DUG5nQ2JCX3dtMk5pdXZmRkI0VGNuSGZ6X0k?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-17T22:00:06+00:00",
+      "domain": "Sacramento Bee",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "A few quick tips to prepare for an earthquake - Santa Cruz Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOFl0LUdYVmVmUkpUTTJzemtLWWcwd3ltZEdYUTdEaVZ0OHJlQ2E3LTYwLW5kZjVxTUtvOTlIZld2eURYZWFCTEliTTRGOHBCTU9Zc1FMR21IRkJhUGZPMmpTeDI2VTluZzExNWoySmVkeEIxaHd2cnBLcEFmRTRMemlSM0NkTG9WamRLeUJjSGZGZjlobEE?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-17T16:51:40+00:00",
+      "domain": "Santa Cruz Sentinel",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "3.1 magnitude earthquake strikes 13 miles east of Forks, PNSN says - KOMO",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZURRazhUYkdyRjNrMFFneURMTXFncXp4RjNMVVcwMUh3cXBiclJqOThVSGR6cE9vNHYyUUZucWkzLVQydU8xbE5iYmF1WTdrQmxVbFNRaG16U0hFMGtieFdMR0k2ZnhIRDl3SzgzNTczQ0ZsdG9mNVVZcGE5cXR6TmpkczdJVWRxUkxGUk83Q1A4RmZiMmFnZ0xuVlJfOWtuaXVOczFTbS1heTNlVnM4UW5DQlpmZnB0d2ROMDdnSmFyRHEzUHdwc1VvazdlYzdDM0gyZ28zSnpYc0hHZkZXVWpLR0ZDTkxSQ0FlSGE1dTJuZkJIcGxqTG9CSnk?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-17T04:41:24+00:00",
+      "domain": "KOMO",
       "language": "English",
       "sourcecountry": ""
     },
@@ -369,32 +349,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "Southern California wildfire engulfs homes, prompts evacuation orders - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVVRRZ3o5SlJGa2wxQUxWRHZWM3p0cVVoRU1ILUZNUjZ1am92Rm83dU1hTFNKSmJlZ3N6S1ltYmxPSFdhLTRFQVNGcmVsT2xUMUdXbnhXbTl0aENYWGp5bEVaa01LQktseUY1ZHJHUExDSjZkbXJ5aEJVZzFzNHVMbW1aUTdCNTN1NFJnemVpVEtsQUlXR2Rtb2Z3T21nRXVReF9CVlFqcmhHbzVYNHRr0gG0AUFVX3lxTFBOS1RHODlIdThxamYwY2s1X1ZFU0Z3dFRKVzd0VUlWTVpPd2FUWVRHVW1VQXpYNVNLOV9UYmFpenpNbDB5cUY2Y0VydXJMUENKLTFLb1pxbU1jVVVRTFNydlBYMkNtT1M2ZkhYQXNvdGRsdGpHamdtZE5xUEI0cTJSWWtmRzFGVGphMzJyMlJSMUszYmwxRUR5ZUpXYTVqT2MxZFZHYmMyUFR0aUVROXhiRnM5Sw?oc=5",
-      "category": "DISASTER",
-      "severity": 3,
-      "seen": "2026-10-17T03:37:05+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Breaking: New wildfire reported in Los Angeles County on Oct. 17 - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80MU9qNkRnTmFyOTYtS2xUY25fNE5OR0dPc0RJNGgzRUxlV2I5VXhvUktUeWs0WXducFc2eW5iMkZJVXJRYzNGQnpZUGdmbW1BV1dSdGxVNjBSN09ZVzVVVURMbVZ2U0kwelNDLWE0UDRuNmk0?oc=5",
+      "title": "Gov. Rhoden Strengthens Wildfire Response Through SEAT Base - AerialFire",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZHNDbTFzS2lseUVRZ1Fid2djV2JBRE9VV082NTFVYkVaRGFfaXBHN093dnhBSHYzS1pLeFRqUmxfWHI3OExGWDhnSHB6NFQwZ1JrajZGMnFWR0wtQ1FEMjZiY0FYM2xSNy1FLU1CMnItRWFJVWpYSGZVWTlHYlB1ZlMxX1NsSl9RVWxnZzFZVUU2MHFZSkJ1VTFnaTE?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-17T21:34:07+00:00",
-      "domain": "Sacramento Bee",
+      "seen": "2026-10-17T19:43:58+00:00",
+      "domain": "AerialFire",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "FAQ: Ebola Prevention, Treatment and the Chances of a US Outbreak - Contagion Live",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmllT1o2OS1CZTRiSmtRWjFteC1rVjY3VzBKcWh2aG9oSDJ2MEJCQlFJMFFDYUt4OUdOQUxXcThVdklqajZvUi04UHR1LXZhNzFYSFpQT21tcFN4SWQ3OXQ1SlptekJNMjgxZkljbkVtRUg1a3ROUWVlRjNjM1RROW9yYkY4eVZwbXJYXzJTLXhyYmhOcFNHVXJfdHJpYTg?oc=5",
+      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjUwMFo1WUtEN0t1RFpuaUh5N0c5UGFOSW1oVGZZbDZFLXYzbUI2MFJmdS0wM294ZDliYXo5dEU1Nk9rOHpOMlJITWpBQmRRV2pJczFTSVg2SmRyNU8tTVZrMGlhcFZuTXhpNW82ZHlzVjZ6SGlCRFpVNmdkdnotUU83dDU0S0pq?oc=5",
       "category": "PANDEMIC",
       "severity": 2,
-      "seen": "2026-10-17T14:26:29+00:00",
-      "domain": "Contagion Live",
+      "seen": "2026-10-16T07:00:00+00:00",
+      "domain": "European Centre for Disease Prevention and Control (ECDC)",
       "language": "English",
       "sourcecountry": ""
     },
@@ -403,8 +373,38 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ3RUWDMzaHY3QmZUT3U1MS0yQmxyQWxpaWlMSVJyRGNTTUEySHVHQmdOWXA1NzV6aURTeU5sQWVjRjFJcDdsWnlzYnFOaVZKbHlzR05NZUNLMGlHM240Q090VDRjMWVWNEhwT0c4MDJ5OWxTZ251QXhQQ2ZFSXV2bnB3?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-17T19:46:41+00:00",
+      "seen": "2026-10-17T22:58:56+00:00",
       "domain": "WPEC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Pope urges humanitarian ceasefire in Oleshky in call with Russian President - Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LWHhRQnpkQ2ZnV3c2OHRUMDJSem1HUHh1d18xbWhDc2E3SGVqMTFFbmZBaFdwRmZRZThYYjhvVGMyTHVONHVWdEpJTmV2TG9IdDNyMlVqZERRSGZjNVA0QWYtaGFTZjJiTlVTQWFhVjBvRzFhSks1eDd2SHY?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-16T15:32:46+00:00",
+      "domain": "Vatican News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Breaking: New wildfire reported in Los Angeles County on Oct. 17 - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XYWhnNWx1a0dNbFhGS19mWXpjZkptcE85M2tjcXI0VUFiS25sX05yakZCbXBzNDNfYm12U3pQSUVrNC1uOTg4YUhQeEM2UlR3X0FaNGlCY0hlTklTY2t6Q0dHS0UtZjNGZW5fdXZuaXhzM2RN?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-17T23:12:08+00:00",
+      "domain": "Sacramento Bee",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Japan Mistakenly Issues Warning for Strongest Ever Earthquake - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVNTRUs3anBKMHV5ZGtyblE2cnZoczQxNHJHWnFuMTZyNHIwTW5VYTRUMFVhTGlMcHd0c1Y3QzVUVV8zOFBXdW1WVDhKaFVTN3VVRHZzUjY4d1pscWVDUEdSa1lYd2xIR1Mzb0o0WnptUFQzY1JqRFdyeU1jYUx4eUJuMElJaFZBTUtKc2txZlc?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-16T15:01:28+00:00",
+      "domain": "The New York Times",
       "language": "English",
       "sourcecountry": ""
     }
