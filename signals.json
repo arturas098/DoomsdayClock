@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-10-18T01:03:30.697198+00:00",
+  "fetched_at": "2026-10-18T05:55:00.650498+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
     "google_news_items": 35,
-    "lrt_english_items": 9,
+    "lrt_english_items": 8,
     "errors": []
   },
   "items": [
@@ -69,6 +69,26 @@
       "sourcecountry": "LT"
     },
     {
+      "title": "Pope urges humanitarian ceasefire in Oleshky in call with Russian President - Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LWHhRQnpkQ2ZnV3c2OHRUMDJSem1HUHh1d18xbWhDc2E3SGVqMTFFbmZBaFdwRmZRZThYYjhvVGMyTHVONHVWdEpJTmV2TG9IdDNyMlVqZERRSGZjNVA0QWYtaGFTZjJiTlVTQWFhVjBvRzFhSks1eDd2SHY?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-18T04:07:47+00:00",
+      "domain": "Vatican News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Hegseth Thanks Young Americans in Knoxville Who Say 'Send Me' - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZnZzS2pDaHA4cEEzMWtWV2NqbnQ4Zng0STVZOFBKRU83OVMyc2pDUU5nSGh1LVBsd3h1V21ZQ1o4Q0RlUVBaZG9VSWNKZ0dOSWtkR0c3S1Z6STYyV056Z0hzbGpjdUo4bmU1dnN2c0xPLV9FMHlTZEVQcmJoMGtaTWxvZ2hycnBaWkhkQlNzUC1ZVExUdmU1ZlRtQ0c0OENHem5JaUZRWWpUejBKYnJoNnVqLTh0UHZNSTRqS2R0aw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-17T20:40:24+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Fast-moving California wildfire burns homes as people are ordered to leave - BBC",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MQnpkeHh1U2lVU0NmaXZGZG5fVlRhOHFHcUx5QjRQWk12dEpjQnl2RXlQQVIxQV82ZklHSVFHM0pQRUJWN0RlMlFPY1VkYVBmY2tGSUxTb18teWM?oc=5",
       "category": "DISASTER",
@@ -93,58 +113,18 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTFcwRVc4dmRiNFczM2U0S2dCSVd4ZWwtZXFJejlWX25XRTA3em0ybXJkU3gwWkFtb3VyVGhOcm93YW1SVUUxcXRrYnE4cUFod3lVcDBEWTkyTU41YmhzY1A4ejVyRlRUejdiNWVVb0JvWW1oVmpVY0NybFNwSm1URnhacndQN1Y5S0RJbmxqcldIUXBJVWc1dlBGalo3N0J0S0ZrYV9BZm9KV0R6aWdLVVh4ZzFvaTkw0gG-AUFVX3lxTE95YjYtenV2NDJMRlhWQ0pMWi12dlBQLW9JNlhqV1pSeFloMG5ISGNJWS1CWnJiN29TZHNvQUd4VXlvdmdBTkhOOVEwZDNNR3JhVllNMDdWRlVKZlk3RFZlLXVDblYxd1dqQ0p5SkhqXy1mTWVHcGJOazVWc3drcy0tMTJzMHFNZkFEZmUwZlZ6eFVhMWN6dE1SNFQ4YkJCZzBxcXRyVHdRLWlBZ29jLW5IYjFsdG0wc2FQR0FLQVE?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-17T23:18:25+00:00",
+      "seen": "2026-10-17T23:21:19+00:00",
       "domain": "ABC News - Breaking News, Latest News and Videos",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "$137 Million in A.I.-Generated Ads Flood the Midterms - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVEtX3pON0QtaEJ1RThfMzhTMEVSbVA2WVJhYXNXTm5fRV94Wm54aUhjbi1tWEdDaVZHbWVPUzY0eEczTWFRUkYzVGx6U3E2MFFSY3dheTlLenVqaVpYdlpQLUp0bm5NaEpRWUpHNEFNcW5tay03MWVmUXpVSFFRYjNfNWdmTEp0aGlSS25SZw?oc=5",
-      "category": "DISASTER",
+      "title": "CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNHRzVfU3BUQV84MFNyU1JOTnp2UmY5RnZoQ3RGZWFLRWo4WFBaRU9KaHBPTHFtNzhNWDlwRnZaMkdMLVBSMmdtRnVCWkpMMXZyU21LaVZEN3hXYjh2RUlGMmtCTWVBM3VCSVVLX0hZZDZKdl9WRWI3NzNOREM4ZjZMbVZvbUxKNjc4cTUzalFOOV9O?oc=5",
+      "category": "PANDEMIC",
       "severity": 2,
-      "seen": "2026-10-17T18:24:00+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Hegseth Thanks Young Americans in Knoxville Who Say 'Send Me' - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZnZzS2pDaHA4cEEzMWtWV2NqbnQ4Zng0STVZOFBKRU83OVMyc2pDUU5nSGh1LVBsd3h1V21ZQ1o4Q0RlUVBaZG9VSWNKZ0dOSWtkR0c3S1Z6STYyV056Z0hzbGpjdUo4bmU1dnN2c0xPLV9FMHlTZEVQcmJoMGtaTWxvZ2hycnBaWkhkQlNzUC1ZVExUdmU1ZlRtQ0c0OENHem5JaUZRWWpUejBKYnJoNnVqLTh0UHZNSTRqS2R0aw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-17T20:37:32+00:00",
-      "domain": "U.S. Department of War (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "U.S. enters a dangerous new chapter in Ukraine war - CNN",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVXNyZTBPVUkyUWFLaDQwNFhwZXdSSFRTQUdfbjBmanRsSmM3UzRucy1sZk1SY1A5dExpRlQ1V2hRT1c5TU9PaTZKTnAwMVYwOFRwNjJSQ0FvZXp0R1NzX0Y2MzVKOWtFTU1lTlNucmxpREVsamhBem0yazF1UXJIcjcwRlV4VGlhZ0FrczlYVFBvTnlDRWtN?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-17T15:19:28+00:00",
-      "domain": "CNN",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Six homes burned and two firefighters injured in fast-moving California wildfire - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcU5DN3V4VDdIbm52NXl5N2Y1SVk4cDNiOE5pbWEybVluM2Zxb0gtNnJQaTlqb01FVUtJT055UWhJTXVzSU9MU0VXMTZXVGRWc2libDdJYUhsbmp5em8yckV2RGJ3RDFMRWhFdjdDNDBWdVNXNTJjaVpyVFlJb2xDMU9jNA?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-17T18:10:00+00:00",
+      "seen": "2026-10-17T12:00:00+00:00",
       "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "‍‍‍[WAR-EAGLE] Auburn Tigers vs Georgia Bulldogs Football 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍ Ｆｒｅｅ 17 October 2026 - Universidad de Córdoba (UCO)",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPcDhjeTB1dlBYa0JlWGljUTlJVWMxbTRjSGFmZzloTW9EOWFUTjFvS3NJd1JFTHozVEVrSGRWUHNfZGM0dmI2MkRhS0gyTVdnbXZFVTZRanpWbTJVMG5rR0dPaUVSN0FnX292UmpBVWxmcmNjU1pGMUFiTjZkbENqWG85VFVJbS1sci1vX0RBblAwV09xVEtUcEJBRUgzX3dLQzVTdm5VOUNnbXRhVFl6SkxGX1JHcER1UEY1dk9sQ0VZeUIzN1labnRtVENKT2JrUVd4R001WG1SOE12eHcyeXdQZjl3MktiOHhfc2lVSFhVNDB4R1ZydnR3dGMzSHdzNjhRYks0NnVMSUVocXpUZmY1U0UzckJmb0JGRUpMMUNYS3B0S1ZLWEFNSHZONG1FemsteXNUWHF1eldrZkZESWxrVzNZSTBtbFZ6TVVzd25pMFk0b2VscVFn?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-17T19:08:41+00:00",
-      "domain": "Universidad de Córdoba (UCO)",
       "language": "English",
       "sourcecountry": ""
     },
@@ -159,42 +139,92 @@
       "sourcecountry": ""
     },
     {
-      "title": "US, Israel face threats of war if oil prices keep rising - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsY1JDdGkySENGaDFUSGF4MTdTTlNMeXFSYXhnZWZKdWxjeV9BREF3X0FVY2hCWmlQNl9DRE1ZdktlZWdqMGxQRE15dHZJdEc0c2NJdE1tLTQ5MzJwcEpjUGxkRmNPUE40NkE?oc=5",
+      "title": "$137 Million in A.I.-Generated Ads Flood the Midterms - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVEtX3pON0QtaEJ1RThfMzhTMEVSbVA2WVJhYXNXTm5fRV94Wm54aUhjbi1tWEdDaVZHbWVPUzY0eEczTWFRUkYzVGx6U3E2MFFSY3dheTlLenVqaVpYdlpQLUp0bm5NaEpRWUpHNEFNcW5tay03MWVmUXpVSFFRYjNfNWdmTEp0aGlSS25SZw?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-17T18:24:00+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "U.S. enters a dangerous new chapter in Ukraine war - CNN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVXNyZTBPVUkyUWFLaDQwNFhwZXdSSFRTQUdfbjBmanRsSmM3UzRucy1sZk1SY1A5dExpRlQ1V2hRT1c5TU9PaTZKTnAwMVYwOFRwNjJSQ0FvZXp0R1NzX0Y2MzVKOWtFTU1lTlNucmxpREVsamhBem0yazF1UXJIcjcwRlV4VGlhZ0FrczlYVFBvTnlDRWtN?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-17T19:27:05+00:00",
-      "domain": "The Jerusalem Post",
+      "seen": "2026-10-17T15:19:28+00:00",
+      "domain": "CNN",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rcjl6VmJKdEY2OHY0VW5wMVhLeFZHUVhqRjYtVnNJMXluWnR5bnBocDQ2ajdTRGZmY0V5TWcycXA0MmZsTk4zUnRyVXhvQTEwME9HN3VfTQ?oc=5",
+      "title": "Breaking: New wildfire reported in Los Angeles County on Oct. 17 - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtWHJIV05LZjdBNHVzZHhxeTBqSEdnTXhYVkUyNkRiWjQtVlc5cFY5clZwc0xERkk3aExyVy1oM1VKN3EtUVNFc1k4a2hkdVhmTXR4ekRVYnF6eFMwNXlpM0pNdWFEZDJsaUxNSVY0enJVTk9j?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-17T16:00:00+00:00",
-      "domain": "UN News",
+      "seen": "2026-10-18T04:54:06+00:00",
+      "domain": "Sacramento Bee",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Simulations explore nuclear mitigation of asteroid threats - Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTcwdDlSN2VpanZMRjVxX3FIaWdfTDdxcjJpQlNoZU1hakxud2FpTGx5SVVvR0dxOXl2SmJtYWlPSXEyRFVpV1lXN1pOb2FJMUZjOU9RT214N0pFQ3N6NnpMY2NVYmFEN1drR3BBb2NaN0N6ZEswM040TE1aMk9TMXBONmJILThPQ0E?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-17T19:00:05+00:00",
-      "domain": "Phys.org",
+      "title": "Department of War's Office of Strategic Capital Signs $80 Million Conditional Loan Commitment With Antheia, Inc. - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQzRsWDZLWk83ZFA2cEtkWVBlbWVTMXIxQ3p3d2VoOHZKU2pEU09PN0l0Ulp4U0dXUE90Zk1vLVlRWV9BbGU5cFJQaC1faENuQ3RCTElOTzl3X19oU2pZWEJqOXYyWjNrbWRDeEZXdzIxQk9reE1XRGQwdXMwUktfLVBnakh3aWxUQ1FrOF9fMURWbjg0QzNtMS02b1BPaGRLRThwTnRoY3AxYkpBMWJvQUR2bmZGZDYwYnFXYUs3SUI1TUt2OGM2Tk9aSHFsdVVjSFpsLQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-18T00:58:35+00:00",
+      "domain": "U.S. Department of War (.gov)",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Flash flood warning issued for parts of Broward, NWS says - NBC 6 South Florida",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUQ0R0JtWXRHNDFIX2NhWV9kNzVyb2ZpaWJId3VNTE5lbzNUM1FCd3FqVWx6SWtCcnNmYVZpaUdXWk1CYlN1cXVQUURwY3hoZ0xjd3VfcHluaHlhSEljQ2xLWHdQNy1JSnZNLTlSM1gxRU5aVUU2YVM3OEdJN0xka3B4T1ZQMHJtUno4MFBRSXdTV1R4Wmw3dHBSbVdaemVxU25F0gGrAUFVX3lxTE1NUUJGMVdxSzdlLVhfYU9NT0JtSjF4TXVyQWFFU2I5MjVqZ1drak1EczJ2dWV5RjA4UWhuRFNtLUdiQmpqNFUxU0xJRUhXM1RybzBHTXlNcTFJdVB3QlhUc2hodk8zbGgyZG1zSHJZeUZZeTNVUVdaall5V3FIMVJmWWdtdDhoLTZ4RUdFRFZsTmVIZTF1ckdPdkl1YkxpZnRlckhmeUNNM1czaw?oc=5",
+      "title": "Six homes burned and two firefighters injured in fast-moving California wildfire - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcU5DN3V4VDdIbm52NXl5N2Y1SVk4cDNiOE5pbWEybVluM2Zxb0gtNnJQaTlqb01FVUtJT055UWhJTXVzSU9MU0VXMTZXVGRWc2libDdJYUhsbmp5em8yckV2RGJ3RDFMRWhFdjdDNDBWdVNXNTJjaVpyVFlJb2xDMU9jNA?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-17T20:30:08+00:00",
-      "domain": "NBC 6 South Florida",
+      "seen": "2026-10-17T18:10:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Replenishing U.S. missile stockpile after Iran war will take at least 4 years, sources say - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbGRMNkRHUlhqOXo1U0hJMFNMZjZNSEU3OGwzcEI2dTNUNXVQeGM3YVY5VGNucjhqTXVSTFl6REJMV0JKeDZsendWUV8zZ28xUXZaMWR1RHhjTVFJMkxFei1mVHdncDhoS0RlUUlMX2p6ZHVMbXduLWk4TmthLWdka3VMSlVZMWZraXY0ZU5SQXFjSEdHMDR6TW1RdzlQMlY4RFNzV2g0TG1TV2pqYVpBMnNaMWpfZUszRnc?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-18T00:48:00+00:00",
+      "domain": "CBS News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "St Petersburg under attack from Ukrainian drone swarm - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNlZMWDY1UWZoZzRJSUFYMnZHbDFGZ0dvVHlxWmpBS0JUVlQyby1BQ3ctOTNTdDZWa2h0cmxrMDlyMlJSZWhCTjNhal9mcE9HVVBWT0JxZVJ2VUMyZFpMRVM1T0Z4NjFsZ2pSVFJ4YjZQUXlpajVXdFpvYXFaY3BuMFp6QzNTMEF1WllwVmlWUUdPNTNpUHZNTlREU1dUZjhoejJhTC1fUHPSAa4BQVVfeXFMTVZKUmZRZFd6eEo3eGw1VGVuRGxiS0hnTnhTMGUxS0ZCYzJ3SmQyUlQzcjJqdHZ2R19qb0Ytc0ttQUt3eENZbDR3UF94dlJMaEJaTVVsMk9RY1NjeEJoU0stLTJzN0dkd25qeXdRektNa2NDWmd3X2NxQ1MzejlMeHExNTRKNGdlSGhEWl9NZ0JfcmpPb0pQbVMwRGc3dVhhaEpFcE5sbUN4b1QtVHhB?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-18T04:58:19+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "John F. Kennedy Solicits Dwight D. Eisenhower’s Advice—The Cuban Missile Crisis, Day Two - Council on Foreign Relations",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMnNBVjE5cVlyalJ1WWtYUnQ2cmx1N1FlSFJ2azF6c1pTa3VlOTI0Z0lONms0bC0xd0Z5THBRTWdiX24zNVcyUlBVTEppT3hVR05CeHVtTVBCTHh5SnliTUYyb21adzB0RWV6N2IyTjFFcXgtQW1qY0lmTE53RkF2YWpsTTlxcGZydEtMMEEzTVRfeFdTalh1MElWYXVrRXpVNUt4NzE3bUFCbDFQR1VHbnhCUQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-17T16:50:19+00:00",
+      "domain": "Council on Foreign Relations",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ukraine war briefing: Trump’s sanctions waiver is a ‘60-day pause’ to analyse economic impact, says Rubio - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaVhFZmZzMkExNWFNeFp5S2dJVUkwMjdWbGVSQjhsN0UwM2FjM05fLUF2VmVTaGwxMUEwMHl4bmRTRUpuRW80U08xekZlUi1NOHBZbXJzYWo4dE1lbzM1U0hHLUF3Q3p4eDJnWnRHcmdBYWhSV3liQW4tb3Y3VUxyWFNpSVNiT0JJdVJMQVFPM2J4UVJsZjRXbE1lbVlTTGJ3Uzdwc3BuRm1UczJrLVdCNTVzWE9yZVFqSWNIc21XWW1JTnVySmZUMDVHaER2RjlXVHhZQmFqbkFvZ01TOFpV?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-18T01:10:22+00:00",
+      "domain": "The Guardian",
       "language": "English",
       "sourcecountry": ""
     },
@@ -219,32 +249,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "John F. Kennedy Solicits Dwight D. Eisenhower’s Advice—The Cuban Missile Crisis, Day Two - Council on Foreign Relations",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMnNBVjE5cVlyalJ1WWtYUnQ2cmx1N1FlSFJ2azF6c1pTa3VlOTI0Z0lONms0bC0xd0Z5THBRTWdiX24zNVcyUlBVTEppT3hVR05CeHVtTVBCTHh5SnliTUYyb21adzB0RWV6N2IyTjFFcXgtQW1qY0lmTE53RkF2YWpsTTlxcGZydEtMMEEzTVRfeFdTalh1MElWYXVrRXpVNUt4NzE3bUFCbDFQR1VHbnhCUQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-17T16:50:19+00:00",
-      "domain": "Council on Foreign Relations",
+      "title": "Simulations explore nuclear mitigation of asteroid threats - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTcwdDlSN2VpanZMRjVxX3FIaWdfTDdxcjJpQlNoZU1hakxud2FpTGx5SVVvR0dxOXl2SmJtYWlPSXEyRFVpV1lXN1pOb2FJMUZjOU9RT214N0pFQ3N6NnpMY2NVYmFEN1drR3BBb2NaN0N6ZEswM040TE1aMk9TMXBONmJILThPQ0E?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-17T19:00:05+00:00",
+      "domain": "Phys.org",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Firefighters Race to Control California Wildfires as Winds Threaten to Spark More - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRmpIa2pNUzZjaFlyaV8yV2lTMjV5ejBtd1pnWnh4eFJQZzNyWjVSTlVTQXJPNnV4TlRnaVR1SnlMQzJweFFzRTdCY1JPVWR2d2pNWVVCa0l6cmluQkNPelNTZkZ3My1MNjlPWVJTTVhnV1lNMHhLaTFOcFBkUW92djZfT2NZUQ?oc=5",
-      "category": "DISASTER",
+      "title": "Epstein gave $100K to UNM for artificial intelligence research in 2001 - Santa Fe New Mexican",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRUFHdGRMNnJYSjI1U2lqRF9IeTF0MjRTQTdPanVkMV9sRW16RmFvTnBpSXdxSWVtbFc0T0NvSU1Rek5PeGhEY1JNRGlWYTVtSG4wbjM4bk5FSFBVdTQ2aC1wa2FVZ3h0NVlTejZUUTByeEZIb3BMSlpvMmZYM094ZE5BZUQ4Um5mR0NFeW9Cc0JBaXRoVmxGMzV4N1RCMVZyQkVuZ3I3VEk2anVEc1Q4dUVpYzRrUTltNmlXcGZVM1dKN2lWUnI2cWVZclNwQ0p4YUhDOW5uNFpzVFA1cWppcUgxN0lCVnVhZU9URk9TbV9xeGs2ZTVGVXhuRE9aUQ?oc=5",
+      "category": "AI",
       "severity": 2,
-      "seen": "2026-10-17T20:12:00+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Heavy rain prompts flash flood warning in parts of South Florida - WPLG Local 10",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU0p1THpKeXE5Szc1ZXE5bkFxUVZCNXdqbE5Od2lPTFFqcmRTdVNRRjR3M1NxMjVza01JeHpPRVNrYlQ2NzhYNjJ2V3RkckVVMUY5VlFQTlV3QUlwV0hTVDkyRnE1SGJFOHZvanMxcVBYcnZGU3lxeXFRamQ2cWxnNnlQZFEyZmlPTGphcVdMNFRHUVRxaWVIOElQWmMxaVJUdndISWVjUVVHMlkz?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-17T21:00:28+00:00",
-      "domain": "WPLG Local 10",
+      "seen": "2026-10-18T00:30:00+00:00",
+      "domain": "Santa Fe New Mexican",
       "language": "English",
       "sourcecountry": ""
     },
@@ -259,32 +279,62 @@
       "sourcecountry": ""
     },
     {
-      "title": "How the US-Iran war upended two critical global trade routes - CNN",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkhLc0FrR3BPSms3TDdwX1QxN2tFaUpMM2t5eHQyWWFyYUxqN3JNUkdfU2hERzltNkZJY09kc0RMVGF5cWNURjlkNndGUmpkMmFINk5za1AxOWZzSklYcHR6d09OYWR3TzM5LXd1bDItb0oxaGYzNmNwUUwwLW5xa18tRW5qYm0tVWQ3aFNteVZMa2pVX0pISEY3OUV4Vi1ZZUxCOA?oc=5",
+      "title": "US, Israel face threats of war if oil prices keep rising - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsY1JDdGkySENGaDFUSGF4MTdTTlNMeXFSYXhnZWZKdWxjeV9BREF3X0FVY2hCWmlQNl9DRE1ZdktlZWdqMGxQRE15dHZJdEc0c2NJdE1tLTQ5MzJwcEpjUGxkRmNPUE40NkE?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-17T05:00:45+00:00",
-      "domain": "CNN",
+      "seen": "2026-10-17T19:27:05+00:00",
+      "domain": "The Jerusalem Post",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNHRzVfU3BUQV84MFNyU1JOTnp2UmY5RnZoQ3RGZWFLRWo4WFBaRU9KaHBPTHFtNzhNWDlwRnZaMkdMLVBSMmdtRnVCWkpMMXZyU21LaVZEN3hXYjh2RUlGMmtCTWVBM3VCSVVLX0hZZDZKdl9WRWI3NzNOREM4ZjZMbVZvbUxKNjc4cTUzalFOOV9O?oc=5",
+      "title": "CDC sends a ‘disease detective’ to Pennsylvania amid measles outbreak - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUDZaS2RYWTFoTFd5cUJRbmdJLVhCWE5RNVA5U2tYMmxLSDVKRGx0NlBNM0F5OUR6RHRxYlZJeEdzd1FIWVJXakJGeUxXZzBZRElrU1BaWG9oZi11a194MFg3b1VEZEEyWjZrQUxpUnJrWVo4Z0FxNGF3WWpZM2ZZckw1UWtrYUNXVnJSUEpfaHFyZ9IBlwFBVV95cUxOcmdYODZJekYxeUtfbF9uV1JpNzBSSTNiNTdBOTJBbkloMGJ1eDJGNUNpR2pqYlFkVlpRRWU3RkJWeHpnRG5KZ3k3YlFjbFduY2dEVEZ6cnpsenJkU3hKeU9vamdrRWkzbkNzMGZQSVQ5U2ZCdVBzcUNlaFV0V1NQMHVWeHFPQktFU0xWU3hkVjBsT0tfbnY4?oc=5",
       "category": "PANDEMIC",
       "severity": 2,
-      "seen": "2026-10-17T12:00:00+00:00",
-      "domain": "The Guardian",
+      "seen": "2026-10-18T01:46:00+00:00",
+      "domain": "The Hill",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Hegseth Addresses Cadets in Knoxville - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGclVOOHhtbktWejczTnVfV3lVUEs3RWZyRE9NUXJldjB0dkdNWHNpQ2E4ZDVLUGlGbV9xZG5OY29Ha1pXZnp3RFJicmNMSV9QOXR1Nm80X2MxMVY4WkR1V1dUTTI?oc=5",
-      "category": "CONFLICT",
+      "title": "UPDATE: Coastal flood advisory active for Tyrrell County until early Monday evening - Charlotte Observer",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZakdqZ040bG1La2x3b2hBRlJaVHlXdzZZcnNaRUJCYTJoTk1DaC1QdGpEb0hJZjdadEE3VnpJbHBLQ3hjTGMtdUZET3BxTE5xS1hENE1wdkYyMjBGNDliNWVPX1JCRGxkbkRiSENWUU1aZzdSMndKLUtTZkpfQQ?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-17T18:32:21+00:00",
-      "domain": "U.S. Department of War (.gov)",
+      "seen": "2026-10-18T00:47:08+00:00",
+      "domain": "Charlotte Observer",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Man whose wife died in Iranian strike presses Vance on \"fundamental failures\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ucU1sMUw5U0dRcGhMcDhITUhsLS13SjNLbzhJWUIwTDgzdzZuYzZRdlA2SmtzQ0pScV9qMkZhN2JyTzNRRUJ1dHNTWUpkSjJNU2FYTEp6SlRBNWZXSGFuOGdWck5BaFFoaDBUcXdhVGFrZFU?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-18T00:46:00+00:00",
+      "domain": "CBS News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Heavy rain prompts flash flood warning in parts of South Florida - WPLG Local 10",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU0p1THpKeXE5Szc1ZXE5bkFxUVZCNXdqbE5Od2lPTFFqcmRTdVNRRjR3M1NxMjVza01JeHpPRVNrYlQ2NzhYNjJ2V3RkckVVMUY5VlFQTlV3QUlwV0hTVDkyRnE1SGJFOHZvanMxcVBYcnZGU3lxeXFRamQ2cWxnNnlQZFEyZmlPTGphcVdMNFRHUVRxaWVIOElQWmMxaVJUdndISWVjUVVHMlkz?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-17T21:00:28+00:00",
+      "domain": "WPLG Local 10",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Oct. 17: Earthquake measuring 2.4 struck region near Toms Place, CA - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xcHhLcmhiNmlZTlpQcEx4dFFQM2FYSThDR0Q5YUZlbkNmZ09ERTRhNzJpVUt0Qm0tY214OUd6Y0VpQ0MzQWF0N2xMRlpXcWNWWU12V2RLMk5Sakg3S1hDRk13SGVIZ3JKQ1ppcWxfN1dwclotXzVsNDNiV0I?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-18T05:37:05+00:00",
+      "domain": "Sacramento Bee",
       "language": "English",
       "sourcecountry": ""
     },
@@ -309,32 +359,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "2.6 magnitude earthquake rattles close to Petrolia, CA on Oct. 17 - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YU3gxbVJhaXp0WGgwMG03V19PYkx5M0hRX1JnWWdIczViY3BPdm00dHRzYkdmcGFSa2RaMlRBRzI3Z3pVLXg4VTBHQTdaOEw0VGhLOURvQzBYbmwxa2dlTU1DUG5nQ2JCX3dtMk5pdXZmRkI0VGNuSGZ6X0k?oc=5",
+      "title": "Oct. 17: Earthquake measuring 2.1 shakes region close to Tres Pinos, CA - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qaE8xMDZpcUpQdlU5bWNXZk55RXBoajk3azZSMlZ3NWRVUm1hQkxtdlhvbGpMR014SnRnWmU5NVFVTloyQ3k4M2lTa3JEMERHRlpHdHhJb1lLa25wNzRBbllTMk9sNVlHeVU5RVh1WU5XaXlSODVZZ3JteHQ?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-17T22:00:06+00:00",
+      "seen": "2026-10-18T02:55:06+00:00",
       "domain": "Sacramento Bee",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "A few quick tips to prepare for an earthquake - Santa Cruz Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOFl0LUdYVmVmUkpUTTJzemtLWWcwd3ltZEdYUTdEaVZ0OHJlQ2E3LTYwLW5kZjVxTUtvOTlIZld2eURYZWFCTEliTTRGOHBCTU9Zc1FMR21IRkJhUGZPMmpTeDI2VTluZzExNWoySmVkeEIxaHd2cnBLcEFmRTRMemlSM0NkTG9WamRLeUJjSGZGZjlobEE?oc=5",
+      "title": "Flash flood warning issued for parts of Broward, NWS says - NBC 6 South Florida",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUQ0R0JtWXRHNDFIX2NhWV9kNzVyb2ZpaWJId3VNTE5lbzNUM1FCd3FqVWx6SWtCcnNmYVZpaUdXWk1CYlN1cXVQUURwY3hoZ0xjd3VfcHluaHlhSEljQ2xLWHdQNy1JSnZNLTlSM1gxRU5aVUU2YVM3OEdJN0xka3B4T1ZQMHJtUno4MFBRSXdTV1R4Wmw3dHBSbVdaemVxU25F0gGrAUFVX3lxTE1NUUJGMVdxSzdlLVhfYU9NT0JtSjF4TXVyQWFFU2I5MjVqZ1drak1EczJ2dWV5RjA4UWhuRFNtLUdiQmpqNFUxU0xJRUhXM1RybzBHTXlNcTFJdVB3QlhUc2hodk8zbGgyZG1zSHJZeUZZeTNVUVdaall5V3FIMVJmWWdtdDhoLTZ4RUdFRFZsTmVIZTF1ckdPdkl1YkxpZnRlckhmeUNNM1czaw?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-17T16:51:40+00:00",
-      "domain": "Santa Cruz Sentinel",
+      "seen": "2026-10-17T20:30:08+00:00",
+      "domain": "NBC 6 South Florida",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "3.1 magnitude earthquake strikes 13 miles east of Forks, PNSN says - KOMO",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZURRazhUYkdyRjNrMFFneURMTXFncXp4RjNMVVcwMUh3cXBiclJqOThVSGR6cE9vNHYyUUZucWkzLVQydU8xbE5iYmF1WTdrQmxVbFNRaG16U0hFMGtieFdMR0k2ZnhIRDl3SzgzNTczQ0ZsdG9mNVVZcGE5cXR6TmpkczdJVWRxUkxGUk83Q1A4RmZiMmFnZ0xuVlJfOWtuaXVOczFTbS1heTNlVnM4UW5DQlpmZnB0d2ROMDdnSmFyRHEzUHdwc1VvazdlYzdDM0gyZ28zSnpYc0hHZkZXVWpLR0ZDTkxSQ0FlSGE1dTJuZkJIcGxqTG9CSnk?oc=5",
+      "title": "Firefighters Race to Control California Wildfires as Winds Threaten to Spark More - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRmpIa2pNUzZjaFlyaV8yV2lTMjV5ejBtd1pnWnh4eFJQZzNyWjVSTlVTQXJPNnV4TlRnaVR1SnlMQzJweFFzRTdCY1JPVWR2d2pNWVVCa0l6cmluQkNPelNTZkZ3My1MNjlPWVJTTVhnV1lNMHhLaTFOcFBkUW92djZfT2NZUQ?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-17T04:41:24+00:00",
-      "domain": "KOMO",
+      "seen": "2026-10-17T19:28:10+00:00",
+      "domain": "The New York Times",
       "language": "English",
       "sourcecountry": ""
     },
@@ -349,62 +399,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Gov. Rhoden Strengthens Wildfire Response Through SEAT Base - AerialFire",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZHNDbTFzS2lseUVRZ1Fid2djV2JBRE9VV082NTFVYkVaRGFfaXBHN093dnhBSHYzS1pLeFRqUmxfWHI3OExGWDhnSHB6NFQwZ1JrajZGMnFWR0wtQ1FEMjZiY0FYM2xSNy1FLU1CMnItRWFJVWpYSGZVWTlHYlB1ZlMxX1NsSl9RVWxnZzFZVUU2MHFZSkJ1VTFnaTE?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-17T19:43:58+00:00",
-      "domain": "AerialFire",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjUwMFo1WUtEN0t1RFpuaUh5N0c5UGFOSW1oVGZZbDZFLXYzbUI2MFJmdS0wM294ZDliYXo5dEU1Nk9rOHpOMlJITWpBQmRRV2pJczFTSVg2SmRyNU8tTVZrMGlhcFZuTXhpNW82ZHlzVjZ6SGlCRFpVNmdkdnotUU83dDU0S0pq?oc=5",
       "category": "PANDEMIC",
       "severity": 2,
       "seen": "2026-10-16T07:00:00+00:00",
       "domain": "European Centre for Disease Prevention and Control (ECDC)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Flood Advisory for Palm Beach County - WPEC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ3RUWDMzaHY3QmZUT3U1MS0yQmxyQWxpaWlMSVJyRGNTTUEySHVHQmdOWXA1NzV6aURTeU5sQWVjRjFJcDdsWnlzYnFOaVZKbHlzR05NZUNLMGlHM240Q090VDRjMWVWNEhwT0c4MDJ5OWxTZ251QXhQQ2ZFSXV2bnB3?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-17T22:58:56+00:00",
-      "domain": "WPEC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Pope urges humanitarian ceasefire in Oleshky in call with Russian President - Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LWHhRQnpkQ2ZnV3c2OHRUMDJSem1HUHh1d18xbWhDc2E3SGVqMTFFbmZBaFdwRmZRZThYYjhvVGMyTHVONHVWdEpJTmV2TG9IdDNyMlVqZERRSGZjNVA0QWYtaGFTZjJiTlVTQWFhVjBvRzFhSks1eDd2SHY?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-16T15:32:46+00:00",
-      "domain": "Vatican News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Breaking: New wildfire reported in Los Angeles County on Oct. 17 - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XYWhnNWx1a0dNbFhGS19mWXpjZkptcE85M2tjcXI0VUFiS25sX05yakZCbXBzNDNfYm12U3pQSUVrNC1uOTg4YUhQeEM2UlR3X0FaNGlCY0hlTklTY2t6Q0dHS0UtZjNGZW5fdXZuaXhzM2RN?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-17T23:12:08+00:00",
-      "domain": "Sacramento Bee",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Japan Mistakenly Issues Warning for Strongest Ever Earthquake - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVNTRUs3anBKMHV5ZGtyblE2cnZoczQxNHJHWnFuMTZyNHIwTW5VYTRUMFVhTGlMcHd0c1Y3QzVUVV8zOFBXdW1WVDhKaFVTN3VVRHZzUjY4d1pscWVDUEdSa1lYd2xIR1Mzb0o0WnptUFQzY1JqRFdyeU1jYUx4eUJuMElJaFZBTUtKc2txZlc?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-16T15:01:28+00:00",
-      "domain": "The New York Times",
       "language": "English",
       "sourcecountry": ""
     }
