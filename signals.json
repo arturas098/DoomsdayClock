@@ -1,13 +1,23 @@
 {
-  "fetched_at": "2026-10-20T06:01:42.134269+00:00",
+  "fetched_at": "2026-10-20T11:38:22.354490+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
     "google_news_items": 35,
-    "lrt_english_items": 9,
+    "lrt_english_items": 10,
     "errors": []
   },
   "items": [
+    {
+      "title": "Lithuania seeks NATO talks on shooting down drones without visual confirmation",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3088084/lithuania-seeks-nato-talks-on-shooting-down-drones-without-visual-confirmation",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
     {
       "title": "EU proposal for security protocol modelled on NATO’s Article 4 draws scepticism",
       "url": "https://www.lrt.lt/en/news-in-english/19/3087465/eu-proposal-for-security-protocol-modelled-on-nato-s-article-4-draws-scepticism",
@@ -59,14 +69,34 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "Attempted arson at Lithuanian firm storing Starlink equipment, PM blames Russia",
-      "url": "https://www.lrt.lt/en/news-in-english/19/3086054/attempted-arson-at-lithuanian-firm-storing-starlink-equipment-pm-blames-russia",
+      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjUwMFo1WUtEN0t1RFpuaUh5N0c5UGFOSW1oVGZZbDZFLXYzbUI2MFJmdS0wM294ZDliYXo5dEU1Nk9rOHpOMlJITWpBQmRRV2pJczFTSVg2SmRyNU8tTVZrMGlhcFZuTXhpNW82ZHlzVjZ6SGlCRFpVNmdkdnotUU83dDU0S0pq?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-10-20T06:50:01+00:00",
+      "domain": "European Centre for Disease Prevention and Control (ECDC)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Oil majors face spending test from Iran war windfall cash - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemV5ZWpZWkdhUzlRTmJsLXMyNVFMa0EzLTYxSGJubDVlSkVWMGVuckZDRVZOOS05eGc1aHlSOGJva3A5d2R2SENNNVBNeTM5eXNEeWJWTDlDbzBUdlZTTDdFZDRlT3dkVWtSWmJJekhvc3BSQk5KbnlTcjR2Q1otUEFlS0JYSUVZclR1d0NGRzJJaHBXbFdBS1RPZWZqOVNXemZtVmlRQQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 3,
+      "seen": "2026-10-20T06:04:00+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Are we on the verge of a new Cold War? - WBUR",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNQy11N09Bb3ctZ1A5VjhCUnFnb0duem4wV25lQkYzT3pNQWxmamdKeXE3QU1fcGRUaVUzam42LUI2cEFKYmFrMnBtVHFsVGV4eGRCb00xT2VMYm1CcExIUVZKYlROdXdXd25fSEFOaERVYXBiZDFScg?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": null,
-      "domain": "LRT English",
+      "seen": "2026-10-20T01:01:23+00:00",
+      "domain": "WBUR",
       "language": "English",
-      "sourcecountry": "LT"
+      "sourcecountry": ""
     },
     {
       "title": "How Iran war votes in Congress became a focal point for campaign ad attacks - PBS",
@@ -75,16 +105,6 @@
       "severity": 2,
       "seen": "2026-10-19T19:30:04+00:00",
       "domain": "PBS",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ebola disease outbreak in the Democratic Republic of the Congo - European Centre for Disease Prevention and Control (ECDC)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjUwMFo1WUtEN0t1RFpuaUh5N0c5UGFOSW1oVGZZbDZFLXYzbUI2MFJmdS0wM294ZDliYXo5dEU1Nk9rOHpOMlJITWpBQmRRV2pJczFTSVg2SmRyNU8tTVZrMGlhcFZuTXhpNW82ZHlzVjZ6SGlCRFpVNmdkdnotUU83dDU0S0pq?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-20T03:49:01+00:00",
-      "domain": "European Centre for Disease Prevention and Control (ECDC)",
       "language": "English",
       "sourcecountry": ""
     },
@@ -103,18 +123,18 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2RmejR4dzYzZVU3WUU5WGw5V19hanBUNUwyUFVUX1JNckFtOWpwTlFBcnVrbVBNVi1GRGRnTzEtbEtNZkRyOU51a2lIanNURFp0ZjY3UlVPS0ZLZVdTVi00cHdpVnlsRWVUa1o5M2NwaWtlaGptVnRkZVdoXzhva0pTc2MwNFliWE8wLXoyVUdRM3R0TzVJY3p4Z05YblJkcVBLOXI0QmNzUURTd0VBMFJGSE14Y2NWY18xSWJjVG5GeU9UeXBlcWI5VWlGLUttV05nbWpmRlVNM1RwTktOdA?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-20T03:19:00+00:00",
+      "seen": "2026-10-20T05:58:00+00:00",
       "domain": "The Guardian",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "AEP Partners with Amazon and X-energy to Explore Advanced Nuclear Energy in Indiana - AEP.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjNTA2VTM2dDllSjB4Wjc5b2RXVk9LaC1zVGVsS1czVzJqMWNVQ3N6bnVYQWp6ZlJ0S1IwMGVfQjFNYkFvRGtIR0RNYXA1d2FMOW9DOXdvTQ?oc=5",
+      "title": "IAEA Mission Says UAE Response to Barakah Nuclear Power Plant Event in May 2026 was Effective - International Atomic Energy Agency",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaGQzZ2JlZC1qb1NkczJuZFphZE1PVS1nRXJ1RUNBZFdQLWNiajBvWHZrRmNPYlJrZjNqamFWZkxaRHBxNGhPdGg1bld4TjlvN3E5MXhMZ3R0VFFhYzdBdjRJZTlfdlB3dzUxbTFROEE1TUVNbzVVQjJIcDNST28yTFRJRDNSRHdjN19KcGQ0RkQ5LWh3TUZldFBWQTF6TUFnMnQyQkFuamRSXzFqMVViMjBBM0dkN09tZFMzRHBiZGFpTnZxOEs4d3ljTmlEbDZKdjIxamdB?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-10-19T13:10:04+00:00",
-      "domain": "AEP.com",
+      "seen": "2026-10-20T11:23:48+00:00",
+      "domain": "International Atomic Energy Agency",
       "language": "English",
       "sourcecountry": ""
     },
@@ -129,22 +149,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "Flood Preparedness Week: Take Steps Now to Stay Safe - Cal OES News (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOUpHQ096R1Z1MUU2ZHFtOF8tVDBUSnBweUYtMnlQeXZSVTJKT2FOSmVzM1NFazRFTENCcmZwNGhhOWJsV0M4NmhOdXpmYWFWNHFobk9udVE3QmtIWXg0NVh5ZzdSakw5a1V6M1ZUX3BIY2FFeWhaMXJVRi1FY0dZN0VWbXhSQ0lhdHFZ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-20T00:08:17+00:00",
-      "domain": "Cal OES News (.gov)",
+      "title": "AEP Partners with Amazon and X-energy to Explore Advanced Nuclear Energy in Indiana - AEP.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjNTA2VTM2dDllSjB4Wjc5b2RXVk9LaC1zVGVsS1czVzJqMWNVQ3N6bnVYQWp6ZlJ0S1IwMGVfQjFNYkFvRGtIR0RNYXA1d2FMOW9DOXdvTQ?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-19T13:10:04+00:00",
+      "domain": "AEP.com",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "DeLauro Statement on Reports of Secretary Hegseth Delaying Defensive Interceptor Missile Transfers to Ukraine - House.gov",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSU80MkVCRGdpeDQtOG5LRkVDaUNKZzNRQzZDb2pOTFFyWjVfZXdrNjRYTWF5aVd5Ul9mVGU1SEJrRmRXZHNQVEJqZmlCZ1Y0QlNxNWRDS3JhVndPbmpyaUlndmstSWYySGRqMVRaZ1hDN2NBMWxhOUR3SnpPYnFXMFVxNXRCRnpyME5ET3RSVWRKa0NGall6SHpVZXFEQUpncFpFQm9Zbk9SSTFZV2NLd05JaEdpeDhRMFZxeDBCQWFCQ19wWFBhR0c1cWpONUxBcDRj?oc=5",
-      "category": "CONFLICT",
+      "title": "Preventing and Mitigating Flood Damage to Solar Photovoltaic Systems - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYndOZGVEVV9nWGF6NkdBalpQRTZvY3pSb3N2OHMwcWlud2hlRFh5OGoxNXBOOHROOE1Hd1dxV3k4MEJxTnF4aTlRVnhYQnFPUzFZUjYzSUpDR0U4QXNiMUJ5Smg4OF9mSGZ0bUwzUVNoWUxWbFpLcHFDTlFuTWJ5YlR2VklrM19IbXAzeHdEN05Ea1F0Znk0LUxqb0VuaFE?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-20T00:18:40+00:00",
-      "domain": "House.gov",
+      "seen": "2026-10-16T17:30:00+00:00",
+      "domain": "Department of Energy (.gov)",
       "language": "English",
       "sourcecountry": ""
     },
@@ -159,62 +179,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Zelenskyy says Ukraine got no early warning from partners as Russia hits the power grid again - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYm9Fd0ZUSUJudF9abExqQ1dsTEFBbS1nLXRRai1VQk5GRDlXNnFQbHlXM1kzVU41YnRJT3Y5d256eGZzU1lQeFAwamJxQlJKUkFMNkt0RG9lb29SMTJMMEVJSVdreEF6QTdseWI0VzUzTG9oUWtoVEh4UmdTNE44X0tWckx6M2VtZzZNcWRwV0JKMzEy?oc=5",
+      "title": "Zelensky, US envoys to hold Oslo talks as Ukraine claims US missile holdup - AFP.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbDJ0UzlGY0pCQTkwbFhoTkx5Q2trVFowRmN3X1hrU1dNUVJ5NWhyNlUyQ3ppOGlvZi1fZ3U0alFRZGJ5NnVsSWhaZWFjNWt1aG05ZGxxLU9BNlUyeDVKTnlwSVlpODA4dnd4NXZSbnBrajhSUmRTWmsxV1I0MGcxMWo0aHhpVjkyZE14VXktNnc4djV4?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-20T00:45:00+00:00",
-      "domain": "AP News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Alaska’s monster tsunami sent water 1,580 feet up a mountain - Science Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jYVdMdnpjZ0dVVlZvWVlra2pZLXBKeDE4d3E5MmI0QjZEaUc5UV9wV2VjSkU5cW1qY2FZSERVeTJQYUhQWjdsbTB1RkhRUWpMbXRDWVdUbkpyS09RX1g5MFdUNldtSHZNSmk4aHNqdw?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-19T13:14:12+00:00",
-      "domain": "Science Daily",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump says Zelenskiy should get somebody else to negotiate to end war - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZkJfbTJUSTNGdHptbTBieXhMaFBhamZFaTJFb2JXVllDUnFyX3U2OG1hbWFTQ0ZlbzVfS2U0bmtOTmk3dWExc3hnc0JxQ1o3V2FkODNjWkRzNDVPOEF3YjQ4YWtWMW9mMXJ6ZGJxS3pUNkxzNVZOTDRXTU05Y0xlOHF0X0xtU2ZBeWJkaTBTNjNnWnU0YWVKbXAzaVVoYjBzRmc4MXNiUkM?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-19T21:03:41+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Artificial Intelligence, US Reversal on Beneficial Ownership Fueling Fraud - ACAMS",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUjdBYm9ZTkpxVmhWRXBNOE5WRzhoc01QUUJjRDB5YUJ0cFZyZndfSk9QUW92SHEyWEFHWjlEV3dHS0RwNXpjLVB0dUp3cmIwVTJiejhNa2ZLOU10RTZ2RnlWUmhhZTFJOUtzbWlid2FXZHJ1ZEpNeUxLMWlKVlBISlViYlFIUkpseFZUbEJBanZUSFAyU2hfT3AyVU04V0U4dlE?oc=5",
-      "category": "AI",
-      "severity": 2,
-      "seen": "2026-10-20T02:06:53+00:00",
-      "domain": "ACAMS",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Are we on the verge of a new Cold War? - WBUR",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNQy11N09Bb3ctZ1A5VjhCUnFnb0duem4wV25lQkYzT3pNQWxmamdKeXE3QU1fcGRUaVUzam42LUI2cEFKYmFrMnBtVHFsVGV4eGRCb00xT2VMYm1CcExIUVZKYlROdXdXd25fSEFOaERVYXBiZDFScg?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-20T01:01:23+00:00",
-      "domain": "WBUR",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Iran-backed Houthi rebels strike Yemen's government forces with ballistic missiles, killing at least 53 - PBS",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQkRtc1JnYXZzMWNwZEtMLWxiSXZZRDI5c1pnZi1zcWJ3Y1NOSlB2TTZCY2RIc2t4TF9OUXliaWt0QnZwQ2RNekpDU1VzY1A0Ny1TU1ZISkhsVUZTUThuWU1oc2drd1lDaVNLTjRKN1piQVdMR2NEdjdzN3BPdHNvT3o3UE5HUzUtcU5FbHI1eFNxYlJ3QzhKUW03cW9BYXA1dUY0U0pkTzhSSjlFQ3M2SWN5RmVEU04wVzdueUhiRXBVUWlBQjNETklOOE1mamdRMHfSAdcBQVVfeXFMT241UzZrRUlVcFJ0c2RlZnByVG51N0stekJkSmlkZEpwblkxeUtvUDVIVjAzaW91WEVLQmNxeWdualQwMF83UGswa0UzRjY2N19aNEhSTXN0Nm1ZTWFPOTQtYmpCcnprYmhOaVJJX0lOT29mRjdGQl9YWFY2cF91bDQ3ZnBjR1hyRm5xV2kzMGdVakZqTS1GWGRsMVhSTnN2TTZ3YkJlSXd6VndiSEphb2x6bS1rMVRLUzJVYndvcVpuSlYtVXMwRnNJcTRmYmpDUFpGRFVnMUE?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-19T15:29:43+00:00",
-      "domain": "PBS",
+      "seen": "2026-10-20T09:02:40+00:00",
+      "domain": "AFP.com",
       "language": "English",
       "sourcecountry": ""
     },
@@ -239,12 +209,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "Secretary of War Pete Hegseth to Visit Ohio and Wisconsin, for the Arsenal of Freedom Tour - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSmNpVTRuVWRJclZZd3JYZFBiM1hIUElTaWgtQ1g0d0Rodk1yal9ZUVpLOEtQRVVaZVpHWEp1SlVETGZ5X0VONlp4SXRjQXFhZEpVNk1GU1owYVpjbndmdEVpNXFnZFBsNzNSd0NtcjZHTGoycFBvLTRkY29DUldJQ044Q1ZrSi1xLVdKQ0FhLTlOTy1GQUZmVmwzekN5bUNGd0l3MGFOVnJXdmJGLUcxNDJnRk1xSUUxS0hKazVJanI0SmJCNTFNTG1MRDhKcFBvb0t0LW1JWGo?oc=5",
+      "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkNKZjJ5cW9BYU5lSkdiZHVKUFI4WTVFcklmWDZ6QURlWEdNTndCQW1TeEVNdjdPdjZhWDBhcnUwakxBaGtPNXpIaGZrY2pTM2tDNWg1Wm55VnR6YnRoSzFmZ3RlVlExQVl6UXZWLXMwc0VRNzQ3R1FpQVNZbWt0cGdiWmpkR1o2TFo1V0hBa0thaV9WblRwY013MlZ0QmhJXzY0WklSN2hwRU9rTXo40gG0AUFVX3lxTFBmdWhDeUtpVkotOXBReU55Y3Rqb0ZVM3dpYjVleC13bVE2WnUwTGtHWFJRYm81SG5RTmRyRlBzUEZRSzVObnU4Um5yV2JQanMwckQ3LUZER25nei15YmtZTjdfaWlRNXMxNGRybkxacmNLSFZCRi1mVjhvTlVGdmF0SnhpVFdRb2ttTTdYdG1XMUJIbERHb3hVeTN3UlZVZjVVbmJFVXJGLXVaelBWRmF6R2pwMQ?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-19T14:16:40+00:00",
-      "domain": "U.S. Department of War (.gov)",
+      "seen": "2026-10-20T10:37:05+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Thailand cabinet approves $313 million flood relief, official says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN1VBNVB0NVMxdFdNMm1VMFpnUk4xWEROQ1BHZkhXMTVHcUladlhTY0pEVmJod25ueFNjNk4wcEdZQ1FtbnM0RXhUSFlINmswR01mbXJHUXMzcGtRNmowaXh1Ykp1WnRBV042SnJhVjVTMzNpalY3T3M4WUpkMU5HQWRoUFQtOUhnTko3V25NUWFTWExyLWlDWlNQT1F5QnRBdkdnSGR1UEl4VXk5ZGpiLWttRHJ1T0hMS1B3TW1B?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-20T07:17:49+00:00",
+      "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     },
@@ -259,6 +239,26 @@
       "sourcecountry": ""
     },
     {
+      "title": "Secretary of War Pete Hegseth to Visit Ohio and Wisconsin, for the Arsenal of Freedom Tour - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSmNpVTRuVWRJclZZd3JYZFBiM1hIUElTaWgtQ1g0d0Rodk1yal9ZUVpLOEtQRVVaZVpHWEp1SlVETGZ5X0VONlp4SXRjQXFhZEpVNk1GU1owYVpjbndmdEVpNXFnZFBsNzNSd0NtcjZHTGoycFBvLTRkY29DUldJQ044Q1ZrSi1xLVdKQ0FhLTlOTy1GQUZmVmwzekN5bUNGd0l3MGFOVnJXdmJGLUcxNDJnRk1xSUUxS0hKazVJanI0SmJCNTFNTG1MRDhKcFBvb0t0LW1JWGo?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-19T14:16:40+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Fears Over Artificial Intelligence And Data Centers Are Overblown - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdFF0NEppQ1V0anc5aUN4XzZPdXhlWDlpcGlUOEljZWRpTEh2NTgyR3A2S3JPejB6bTNGRWpPV1RNUS1LVXJCTFZwanZzZWJZVjA2ZUxhNWF5WkJxZmpOVzl2OTNuZEwzbzdpU1VRNHp6azlQbktjazFlMjNaN1UwYmFWQWplTGZpTTdwN1hFSDFuUUNKcmk3RWp3MVpIWVNJWXc4M1hFMTNYdTIxbmwzc194eVRTRHktQVE?oc=5",
+      "category": "AI",
+      "severity": 2,
+      "seen": "2026-10-20T10:00:00+00:00",
+      "domain": "Forbes",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "U.S. must put pressure on Russia so Putin ends the war, Ukrainian official says - PBS",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUVzVVl2dTQ3dDVuYXlMU0VzUjFZTF8yQlRNQWtTdkZadWIyVzNmc1o5LVhLb3VseGtpUkdOazNtX2FvV1pEcDBrQlNmb2dnUHdKM2VaNWhGZ0l4RWVIaDZRbjFZTnUtN0g0QXBWRmg0a2tEMHhMN2E3eE5leEE0TVE5TnR2MWdsa0pkc3RuSXN5NjB1VmpNNDM4X2RHbmJFZEc3OGlzSGFEdDQxNVVyMw?oc=5",
       "category": "CONFLICT",
@@ -269,122 +269,122 @@
       "sourcecountry": ""
     },
     {
-      "title": "Zelenskyy says Ukraine got no early warning from partners as Russia hits the power grid again - PBS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYVV4ZVlKTEJkQ0RBNkFiRUNadFRBR0hRMkZWekJUcHpVXzlaSTRUSXdHVG9kN0JGVnVTV1UxQlU5U0VnTHpjb1dTV0lwRTR3NXBqeENuZ1hIY3pBQWRKLWhBdWI4MjBOWXZZNVdabzdOVnN2dWhYVUQ1ZVhScW5VdXF5Z29DeDdrNjFKUEw4MTVwN3lpLVM5UDE5ajRxeEVYUVUwaWI2R1RXRjdvSVI2cTFXUE9xTTRnVlcyTzI5YVhfQVNMU1dF0gHMAUFVX3lxTE1iSEdQTG93d3hLTHVMQUFfVTVYZWgxaGJmUzFPZ0t0UmlVcjRvVWMza0xpUnl1RURFODdtc2JJZm5haWstNDVzeEFQb3F5MGdNaWY2NUVoc01HRHF0cmNSTGlCRUpRekNyeDBkSHBRbFFHMnVXaV84UEZkUC1NMWt3OEotS3EtcDJaVTFBY3FiUHNoT1hvNGVjeUlFdzJlbW40cHp5OXkzOGoyU3J5MG1ySmkybmdJMG5mcVJBR2RvZVlRTFF1UzhmdGZxLQ?oc=5",
+      "title": "Iran war tilts balance of global oil power towards Americas - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcC1WUldmLXZleGpod29MTXNuME9vc2tYVkhmbjc5NkNFRGY0eV9OdUtac3R6UG9lTndqTjFpQi1kQkJnNHZZNDQzMkRYd09LM3A0MkFRcnpNaV9aaF9iT2NKX0xteHVscFRVQXotRHBoSVlzclIxWW90V2U0VDRBOGpDS24?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-19T12:25:53+00:00",
-      "domain": "PBS",
+      "seen": "2026-10-20T04:00:19+00:00",
+      "domain": "Financial Times",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Ukraine war briefing: Trump accuses Zelenskyy of not wanting to end war as feud rumbles on - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUUctRlR6MWdkbC1ZZUhDOC1GaXgtZF9BWGFlNjZXV0R4X2tsUVliMl82MkxnUzZnRHdiSllRTlpZX2M2ZVctMWwwSXBmUFJoX3ZzZXNQNFA2eGYwM3B3dHhkUzg5WUcwcTc3ZENsYmFXUml5ZjJiZEFpNlF4QXlEQUx4QmQ4RDJCZ1B2MDVFWXk2TWNFRkp0QVg3SWgySHVJRE1mMUt2dGJlU2hiaGNQdXYzNXhKME9xaGJGQUl1Qm1FbUg4MG8wcVdFU0NkOHhq?oc=5",
+      "title": "Trump says Zelenskiy should get somebody else to negotiate to end war - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZkJfbTJUSTNGdHptbTBieXhMaFBhamZFaTJFb2JXVllDUnFyX3U2OG1hbWFTQ0ZlbzVfS2U0bmtOTmk3dWExc3hnc0JxQ1o3V2FkODNjWkRzNDVPOEF3YjQ4YWtWMW9mMXJ6ZGJxS3pUNkxzNVZOTDRXTU05Y0xlOHF0X0xtU2ZBeWJkaTBTNjNnWnU0YWVKbXAzaVVoYjBzRmc4MXNiUkM?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-19T22:56:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "BLEACH THE STORIES - Thousand-Year Blood War Arc Visual Deals Decisive Blow - Crunchyroll",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ1dBZXNKa1k4YmFQanJISV9XNmwwRlZncHlMWThaRG9rTjlJRmdDaDBEQ3d1Wmg4RFBxak14d2piVGE4eHZEbVQ3TnIzN00xT005Zk1OSTlIeHVoNDdNVlFQcGNVOFlfRmRjZ2M3aWcwN08tcmt5S3lRakVicFhXd3R3b1FZcVpZYzJ2V3JFaXRCQnlDM3hmOXRDc1dWdm5HaWRCNGQ2M2pGVmpIWTlwN0FqX010YUVsY2VyaU1zUmVpdw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-19T19:17:00+00:00",
-      "domain": "Crunchyroll",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Where People Got Sick: Salmonella Outbreak, October 2026 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fNXU5OXlkeGhqR3BBZ01YUVZtMzByMG5nT1o1eUt4UXpNZjBkd0xtcVBkUHl2Rk1wSTJFVHVNcnpDRGRUUWhFNWJ0RkR6dDJFT2ppVlB0RTdzVS1JNGFTNTR2OW5DTHNpQm94MWE2ZVBlOThGVVlfVw?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-19T23:10:45+00:00",
-      "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Residents winched from rooftops as torrential rain hits eastern Spain - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQandpczcyNjhoVlZkSDdGYkNTSGMtcllCOG9DSXYydXNFSEpfc29JeHRVbTBJeFlZQzh4SXpEeWNxUmJPNWFGbDQxdkVnam15QU4tTUFXWms4U1Z5ZUdOT2ZXY0p3ZDJ3cGNvV2VyUXZBMnVpaEJmWlhHYWJrVkQ3MDNCWTk0ckpHV0p4UlZKOURNeFpEeDNaWGtMNTlVSkwxSjJSQ3NVMGxkSEpMdk9KZ19hNFZxWjRw?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-19T18:25:52+00:00",
+      "seen": "2026-10-19T21:03:41+00:00",
       "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Zelenskyy says Russia hit Ukraine again with no \"warning from partners,\" U.S. delaying \"vital supplies\" - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUs1WnJWV01qWGFyRk5mTGJkUjd1aWUwY3BXWEZubnVFajF5TUFtNExyempsQTRGbXJieXlVMXlIbDdHMjFiQS04YmZSTElxcFk0WTh5c0U3MVRpUmh6MTJVRUVMa2NsaGN3NDN2YkpfaTV3Y3JKZ3N2WDVOdUUwVUg1SERpVjQwbVU1a1RGOHZKN2pDbHpHZnlR?oc=5",
-      "category": "CONFLICT",
+      "title": "Seismic activity on Oct. 20: Earthquake close to Redwood Valley, CA detected - magnitude 2.4 - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vMVp1Mlh0TXFmVXlKRV9lV25uTmhtbGRwR0tUWW1rWnZuSTViUkJUWTJOTVhvVTl1dUlRU3dXRTkycmNMU29WbkdjMU9kYmNzSHFZaDhqZFU2ODNCRDd1eWZjRkx2N0tnb0hJWjVjN3kxT1lWLVBaeHVTdTM?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-19T15:50:00+00:00",
-      "domain": "CBS News",
+      "seen": "2026-10-20T11:05:07+00:00",
+      "domain": "Sacramento Bee",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Amazon, AEP, X-energy explore SMR feasibility in Indiana - American Nuclear Society",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMGF1ak03Sk9FLWw1VUIxYl9hTW5WYjdfU0dRMEt3QUNCeEFSbE44ejBLVGlFemd5Vzk4dUdXUnRPR1pWcXRGS3NDaUZlbTkwclJyaEFUX1dpeldyY3Q1OHA4ZmNWcldiNUpqNmEwcmt2WnNJbndYY21JOVhZU3MyRkUxcEtEMFBQSURPUjdFamRGbHVRUEkxbVBkVkNIcFI1Qk9zTw?oc=5",
+      "title": "Artificial intelligence conformity assessment in Ukraine - CEPS",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTVVTemZJbHg3aDgtRG14dkZlZEprMDJLS2dnZHd2MXB0X0xVbWxwcFdkOGhDTFVJcjNkTlVZZ181RjRYM1F1UXRhMnUta1hhTGNoRjl0bllsYnBUNVpnSHZEX0JHR1VyYThuR3JyM0s3QTJTOWVmaGxEeGI0NjZ2VkJIREdjZTAwZzhGejg2Vnc0OXBZTFVHMThHYw?oc=5",
+      "category": "AI",
+      "severity": 2,
+      "seen": "2026-10-20T08:56:02+00:00",
+      "domain": "CEPS",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine - NPR",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN0VYeGR0NHVTUzc3TVpTTmxVNFo1QmE5bXZpWmNOWWFVZ2JoMS1lMDVmTFlVbkN0QWZLVEQzY2xURm4tT3QzVFFuc2VwNjFlc1E1bmMxdTA5SDRKUXZhLXlwRjdFXzBYZW9fR1V4Y0stazdlcXlDUkx5dmFYMW4za3lLOGEyUG9nRVpac3dlcVA5TTdBcm50MEg5YXJ3azlTaHdjVzVMRWZrZW5QM0Qzbm43aG45ekZGUUtVS1BaUDk4YWI1QzM4?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-20T11:03:52+00:00",
+      "domain": "NPR",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Rubio says Ukraine and Russia should be focused on ending the war - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMnlMYkJrU1pjQjZ0cTJGeDV5ckpyX3lsaXJrNjkwQmtjYVlUaGFvZUZuTWJ6THZuXzJ0elVfdGRoSkhRR2ZLelBvQXlDWVRzRWdVdW5KcUNKZU11TzRnQzdTdkpINWVZWWlsMTVYcy1BR1BzbkZRVnBEUWtDUEpER3lTV1dEZnl1OFVkZGtjemVQUjU0SUNxRzBHbktyTzNQQkE3aA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-19T13:24:58+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Coal–to-Nuclear Transitions - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NVXlZeVN1ZEtUeGMwanhRVGpNYzJIRWVCeVR3NkdwaUJELTRJZmhHSWdsVTVWTDBMRVA1alpWdWtWY0NLeTdOcWc3SmNmMnkxNFJ6YW9RSmtQb0ZLM1VJ?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-10-19T23:13:40+00:00",
-      "domain": "American Nuclear Society",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Russia’s Lavrov discusses US war and regional security during Tehran visit - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRWbm1ZdGNfX3BQcTV4MTZBMERabzQ1ZWEwSXhhdW5pZkUxMFBvZXFuRTBsMjZ6Q182MG9qZWhJNDJOb3Y0WU96Zng3bWpfWGgyMFdrUzVvdjhrRk1QSm1IdTZoTW1TZENrTVNyLWpxdmpwbU5PZXFnd2RReXhDaS1pNEN6azVDdGt3OEtCTnRHV1hybXZ2Y3FLMzVVQndkNlFEbWlZWEJ1WTlWN3FJX3A4U3I3SGvSAbwBQVVfeXFMT2J4YW5XUTF5ckF5M2xIaWx2LUJkeW9sUkdhWnVCRU8wT1BIa2hsckRiZlFqcmlWMTFCb21iODNXUngxM1ZDeXB0UnRLcEZkbjFRbDkxMjllYlpmbXZhd3NXTk9nRHI2a2VuUm5KVWprcG53RzJQMFdKa0Y1TWhkN1V3VVB2UmJ2OElZWU43VGVETTlrNkdOa3NYdFlEajlLYVJOZDNybnc0WW9EV19CZEN2LV9WMGhiU3doV2U?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-19T16:22:51+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "HDUSA wants to replicate South Korea’s ‘war footing’ industrial capacity in America - DefenseScoop",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KbXVnOXNhQTFBV1BPSnZaT2VLS1Z0X3EzQThTR1FVcm9FR1lZLXVvSmY4aUpxa1N1SU9CZDhydmJ6VWd0RzljV0RiZE1JVFQ1Ym13ZGdFNHNEM0NXN1NxU21WRXF6ZzdSSm9Pa0pjYldua3BacE5j?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-19T21:33:13+00:00",
-      "domain": "DefenseScoop",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Broward drivers generate a flood of school bus citations - NBC 6 South Florida",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYms5UGZydU5LR0FyNjI3NkQ0Qmw0NXA3UThmeE5VWURwUWowVTcwWjVVeHNxWnVraTJCeU1TX3ZzNWJBc3hoYk1nOHh0RDM0WEhHN3pQaERQMDhQd0Nfdm4wT21WOHJpUUVia0NnT2Q0bk0wcjJnRmN0cTFSNng0U0V6SC1TWVJZMVlHenZuSkYtTkdncnRCcnFqTmlPRHJzd1pJ0gGrAUFVX3lxTE1DeHFaa1ltSE9TUUYtQXdZZzlBLUQxNU83SUhrTkVsbkd4Q1JDcUdPQlhIc2IwYmx4dlVpYjJTbXlHaWFmdkVZcGo5U2VNOHVNeUxQdFo3ejZWa1E2UlpjNnBqaGhhQW1tNkVaN1hnSk90M3dsamlwdW16Y2daZGV3dkRvRXlYWGRLa2dDWGZ3ZXI1VjBROV9YQ180Nlo0R0lTV1RRRmlxYzNkZw?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-20T02:22:26+00:00",
-      "domain": "NBC 6 South Florida",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Jamie Dimon’s View on the U.S. Economy: Booming, but War and Inflation Pose Risks - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM09VcGQwTFJlbHZDcWt0VnUwSml4ZTJuNTdxLU01cGoyYjN0UWVZcVpkOWlzRzU3VlhPZDZ0RmNfZmdOVjQ0TjJNcU5VQUhJWUNGeHJLZnhQOU1ZVlp2VndBZXNPZUNSVHVqMmM5cXBsLVZoQlNlMTNGaW1MOGxpMnA4LThmNDlmSlJHQWg2eWY3eEFQVTNINWE5LXRCT181YUpPMlRXSS1Wc1NWR1B0TElkSmFsekNUQWc?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-19T11:14:00+00:00",
-      "domain": "WSJ",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Preventing and Mitigating Flood Damage to Solar Photovoltaic Systems - Department of Energy (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYndOZGVEVV9nWGF6NkdBalpQRTZvY3pSb3N2OHMwcWlud2hlRFh5OGoxNXBOOHROOE1Hd1dxV3k4MEJxTnF4aTlRVnhYQnFPUzFZUjYzSUpDR0U4QXNiMUJ5Smg4OF9mSGZ0bUwzUVNoWUxWbFpLcHFDTlFuTWJ5YlR2VklrM19IbXAzeHdEN05Ea1F0Znk0LUxqb0VuaFE?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
       "seen": "2026-10-16T17:30:00+00:00",
       "domain": "Department of Energy (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Zelenskiy to meet Witkoff after Trump says Russia has been 'fine' on Ukraine - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGUzUUpJZDlBeHJNb3ZDUGd2a21yM3ZCY0lfOTc0ZjYxQ01jX1RoTC1wQlZzU0xRN3c3YnZBWGJuNG95ZnRSeXdESktNM1dFUnFLNTBJX3Zjem9rSVdKckVVckh2VGVCLXc2VVpPOTBKbUhnUU1jYUtHUzF5YVNMM0ZhWFBZeXBmZktWQ3VKaW5ubHVnOGt1Zy1VMTNGMDZqMWlyeg?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-20T05:47:00+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Human Rights Council adopts resolution on nuclear legacy in Marshall Islands - World Council of Churches",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGRKT2xvQVFBVzFSYlZUUzFjLTdzS1F4VzVPV05Db1NpM05jRDZCZHRONEVpeGRaSTlCVVFsemZmMXVIUlZmMkFsWWU5Q0FJRnhuWXBYcEtFa25fUU9xWmJ6MmJzNEk5cWFWYTlNd0FBeXI3STZfd3BkZXMtaHZRUnRKS2FqbWhVZXFubWtFbGpaYjJ3UTlocHBRaWVDSkJ5S2JBbk40UnIyUUU?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-20T08:24:01+00:00",
+      "domain": "World Council of Churches",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "How do you test a nuclear arsenal without blowing it up? - Scientific American",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUW1JeDNXX25BbjZIZEd5OC1KQm1qakpiQ0RQS3BYVVlRRk9uN0dzQkk4WVpjMWx4dHM5eElTeVJvUGxpU0ZNYW45ZHJqcGxLdG1DZnRUWVFBN3MzZVhsaXQ2dk5tV1NHNHdvU2E1R2tGYmdUQzRTcDVlUFQwMGQ3dUxzVHlrekRMeVlZQU1mV3BkcFN5MFBPSGdnRmpjZlowdVc5NkpJbmFCUjVLbVE?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-20T10:00:00+00:00",
+      "domain": "Scientific American",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "KDDI subsidiary faces criticism and questions over Mongolian wildfire - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaUxCSmItWklhajJXbDFRa1FlMmg4SW9PX3J2SG10SklNVndXQUxTQnpXeXBIZlNPY3RfaG5sUl9xWloxYk1iaWRzWG1XeFJwdzdncm9SVzZGemh0MGl2LVFfeTIwOUVDbkpLMzhlZ2IyeDVhM1AzNzluTEVNMVVSRDdaem0zaXdSb0E?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-20T03:51:00+00:00",
+      "domain": "The Japan Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Wildfire in Indonesia’s Mount Bromo National Park kills 4 firefighters - news - Mongabay",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmQyUlY1Zm9ITzNSNWFsbGp1aTdmdVFibjBMNGdZQXpIdUtLaFNhSVpycTFibVNXcnVBV0hlWjYxNUhoTnktXzhwNEJpTUFqRzZZWDdUeUhhMnNPZTVSRjVnLVVWYlhvNWlxYWNXeE90VEpHUzFXVklISlFrTGxudUpiWTFDTnBrcGRfOHk2dWZtdmRUdV9vczlubXBlR0pCa09acng4MNIBrAFBVV95cUxPNUdrQ2dsWER0Rjg3WmpiZndzZDRWbmVnYmpsbGoxT0F3bUVIeVpPRUx6MmlPVXo2RWE3MDkyLU81RVVKTWU3WUdVZTAtLU5za0tUTG12N1owcnNHbGZldG9WNThrYjJfdFVRd1VDamFQdjZPYnpTcUZ0eTJqNzU1am15QnRVTmNVSU5uc0RaWG1pYmNvUEoxRVlwSThUNzRkcGdWRUx2Vk94eVZM?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-20T11:21:32+00:00",
+      "domain": "news - Mongabay",
       "language": "English",
       "sourcecountry": ""
     },
@@ -399,12 +399,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Turkey and the Nuclear Threshold - Middle East Institute",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGbzdfbklKREdfWF9fVDg5emJOd0kyVEtEa3QxX2RRQVh1TnV3VXRBYzV5eFJkU2hiZ3hEZUxRcmVlRVBZOTVWZ3JHYjBTQlNoYy1NQV9aU1pUQkl3cmYyZWJwNDVubWlMVFRFOQ?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-19T16:11:19+00:00",
-      "domain": "Middle East Institute",
+      "title": "Russia’s Lavrov discusses US war and regional security during Tehran visit - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRWbm1ZdGNfX3BQcTV4MTZBMERabzQ1ZWEwSXhhdW5pZkUxMFBvZXFuRTBsMjZ6Q182MG9qZWhJNDJOb3Y0WU96Zng3bWpfWGgyMFdrUzVvdjhrRk1QSm1IdTZoTW1TZENrTVNyLWpxdmpwbU5PZXFnd2RReXhDaS1pNEN6azVDdGt3OEtCTnRHV1hybXZ2Y3FLMzVVQndkNlFEbWlZWEJ1WTlWN3FJX3A4U3I3SGvSAbwBQVVfeXFMT2J4YW5XUTF5ckF5M2xIaWx2LUJkeW9sUkdhWnVCRU8wT1BIa2hsckRiZlFqcmlWMTFCb21iODNXUngxM1ZDeXB0UnRLcEZkbjFRbDkxMjllYlpmbXZhd3NXTk9nRHI2a2VuUm5KVWprcG53RzJQMFdKa0Y1TWhkN1V3VVB2UmJ2OElZWU43VGVETTlrNkdOa3NYdFlEajlLYVJOZDNybnc0WW9EV19CZEN2LV9WMGhiU3doV2U?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-19T16:22:51+00:00",
+      "domain": "Al Jazeera",
       "language": "English",
       "sourcecountry": ""
     }
