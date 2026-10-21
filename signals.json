@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-20T23:53:07.815672+00:00",
+  "fetched_at": "2026-10-21T04:49:29.231164+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -79,22 +79,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "5.2 magnitude earthquake shakes Azores islands - Fall River Herald News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYVRub09sMm5kVTdmY1ZnYkw5SV9ZLW0yQWlTWlYxeVdmZTUwSTJhRXA1ZEc1SmtrZEdVRkp6cDh4dGtNazlIazBUUnFSV2dGWjVWOEtKYUVPQmUzU0ZEaUZDYmJRUGlFMXlaSEpzSXJrSTZkY1FXXzJEb0hjdnRvc3RtSVBtNkgtcUxUVlY0OFl4aW9STHVEZEdwQVVZUFdZQ25yUmlYQ2dQYmRKNkhxM2RMdlBZQzZYMFllRDNVWQ?oc=5",
+      "title": "Flood Watch Issued for Santa Barbara County for Wednesday and Thursday - The Santa Barbara Independent",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDlVaWlDU04zZkR0S2lYUFJmWFJQejNxSUQwa3h2N21zS3NZUzNncmNQTjhkWkd6eWxoUHdXak1ZVjVianRoMHlBbkpoaHNrSWlma1o5U1JLV2U1c1NCZktjQ2wyUGJmb0xjR1pKTU9hT0h4eVBUY0gyekFEZ0pHMFpFWjRsS3RkaFlZTS1rX1FoWU9PSFpwSkVKM01RdV9RaDRIUkVEalVlSE9NU3RN?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-20T21:00:00+00:00",
-      "domain": "Fall River Herald News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Powerful Earthquake Shakes Southern Panama - JW.ORG",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVjFoRndMdE90ZEYyM0tBdG5CcEJtc1lydE5ZUDl0dWN3V3BZZHZ3aURud3hDdmxlX3NkRTZwanV4aVFwR3N4bEd4TjRwQi1oVFoxeV9CdlBmTTY0XzE4WGoxNVd6c242cUxQNldrNThiOHcyWGdJZEE4UUd6bU9NRF9ERFFQNU1qVGRYRQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-20T19:08:09+00:00",
-      "domain": "JW.ORG",
+      "seen": "2026-10-20T23:39:57+00:00",
+      "domain": "The Santa Barbara Independent",
       "language": "English",
       "sourcecountry": ""
     },
@@ -109,22 +99,52 @@
       "sourcecountry": ""
     },
     {
-      "title": "Holy See: Nuclear weapons are one of gravest threats to humanity - Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYVBIMGFnNVpybW1NQXlwTTVrUEFEdVB3WksxSDhmcTdmQVJyd2p5cjJPYWV5clZGUG1TSm9faHBIMkZtV0FrSndsOVNyR0xHVVBiZjRMek1MM0MxUGhoOVdrWWg1WDlESVUwcVIzYWhrYkN1NlFBTUt3WTNFbzNaRHktRkNPc21ENVU2VUNGc1hfYzRvUVZhYUNzQjlhT1NMM3VCQzd0NkFkdUlTd1B0RW4xRXdsWm9VaFNFeUp3c0w?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-20T13:16:01+00:00",
-      "domain": "Vatican News",
+      "title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-21T00:00:00+00:00",
+      "domain": "WSJ",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Crews battle massive wildfire northeast of Magnolia, Arkansas - KSLA",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNU5sODV1X0VjLThQcWc1OC1ZOFgwX3YwdUFtM3VqTjEtNjNTNEVKQzZsTlkxNldISGdxRHNnR2dvaVZUYXd3dXdMeUhfdDZ4Uy1JQkh2eDFIRGhYZTh5cmxBdVVfNXNRTEVjaDhKbWtsRW5vWFJaZi1HVWVDVGpPcnJyMDR0Mm5q?oc=5",
+      "title": "5.2 magnitude earthquake shakes Azores islands - Fall River Herald News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYVRub09sMm5kVTdmY1ZnYkw5SV9ZLW0yQWlTWlYxeVdmZTUwSTJhRXA1ZEc1SmtrZEdVRkp6cDh4dGtNazlIazBUUnFSV2dGWjVWOEtKYUVPQmUzU0ZEaUZDYmJRUGlFMXlaSEpzSXJrSTZkY1FXXzJEb0hjdnRvc3RtSVBtNkgtcUxUVlY0OFl4aW9STHVEZEdwQVVZUFdZQ25yUmlYQ2dQYmRKNkhxM2RMdlBZQzZYMFllRDNVWQ?oc=5",
       "category": "DISASTER",
-      "severity": 3,
+      "severity": 2,
+      "seen": "2026-10-20T21:00:00+00:00",
+      "domain": "Fall River Herald News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "150-acre wildfire somewhat contained northeast of Magnolia - KSLA",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNU5sODV1X0VjLThQcWc1OC1ZOFgwX3YwdUFtM3VqTjEtNjNTNEVKQzZsTlkxNldISGdxRHNnR2dvaVZUYXd3dXdMeUhfdDZ4Uy1JQkh2eDFIRGhYZTh5cmxBdVVfNXNRTEVjaDhKbWtsRW5vWFJaZi1HVWVDVGpPcnJyMDR0Mm5q0gGcAUFVX3lxTFA1VHc1ZnUtMkdwaC1QbFNZczRHam5MNUNSX1hOV19BWWUtYm16ZGxmWl92ZzZNM1NCdVVaMVNDWWY1X1hKN0dabjFvOXBCeXRKVEdnUUhUV2g3MWtjV0Q0THd3S01yd0NhaFpwSThYbFNwTkVQTEVPMmpRYzFPMmt0djVaZjk0WVNBdU83V1ZIUV96d1FNLVVKWUZYbg?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
       "seen": "2026-10-20T22:42:00+00:00",
       "domain": "KSLA",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Chickenpox outbreak reported at Shepherd High School following homecoming dance, district says - ABC13 Houston",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2s0ODBlU1B0S0lwbzBFd0tTNXAxWDFUV0dZTlpzRXZIN1hYUFRVVHNCLURoVVdGN1BtRmJHS1BRN3NXNHBDRXpfdzMtSWFnOU9qSkhDLVJpSDJFZjVHblc2bGRVaG9pX19ONks4THdPV0NTeDZscEJNdVFCX0VSSnVtSC12dC1ETlJBR0o4SGt1LWJ2WmxYY2QteEszX1haUno0TmZjZ09QcnIyYi1jRERpTFFRTFo4cWE2dUVjRjDSAcYBQVVfeXFMTWtSUEl6TlUzdXJBdU9fSHRlSGY0WjhzZEhObFc1QjVrNlBvUm1iTnFTb1RlbEdhTy1oMmg4STNjZFlqeWRRaEM5dW91bHd1empYLWdfOGJwMEo1ZlNPU1FoVURLZTlHSlprX3RxQ3JaMERLVEFoMkc4eWg3S3JfSWZYbmc0aUk0clFaQVhQQ29CczBabC02U3BEQ2pyZmRqa3NSWlFESnlCTmIxa004ZXJjRnhHN0NCdVZBMWpPczJKWER6cElB?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-10-21T00:04:37+00:00",
+      "domain": "ABC13 Houston",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Powerful Earthquake Shakes Southern Panama - JW.ORG",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVjFoRndMdE90ZEYyM0tBdG5CcEJtc1lydE5ZUDl0dWN3V3BZZHZ3aURud3hDdmxlX3NkRTZwanV4aVFwR3N4bEd4TjRwQi1oVFoxeV9CdlBmTTY0XzE4WGoxNVd6c242cUxQNldrNThiOHcyWGdJZEE4UUd6bU9NRF9ERFFQNU1qVGRYRQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-20T19:08:09+00:00",
+      "domain": "JW.ORG",
       "language": "English",
       "sourcecountry": ""
     },
@@ -139,92 +159,52 @@
       "sourcecountry": ""
     },
     {
-      "title": "Flood Watch Issued for Santa Barbara County for Wednesday and Thursday - The Santa Barbara Independent",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDlVaWlDU04zZkR0S2lYUFJmWFJQejNxSUQwa3h2N21zS3NZUzNncmNQTjhkWkd6eWxoUHdXak1ZVjVianRoMHlBbkpoaHNrSWlma1o5U1JLV2U1c1NCZktjQ2wyUGJmb0xjR1pKTU9hT0h4eVBUY0gyekFEZ0pHMFpFWjRsS3RkaFlZTS1rX1FoWU9PSFpwSkVKM01RdV9RaDRIUkVEalVlSE9NU3RN?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-20T23:37:30+00:00",
-      "domain": "The Santa Barbara Independent",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump says he asked Putin to release American Stephen Hubbard - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMGhyM09wZ1l5S3NNU1JXanVibmYwN0h2S3hCNUltdDR6ZTk1T2FfdUlhd0dpOE05ZTZsNXA3eDJWTkVyRDNxc3Y0SWV1Wk1FMXMwVVVCd3FjaG1fMXplc2RVS3RKRE5EQTBQUjRocUZ1SVppRFN4c1dRY2VvN3kyQUNSeTQtdEFKTTROVjVDZlA?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-20T19:31:27+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Watersheds near Río Frijoles bear the brunt of wildfire - Source New Mexico",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObmJiWS10Q0tQdnhQamlQVnJyWnZhWlJIN3NUSmF2b195S1F4X0k3cllrX1Zwd2ItdXJIWHNrRnI2WXhpZE5hZGkyUVA3eHhxaGlwZEt6b3dxLVdsZHpfMVR2ZjV3a0RFX0ZrNmV2ek4yWi1rWG5oc1VCSW90Qi1GSzZqQmFKNGM3NzBuZ2tLa3Jrdw?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-20T22:04:51+00:00",
-      "domain": "Source New Mexico",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "FIRST ALERT: Pleasant autumn pattern amid persistent wildfire risk - Upper Michigan's Source",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWZJYmxZcHdxMDlNczZlNHMzNUdvUHh6dVE5QzBkZWNhMFJHbmRBaXlGZnhCMmo2QTBPMlNpd0J1dTNONGhnaW80azgtWHBtWjU1OHFtQXdnRXFVREY2bHpkZkt3aWpha21Yc3NsOVFpVmJZcDhob2MxUjZZSXNFLWw4MEhxYTJLNnh5bkM4VnJLUGdGbEJvMUszQVVrLWZzZTdia1YtaC1VUTdMcWg3OHYtN2zSAcgBQVVfeXFMTlItVjZKNGd4Rmh5d3huaXE0M09jUzlBSEx3QmJmNlpGWlZvekt1eThxaWRvZXZFS28wZFdlSTdDMTJHbnVIVlNFcWxhVWRJZjlIVXhxUWNwNUNMSkxtNVNRNl9yN1N3eEtUYUg3Z25RY2JVUElnZVpzTVEtU1dFWXVuSXIyUUxjbXY4TnhmOHBIb1dqbHUxYXRDZjFPUGZEa3k4WDVJNV9rdHYyTnFPX3BYdUZHNDdIQVJzSndTVkZkaDJORFFZdGo?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-20T21:09:00+00:00",
-      "domain": "Upper Michigan's Source",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "27 sickened in Salmonella outbreak linked to raw oysters - CIDRAP",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdWxiVm9CRE4tUS1nZ0RfQTdSTGRPcHJiZjBJcUhnMVR2M21iZ1FqNklMZDNFVGp0T1U2R1R3Q0JUNGw1S1drZWFKRlptbEotWUxRbWhtTFRCY1BDMkN3aEljT0U2cVNQUHRvYlJ1dkpzR215ZERlNkFNUzRSU2N3dzJObE5hXzhqWmdPY3dnNmhQUQ?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-20T18:19:00+00:00",
-      "domain": "CIDRAP",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Tropical moisture will trigger a flood risk for Southwest US - The Weather Channel",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWpfY3hQcnVSbmNtVUFKdlNCcGUwNmIzVW8zdkpVUjFaRXlBNDJWaVVvMFdmQXpBeVAtdUV3YkI3LUJCTmJaQ2RScjJVSHUtRmlkd3A2a3c5SWZDaFBqUXBzZmo0WE95Rms0czM4b2ZpMFVHOWFCQzNZdDMwWnBkT2NDNDF0cGFnNUg1OFdhdjQ0c3FWM2lQcmVvZWUyS1BZNmVFS2oyTVU?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-20T21:52:00+00:00",
-      "domain": "The Weather Channel",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Virtual summit addresses artificial intelligence and racial bias in health care - WDET 101.9 FM",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTJlRDY2WW1KZDhrMmozMnpUUU0zVVhNTFU1MXhId0lsUkE4ZkpRemhqcjRleGItdGE3S3AzdVY1LWFsdXQ4NkRlZEpDXzBEZGx1RG56MEw5UlJZUmxxSF9ZVlJvTWZqUVdLa2tSSlRYbGp4X1RQa2FjOFBIajg0RTlCRE1pOVlBWTlZWVJMbjd4SV96cUFNTUVfNi1taFVTeWU1d0ZYV1N6TmQt?oc=5",
-      "category": "AI",
-      "severity": 2,
-      "seen": "2026-10-20T17:29:13+00:00",
-      "domain": "WDET 101.9 FM",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trinity Site Open House Draws Record-Breaking Crowd to White Sands Missile Range - Army.mil",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45QXBwclBtVURVQ0Y3ckl1SXd3T3o1SlNxSEVFMXFqTUhMc1BHQ1phQjdmUkNkc0MzdGI0dWZDTUVJRFVqYUZLZklpSdIBvAFBVV95cUxOTFhaTUMzQm1mb1dhN1NjRHZJdXd6SE9HQzZIYndIQ3EwRjlGSk1XQXlndXpSY0x5cF9GRlJsVExxeUM1YjZxTENjeE1VRE84a2N6cm1maExVb253Ukttc0N2Q2VNOTg1TVN4OWNjRWxJb0JYMnBqVGNkTWVNVVFUa2QwZnZyOTZqaTdxX29pbHlDWjFzMzN6cFBxMWFOa3Q3S01WWlRScGRCTFU0WUVTTTQ4Z1YtcnkyZ0lndQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-20T19:07:42+00:00",
-      "domain": "Army.mil",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "IAEA Mission Says UAE Response to Barakah Nuclear Power Plant Event in May 2026 was Effective - International Atomic Energy Agency",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaGQzZ2JlZC1qb1NkczJuZFphZE1PVS1nRXJ1RUNBZFdQLWNiajBvWHZrRmNPYlJrZjNqamFWZkxaRHBxNGhPdGg1bld4TjlvN3E5MXhMZ3R0VFFhYzdBdjRJZTlfdlB3dzUxbTFROEE1TUVNbzVVQjJIcDNST28yTFRJRDNSRHdjN19KcGQ0RkQ5LWh3TUZldFBWQTF6TUFnMnQyQkFuamRSXzFqMVViMjBBM0dkN09tZFMzRHBiZGFpTnZxOEs4d3ljTmlEbDZKdjIxamdB?oc=5",
+      "title": "Holy See: Nuclear weapons are one of gravest threats to humanity - Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYVBIMGFnNVpybW1NQXlwTTVrUEFEdVB3WksxSDhmcTdmQVJyd2p5cjJPYWV5clZGUG1TSm9faHBIMkZtV0FrSndsOVNyR0xHVVBiZjRMek1MM0MxUGhoOVdrWWg1WDlESVUwcVIzYWhrYkN1NlFBTUt3WTNFbzNaRHktRkNPc21ENVU2VUNGc1hfYzRvUVZhYUNzQjlhT1NMM3VCQzd0NkFkdUlTd1B0RW4xRXdsWm9VaFNFeUp3c0w?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-10-20T08:56:16+00:00",
-      "domain": "International Atomic Energy Agency",
+      "seen": "2026-10-20T13:16:01+00:00",
+      "domain": "Vatican News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Miller-Meeks, Bohannan spar on Iran war, rising costs in 1st District debate - Iowa Capital Dispatch",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVWs5Q2xfS3lveFBQSVIxcjVNTGZYVVRHRGZrclJNNVFyU3g2b01nb2NQcHI0Vm83aTBaQWR2OHpEbE1TbTdRSWJaZkJfVHRsdndWR3pOdTRFVkJrQS1xMzZUN19LU2tza09ib3hfZU1YUDdTUzc1c3p6WjFTUU84NVJkWXc3eHo5WmxfMzJkNGdzaDJ0MjlLTDRwTF9uSENsRnh4S2JtX3R3cmdzYWRXMDF4N3VlN2xRMVE?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-21T02:34:54+00:00",
+      "domain": "Iowa Capital Dispatch",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0sxaWtWdHl5a2Y0SGVZOUJ6LTQycmtKZTdTd0NsamRDQ080MW1CVUxtRnlYM1E3bng3VlVLZ1ZQMTVoLUpQdUpBYTV6UERfS29xOHlpOTc1dy1JQi13Q0pHR2phTWk3blNsZzdoYnlQYlg1bjVXb3hIWHFBUS1oem9xdC1oWG9ITHJrQmZ4NEZvOUZfeGFKMw?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-10-21T00:14:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Arizona preps for flood watch - FOX 10 Phoenix",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3dBUTBZeV9YTlZ1ZVB6dWQ1RlJoVU5JN2NqSkFGbExMZ3U2WlhMaGMwR3ltRGRoRHJkZjFmY1B4R1pKa0pTaFRQcGRENjlnVjdzYjM4TXd0MmZhYUlIcWRqRmlZeGllalllMVRqSEt0UDV5UUtGYnpyQnNWNlJnQlhSSjUtMlZfQTJya1l1M2Rsb1JoRnRNQUJFbzFwa1Z6UW1pcDA3QdIBrAFBVV95cUxOMlptSmxYaVZMZXBGUmVWSkM3V1dGQ3VaVFJlc1Z2V29pa0h0aWtEZlhzQ01qYjl4SnBidmRDY0FWSjFGa3ZRTWVYU3QtZkxUSWpqbHhmQUUxN19Md1RZMG5FUUlHUXFaS0V6b1BCVm1qLUdLUEVob0pSRTJoNDltenRIU0c5bUJ2ckpSQ0twYmQ3OUxxUkxGMEJxc2xIZWplM28wRVBMLW1aMXFI?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-20T23:32:46+00:00",
+      "domain": "FOX 10 Phoenix",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Indiana will bring nuclear energy to the grid under new agreement - WFYI",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWEhtZjdhZXI2bXYtWmpzV3hQcnpubUo1M2dsYmhqelR4THNibmxuNmJCTU1EY0NDdGdSNWc0ZXg2VENncEFCVFBhN21nTjZ0ZGFfX3F4QnEyTzFYcGoyWUpJRllkVDVzNnp1ZXMySi05XzJnb3lOVHVwMTJKZHl0UjZOTGtzOHd2UVZDNXBvamNEVzcwYVVNUGcxcmwyZk0yNVJUeDBTTE1sb1U?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-20T20:16:00+00:00",
+      "domain": "WFYI",
       "language": "English",
       "sourcecountry": ""
     },
@@ -239,6 +219,46 @@
       "sourcecountry": ""
     },
     {
+      "title": "IAEA Mission Says UAE Response to Barakah Nuclear Power Plant Event in May 2026 was Effective - International Atomic Energy Agency",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaGQzZ2JlZC1qb1NkczJuZFphZE1PVS1nRXJ1RUNBZFdQLWNiajBvWHZrRmNPYlJrZjNqamFWZkxaRHBxNGhPdGg1bld4TjlvN3E5MXhMZ3R0VFFhYzdBdjRJZTlfdlB3dzUxbTFROEE1TUVNbzVVQjJIcDNST28yTFRJRDNSRHdjN19KcGQ0RkQ5LWh3TUZldFBWQTF6TUFnMnQyQkFuamRSXzFqMVViMjBBM0dkN09tZFMzRHBiZGFpTnZxOEs4d3ljTmlEbDZKdjIxamdB?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-20T08:56:16+00:00",
+      "domain": "International Atomic Energy Agency",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Watersheds near Río Frijoles bear the brunt of wildfire - Source New Mexico",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObmJiWS10Q0tQdnhQamlQVnJyWnZhWlJIN3NUSmF2b195S1F4X0k3cllrX1Zwd2ItdXJIWHNrRnI2WXhpZE5hZGkyUVA3eHhxaGlwZEt6b3dxLVdsZHpfMVR2ZjV3a0RFX0ZrNmV2ek4yWi1rWG5oc1VCSW90Qi1GSzZqQmFKNGM3NzBuZ2tLa3Jrdw?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-20T22:04:51+00:00",
+      "domain": "Source New Mexico",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iVVBVVjYwWDkyb016Z0M4dDlNTTd1WVRPR3I5X3FDMTV0cGJBZEJoNUJTYXkwZG9GZzVjLTVNWHhhYWEtb3NrNVpaX1pmMTY2YmxWWFJGLUVORGl3dWl4Z3k1d012eG5aV1NZSnlaVGJLS1QteTN6YVVn?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-20T20:19:16+00:00",
+      "domain": "NPR",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Tropical moisture will trigger a flood risk for Southwest US - The Weather Channel",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWpfY3hQcnVSbmNtVUFKdlNCcGUwNmIzVW8zdkpVUjFaRXlBNDJWaVVvMFdmQXpBeVAtdUV3YkI3LUJCTmJaQ2RScjJVSHUtRmlkd3A2a3c5SWZDaFBqUXBzZmo0WE95Rms0czM4b2ZpMFVHOWFCQzNZdDMwWnBkT2NDNDF0cGFnNUg1OFdhdjQ0c3FWM2lQcmVvZWUyS1BZNmVFS2oyTVU?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-20T21:52:00+00:00",
+      "domain": "The Weather Channel",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Contracts for Oct. 20, 2026 - U.S. Department of War (.gov)",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlFUb3AxRXlVQVc0U3ZWeV9jdEJRc2xmOTAxQUFPSGxhOWJ4NzN2ME1YbzRCTUhDaDliaUZJSV9XTlFiWVB0RmlES29SUVQ0TXFPeWd6YmRBdWFtVjNwakQ1aDA0aVMyVjNGeU90aFZfX1h1R3VueHRxUzlSbk5WVjRqenNySGJtOUZuNUU2MA?oc=5",
       "category": "CONFLICT",
@@ -249,82 +269,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Despite war, ‘Lebanon Faith Tours’ aims to showcase country’s beauty - Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdnFFRmF5VkgwUFc0a2JLX2lWdmtVNUZkemYxaXRpVUhpbFg0dkt0WmtOVS11SjZWS1I5MGJfeER0UTgwZVJDXzZIdWo4VDVDYUJiSFZ0RWNZRTNjSEIxMWVFTjktT3R3UFNWc2NMcFI4ak1pVWVRbWtQbWNOLXBad3lhaTVMVGl2SnpHbm95YUdNdHJkWktnWWFhRzJ6UFVKMVB2V1VZSQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-20T17:14:37+00:00",
-      "domain": "Vatican News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Oil majors face spending test from Iran war windfall cash - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemV5ZWpZWkdhUzlRTmJsLXMyNVFMa0EzLTYxSGJubDVlSkVWMGVuckZDRVZOOS05eGc1aHlSOGJva3A5d2R2SENNNVBNeTM5eXNEeWJWTDlDbzBUdlZTTDdFZDRlT3dkVWtSWmJJekhvc3BSQk5KbnlTcjR2Q1otUEFlS0JYSUVZclR1d0NGRzJJaHBXbFdBS1RPZWZqOVNXemZtVmlRQQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 3,
-      "seen": "2026-10-20T06:04:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TZXdMd0l5UkRDUDE2NTlZT3dWa1kweUJMTUt5ZFFWeUFVek9TYkVGYmJyNDlEVlVXS3ZONGVISXZBZ0F4XzdyYms1ZzdidWszdGVuVUNWdTkzYU0?oc=5",
-      "category": "WAR",
-      "severity": 3,
-      "seen": "2026-10-20T14:09:42+00:00",
-      "domain": "BBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump Jr. Privately Breaks With His Dad - The Atlantic",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KMWZ4dVIxcnk0QkJUQ1NjQkNlR0hINEJWT2pUMnBrSXRFTjd6aTg3MmhqanpCQkNkaDlDeU4yTnNCdjd3eEdjeFVVZHlXRmpIX2tOcXdCZHdOejlLbGozbnJfclNjVHgxTnptR2tQbEI5TUw3NUdvNEZzaEJ4V1U?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-20T19:25:00+00:00",
-      "domain": "The Atlantic",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkNKZjJ5cW9BYU5lSkdiZHVKUFI4WTVFcklmWDZ6QURlWEdNTndCQW1TeEVNdjdPdjZhWDBhcnUwakxBaGtPNXpIaGZrY2pTM2tDNWg1Wm55VnR6YnRoSzFmZ3RlVlExQVl6UXZWLXMwc0VRNzQ3R1FpQVNZbWt0cGdiWmpkR1o2TFo1V0hBa0thaV9WblRwY013MlZ0QmhJXzY0WklSN2hwRU9rTXo40gG0AUFVX3lxTFBmdWhDeUtpVkotOXBReU55Y3Rqb0ZVM3dpYjVleC13bVE2WnUwTGtHWFJRYm81SG5RTmRyRlBzUEZRSzVObnU4Um5yV2JQanMwckQ3LUZER25nei15YmtZTjdfaWlRNXMxNGRybkxacmNLSFZCRi1mVjhvTlVGdmF0SnhpVFdRb2ttTTdYdG1XMUJIbERHb3hVeTN3UlZVZjVVbmJFVXJGLXVaelBWRmF6R2pwMQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-20T10:37:05+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy claims US deliberately delaying interceptor missile deliveries to Kyiv - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2RmejR4dzYzZVU3WUU5WGw5V19hanBUNUwyUFVUX1JNckFtOWpwTlFBcnVrbVBNVi1GRGRnTzEtbEtNZkRyOU51a2lIanNURFp0ZjY3UlVPS0ZLZVdTVi00cHdpVnlsRWVUa1o5M2NwaWtlaGptVnRkZVdoXzhva0pTc2MwNFliWE8wLXoyVUdRM3R0TzVJY3p4Z05YblJkcVBLOXI0QmNzUURTd0VBMFJGSE14Y2NWY18xSWJjVG5GeU9UeXBlcWI5VWlGLUttV05nbWpmRlVNM1RwTktOdA?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-20T05:58:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OcXdwQnZ5LWxrMElfTGl2Z1MtRnhOVzBmdTZaYms5cVdPXzlQekFlYVdrUzFqMlc3RVBvWG00aE1ibTF2cTJZSUhyMVpaY2ppTkRCYXpQVjhvMmM?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-20T21:27:39+00:00",
-      "domain": "BBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Building wildfire-resilient homes costs less than residents expect - Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1weTgxRDN3cWVndDRESVp1NHJTVTlvSnkzY3EteGxsWjhLZnVwamw5X2l5RmI2UGg4YTY2UmtRWTY1WWhzNjNfazI4bmJraUhFZDE4b0xPMFJxTXpSSHRvaTJJTm16czdMQ3lJbmJ5aVNpUVgxT0RteA?oc=5",
+      "title": "FIRST ALERT: Pleasant autumn pattern amid persistent wildfire risk - Upper Michigan's Source",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWZJYmxZcHdxMDlNczZlNHMzNUdvUHh6dVE5QzBkZWNhMFJHbmRBaXlGZnhCMmo2QTBPMlNpd0J1dTNONGhnaW80azgtWHBtWjU1OHFtQXdnRXFVREY2bHpkZkt3aWpha21Yc3NsOVFpVmJZcDhob2MxUjZZSXNFLWw4MEhxYTJLNnh5bkM4VnJLUGdGbEJvMUszQVVrLWZzZTdia1YtaC1VUTdMcWg3OHYtN2zSAcgBQVVfeXFMTlItVjZKNGd4Rmh5d3huaXE0M09jUzlBSEx3QmJmNlpGWlZvekt1eThxaWRvZXZFS28wZFdlSTdDMTJHbnVIVlNFcWxhVWRJZjlIVXhxUWNwNUNMSkxtNVNRNl9yN1N3eEtUYUg3Z25RY2JVUElnZVpzTVEtU1dFWXVuSXIyUUxjbXY4TnhmOHBIb1dqbHUxYXRDZjFPUGZEa3k4WDVJNV9rdHYyTnFPX3BYdUZHNDdIQVJzSndTVkZkaDJORFFZdGo?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-20T23:20:02+00:00",
-      "domain": "Phys.org",
+      "seen": "2026-10-20T21:09:00+00:00",
+      "domain": "Upper Michigan's Source",
       "language": "English",
       "sourcecountry": ""
     },
@@ -339,12 +289,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Oversight of nuclear material security cut back due to civil service reductions, GAO finds - GovExec.com",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMWxZRGxiRXBxcUFJTjZPM2lnWm5Felg2UkMzWEpxdldTTTJYUkFjYkpvMWNWeXNxTVBQeW5WUnJLdHdmbkk4QXJlYzlId25YWVNhSUNMQTlNZDh2TmVPaVFzd3NzS1FyZ29WZUNuNElpclVCV25FS25WVm5LM29iTHFBNFI5bHlfdjBMbEJneXRZMTRuM2RLejRxNDRvSG9ST3N2UEh4Z1QxcklPV3BHYU5nWTJ3SE9LdTE0bUdlUkpxNGh1SW1yMnNHaVA1ejFLR2t4bTRUWTV6SGxNMGV0WjV0UVp3eGtvMUdKZkEtRFFidw?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-20T19:35:01+00:00",
-      "domain": "GovExec.com",
+      "title": "Forgotten samples from Greenland's Cold War base reveal warmer summers during ancient ice-free period - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yc0xDbVN0UjhtZXVtcWhxUklOdEpqc0Z5X3RzN3BnM3QxbHpGUDZTLWVqUEV5N051U3EtUF9rejk3ZkNYSmhZbHZ4ek5EdUMzTk1ybUYwSEJsTlBPOXJyc0h0RmRBODR6OWppSnFUams3UktsTEJMZ0ZCVQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-20T23:40:01+00:00",
+      "domain": "Phys.org",
       "language": "English",
       "sourcecountry": ""
     },
@@ -359,52 +309,102 @@
       "sourcecountry": ""
     },
     {
-      "title": "Update: 2.0 magnitude earthquake struck near Primo Tapia, B.C., MX on Oct. 20 - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mc1k1cnZKSVZhX3RwRi05V01lTzM4MW1FY0ZCdkZyOUtHaWRUSjdhWU5RN3d5aWZpM0xpWU01OEd5LUlDNlE1VzZ1ZzJpOEs1Z0Fqc1hPekZmamlJd19FZkVMaWZPWm52TC15UmV1dlJJc2loTmhjT2doSmY?oc=5",
+      "title": "UPDATE: Flood watch in place for Central California for Wednesday and Thursday - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fOGh2UlNYdkpiODBWRjJqSWNNSkQtaUJINzloWjczeFhqQVZmRjdxMFFXOUdfa0tDTlJuRWN4UWtoZHJCZVQ2ZHg2b2t0MzVYZ0k5SktndUlMZWdQNGJIRzZuazdHMXQ5SkV0Nmxfaw?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-20T19:03:08+00:00",
+      "seen": "2026-10-21T03:44:08+00:00",
       "domain": "Sacramento Bee",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Ukraine's Zelenskyy says if Trump \"cannot rein Putin in,\" at least clear interceptor missile shipment - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV1RGYVlLSGU0ZFc2Rl93NG4xTEQxN2N5UWozbDRZVUpzelpkajJYaW9kbDJoSVZOUS1LWU9sODZvY295V2ExLUsxOG9WczNqWU9JNWFVQXNWeGppcWFTVldQYzVzQ0gzZHcwTWlrTm5WQXAzMDZZelVBRFNsdnZoNU1KTkVnUm43Z1dRM0RWRXk1bmFKWGdV?oc=5",
-      "category": "CONFLICT",
+      "title": "Building wildfire-resilient homes costs less than residents expect - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1weTgxRDN3cWVndDRESVp1NHJTVTlvSnkzY3EteGxsWjhLZnVwamw5X2l5RmI2UGg4YTY2UmtRWTY1WWhzNjNfazI4bmJraUhFZDE4b0xPMFJxTXpSSHRvaTJJTm16czdMQ3lJbmJ5aVNpUVgxT0RteA?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-20T13:26:22+00:00",
-      "domain": "CBS News",
+      "seen": "2026-10-20T23:20:02+00:00",
+      "domain": "Phys.org",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Indiana considering 6 GW Candu nuclear project - World Nuclear News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeDdsLVhlblNFSVZ3SUROUDdUbUo1cG5Qc1l5QUNjQXJ6TUtyekpHVDZZZnpVdU05VERvMmU2XzNfT21lanVnZU84RXpLN1RPSmJzclpCT05oRzBnWll2SFVFYmpORlNSel9yYWY2TXpvSkltc09oSnBhdDFfX3VBU3NTUGRKVmNSRVIwbDFEWQ?oc=5",
+      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TZXdMd0l5UkRDUDE2NTlZT3dWa1kweUJMTUt5ZFFWeUFVek9TYkVGYmJyNDlEVlVXS3ZONGVISXZBZ0F4XzdyYms1ZzdidWszdGVuVUNWdTkzYU0?oc=5",
+      "category": "WAR",
+      "severity": 3,
+      "seen": "2026-10-20T14:09:42+00:00",
+      "domain": "BBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkNKZjJ5cW9BYU5lSkdiZHVKUFI4WTVFcklmWDZ6QURlWEdNTndCQW1TeEVNdjdPdjZhWDBhcnUwakxBaGtPNXpIaGZrY2pTM2tDNWg1Wm55VnR6YnRoSzFmZ3RlVlExQVl6UXZWLXMwc0VRNzQ3R1FpQVNZbWt0cGdiWmpkR1o2TFo1V0hBa0thaV9WblRwY013MlZ0QmhJXzY0WklSN2hwRU9rTXo40gG0AUFVX3lxTFBmdWhDeUtpVkotOXBReU55Y3Rqb0ZVM3dpYjVleC13bVE2WnUwTGtHWFJRYm81SG5RTmRyRlBzUEZRSzVObnU4Um5yV2JQanMwckQ3LUZER25nei15YmtZTjdfaWlRNXMxNGRybkxacmNLSFZCRi1mVjhvTlVGdmF0SnhpVFdRb2ttTTdYdG1XMUJIbERHb3hVeTN3UlZVZjVVbmJFVXJGLXVaelBWRmF6R2pwMQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-20T10:37:05+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Nigeria Announces First Case of Ebola in Current Outbreak - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEMtN0pFRF9vaUpjdWZ0Q184SUlGOTNKS1cxbXk5bVBxVE1aZDZod2s3anA1V0Q0Z3NFaHRCYjRkeFhvb2h2eHNWaGVNRkxtSFZzRlZEdFBTOHZOOTItOU5zUVVIdHpVWE4yZ05nOWlSSDJQQnVTemFyMGJDVU5iMQ?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-10-21T01:01:48+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OcXdwQnZ5LWxrMElfTGl2Z1MtRnhOVzBmdTZaYms5cVdPXzlQekFlYVdrUzFqMlc3RVBvWG00aE1ibTF2cTJZSUhyMVpaY2ppTkRCYXpQVjhvMmM?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-20T21:27:39+00:00",
+      "domain": "BBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Marine Corps Battalion Redesignates as First Medium Missile Battalion - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGhmUVdkV0hISFJZNEZiYmdtM0w1NkYyY2hSMU9CUHZEYk9BSzZ6R21TMnpQaUhvLVFKR21UaExuZlotTFhJZDF5RWRuWlRHRktzLWZPeHkyRExsZkE2SF9uYnhGbk1KOE9HN0lnWjh0Yk5ETGs4YWhJRTJiNmVucFRkV3A2SzRaaE1KTTJTMm1SNzktWjFoMFc5QUd4c0hwUlN2bE5PZGRWLXFGTUs2eVF2eG9OSzVwODhQX29oZFFFUkhPaDBTYTFPdEQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-19T19:30:19+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Preventing and Mitigating Flood Damage to Solar Photovoltaic Systems - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYndOZGVEVV9nWGF6NkdBalpQRTZvY3pSb3N2OHMwcWlud2hlRFh5OGoxNXBOOHROOE1Hd1dxV3k4MEJxTnF4aTlRVnhYQnFPUzFZUjYzSUpDR0U4QXNiMUJ5Smg4OF9mSGZ0bUwzUVNoWUxWbFpLcHFDTlFuTWJ5YlR2VklrM19IbXAzeHdEN05Ea1F0Znk0LUxqb0VuaFE?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-16T17:30:00+00:00",
+      "domain": "Department of Energy (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "State officials offered to store nuclear waste. Then residents found out. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTkJ1d09kcjd5SE9iblR6dkVybWJDQmF6b0hlZTRNV3pYUHJIMHl0dmlHdktNRVM3NFNTb0l2bm9PMWlHRlpNQ1lleG82QWo4OWhZZzA3cE42cWU0di1OUjJVNnNzbTdGU05qcDE1WWxGWnVjOHFiZHZRT1l4eXpDb2Zwejd2YlJTS0MtajlNTVlFS0Z5aUFGX1NpamNHUEtiaEgwSmVwblRZT1poOUpJWk0zMWh1S2s?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-10-20T15:06:02+00:00",
-      "domain": "World Nuclear News",
+      "seen": "2026-10-19T16:00:00+00:00",
+      "domain": "The Washington Post",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Yemen war continues to force families from homes amid hunger and disease - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3bWVxWEdsTk55QTN6SjFjTWlVWi1aRUU3dlVmZHhVSWNOTnRPNkpoWlZibWRGRnpDX2FVMGdqOEs0ZDh0b3NPZGhrTlJ0OWhSbl9FZENQNA?oc=5",
+      "title": "Vietnam vets share memories of their time at war at memorial site - KLTV.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOFNrakoyaVhLaEhmTFFZU2dSc1NUdnRnR2hQVG1FMjRoQk9nU2NkX0tGMW5rRWl4Wm1nUFdWX055QkVmeUFNWjl6WGZuV3JWelFyRkpfS2dzbjhfbFgzQlJjbDJqMmJSREdWTXUxOC1ZNEhyc2c2el9tcXIyUG9RbExUZExSTDdqU0pLcGRQMUZEX1XSAacBQVVfeXFMT2c3MUtzTFc1MDRQUDRGeUxoeTE2Q283OXp6RXhjRFY1Zm1jY0hRdVFXMWdmQkstOFA3YW1MdTFTakpYRk1vcVY2eFBrNVJFZXNlRnpyM2c4dDFwOXllTlRSdVJxSFlnRnl0ZmRwQl9kcXVGZmJ0U3FEbzI3cXNLNFFQY2FaSFdzV1U2bVQ2bGtIT09oMzhVY3NFc1VfQ09kcUo4Tk5qOFE?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-20T12:00:40+00:00",
-      "domain": "UN News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-20T05:00:00+00:00",
-      "domain": "Britannica",
+      "seen": "2026-10-21T04:17:00+00:00",
+      "domain": "KLTV.com",
       "language": "English",
       "sourcecountry": ""
     }
