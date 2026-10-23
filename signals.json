@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-23T10:04:38.050697+00:00",
+  "fetched_at": "2026-10-23T15:04:56.283133+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -69,6 +69,56 @@
       "sourcecountry": "LT"
     },
     {
+      "title": "Fact Sheet: Costs of the Iran War - Center for American Progress",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3aXJIX3kycHVERkc3NjZyNUY0cmFIa0dQVFBFZHBuR3dqcHNKZUo0UjJGcm5fdzFHd3R4WTFfem9jMEMxWkNwczRSOTNkQ29GbTdDb1J2c3VvRWRHYnFxSVVFaU5rN1NCdEsxYUtuMnpNb1dYUUF6V0NxSUhFMzA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-23T12:57:38+00:00",
+      "domain": "Center for American Progress",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "EXCLUSIVE: Saudi missile plant expansion may produce more powerful missiles, study says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUTNudHNub01PQk1mQ1pIc3I0d2N5TGJPTG5lSlkwSWZKc05VMHpaNGtRTmpmd1pDblNPYjZGbEw3d05QeThxdjNJWDhYX09KMDdPeTlOeWxhX0txVTVrVzRvdWwzMEFfN01jYUNoN1dEVkRQMjlrUENUNVcxMkNuZDlyTnVQMlBkNmhJRzRjRkRESDVJZmdWYzJFMUtzUzBMdFpXVWNoM0hzOTBaajZhRDJtQ0U5ZFlzMkdaZ3BZa2ZPN0RwUHR6cQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-23T10:27:13+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Department of War Publishes Seventh Release of Unidentified Anomalous Phenomena Files on W - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcm1rdGlKMWR5dEJnRWR0dWVDZ3p3VVd4aFpsWHhIQXliaHBneEJ5WExmNWdPbHBZbDhhQXVrMjFNR19ka1ZpSEpoUXJtRkZtc1dITzIyWi1nOE1xeG9DVmluSzBzTHVwVkZWSWdXZThraFFTdlFWT2M5ektxczRXekEtTC0yLTFNS2lGZFBLai05eVNtb1BETHJ6TE1EN0tJUjNrRnl5THdRZVJvVnhMSWtsZmFCRU1jRVJxOWQ2ZmZOa2N3TmFYRk9mbnk1M1FMWFNpXw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-23T12:02:12+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Military reinforcements move to Mideast. And, millions of Americans vote early - NPR",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa29KcUNsazVzV2xtd0xheXQwTUdiUVY1THRSNVdSSjVYMUlzRzBiOTI0cGFVaW10UDZ2TjdQU2QySkV5WjVqMXIxdEZ3cm9mMDFCcUJ2eFJ1dTI3dC0wd1BaMWlwNUdTVzU4a2U1V09HcGI5UERDZlBwOVNGUlJXQXp2Tzk2TjU4ZFhIRG9HWlozZ2ZSZ2YxYlRmVlo?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-23T11:22:25+00:00",
+      "domain": "NPR",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Deadly magnitude 7 earthquake hits Tibet - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGhkLWhHcWU1RkttYjdwUzNybDZoR2gtTkJTOGhFeWx2UDhfU0gxRWlDeGZPOUQzMWdJRkFxVnZYR1YtSG1Od010UjhaalVEenN4TkNzWTk2QU9xYkpJbDFzbFhPZmotNXRoWnUwYjdwTEFaVkotNkJDLXBvak8waHpFQ1lHWnNpU2VEckx1ZnNRYWNlVjZYSnZrYTNya0RtakE?oc=5",
+      "category": "DISASTER",
+      "severity": 3,
+      "seen": "2026-10-23T10:42:55+00:00",
+      "domain": "CNN",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Powerful earthquake in Tibet kills at least 16 people - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNclYwbUtMRW9UejZxZ2VidWVXd2hXbnkxNGNtNHZrQVNMVW41Q0JZQ2s2Y1BGcnhJNUhWSVR6WWlyUFhXTHZ0TlhyQmNUM1A3ZWwxRGpXNlZEQ2NHX0JjTXRZdmFMV1MzSkRVQTM2QU5wbC1fN0tXQUxON1ZlT1Jzd2ZCUzFYWjc0MldBZVR2U2VEcFRhS0NCM2F4aEUzcmQxamY1MThSbWQ3WENsODI5TdIBtgFBVV95cUxQT3Bta053czh0TjJLUnFNNWN4ekQ1WE93c3Vwc19yYU41aV9GYWZfVG1zdlpHX29LTXNtUTRBNmJwLUxmSVhKVlhyTDV5WmQ5VmUwQlhSbWh6aVNvMUpPNkNjMmpSZEM5TXcyY2NzNkgwbEp1MDJodWlaXzM1Q05ELVlIYWdPeXBqM2RyUExFNGx3eURjelhsUUQ3c2xZbTJ1M0FDam1ZYTFkbHl4MktJdHlVZjZoZw?oc=5",
       "category": "DISASTER",
@@ -79,22 +129,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Map: 7.0-Magnitude Earthquake Strikes China - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaFRzQi16SkpCUmt3MUc5LUpsVlk4VU8xQ1E0VEZSOUp5bUtZM2R6Ml9rUmtXUUpxdkttWi1BMDNtcFg2VW5Ickphb1l2QXViV3h6TXlnN3RPOVR0OEFId2h1NjNCSUxLUG9IRS1RbUNTTm8tMzVxbDNRU01fUnFsNTQwSQ?oc=5",
+      "title": "Powerful Earthquake Kills at Least 16 People in Tibet - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kaHFyQlBNNFF4Vzl3M09jTG4tWHByRVdCZzlyVGZXOU05VmtNS3EzTFlSUlRhd2w5VUliMjZjbTBQaThWZkNBR1BWdERWTGtSRGZVd2VyUkQyWE5kRGxVM21WTjRVVUZXekR1RU1ZVU05T0lkNnltMy1qbU9LUQ?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-23T09:25:17+00:00",
+      "seen": "2026-10-23T04:42:27+00:00",
       "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Deadly magnitude 7 earthquake hits Tibet - CNN",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTFpJWHg5aXBuMkVROEVSUnh5bzhnUXJQdXMyeEFscE9nVTZQSVlYRFdwalgwcndMZGRTVlZuN3ZwSWNJZ24zRnJFd0YtOG9pazZfVzdUdzdjQ1hWQnRZRUwzcUFxU19tMVJ4MFpVUFVPUExmdENlV2NOaVVQXzc3Y0lYemRWdWRER3N2VUhsaGZ1V01sT0NXMXFuUTlOQQ?oc=5",
-      "category": "DISASTER",
-      "severity": 3,
-      "seen": "2026-10-23T06:14:00+00:00",
-      "domain": "CNN",
       "language": "English",
       "sourcecountry": ""
     },
@@ -109,82 +149,42 @@
       "sourcecountry": ""
     },
     {
-      "title": "Injuries in China's Tibet rises to 76 after earthquake, death toll remains at 16 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3RUZTBjRENZY1ZLS2FfZzJIWUN6QVdCcnYzQXVtc25yZFJMZTg0UVpSMlAzM2ZqQzVzSVBvclp0NFZDb1drQ29zZTlnakRnNXc3aE42R2ZId3RqSll2Q0dBamdNdzFUUnVTX19vWC11XzVJTTZ0QmxIazVPcDY2S3pFeDduc2oxaWlTQ2k4b1pQbXo5RjdNb0Q1TFBUbHh4UjZfcU9laE5sdVc1Vk1PUmRkOVZqZkk?oc=5",
+      "title": "Powerful earthquake in Tibet's Nagqu area leaves 16 dead - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HbFZ2QmxZN2szRDYzOXd2S205UFJrVlM3d2Z3bnpuZFpVOEVfWE9UM1BfWnNfMllodUpJN3JMVW43WmtyS1JCUnpMUVJOLXNKYU9COEZRZ3RoaEE?oc=5",
       "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-23T03:18:00+00:00",
-      "domain": "Reuters",
+      "severity": 3,
+      "seen": "2026-10-23T05:16:37+00:00",
+      "domain": "BBC",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORldaOFZPaTBpbVQ2N05EYjc0VlEzMVFUSHNTY0NZMTlUQnQwRTd2MTk0YU96N1N6WUlFZ2R5c3RnZ0FCNWkwemZlV1FmM3dfSVlFekRYc3AwQ2U4WmhESG5pT0xPT2NDUVNxLUZtMlFQNmFkYjN0TmRfUnF2azNnR3Z0aVVsZE16OGc?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-23T05:25:00+00:00",
+      "title": "Melania Trump helps forge ceasefire deal in Russian-occupied Oleshky, the White House says - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-23T13:47:00+00:00",
       "domain": "AP News",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "A 7.0 earthquake hits China’s Tibet, killing 16 and injuring 32 - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNDRmcF9PYjVfSEpNUm5QQTc5MzY5a0xhZ3dnVWVjMDBGcVBLc1hHc0hFWkdVWWF1QjdGdG9Fa29jc1RTeUh2ZXp5RGRLOXZKbV8tcEg5Wm11QWJxNGptaExwS2pGY1BnOElPOHhYczBkRF9FNDNuUjY1UlZiR2Y0dEJRSEd6dGRUYzdDX0JYLUdEZnp1OGRrN1dTajJ0MEhtMXJJ?oc=5",
-      "category": "DISASTER",
+      "title": "Why Trump’s Rebrand of Artificial Intelligence to Super Intelligent Matters - Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmpXSEdxRG93Z3B2V3NtZFF3X01rRkR5d2M0MHpQcDFFLXdCMHNHb1Jza3FyQmF4ME9HMHRWSjNXX1FIeFpMa0JGVGM1RC1aTV9fUkZSMW56dDgwNXhUVE5MUEVDOGlOVVZ1Y2xaNGhJeFlnYzBGeEVId3l2OV85RWZJUFBOaUU2UVZRZGstN0VGVFZaU2Vkb0x5UVp1RWU3aURnc1Z3VVkxYkJUV2ZoT1lR?oc=5",
+      "category": "AI",
       "severity": 2,
-      "seen": "2026-10-22T20:58:19+00:00",
-      "domain": "NBC News",
+      "seen": "2026-10-23T13:46:47+00:00",
+      "domain": "Time Magazine",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUtOSEdwSTJqY1JkdWdqbHJndkp2SGcwYzY2RVRodDFkUmw2UmZadGFRcEZzUHBFWFJCVS1sODlUOU5KQTd3bWZNSkNyTWM5UkJzTjV2OHpjSEhJUUtmV1A1eU9TOURFRDBGMlZ0RmNwQjNtLTRtZ2xacWo1YmdPak1wQy1SWHdIRHdmWTlB?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-23T04:04:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Strong earthquake strikes China’s remote Tibet region - France 24",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaVlmRkJQNGFIMzk5SXh0amVyWm5ucVFvTUNHdENVMHhoSnNHS05ybFBqd01kM3lIRU82R1RDSk9RNUhNUUFubG9GQTc5TFVyQzZwcDd3azRHM01WdzdvSVRDai1QUUp2aXBSb3RPZmh0OVhnWGlQczM1Y3ZWM0dvTV82eEdEaWtHMVdtTHBEZmJwWG5TOWhiS2FvZjZjQkRkbDg5b2U0SWNhem5GSHM5OGhRdHFwX1lDdnY4V0RDR3hMUjdvOU9HcGlB?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-22T21:09:38+00:00",
-      "domain": "France 24",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "DR Congo: Ebola responders under pressure as outbreak expands - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XU0ZtbkZyVkNBOG5qcFhvTTgydEUyeDJ1ZWpNTVNqQkFnOS1Ed3MwUlF2UzRyT0tjNDhCNHA4RDU4R01acGhFQmN5X3N5SEx2Zm9ucF9uUQ?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-22T15:05:03+00:00",
-      "domain": "UN News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Department of War and Lockheed Martin Finalize Landmark 10-Year F-35 Deal, Securing $7B in Private Investment - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSkJPOFh3LWJkMDJXMzdvdFdGX0NsTFZPYzFyNGRrdV9RU2RmZmU0Nk45TUFueUlNYzZqWllTLU1SbmFEZzZ3LW5haDA5U3Zhbl91TnZ4VkZNVzNwMmdQLS1yVDVmX0FEb1Uyal9ma1VCUXFTWkE1Z1hPT19mVDRVZjUxRFI5UTRIOEdEV0tkQjBMTDRKcVAzN3N3b24zbVNNS2ZSNXVsSHlkQlJVR1R3Sm9QSmgtTmRmZjk2M0R3THBMZEdqOXlKRkFWci1yaU15WFZjVA?oc=5",
+      "title": "Ukraine war briefing: Uncertainty over Kyiv’s Starlink access after Trump claims Musk restored service - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1psQVV3TnhCb0RZTUcyR1lQYlJZdEFMVDBFRmltWlZSdUVzRnV6WWZJU2ZRRTR0aENGU2tPeUhSdjA5OTBva0hKaTlXakM5WlFiNi1XXzdJQmtxcEk3NkgtRHJONXphb1dVamZrSHBOVzRiZ1RieWJ4eG42VUc1MkgtSU1MUjNiUFoxREEteEM2djgxYzFJSlh0OW1RNC1uaERkbVBWRkZNREYxbEFyaUpRTGJCMThDYVo2bVllMDZBdGVZQWZBRzh2cDBoRGtrYmgtbmFwV2JQaEJ2dEFJ?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-22T10:22:46+00:00",
-      "domain": "U.S. Department of War (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Powerful Earthquake Kills at Least 16 People in Tibet - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kaHFyQlBNNFF4Vzl3M09jTG4tWHByRVdCZzlyVGZXOU05VmtNS3EzTFlSUlRhd2w5VUliMjZjbTBQaThWZkNBR1BWdERWTGtSRGZVd2VyUkQyWE5kRGxVM21WTjRVVUZXekR1RU1ZVU05T0lkNnltMy1qbU9LUQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-23T07:40:00+00:00",
-      "domain": "The New York Times",
+      "seen": "2026-10-23T09:45:00+00:00",
+      "domain": "The Guardian",
       "language": "English",
       "sourcecountry": ""
     },
@@ -199,162 +199,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Trump invokes Cold War-era Defense Production Act for oil production, refining - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdm9ka0hnal9OOUFnN19HQmRZd0ljY2tJOVNoN2tIWURrMHExZ0p0NWN0UEpTMmFORG1TTU1CeXZkb3RhenhtelltYVY2SmRyZEctMnRIcUNEQlFXODdsZGxBMXhpem81NjJwRjRCbVl1N2tyWVkxeXU0T2k3ZEttNk5lbzZCVzRrUEtwT3JPTlJiUUVmSjU4b25EaXNIQ3dyS3c3NlJUSkFBdWZSMDFZVmZ1dmhncGFIYjNQU0tOd1I5dFk?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-22T21:14:00+00:00",
+      "title": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-23T14:53:53+00:00",
       "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine war briefing: Uncertainty over Kyiv’s Starlink access after Trump claims Musk restored service - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1psQVV3TnhCb0RZTUcyR1lQYlJZdEFMVDBFRmltWlZSdUVzRnV6WWZJU2ZRRTR0aENGU2tPeUhSdjA5OTBva0hKaTlXakM5WlFiNi1XXzdJQmtxcEk3NkgtRHJONXphb1dVamZrSHBOVzRiZ1RieWJ4eG42VUc1MkgtSU1MUjNiUFoxREEteEM2djgxYzFJSlh0OW1RNC1uaERkbVBWRkZNREYxbEFyaUpRTGJCMThDYVo2bVllMDZBdGVZQWZBRzh2cDBoRGtrYmgtbmFwV2JQaEJ2dEFJ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-23T01:33:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Nepal to get $20 million from climate fund after deadly August flood - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlVRZ1pRQmFHclNSbW1xY0szUm5hdHZ4NnVQemZWcmxOWW1jRnFCcC1aM2wydFoyVUxYLWptNUk0VDJDVlhWay1MUi1JQVl5V2xpT1FFVy14U2Vhd2IxZmJQRHN2aHpRaHlZQXhrTGt4d0R5bE51TlVBT0xzeWtpUk9hR3g4QWxmbUp3SE1xU0NUVTdhNy1mTXBQSlk0WWJtSklCX0NaMUU5a1RWT0JFbkpQMDhjbXM?oc=5",
-      "category": "DISASTER",
-      "severity": 3,
-      "seen": "2026-10-23T02:00:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Tibet rocked by 7.0-magnitude earthquake - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMlA0M2NiX0FrVENyNlNoaWdITmhpbnVNODZndmxlSTFab3JBVjN4M1NSMVFtd0F1UXM4N0xJUHZzSHBjb3h6TFV6OVJHWWlyclBRX0o4ZnpKQkJtZ1JJSzh2UGZYLTd2YWlMN1habW9saUotcTZSZ1MtT2FrcE9TQ2VVWEZTbjBwVnpvXzQ3SUVGb014azFr0gGcAUFVX3lxTE02cGtpR0dZR2FtRlpNUlBOV3Y0LUlGejFST0JNWmVaTVl0TmtXM3NwWE12TGtTTVZEekZObjhWUS1uVDBUSGxrNUNZbUpVN1dTUUgtc0ZuQ1JOVVhYdm9OTnJjR2ZfVkRsQ1VZb1BkNmhOUmFlRlNnQkxLZjJTWXRGRUdsRkdSekNWUDNqd2hmQjFmcTZrdHlQeDVHSw?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-23T00:33:39+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-22T14:58:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "A magnitude 7 earthquake shakes China's Tibet - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUk5jakExRzF5bmpSUzAyMDBPcEhRVmc1X1hCeV9sSXd2YjZXQ2t6cjRGLUt6Qzd5c1djRXhwY3BrTzNfNzUxRExkNU4xOFZSTkF0VDVmcXNvTU44eS16VUo2LWphdEtYX1V6WTBwS01EZHhReC1qYkVNdFFycXVzcEpFUVBjcFk5V0doUS1vcVN1REQ0WDIzU3dnWjDSAaIBQVVfeXFMUGNSanBiazA2Q3liajEtQnl1MDc0RFMtMmtWcC14WGhCQTVMc1F2THlLZjRWdE93R282MEpDZVJJMm84bVBVM3N0RlZrOVFndU8zZlcxM1JuQ0p1T0d4R3JvVHR3ZEIwN0Q3bXQxUVlWSmdmWWJITndOTnN0enNzYlNHLUQ3R1pvSHNoOElidmFKQmNpc2VOYVg4Z1A5cC00WWxn?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-22T16:34:26+00:00",
-      "domain": "ABC News - Breaking News, Latest News and Videos",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears of a return to war grow - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZHgyWE1ZbFdVQXhyZ0JRTV82cm5HOW1WYUU0b1o3OVlHbTFmSXBpU3dZMkdTTjJLQWZVN1NRdXYwbXNhY3lwR0xLNndCQmtLRTI2aGlnMkdHd1NIdlJjTlRHYWFoNXN4eTB2SzVtQlF3ZHpQMXZmMDd2S1ZsU3R6elpRT1dZRHNEcms2N3pmekFRZmNmSDNLaS1WREpDcTFZdUVYV0VkUEFFQm5YWl9QaVZPc3E?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-22T21:33:09+00:00",
-      "domain": "NBC News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "“What’d I Miss?”: The Iran war, in black and white - The Colorado Sun",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOWcwVlJxUG5MNTFJS2J0TEFIdHBKZzFqTnBZMmVEVEpEVEtKb2xwSkVkTXlzS0RqZUpjOC1iUDhnekdKOFBDTF9yUWZnWUpRVGlKWUhuSF9xLWJ5czVraDRnbzFXTmpmRmNldUtvSk5QeTdLUXJ2bmpuMnVMcDdwY0ctbw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-23T08:05:00+00:00",
-      "domain": "The Colorado Sun",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "How Mark Zuckerberg went to war with his own board of directors over pay and power - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWnlBZ3dyc0JsazJiVEcxTFJYbWY3b2pjeDRrb0x5VkJXUTBld3RqM0tFV3FaZTluaU12NFdmZ1g2S1JIZVdrS2lWUTkycFNXRlNXOFBEMmVscm5IQU55X0VDUUVLVzZzZEczamhDcFZFQjdPakpsaVJyTy1MM0JWX1lLQmF1NGQzRmhEQ1V0ZnBxODNLZmRjOFk2d2NYUWFiMElZcG1zbkJleUNfc1JQZnJwOWphWGpGY1Zz?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-23T04:08:00+00:00",
-      "domain": "The Washington Post",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "7-magnitude earthquake hits Tibet, killing 16 and injuring dozens, Chinese state media reports - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LSEZSa1A2d1h4VFhDZ2E0bVNjajFhQllyQzhKWWcxdC1sUmNBVl9uaVZYZmt3aDBBV216WDRMT25XRTVnNDVBVlpldFpWazFTeWR6NEVEQ0NZWTF3TjV1RmQyRDNrNGFsUnE2ejl2Si11aXJQRTJfOTV3?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-22T15:53:37+00:00",
-      "domain": "CNN",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Storm drenches Central California, flooding streets and prompting safety reminders - ABC30 Fresno",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPanpsQ0JvZ1ZxUFpsSGxPOF9WODBKbFJiZlprY28yQnB3MXE1UF9WS0syS2w0bkhJQURmMW9xd2gwYkREeEdVYUdMVVN4X1dWVDFKekZUNmFaU0FjWWF6WVRvQWRTUFRNSHlBREx2c3FDa1VEVFJkN09RcTNxWDhoenF4blRtTkhMUnFwcWZhYVFyQm1LZE1jbjF0Y2J3eWd6ZkN1MktFaWRrRERxbnfSAbMBQVVfeXFMT1BZemRlOUZGMHljTzVqT0pvM21XY0w0bEQyT3k0bkpXOU9CUEVWUExDRGpwNXUxZDh4X0Z4MmVvV1BxeWtjQXNwcjZJcXozN21ERl9UOW5UZWFLWEoxaTBsM0tBWVkwcmZVVm1VdGU5WkNDZDJZUHE1TTRqdnNWTC1CT2wycGRndjV5THFXTnI2ZnYxVmN2TE9STGFpYzdFQ2J2TjBkcmIxZC1HVXJ1dHpkbHM?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-23T03:39:04+00:00",
-      "domain": "ABC30 Fresno",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Secretary of War Pete Hegseth Directs Establishment of New Air National Guard Special Tactics Squadron in Florida - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdHNoN2VvU0hOeTBHMEtOMHVlbk85MWMybXd5S2x6R3JJb1hITGtvUmNBTGFsdkpJLXRjS3FfX29KbGZIX0p0ODNDblh1bjJpRm5va0tBbUNLT0FDMWhtNUE1dzdmNjZqd2xtRDVwR3pxc0Via1ZRUkkwSDJyanRIaTFveXdVVUhaWHhxZXBKZl90NElzYTlBNTFWYnZZREFGdzc1RjZubk5QdVFBYlEySW02ZzdZNHpyQVVidXN1MHRmN2lVSUJHaDN5VG1oQ2Q4QWJpQw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-21T21:12:35+00:00",
-      "domain": "U.S. Department of War (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Russia's new type of 3D printed missile will make jet Shaheds look like a 'small problem,' Ukraine's drone gurus warn - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb0tKVWJFS2sxZXdYY1FWSmdZemg3WDA2SnVzRTlJVEV0anVSUThyWUlDLWxKN0FsX3ZsZk9LTDIzbjNFUmduX1hKcDg0VFFBaGphcDVsM25JTzJTYWRYRm9vTDg3UlhmZEI2R1lhRFBrY2lXbXR6U3VLck03OXpIS2dSSFZ6QXFpOHdNUU5udUhmdkJHTHpTVTBVbWlscjhHNEY0VTJ6ZWxaMTUxbkE?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-23T04:27:00+00:00",
-      "domain": "Business Insider",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHluQmZ1UmhIZ25rSlJyZTdGTERsTnlEdGpDdWp6Q29NSFh1OFBfSzdybHczLXZGLTNiaW5CRnBMRjZvcDE1c3phUUh3R3dzWDJZTHBtZG92NHBlUlBlbGNsX2YzVEk2akpLY19BTUstLW1DSjdwV013MzB2N1R0NTJQLXdiSTdoX0ZBNHN6TzJpaEFzb25pRklTUVZ6eC1DWllab2xienJWOEl2ZUNxVlNRMEzSAboBQVVfeXFMTTR4VFNfT1FqZndLZU0tMkFUcFpiT1ZISU9VYmJTVjNqamhZUXQ5OUViVlUwdkxlZl9ETFBtb1A2azZ6akVzQk5rUDFDVDlKQWVPeF9VUWg1ZlJfVHNJZ0pCMmVmSS1iNjVidEtsQ2RxQVJKbHllV2h0V2JoUFpLVHJncU9oV2wwYzhVa3hKOUl5UnBPVDF4cHM5SDlHZGZjT3VVSEY4SF9zMjFhWWllR0Zldl9JQXlEbHJ3?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-22T19:39:55+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "A Philosopher of War Changes His Mind - The New Yorker",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTGpCOUROVVlGRF84ZnIyUXBUaEh6UTB4ZWdIV0FTUVFmWC0ycVRVbF9WUlEtbDYxTXdYZXFUWEpiem83SXZaeVgzbGVfcVhScGp1TGl4VG83Qm8zWlZMSTVhMzZnRWNoVEUyc3RiNW9QSF9nUHp1QmhibHZSNDM2MEpGelZmUFBNbXliSnpxWGpGTEVJZXc?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-22T10:00:00+00:00",
-      "domain": "The New Yorker",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed - AP News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeldMenNBb3pveGlrZmlGLXZkaWNZaEhBUHMwSWh4dm5ZQW1IRWxEVGRxbFVDeUdwTnh2WW1jSXJ3T2U1cmh4cTR5bC1DSXdOSzJZb3hFaGNBNlAtclluMU4zMVBEVWpua1A2S2dBbXdjeWo1SFNUWGNvZ1dRRXhKSk4xTjlYUXFXNVM4NFctSmdxVHRqcjZrOWF4allidw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-22T19:48:00+00:00",
-      "domain": "AP News",
       "language": "English",
       "sourcecountry": ""
     },
@@ -369,42 +219,192 @@
       "sourcecountry": ""
     },
     {
-      "title": "Analysis • A new Netanyahu-Trump war will only bring Iran closer to a regional deal - Haaretz",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQUUpnTUFiRE9rUFYzeE9IQlRHd2ZfM0NtTmd0dGNMWVhHM2xPWm9uNElVbDVhdWN4bURwcVlhWXRFY1VkYlJfZTNDcWNDN2tOMXRiYlFqNjAxSS1HYXRLTkk2eFVCaWR4YTZDRlZkaDVSNVQ0TC1ySmllRUFJdnN1MW5vc2d4LXhaU29sck9XeHhwbUEwNXk2aEtOLVdYUVhnY2RPNndpY1BUN214aldiRTlxbzJ2VW4yTzE2NG03NlVVT296eTlyVzItaE9lRFFhajhFVUpmU29yMUdGaGUyUnUtNTFscXRfeWFhMEFDWHFYQlFvak4zY2RCRHRuSC14ckhOZEk0eXNQLVdtbWZTNHhPa2RvUzFvVlRlQ09xZFI?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-23T03:00:00+00:00",
-      "domain": "Haaretz",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module - NASA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM243TXE0Vm1TUnZUVG9UNHlkRHpYNUt6NVNydk8yZzhtRFJCU0RlYW42QzNqRnVWUEN5SmI2dUliMExvUUhaZHFOS1Nxa01rN3gya3F2MkZNN0l4bGlHT2pWQzljb2dUZDc3aTAxelg4TU9GVVBFMFIwdkdaZ3FjOGdRRUdiWnViZlhoSnRWNFQ0SDdWVE5rNGd4SXZVTG1ya3pVTVpSSV9UdVhkSzM4?oc=5",
+      "title": "British jets join French nuclear exercise for first time, France says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejUxWUdfTnA1dERLbFdHM21QSnA0cTl2NVhpeUo1cTRlWElBOHBCazM3cFNxQ3MyQUZuR3BUdTFteHVTeWFqWE1LZWxUa2UtQWxZWmxETUl3c1RJblFobnNUbXFfUkQ5eEpGNkhFUkp2c1NnYnRoaEVyclpmS21kbldqM1dOOHFlSHFtcF9FR3JRRnU5eVhmSUM0U2lOTm05X2d5Vk1HekphdUw5UmtsN25Icks0X0dVVXVGb1BVVElnXzQxcXc?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-10-20T18:11:33+00:00",
-      "domain": "NASA (.gov)",
+      "seen": "2026-10-23T11:26:02+00:00",
+      "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "President Trump considers next steps in Iran war as tensions escalate - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVpWMVg2VVlVeFhVRFFGLUpwVWZYYXR2bjFMZmpOTUFnR25JT3JKczBJNXRSNkZfVFFNQm05TF9iNFoyZVdjSnZpdEItVkl2NHBkaHZUZ0lJUXFpWDE1ZWNiUHF6SEJ2X2RzLUF3U2xjVTBlSFh1NjdUaUhjMVJPdWQzdTl0MjdfUWFwVHRrVEhuY0NDR2s2RFFlbVpQb2V1VlFCaXBDeF9kMExweDZrTTdR?oc=5",
+      "title": "The Iran war’s toxic impact on one of the planet’s most unique seas - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGY4WXQxN2NWb0E3d2R1bTFXOVFieEN3LWcxSlhLWFpvOFpsUVpVT0ZxWVhfUVpwNWlPY0tYV2NKcV9CUV95MFlPNEVaMW93MjRHbWxtZ2dBbTJ0bGFxY1JPNTltbHM0aFRzUnN3aXV4ZE1qN29yWlhsU3RSS05TUFlUOUg2anBw?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-22T17:57:00+00:00",
-      "domain": "CNBC",
+      "seen": "2026-10-23T08:46:57+00:00",
+      "domain": "CNN",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hODlrOXNWeGJKSzVnWVVDSHRXMnJhOEV2TU5sTUY2R2U5MGhjcVNRT3Nld2tNTmxwVzZGa01jd3V0b2dzY0tZVjN5aUZPTklPN0I1Y3NKMVNmbW1ROUdHYW9OMEZUbVB3VHZWb2NPREJvc0ZQU2RjZVl3dms?oc=5",
-      "category": "PANDEMIC",
+      "title": "Injuries in China's Tibet rises to 76 after earthquake, death toll remains at 16 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3RUZTBjRENZY1ZLS2FfZzJIWUN6QVdCcnYzQXVtc25yZFJMZTg0UVpSMlAzM2ZqQzVzSVBvclp0NFZDb1drQ29zZTlnakRnNXc3aE42R2ZId3RqSll2Q0dBamdNdzFUUnVTX19vWC11XzVJTTZ0QmxIazVPcDY2S3pFeDduc2oxaWlTQ2k4b1pQbXo5RjdNb0Q1TFBUbHh4UjZfcU9laE5sdVc1Vk1PUmRkOVZqZkk?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-22T16:09:27+00:00",
-      "domain": "The New York Times",
+      "seen": "2026-10-23T03:18:00+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUtOSEdwSTJqY1JkdWdqbHJndkp2SGcwYzY2RVRodDFkUmw2UmZadGFRcEZzUHBFWFJCVS1sODlUOU5KQTd3bWZNSkNyTWM5UkJzTjV2OHpjSEhJUUtmV1A1eU9TOURFRDBGMlZ0RmNwQjNtLTRtZ2xacWo1YmdPak1wQy1SWHdIRHdmWTlB?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-23T04:04:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Powerful earthquake in China’s Tibet region collapses hundreds of homes and kills at least 16 people - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORldaOFZPaTBpbVQ2N05EYjc0VlEzMVFUSHNTY0NZMTlUQnQwRTd2MTk0YU96N1N6WUlFZ2R5c3RnZ0FCNWkwemZlV1FmM3dfSVlFekRYc3AwQ2U4WmhESG5pT0xPT2NDUVNxLUZtMlFQNmFkYjN0TmRfUnF2azNnR3Z0aVVsZE16OGc?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-23T05:25:00+00:00",
+      "domain": "AP News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Nepal to get $20 million from climate fund after deadly August flood - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlVRZ1pRQmFHclNSbW1xY0szUm5hdHZ4NnVQemZWcmxOWW1jRnFCcC1aM2wydFoyVUxYLWptNUk0VDJDVlhWay1MUi1JQVl5V2xpT1FFVy14U2Vhd2IxZmJQRHN2aHpRaHlZQXhrTGt4d0R5bE51TlVBT0xzeWtpUk9hR3g4QWxmbUp3SE1xU0NUVTdhNy1mTXBQSlk0WWJtSklCX0NaMUU5a1RWT0JFbkpQMDhjbXM?oc=5",
+      "category": "DISASTER",
+      "severity": 3,
+      "seen": "2026-10-23T02:00:00+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HVXR4Q2ppWjg1UE14akpXVTFoRWtic1NBV3ZkbDdpaldLd0VjSmlRNFp6UGljVTRNOWpPVHlCdTVnYVYybFZsT2NFaldRN2JzbWF1bnlIMUJJamM?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-23T14:13:33+00:00",
+      "domain": "BBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Department of War and Lockheed Martin Finalize Landmark 10-Year F-35 Deal, Securing $7B in Private Investment - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSkJPOFh3LWJkMDJXMzdvdFdGX0NsTFZPYzFyNGRrdV9RU2RmZmU0Nk45TUFueUlNYzZqWllTLU1SbmFEZzZ3LW5haDA5U3Zhbl91TnZ4VkZNVzNwMmdQLS1yVDVmX0FEb1Uyal9ma1VCUXFTWkE1Z1hPT19mVDRVZjUxRFI5UTRIOEdEV0tkQjBMTDRKcVAzN3N3b24zbVNNS2ZSNXVsSHlkQlJVR1R3Sm9QSmgtTmRmZjk2M0R3THBMZEdqOXlKRkFWci1yaU15WFZjVA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-22T10:22:46+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "US-Iran war, then and now: How the landscape has changed since February - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSU5RUE1mMXBUSlFKam8zamJLelROVFZybXVxNkZKZTBLM2swWEZxZmJoUVJYcmhEUEVUSzZ5RW82Y1VnOTZzdzN2NzNacE1ucG5waUNXRS1mZHFVV2FTZE5zeDNobXQxNU0zLWNJd0cxSmJoYnBjNkRzb0xPZ3p5YUwyblZRTlpwUDRsLWtfOXBwbV80ZEUzNmY1eXZaSUtlQXVoaHpUcFlubHlvQUQ2YdIBtgFBVV95cUxQLUs4eDdhSGt3aUV4SUJRSG9PTlhTaDJmMDFoU281VmphR01WVVE2MDdTWld1R2VZZ09EbnM3S0JwQXlwenNwOUp5Y2hkb1pXMkk3S2dsRFRCVGRrcGJJalRKa1R4RmxYSXpwZlIxSnU2NDZKYXMzdzVVTDVnUGlGUXlrTzNTam9GYnVxNFQ2eE9sT1FkQnZPU0EtTVZkb2lqcjZ3ZWtXYjVOUUk2aVZYcXZZT0lxUQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-23T11:48:22+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act. - ProPublica",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12V0hEdDIwSUdjWnBGTjFOakF0dWR1Tk5oX1FWNDZ2VXhCbXZTSXlTcERwVzhEekZPYTZGdmE3NldaRWc3ckZBek1jVzVzZnRZLTRJUUlXWkVCQW1pVk5MSlBTT0w4RmxDUmx5RkMtMk83TlREYnJ1Xw?oc=5",
+      "category": "PANDEMIC",
+      "severity": 3,
+      "seen": "2026-10-23T09:00:00+00:00",
+      "domain": "ProPublica",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Treat Pandemic Preparedness As Strategic ‘Biodefence’, Industry And Health Leaders Urge - Health Policy Watch",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pQ2hDX0p0QjJRbVRwRy12d3JiVzgtcW16cEd2TWVuNnJZRV93UlZFX3VQQk94NWl5bUNINXhET3ZCZ0FjZTZ6SVZtaW14V082LVNzM1JkQnVFVnJua3FxbVU2STB1RXBGZ2FJTUpFbW1yb2s?oc=5",
+      "category": "PANDEMIC",
+      "severity": 3,
+      "seen": "2026-10-23T14:35:06+00:00",
+      "domain": "Health Policy Watch",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Gov. Polis declares disaster emergency for southern Colorado flooding - The Denver Post",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQODRkeF9XR2tnU2ZMSEJPZVFIOHhTQVIzOUsxWDJQak01ci1vWEgtQ0FaZHBPZVM1a1g1YmxiU3d0YkZHYXREbDBZa0FrWE5jZXR0U2xJX0d4c0gwbi1GNGYyOU1TZjY3cUxfdlFKVG9HZ0VxQzVRRkc3Wl9QUE8xVVl0cG5uVjJVSDhQRVg2bEhIUlhDVjRsRmtJdWc4NHM?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-23T12:56:07+00:00",
+      "domain": "The Denver Post",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Colorado Four-Corners region flood as yet more moisture saturates US Southwest - Aurora Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSFRvbkJCaE14UDVNZnVsQUtkWFdEb1dZRXY1ODBVTXpPU0JlTmZHY0tBTmJJSWpnYl9hRXBzb0dTSENJUFlxWUhXSWNUT3F2d0JQYU9YbkxkU1lzUzhjNXhIZFNrX0RhRTlwNlFhT1h6WTVwLTUzS1JlamNWa2ZRUXlLcnR3dk5hb01vM2tZaGx1eDJUWk50ZE5GTXhxWjFxM1J4V0JTSUMtbTkwTVRNLU1tQlZyUHNscUdpaTY2QkUyczhUd0pxdXpn?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-23T12:46:59+00:00",
+      "domain": "Aurora Sentinel",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Melania Trump says she secured a one-city ceasefire between Russia and Ukraine for humanitarian aid - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQkhJZ25hOEJTTFUwTlpqdnd3SFdpdHRNWWZUVjhPd0xsUWpSMjJ4R1NUS21BM2RtTDRVQmg4MmZTU05EalMzTUJ0OU5PR1RDLTAxVUFXc2VwQ2VwQm9sTnIxV1FRMTN3ZUFUdW5rMFRJZ2F4dDZiWTl2R1lKeEYzZWNDeUE?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-23T14:05:47+00:00",
+      "domain": "CNN",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "As Trump Threatens New Strikes, U.S. Ambassador Says Iran War Could Last Another Year - Democracy Now!",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHhWN2FjNmpzZWEtRGNUdUxrN2tUUzVIM2UwdWgtYkVKMDh2TU1FZ3FMcTVTMkVING5PbDVNNldUY3M0ampzRFNQbXg2ZzNpUXNsaVBoZVJnMTU5dk5XV3ZmMEItamg0TEw4Q2d5TXZmdU53Z1c0cUp3ak5sOGpCTmZmeVAxRXRmRVozZkMtWVJnZHVWcFluOGNQT0hKaW9PTFpqUllONi14WVdDYWtVRTlDNkR2aFVBYzVscEZKM3BWaGQ0T3dxMUpiWkk?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-23T14:08:39+00:00",
+      "domain": "Democracy Now!",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "A 7.0 earthquake hits China’s Tibet, killing 16 and injuring 32 - ABC7 Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajNDVEFhNGJQOC13MzNMbDVuRWc0TkxqelNNYmE2SnFMUkFPTzVIZ0lXdHc3VjdwejU1cnliTVE0emZKc05JakFrRzJNVEhVYVhjN0ZKRTBza05fcDhrOWd4NVZmSzBLdExCendlNVdvRVhVQ3k1V2RSbURWaFNQZFBLN3k0b0xFY3Rpc1RDTjB4VHZabXc?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-22T21:04:17+00:00",
+      "domain": "ABC7 Bay Area",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Disaster emergency declared in Pagosa Springs due to flooding - KOAT",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV3BFLUNjTkE5UzRnSGxUWVdyY2NmOGNYLWRJaUNkMEN4Z19EczlOX3FocUJrNHJrY2lGUXVnV2lHOGVRLUtFVXBmRU9ia3VpWTFURXNXeWlLenFDUTdGY3hKXzIyVEdMYzdxcW5UVGhxSUZ5eHFnMHI2MXZLemg4U3FVdWdMdw?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-23T13:40:00+00:00",
+      "domain": "KOAT",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia - NPR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVI3UTctZk0zY1Rhem1VeUZrX2tsQTJxMlNYVGxrYVgwT2p2RGlpdEEtVFVoLXRfclpsUnJkVkhpb3M5bEJiMVRqWXBEZXBwcWswOVRFSmFiVlZ1UkpNUExnT21XU0pWRVBiX2NaZVdtbi1rME02dndOb1NjUURzLURpRzF2SXc?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-23T14:16:10+00:00",
+      "domain": "NPR",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "New famine risk haunts war-torn Sudan with El Niño-driven drought - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd05QVnpyM1N2MkZaeUo5ZnJfRnRwbjFDYkF1VlRibHVZRGhWRXVoVXh1aFNxNmRfU1VMZm44MFQzUTBiWE1NSWtHTkRIS2hxRUQ1YkUyRV9tYmJHYjBSY2RVUmJiXzhycTMxRE9SNy1iWGxRQno5TG0yUnBaLXF0UFRHQk14TE1FNTZoMWpkQ0dDX3c5WHhNa3RmTGd5WXN6WU9UbHlGQXg0Zw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-23T10:10:27+00:00",
+      "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     }
