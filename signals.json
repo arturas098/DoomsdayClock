@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-23T15:04:56.283133+00:00",
+  "fetched_at": "2026-10-23T19:14:11.598547+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -69,21 +69,11 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "Fact Sheet: Costs of the Iran War - Center for American Progress",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3aXJIX3kycHVERkc3NjZyNUY0cmFIa0dQVFBFZHBuR3dqcHNKZUo0UjJGcm5fdzFHd3R4WTFfem9jMEMxWkNwczRSOTNkQ29GbTdDb1J2c3VvRWRHYnFxSVVFaU5rN1NCdEsxYUtuMnpNb1dYUUF6V0NxSUhFMzA?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-23T12:57:38+00:00",
-      "domain": "Center for American Progress",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "EXCLUSIVE: Saudi missile plant expansion may produce more powerful missiles, study says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUTNudHNub01PQk1mQ1pIc3I0d2N5TGJPTG5lSlkwSWZKc05VMHpaNGtRTmpmd1pDblNPYjZGbEw3d05QeThxdjNJWDhYX09KMDdPeTlOeWxhX0txVTVrVzRvdWwzMEFfN01jYUNoN1dEVkRQMjlrUENUNVcxMkNuZDlyTnVQMlBkNmhJRzRjRkRESDVJZmdWYzJFMUtzUzBMdFpXVWNoM0hzOTBaajZhRDJtQ0U5ZFlzMkdaZ3BZa2ZPN0RwUHR6cQ?oc=5",
       "category": "CONFLICT",
       "severity": 1,
-      "seen": "2026-10-23T10:27:13+00:00",
+      "seen": "2026-10-23T17:08:44+00:00",
       "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
@@ -99,6 +89,26 @@
       "sourcecountry": ""
     },
     {
+      "title": "Deadly magnitude 7 earthquake hits Tibet - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGhkLWhHcWU1RkttYjdwUzNybDZoR2gtTkJTOGhFeWx2UDhfU0gxRWlDeGZPOUQzMWdJRkFxVnZYR1YtSG1Od010UjhaalVEenN4TkNzWTk2QU9xYkpJbDFzbFhPZmotNXRoWnUwYjdwTEFaVkotNkJDLXBvak8waHpFQ1lHWnNpU2VEckx1ZnNRYWNlVjZYSnZrYTNya0RtakE?oc=5",
+      "category": "DISASTER",
+      "severity": 3,
+      "seen": "2026-10-23T10:42:55+00:00",
+      "domain": "CNN",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Powerful Earthquake Kills at Least 16 People in Tibet - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kaHFyQlBNNFF4Vzl3M09jTG4tWHByRVdCZzlyVGZXOU05VmtNS3EzTFlSUlRhd2w5VUliMjZjbTBQaThWZkNBR1BWdERWTGtSRGZVd2VyUkQyWE5kRGxVM21WTjRVVUZXekR1RU1ZVU05T0lkNnltMy1qbU9LUQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-23T07:40:00+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Military reinforcements move to Mideast. And, millions of Americans vote early - NPR",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa29KcUNsazVzV2xtd0xheXQwTUdiUVY1THRSNVdSSjVYMUlzRzBiOTI0cGFVaW10UDZ2TjdQU2QySkV5WjVqMXIxdEZ3cm9mMDFCcUJ2eFJ1dTI3dC0wd1BaMWlwNUdTVzU4a2U1V09HcGI5UERDZlBwOVNGUlJXQXp2Tzk2TjU4ZFhIRG9HWlozZ2ZSZ2YxYlRmVlo?oc=5",
       "category": "CONFLICT",
@@ -109,12 +119,82 @@
       "sourcecountry": ""
     },
     {
-      "title": "Deadly magnitude 7 earthquake hits Tibet - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGhkLWhHcWU1RkttYjdwUzNybDZoR2gtTkJTOGhFeWx2UDhfU0gxRWlDeGZPOUQzMWdJRkFxVnZYR1YtSG1Od010UjhaalVEenN4TkNzWTk2QU9xYkpJbDFzbFhPZmotNXRoWnUwYjdwTEFaVkotNkJDLXBvak8waHpFQ1lHWnNpU2VEckx1ZnNRYWNlVjZYSnZrYTNya0RtakE?oc=5",
+      "title": "US-Iran war, then and now: How the landscape has changed since February - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSU5RUE1mMXBUSlFKam8zamJLelROVFZybXVxNkZKZTBLM2swWEZxZmJoUVJYcmhEUEVUSzZ5RW82Y1VnOTZzdzN2NzNacE1ucG5waUNXRS1mZHFVV2FTZE5zeDNobXQxNU0zLWNJd0cxSmJoYnBjNkRzb0xPZ3p5YUwyblZRTlpwUDRsLWtfOXBwbV80ZEUzNmY1eXZaSUtlQXVoaHpUcFlubHlvQUQ2YdIBtgFBVV95cUxQLUs4eDdhSGt3aUV4SUJRSG9PTlhTaDJmMDFoU281VmphR01WVVE2MDdTWld1R2VZZ09EbnM3S0JwQXlwenNwOUp5Y2hkb1pXMkk3S2dsRFRCVGRrcGJJalRKa1R4RmxYSXpwZlIxSnU2NDZKYXMzdzVVTDVnUGlGUXlrTzNTam9GYnVxNFQ2eE9sT1FkQnZPU0EtTVZkb2lqcjZ3ZWtXYjVOUUk2aVZYcXZZT0lxUQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-23T11:48:22+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Tsunami alert issued after a swarm of nearly 3 dozen earthquakes rattle the Tyrrhenian Sea - FOX Weather",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQjN0MmJqbjAtRVNrUXNHNlFSM285MmdsMFdoRmpqa1M1ZzAxemNReWNMVEtrdHZaeF83Wk1ZcUtnTnhpakdyQTl1dVdvOW1LaXdaaUhTb3RHU1RZdnRVTVZ1VGNzRGxJT25KWndTcEJObV9jYWlNaGltSDhRTWZfWTRwYnJQMlRwWExNMXdVeF9ValNoaGo5U0dB0gGfAUFVX3lxTE5zQm1TX1NsclVsVXBDOWFEekdSeEdjR2MzTUYwNWhibzhOWVAwWkU2am5Hb1IzRGtsSi1nSjBMR3g4ZThya1Y4dmt2WndhVEFqRGlJWUFZNEdTU1lMVlU1R2xvTzZmLXh1aTd4UzVoX0gxem90OEU3ZGdOZGhNMjRkbm9GWHU2dUQxU1VpZ1ZKbVZKTlhFb1BfTDl0TjJWdw?oc=5",
       "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-23T13:31:00+00:00",
+      "domain": "FOX Weather",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Melania Trump helps secure \"temporary ceasefire\" between Russia and Ukraine in city of Oleshky - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMU1MYWlNMUJCOW1BdTVsSVlsSTJDUUlHUzVweXF4eHhUdEsyQVZ3RWRLYmpQUzZQMkZsNWl0aDMwOGcwdWdKTV93VnQ1STZteV9IY09seDlDQ2lrNEQ1WkIwTU9CZW9GMmFMRVZwckZLdHpLRG1IOEtKOW5zSkQzUlhuTjZGSDd6cnpVVGkxRVlZUWotbHlnaDdTU0xSdw?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-23T13:55:00+00:00",
+      "domain": "CBS News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster' - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HVXR4Q2ppWjg1UE14akpXVTFoRWtic1NBV3ZkbDdpaldLd0VjSmlRNFp6UGljVTRNOWpPVHlCdTVnYVYybFZsT2NFaldRN2JzbWF1bnlIMUJJamM?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-23T16:59:51+00:00",
+      "domain": "BBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Melania Trump helps forge a ceasefire deal in a Russian-occupied Ukrainian city, White House says - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-23T16:24:00+00:00",
+      "domain": "AP News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "PG&E needs wildfire policy reform to manage tail risk, CEO says - Utility Dive",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMU9EWjZMQjVQVkxFdlhSTDhKNTlTczQzcEdudldKcFkwUlpqdEphdFN0WjBrM3hvckJQczhNMzRDdW1PVm50TmRsYTJQQmhTTDZ3NXpaejM2eGEyb19OU0NuQk9sRlRhT1htcDNWcE9OTDJ5U09IektBQ2V0dXJ6clpFTFFwZVFEckRpTXd1UnBSRDg2cF9xdjdJXzhLTDV1cWpwNg?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-23T16:20:41+00:00",
+      "domain": "Utility Dive",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "How Nuclear Security Can Help Bring the US and China Together on AI - James Martin Center for Nonproliferation Studies",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb05ZbklHTldlWWVGUENnY2hFekZaWnFoS0w1aGFVWmo5VTY0MWhuaXM2d1YwZkgta0xCb1ZkZ1lhZXk2T3AweXVpLVpjSTdSNkF2Q3BMdDZRMHdJam1IR0pkek9mNVRFd3FZUHB2TF9MTWExblhnUl9JT2o1VEdQeEswcUJrNnp5a3d1S044Ml9QdWdpeWxicHlFZEhNZw?oc=5",
+      "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-10-23T10:42:55+00:00",
-      "domain": "CNN",
+      "seen": "2026-10-23T18:24:02+00:00",
+      "domain": "James Martin Center for Nonproliferation Studies",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-23T18:19:51+00:00",
+      "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     },
@@ -129,92 +209,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "Powerful Earthquake Kills at Least 16 People in Tibet - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kaHFyQlBNNFF4Vzl3M09jTG4tWHByRVdCZzlyVGZXOU05VmtNS3EzTFlSUlRhd2w5VUliMjZjbTBQaThWZkNBR1BWdERWTGtSRGZVd2VyUkQyWE5kRGxVM21WTjRVVUZXekR1RU1ZVU05T0lkNnltMy1qbU9LUQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-23T04:42:27+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Russian Offensive Campaign Assessment, October 22, 2026 - Institute for the Study of War",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeTFMWkpRT0NfN2tHWm1kbzFCM1gzZjhOVlFCcUxhYV9IVW5TR3FGSXFaUHJIUmpZTVZNUnBtcEJOWVhvQ3piQmJFTjdXdTRzVi1NX1N6VV9UVDNHd3U4TVZtLTZOVGRkT2R6UVAyNFNPeS1BYkkyOVVVTXZaREo4MWgtYXNOeTZuRF9pOHpWSm5JaV9VYWhKcXpXS1JHcms0U3dYZUJ2cmRQR2M?oc=5",
+      "title": "Trump weighs quick end to Iran war against letting conflict ‘wither’ - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeGt4QW93RlZCRmRnTV9pMzVTeG55Ty1EbG1wcGU5M0VONm9wM3lEX0lvOEpVcW05OWNSWjJoOTJUSDF5cU1DSFhmZmp2OWdOc1ZPNURIRFF0M3ZzVGxteTRDd2ROZGplLUdWcjJSdUdNUkFoSzYwdDN0dy1yMmttWEdyWGVKeVNmRGE1ODRrcWMzRW9lQTVmMjdsT052QmVFN0Z2cmlRWWM?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-23T03:58:47+00:00",
-      "domain": "Institute for the Study of War",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Powerful earthquake in Tibet's Nagqu area leaves 16 dead - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HbFZ2QmxZN2szRDYzOXd2S205UFJrVlM3d2Z3bnpuZFpVOEVfWE9UM1BfWnNfMllodUpJN3JMVW43WmtyS1JCUnpMUVJOLXNKYU9COEZRZ3RoaEE?oc=5",
-      "category": "DISASTER",
-      "severity": 3,
-      "seen": "2026-10-23T05:16:37+00:00",
-      "domain": "BBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Melania Trump helps forge ceasefire deal in Russian-occupied Oleshky, the White House says - AP News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkNRM3hJTVJkUGxjNjB3QmhSd2FSb2JHZkZtTjVNdzNWeHJ4QkpwdEd0cWttQjg0ZmVSQUtCV0JHTFRCeTd3NGJITy1ybDRTQzB4ZkhEdDEtRkRhcUZrWHdONWJZZFlBbGV5YmhkbDh5LTlaZm9jelQ3Y2FWOEcxUlhLZE5yX2c4dVhSZlYyVDUtVllza2ZLLTVXQ2RCN093aGJlRmc4RU9jcHZROVRv?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-23T13:47:00+00:00",
-      "domain": "AP News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Why Trump’s Rebrand of Artificial Intelligence to Super Intelligent Matters - Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmpXSEdxRG93Z3B2V3NtZFF3X01rRkR5d2M0MHpQcDFFLXdCMHNHb1Jza3FyQmF4ME9HMHRWSjNXX1FIeFpMa0JGVGM1RC1aTV9fUkZSMW56dDgwNXhUVE5MUEVDOGlOVVZ1Y2xaNGhJeFlnYzBGeEVId3l2OV85RWZJUFBOaUU2UVZRZGstN0VGVFZaU2Vkb0x5UVp1RWU3aURnc1Z3VVkxYkJUV2ZoT1lR?oc=5",
-      "category": "AI",
-      "severity": 2,
-      "seen": "2026-10-23T13:46:47+00:00",
-      "domain": "Time Magazine",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine war briefing: Uncertainty over Kyiv’s Starlink access after Trump claims Musk restored service - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1psQVV3TnhCb0RZTUcyR1lQYlJZdEFMVDBFRmltWlZSdUVzRnV6WWZJU2ZRRTR0aENGU2tPeUhSdjA5OTBva0hKaTlXakM5WlFiNi1XXzdJQmtxcEk3NkgtRHJONXphb1dVamZrSHBOVzRiZ1RieWJ4eG42VUc1MkgtSU1MUjNiUFoxREEteEM2djgxYzFJSlh0OW1RNC1uaERkbVBWRkZNREYxbEFyaUpRTGJCMThDYVo2bVllMDZBdGVZQWZBRzh2cDBoRGtrYmgtbmFwV2JQaEJ2dEFJ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-23T09:45:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "At least 16 people killed by powerful 7.0 magnitude earthquake in Tibet, officials say - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCYWVLS1Uwd1MwRWtsS1U5cXlYMWtDUC1ma2E2MmVzNmdwb01pRFR5b3ZldnVCY0FzajRicDFXTXNfY2NrZE1OQk5VR2FPRk1ZUXQ1Zm5PcUtlTDd6LVRhbksxd1R3RU5abUpLRDFR?oc=5",
-      "category": "DISASTER",
-      "severity": 3,
-      "seen": "2026-10-22T20:51:00+00:00",
-      "domain": "CBS News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-23T14:53:53+00:00",
+      "seen": "2026-10-23T15:53:34+00:00",
       "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "How Long Will Russians Put Up With War? Here’s What They Told Us. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWs1SUdKS19URU9XZlFTcGdnQmVPVmxhbjE4NW9GNjU0RGFZdDRrUVpkS1Rqa202cC0yRkFUNWd6cGlWRWFGbE1leWFreGw0OGN1X25Tb2loS2RwNm0wZlFIZXFJeVJTZU5YR1hQZUlhOE5nTmZCVDN1MzNRaHFQMUcyNFRfdlFVYmc?oc=5",
+      "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHlzeURsR3Y1eUZHZDhJMDV6c1NmazNhamplQlF4LWNZNUswWlVhNDBNa3FaRmRyNmV0U2tiSXk0M0ZHSDRnYl9iS2ZBWHA4MnFkbWdYR2R6M0tLV2tSNWpBaEpYcXREZlBGYzBNdERTdWloNk0wTENNNlZ6dC1wdVhKV0ZCdmIyajJpRTBSeER5dU55VHRLeGEybzhHRGQzNGZWUnMyX1NLbzNRbDkxNXVB0gG3AUFVX3lxTE5qTDdlWnc5Zlc2aGRVTFhpcVoxT2VnWnhmeGdfeS1xWE44WUp3RjZsNmMwOUx3dXE3amtWTGxnQlg0SU82VXA4bGNEQjlFM3Y3UzZqSk03M2xTWmpseFlEd3NvXy1lc1UzanlLbV82eVVIQ2wyWDJ6enJCSDRYdjQxT0FSbDhqYkhUa2pQWEJDWjRsZFRDRmFENnpaMzlBNjBRMnR6WFVac1p2eC1YdHhOdjh0NGMyaw?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-23T16:05:36+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc28yS2Z0aVExaE1CeEZtYURTUG5NMDBhZnVidVctdjJZak1tMk5oQy1aU0dlQzBJbEV2SWlUdUdxNC1YMngyZEhLM0l3ZmI5dEliUjRPNVdsSnV2QWV2TS1TNVhaN2RTYlpSaEFCMjFHRGs5Z29Cek10c1BfUEZROHpjd2NIRHFfNEhLUGdhbDBXQ2hfXzUtc0daeHZPRlpoTXo5TjlvTVZuWXgwVmtEbG5jemZUWDRvRDJvWVQxb3VKdzZucnBlUEhPZw?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-23T09:26:55+00:00",
-      "domain": "The New York Times",
+      "seen": "2026-10-23T17:27:25+00:00",
+      "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     },
@@ -229,16 +249,6 @@
       "sourcecountry": ""
     },
     {
-      "title": "The Iran war’s toxic impact on one of the planet’s most unique seas - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGY4WXQxN2NWb0E3d2R1bTFXOVFieEN3LWcxSlhLWFpvOFpsUVpVT0ZxWVhfUVpwNWlPY0tYV2NKcV9CUV95MFlPNEVaMW93MjRHbWxtZ2dBbTJ0bGFxY1JPNTltbHM0aFRzUnN3aXV4ZE1qN29yWlhsU3RSS05TUFlUOUg2anBw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-23T08:46:57+00:00",
-      "domain": "CNN",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "Injuries in China's Tibet rises to 76 after earthquake, death toll remains at 16 - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3RUZTBjRENZY1ZLS2FfZzJIWUN6QVdCcnYzQXVtc25yZFJMZTg0UVpSMlAzM2ZqQzVzSVBvclp0NFZDb1drQ29zZTlnakRnNXc3aE42R2ZId3RqSll2Q0dBamdNdzFUUnVTX19vWC11XzVJTTZ0QmxIazVPcDY2S3pFeDduc2oxaWlTQ2k4b1pQbXo5RjdNb0Q1TFBUbHh4UjZfcU9laE5sdVc1Vk1PUmRkOVZqZkk?oc=5",
       "category": "DISASTER",
@@ -249,12 +259,92 @@
       "sourcecountry": ""
     },
     {
-      "title": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUtOSEdwSTJqY1JkdWdqbHJndkp2SGcwYzY2RVRodDFkUmw2UmZadGFRcEZzUHBFWFJCVS1sODlUOU5KQTd3bWZNSkNyTWM5UkJzTjV2OHpjSEhJUUtmV1A1eU9TOURFRDBGMlZ0RmNwQjNtLTRtZ2xacWo1YmdPak1wQy1SWHdIRHdmWTlB?oc=5",
+      "title": "Disaster emergency declared after flood hits mountain town in Colorado - Denver Gazette",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUU2RkNXQy02SVgxbG5ZQ3lNYkZablhjT3NWbUIzdkFHbHBxWWJqanZUUFZNWFcwblV0ZDJTNHQwUVdvMzl6a3RSb2p5NHZtU0YxWTE5MjJOYWtmTEJ3UVotOERKbFFUQThMLUtlTTJCa1dJcnAyTjZ3bmxkUnF1Z0NxT0ZxcjJ2dzAtcFpYSkpMUEx6MXRhSzdBcEhaQWhOMWRMYUJnMFFYbmVsTFZENHNLNEtSVzBPajBTcVZ3NUZQWFlmb1Vndg?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-23T04:04:00+00:00",
-      "domain": "The Guardian",
+      "seen": "2026-10-23T16:43:44+00:00",
+      "domain": "Denver Gazette",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "DoW Announces 2026 Secretary of War Maintenance Awards Winners - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYWhyYXVITDFxZ0lmNmRnLUJNdnB0QkVnVmo0V1VpajdycFVGTkxuZnhvdGZVa1hhVUp0TXhBRDlwNEp6Z1NwWmU5WXozUWQ5RFE0SjVaT0YxSnA2c0VOQ0lZMGNJQkxUVTF5QmJmbmZ0NVc3NmlpLUVuX2lKQlVYQjFRbHBqajB6RVJSX3JVSGpqdGlPWmU1djBvellNUXBRQzI3MkF0NEw2NUpGNW9TRmJqaDRuVjFyVXV1Nzdn?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-23T19:07:37+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "The Iran war’s toxic impact on one of the planet’s most unique seas - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGY4WXQxN2NWb0E3d2R1bTFXOVFieEN3LWcxSlhLWFpvOFpsUVpVT0ZxWVhfUVpwNWlPY0tYV2NKcV9CUV95MFlPNEVaMW93MjRHbWxtZ2dBbTJ0bGFxY1JPNTltbHM0aFRzUnN3aXV4ZE1qN29yWlhsU3RSS05TUFlUOUg2anBw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-23T08:46:57+00:00",
+      "domain": "CNN",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Treat Pandemic Preparedness As Strategic ‘Biodefence’, Industry And Health Leaders Urge - Health Policy Watch",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pQ2hDX0p0QjJRbVRwRy12d3JiVzgtcW16cEd2TWVuNnJZRV93UlZFX3VQQk94NWl5bUNINXhET3ZCZ0FjZTZ6SVZtaW14V082LVNzM1JkQnVFVnJua3FxbVU2STB1RXBGZ2FJTUpFbW1yb2s?oc=5",
+      "category": "PANDEMIC",
+      "severity": 3,
+      "seen": "2026-10-23T14:35:06+00:00",
+      "domain": "Health Policy Watch",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Fall King Tides drive multiday flood threat spanning 500 miles from Miami to Charleston - FOX Weather",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGJobVZ6SnJGRldzNjEzcmFZbHBUZjc0aHJXbmRoZEZSajl3TmMxSEpJN1VNRG9lMENFdUJlaThPQ2tqenplNWFXZzhKV2M4TkJ4NmtzQXBKeEk4VmU1dXdjUU1WbFlCYnhLREJjWFhUbEFqeWRGLWpjaVEtSDRqd2tLV2cyNUlVUDJwNlFaVnFCNGxib2o4MFZYcGl2Q1NaNVBxekF0R3FoWmhXMWpB0gG0AUFVX3lxTE5QT0M0dkFVaFJzY2gtUXM2MUxPSnBBTkJlWFY2N0RURkpNY2tqR1VCZWtZaGN4NVVhMmUwQU00NjAzaFZ2YVJ6TnNVQXI4cmNBZzY3TV9RelFFcWVrYWh0TmgzcjFBSGFZS3VTX2VqSkhCaXM5Yjh3ZDgwM2FyRXQwaWZaWk9YY1g2cjZicWJXelFWcUxCUWV0X3lHTHFmb2RJUExPSFBlT2xrekVsRzNvWTUzTA?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-23T12:40:00+00:00",
+      "domain": "FOX Weather",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act. - ProPublica",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12V0hEdDIwSUdjWnBGTjFOakF0dWR1Tk5oX1FWNDZ2VXhCbXZTSXlTcERwVzhEekZPYTZGdmE3NldaRWc3ckZBek1jVzVzZnRZLTRJUUlXWkVCQW1pVk5MSlBTT0w4RmxDUmx5RkMtMk83TlREYnJ1Xw?oc=5",
+      "category": "PANDEMIC",
+      "severity": 3,
+      "seen": "2026-10-23T09:00:00+00:00",
+      "domain": "ProPublica",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "How Long Will Russians Put Up With War? Here’s What They Told Us. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWs1SUdKS19URU9XZlFTcGdnQmVPVmxhbjE4NW9GNjU0RGFZdDRrUVpkS1Rqa202cC0yRkFUNWd6cGlWRWFGbE1leWFreGw0OGN1X25Tb2loS2RwNm0wZlFIZXFJeVJTZU5YR1hQZUlhOE5nTmZCVDN1MzNRaHFQMUcyNFRfdlFVYmc?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-23T09:26:55+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Department of War and Lockheed Martin Finalize Landmark 10-Year F-35 Deal, Securing $7B in Private Investment - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSkJPOFh3LWJkMDJXMzdvdFdGX0NsTFZPYzFyNGRrdV9RU2RmZmU0Nk45TUFueUlNYzZqWllTLU1SbmFEZzZ3LW5haDA5U3Zhbl91TnZ4VkZNVzNwMmdQLS1yVDVmX0FEb1Uyal9ma1VCUXFTWkE1Z1hPT19mVDRVZjUxRFI5UTRIOEdEV0tkQjBMTDRKcVAzN3N3b24zbVNNS2ZSNXVsSHlkQlJVR1R3Sm9QSmgtTmRmZjk2M0R3THBMZEdqOXlKRkFWci1yaU15WFZjVA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-22T10:22:46+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump weighs quick end to Iran war against letting conflict ‘wither’ - Arab News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdmxZVXNFLUlyMy1zNWxWM0VWOS15N0pELTEyNUt4LXB2a0o5Q1RRV0ZTaHhhTzhBdjdBcmtTckpodW40VVo3M0xLdkZKWUdBdGFzN3ZWdE1WakpvcWpRUkpFTms5ajNZeFNOeXBhbUxCS015NUJ2NTZqeFdRdVllUVpLZVc4dV9tTm5mRHZBNGxrc3BLLUxOa3k0WWxaaEdDdlNJMThycV8zaUE5eFp6SA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-23T15:13:20+00:00",
+      "domain": "Arab News",
       "language": "English",
       "sourcecountry": ""
     },
@@ -279,131 +369,41 @@
       "sourcecountry": ""
     },
     {
-      "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HVXR4Q2ppWjg1UE14akpXVTFoRWtic1NBV3ZkbDdpaldLd0VjSmlRNFp6UGljVTRNOWpPVHlCdTVnYVYybFZsT2NFaldRN2JzbWF1bnlIMUJJamM?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-23T14:13:33+00:00",
-      "domain": "BBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Department of War and Lockheed Martin Finalize Landmark 10-Year F-35 Deal, Securing $7B in Private Investment - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSkJPOFh3LWJkMDJXMzdvdFdGX0NsTFZPYzFyNGRrdV9RU2RmZmU0Nk45TUFueUlNYzZqWllTLU1SbmFEZzZ3LW5haDA5U3Zhbl91TnZ4VkZNVzNwMmdQLS1yVDVmX0FEb1Uyal9ma1VCUXFTWkE1Z1hPT19mVDRVZjUxRFI5UTRIOEdEV0tkQjBMTDRKcVAzN3N3b24zbVNNS2ZSNXVsSHlkQlJVR1R3Sm9QSmgtTmRmZjk2M0R3THBMZEdqOXlKRkFWci1yaU15WFZjVA?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-22T10:22:46+00:00",
-      "domain": "U.S. Department of War (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "US-Iran war, then and now: How the landscape has changed since February - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSU5RUE1mMXBUSlFKam8zamJLelROVFZybXVxNkZKZTBLM2swWEZxZmJoUVJYcmhEUEVUSzZ5RW82Y1VnOTZzdzN2NzNacE1ucG5waUNXRS1mZHFVV2FTZE5zeDNobXQxNU0zLWNJd0cxSmJoYnBjNkRzb0xPZ3p5YUwyblZRTlpwUDRsLWtfOXBwbV80ZEUzNmY1eXZaSUtlQXVoaHpUcFlubHlvQUQ2YdIBtgFBVV95cUxQLUs4eDdhSGt3aUV4SUJRSG9PTlhTaDJmMDFoU281VmphR01WVVE2MDdTWld1R2VZZ09EbnM3S0JwQXlwenNwOUp5Y2hkb1pXMkk3S2dsRFRCVGRrcGJJalRKa1R4RmxYSXpwZlIxSnU2NDZKYXMzdzVVTDVnUGlGUXlrTzNTam9GYnVxNFQ2eE9sT1FkQnZPU0EtTVZkb2lqcjZ3ZWtXYjVOUUk2aVZYcXZZT0lxUQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-23T11:48:22+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act. - ProPublica",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12V0hEdDIwSUdjWnBGTjFOakF0dWR1Tk5oX1FWNDZ2VXhCbXZTSXlTcERwVzhEekZPYTZGdmE3NldaRWc3ckZBek1jVzVzZnRZLTRJUUlXWkVCQW1pVk5MSlBTT0w4RmxDUmx5RkMtMk83TlREYnJ1Xw?oc=5",
-      "category": "PANDEMIC",
+      "title": "New nuclear developments in Europe, Asia -- ANS / Nuclear Newswire - American Nuclear Society",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWG1jeWpuRkdqV29lUTBoT0gzZU85N25WU3JoZ2tjTE92Y1RwUmNfNHdyODBiOW9sbml4aUZydXhrVnVfMmZJS0NUdHpSSWExTXNnOUpmSV82cFhGMUtwVDMtVzl4UDZnX3hpUC16X3RBeDVwWUhkNnBVcDc0QTA2cmhTdHg?oc=5",
+      "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-10-23T09:00:00+00:00",
-      "domain": "ProPublica",
+      "seen": "2026-10-23T17:11:54+00:00",
+      "domain": "American Nuclear Society",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Treat Pandemic Preparedness As Strategic ‘Biodefence’, Industry And Health Leaders Urge - Health Policy Watch",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pQ2hDX0p0QjJRbVRwRy12d3JiVzgtcW16cEd2TWVuNnJZRV93UlZFX3VQQk94NWl5bUNINXhET3ZCZ0FjZTZ6SVZtaW14V082LVNzM1JkQnVFVnJua3FxbVU2STB1RXBGZ2FJTUpFbW1yb2s?oc=5",
+      "title": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUtOSEdwSTJqY1JkdWdqbHJndkp2SGcwYzY2RVRodDFkUmw2UmZadGFRcEZzUHBFWFJCVS1sODlUOU5KQTd3bWZNSkNyTWM5UkJzTjV2OHpjSEhJUUtmV1A1eU9TOURFRDBGMlZ0RmNwQjNtLTRtZ2xacWo1YmdPak1wQy1SWHdIRHdmWTlB?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-23T04:04:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ukraine war briefing: Uncertainty over Kyiv’s Starlink access after Trump claims Musk restored service - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1psQVV3TnhCb0RZTUcyR1lQYlJZdEFMVDBFRmltWlZSdUVzRnV6WWZJU2ZRRTR0aENGU2tPeUhSdjA5OTBva0hKaTlXakM5WlFiNi1XXzdJQmtxcEk3NkgtRHJONXphb1dVamZrSHBOVzRiZ1RieWJ4eG42VUc1MkgtSU1MUjNiUFoxREEteEM2djgxYzFJSlh0OW1RNC1uaERkbVBWRkZNREYxbEFyaUpRTGJCMThDYVo2bVllMDZBdGVZQWZBRzh2cDBoRGtrYmgtbmFwV2JQaEJ2dEFJ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-23T09:45:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "US CDC says measles cases rise to 4,588 as outbreak continues - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmllVVNoU2J5OHFVeWNyMWZUcmhEVWFwNzlKTDM2OFBpSkNJZ1N4ZmZ4aUV2QjEtdXpoRTB5cTVydmtuV0xGTGlwYmVaU21TalRLWElfdS1FVVQ3NlM2VGVRUGZ0dFVQS0JLaURtMFYyTDUwYk4zU29SM1VYeTZnWkk5NEZ4emV0VjgtSlIySlFOVjlYUFpVU2NNZlV2VzBqd0R4bTFuUFIzVEE?oc=5",
       "category": "PANDEMIC",
-      "severity": 3,
-      "seen": "2026-10-23T14:35:06+00:00",
-      "domain": "Health Policy Watch",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Gov. Polis declares disaster emergency for southern Colorado flooding - The Denver Post",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQODRkeF9XR2tnU2ZMSEJPZVFIOHhTQVIzOUsxWDJQak01ci1vWEgtQ0FaZHBPZVM1a1g1YmxiU3d0YkZHYXREbDBZa0FrWE5jZXR0U2xJX0d4c0gwbi1GNGYyOU1TZjY3cUxfdlFKVG9HZ0VxQzVRRkc3Wl9QUE8xVVl0cG5uVjJVSDhQRVg2bEhIUlhDVjRsRmtJdWc4NHM?oc=5",
-      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-23T12:56:07+00:00",
-      "domain": "The Denver Post",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Colorado Four-Corners region flood as yet more moisture saturates US Southwest - Aurora Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSFRvbkJCaE14UDVNZnVsQUtkWFdEb1dZRXY1ODBVTXpPU0JlTmZHY0tBTmJJSWpnYl9hRXBzb0dTSENJUFlxWUhXSWNUT3F2d0JQYU9YbkxkU1lzUzhjNXhIZFNrX0RhRTlwNlFhT1h6WTVwLTUzS1JlamNWa2ZRUXlLcnR3dk5hb01vM2tZaGx1eDJUWk50ZE5GTXhxWjFxM1J4V0JTSUMtbTkwTVRNLU1tQlZyUHNscUdpaTY2QkUyczhUd0pxdXpn?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-23T12:46:59+00:00",
-      "domain": "Aurora Sentinel",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Melania Trump says she secured a one-city ceasefire between Russia and Ukraine for humanitarian aid - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQkhJZ25hOEJTTFUwTlpqdnd3SFdpdHRNWWZUVjhPd0xsUWpSMjJ4R1NUS21BM2RtTDRVQmg4MmZTU05EalMzTUJ0OU5PR1RDLTAxVUFXc2VwQ2VwQm9sTnIxV1FRMTN3ZUFUdW5rMFRJZ2F4dDZiWTl2R1lKeEYzZWNDeUE?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-23T14:05:47+00:00",
-      "domain": "CNN",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "As Trump Threatens New Strikes, U.S. Ambassador Says Iran War Could Last Another Year - Democracy Now!",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHhWN2FjNmpzZWEtRGNUdUxrN2tUUzVIM2UwdWgtYkVKMDh2TU1FZ3FMcTVTMkVING5PbDVNNldUY3M0ampzRFNQbXg2ZzNpUXNsaVBoZVJnMTU5dk5XV3ZmMEItamg0TEw4Q2d5TXZmdU53Z1c0cUp3ak5sOGpCTmZmeVAxRXRmRVozZkMtWVJnZHVWcFluOGNQT0hKaW9PTFpqUllONi14WVdDYWtVRTlDNkR2aFVBYzVscEZKM3BWaGQ0T3dxMUpiWkk?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-23T14:08:39+00:00",
-      "domain": "Democracy Now!",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "A 7.0 earthquake hits China’s Tibet, killing 16 and injuring 32 - ABC7 Bay Area",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajNDVEFhNGJQOC13MzNMbDVuRWc0TkxqelNNYmE2SnFMUkFPTzVIZ0lXdHc3VjdwejU1cnliTVE0emZKc05JakFrRzJNVEhVYVhjN0ZKRTBza05fcDhrOWd4NVZmSzBLdExCendlNVdvRVhVQ3k1V2RSbURWaFNQZFBLN3k0b0xFY3Rpc1RDTjB4VHZabXc?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-22T21:04:17+00:00",
-      "domain": "ABC7 Bay Area",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Disaster emergency declared in Pagosa Springs due to flooding - KOAT",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV3BFLUNjTkE5UzRnSGxUWVdyY2NmOGNYLWRJaUNkMEN4Z19EczlOX3FocUJrNHJrY2lGUXVnV2lHOGVRLUtFVXBmRU9ia3VpWTFURXNXeWlLenFDUTdGY3hKXzIyVEdMYzdxcW5UVGhxSUZ5eHFnMHI2MXZLemg4U3FVdWdMdw?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-23T13:40:00+00:00",
-      "domain": "KOAT",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia - NPR",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVI3UTctZk0zY1Rhem1VeUZrX2tsQTJxMlNYVGxrYVgwT2p2RGlpdEEtVFVoLXRfclpsUnJkVkhpb3M5bEJiMVRqWXBEZXBwcWswOVRFSmFiVlZ1UkpNUExnT21XU0pWRVBiX2NaZVdtbi1rME02dndOb1NjUURzLURpRzF2SXc?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-23T14:16:10+00:00",
-      "domain": "NPR",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "New famine risk haunts war-torn Sudan with El Niño-driven drought - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd05QVnpyM1N2MkZaeUo5ZnJfRnRwbjFDYkF1VlRibHVZRGhWRXVoVXh1aFNxNmRfU1VMZm44MFQzUTBiWE1NSWtHTkRIS2hxRUQ1YkUyRV9tYmJHYjBSY2RVUmJiXzhycTMxRE9SNy1iWGxRQno5TG0yUnBaLXF0UFRHQk14TE1FNTZoMWpkQ0dDX3c5WHhNa3RmTGd5WXN6WU9UbHlGQXg0Zw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-23T10:10:27+00:00",
+      "seen": "2026-10-23T17:28:49+00:00",
       "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
