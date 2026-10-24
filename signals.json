@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T18:10:06.677692+00:00",
+  "fetched_at": "2026-10-24T20:50:57.626207+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -69,6 +69,26 @@
       "sourcecountry": "LT"
     },
     {
+      "title": "Voters Are Begging Trump to End the War in Iran - Mother Jones",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDNud0ZsaENmcHZWdFhDOGdFV3hpay1pSENXT01WaGV6R0JmZzRjZ0dmNXNkbjJWTWwxcTVxMVVXMi1oRWM5LWkwVElwR1dGOFVPMWVUUmpuV1J0Rzl3R1JqQ21nUjhyVHRCcEJIQi1yZ01qR0JDaHJmWkt2NkRqT3hpYy1FRHhEY2RzNQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-24T19:17:46+00:00",
+      "domain": "Mother Jones",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Flooding and road closures impact southwest and south-central Colorado - Colorado Department of Transportation (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkpUVkdjSmtVWWJDcmdtVWQ0QTZONnJIellJMVNzbl9FUFd3Ulo2VWRDcDZ1OWNIamp1bDJqekhXeWUxblctVkRaY2dvNGpBWi0wS3BDMlhwa0U3cUVaeG9JdGd2RWVGT3BqVDBYOFZhZjBzS2FncjE0Qy0wazFTX2NRNXAwaVV2VVg0VlVpN3ZoTjdQTnczY2MwTlFRakk?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-24T08:16:18+00:00",
+      "domain": "Colorado Department of Transportation (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Magnitude 7.2 earthquake strikes waters near Vanuatu, USGS says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQm10VC01TjZ1RE14b2NHTUxaUWVoSmJRNGtyMUg4c2R4S1YxbXlmbWlHQkRUYWQ1eWlZVjRvV1oxSDU0X1NEX0lFTUh1UWIyT2M0Y2xISC0wWHpLTWszcWpmNnBUc0JxWVU4ZzJScXZWMGluUVhYNWYxWTY1SmhmMWxDbmY4dHh2VWdCdDQ3MWNpMkswMWJsQmV6UjlMYzBlRmFJS25IUHgzWmJheThyRW5fRldYZ3Q2ZVE?oc=5",
       "category": "DISASTER",
@@ -79,21 +99,11 @@
       "sourcecountry": ""
     },
     {
-      "title": "Live - US warships ready for potential strikes on Iran, WSJ reports - Iran International",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-24T17:13:11+00:00",
-      "domain": "Iran International",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "'Once in a generation' flood event impacts San Juan County - KOAT",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWFtRDhBcFN1UXc1MnlLUlpBdXBjZU9KS3JEdDQ0cFAxNVNmbEEzZ0tPbkQ4bVQ3S1c5TURuSGZONzNJM3FqVW5za1l1d0NxMlhuNV9qdmV1R2FfcWlCRGJtWU9nVU1VS2pBTWhjWGJGdDRlWk9wTEFrVGlhUmNxcUtxa2tnT3FYbjE4cHFqdUxtOS00QmtSVEZTTQ?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-24T15:02:00+00:00",
+      "seen": "2026-10-24T16:59:00+00:00",
       "domain": "KOAT",
       "language": "English",
       "sourcecountry": ""
@@ -109,11 +119,11 @@
       "sourcecountry": ""
     },
     {
-      "title": "King Tides drive coastal flood threat from Miami to Charleston as tropical rain soaks South Florida - FOX Weather",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGJobVZ6SnJGRldzNjEzcmFZbHBUZjc0aHJXbmRoZEZSajl3TmMxSEpJN1VNRG9lMENFdUJlaThPQ2tqenplNWFXZzhKV2M4TkJ4NmtzQXBKeEk4VmU1dXdjUU1WbFlCYnhLREJjWFhUbEFqeWRGLWpjaVEtSDRqd2tLV2cyNUlVUDJwNlFaVnFCNGxib2o4MFZYcGl2Q1NaNVBxekF0R3FoWmhXMWpB0gG0AUFVX3lxTE5QT0M0dkFVaFJzY2gtUXM2MUxPSnBBTkJlWFY2N0RURkpNY2tqR1VCZWtZaGN4NVVhMmUwQU00NjAzaFZ2YVJ6TnNVQXI4cmNBZzY3TV9RelFFcWVrYWh0TmgzcjFBSGFZS3VTX2VqSkhCaXM5Yjh3ZDgwM2FyRXQwaWZaWk9YY1g2cjZicWJXelFWcUxCUWV0X3lHTHFmb2RJUExPSFBlT2xrekVsRzNvWTUzTA?oc=5",
+      "title": "Flash flood threat shifts to Plains this weekend after pummeling Four Corners, Southwest - FOX Weather",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEJMVEYwVklzMlZFcTdVTnRiWmphMHVmVExjaHE5d3RnNzZzZVo0WE9rd2x5d0JqR1ZtQ0IzVzBaY3BGaXRVc3VjU1hvUmNYNm9SZlJ2QTFNTy1FUDZueGtGSnBWYnhBbDByNTYxZEUyZ2NlRVBrQV9LRERoU1JpaHNDT1dra3lWcE50UXhQbDhKWk9xakxIVdIBngFBVV95cUxPNkNQc1FCQW9lVkxQTUJuWkRQcmtIZ1VFR1phM1YtekVkTDhkRm5vZndSZHhnNWhWTGxnMENpV2J2d1hwN1l2WjVBbl9Ecjg2WjdqM0h1WFM5QUFFQmt5dm5WaHB0Zk5fQzFOaDY0UXJSZjFpMS1YX2Fzc3BsRl9CdFVnM2ptdEpNZFZ6bHFDenhtNHUxdE5GZEVnWkFQUQ?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-24T11:18:00+00:00",
+      "seen": "2026-10-24T12:53:00+00:00",
       "domain": "FOX Weather",
       "language": "English",
       "sourcecountry": ""
@@ -139,12 +149,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Flooding and road closures impact southwest and south-central Colorado - Colorado Department of Transportation (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkpUVkdjSmtVWWJDcmdtVWQ0QTZONnJIellJMVNzbl9FUFd3Ulo2VWRDcDZ1OWNIamp1bDJqekhXeWUxblctVkRaY2dvNGpBWi0wS3BDMlhwa0U3cUVaeG9JdGd2RWVGT3BqVDBYOFZhZjBzS2FncjE0Qy0wazFTX2NRNXAwaVV2VVg0VlVpN3ZoTjdQTnczY2MwTlFRakk?oc=5",
+      "title": "A preliminary magnitude 6.9 earthquake hits off the coast of Vanuatu - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVnJ5akFHRTRFX1lBX2YzZndsajBUSVBtRGhEcVlSWklZZXhxNk1Ha08waHVDb3I3SXFYUWw0RkJJRzRnQlp0VVBBcC1HMk91TGVEd2pweUl2MFd6T2I4NzczR1IxdEpsWVl2QVFqUUZhOGVST3dKWFJMakt2UTdRT2l4UGJxTnlYcFJGMlI0QnVjSjFiS1I3UnVYSUpQTFEyaFM3MVN0dmRRWERxRjA1clBR0gG3AUFVX3lxTE1IWTJlU3RoaFBCdEUxaXlSb1FjUl9sc2JkRTFrT0lhMW91d1JUWXNuS3pUbGFCbjIzWWo1aHBLWkZpa2QxWEQtMERDRjc2RnVnYUN1SlhPeDZ6eURmOW5FZ1pPSnY3c0FpSTk0M1U5SFFrRi04NTNudUhQcGNvNkEzbEFCeGZmcUFOVFRKc0pvdnJLbWE1MEpjN3JSWFNjSjZZZHYyMHlaaEp2Q0hvRjByMDF5U2dMOA?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-24T08:16:18+00:00",
-      "domain": "Colorado Department of Transportation (.gov)",
+      "seen": "2026-10-24T07:48:30+00:00",
+      "domain": "ABC News - Breaking News, Latest News and Videos",
       "language": "English",
       "sourcecountry": ""
     },
@@ -159,22 +169,82 @@
       "sourcecountry": ""
     },
     {
-      "title": "A preliminary magnitude 6.9 earthquake hits off the coast of Vanuatu - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVnJ5akFHRTRFX1lBX2YzZndsajBUSVBtRGhEcVlSWklZZXhxNk1Ha08waHVDb3I3SXFYUWw0RkJJRzRnQlp0VVBBcC1HMk91TGVEd2pweUl2MFd6T2I4NzczR1IxdEpsWVl2QVFqUUZhOGVST3dKWFJMakt2UTdRT2l4UGJxTnlYcFJGMlI0QnVjSjFiS1I3UnVYSUpQTFEyaFM3MVN0dmRRWERxRjA1clBR0gG3AUFVX3lxTE1IWTJlU3RoaFBCdEUxaXlSb1FjUl9sc2JkRTFrT0lhMW91d1JUWXNuS3pUbGFCbjIzWWo1aHBLWkZpa2QxWEQtMERDRjc2RnVnYUN1SlhPeDZ6eURmOW5FZ1pPSnY3c0FpSTk0M1U5SFFrRi04NTNudUhQcGNvNkEzbEFCeGZmcUFOVFRKc0pvdnJLbWE1MEpjN3JSWFNjSjZZZHYyMHlaaEp2Q0hvRjByMDF5U2dMOA?oc=5",
-      "category": "DISASTER",
+      "title": "Department of War and Lockheed Martin Finalize Landmark 10-Year F-35 Deal, Securing $7B in Private Investment - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSkJPOFh3LWJkMDJXMzdvdFdGX0NsTFZPYzFyNGRrdV9RU2RmZmU0Nk45TUFueUlNYzZqWllTLU1SbmFEZzZ3LW5haDA5U3Zhbl91TnZ4VkZNVzNwMmdQLS1yVDVmX0FEb1Uyal9ma1VCUXFTWkE1Z1hPT19mVDRVZjUxRFI5UTRIOEdEV0tkQjBMTDRKcVAzN3N3b24zbVNNS2ZSNXVsSHlkQlJVR1R3Sm9QSmgtTmRmZjk2M0R3THBMZEdqOXlKRkFWci1yaU15WFZjVA?oc=5",
+      "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-24T07:48:30+00:00",
-      "domain": "ABC News - Breaking News, Latest News and Videos",
+      "seen": "2026-10-22T10:22:46+00:00",
+      "domain": "U.S. Department of War (.gov)",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Opinion | Iran war fever is rising again. The battlespace has changed. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmozelRrLWFLcnl3U2U1ZjhUOFFTOS1uWGdFc0Ftc0lxb25Jdkh4cy04Y2JNaUNZSGEzMUFUcHlhSDEyS0NjVU1pdjFsMmJBS1JaUlFpWnVxRlNZZUx5TXFaVkxBekl6bjhDWHBBclVBR2QtOUFhVFF2WjVhUUlzaEMxTFlWT3VyX2NzWGdRZmVyWk1LVDVXcFVxODR2VG5GQWc5bjlWVG9Sdw?oc=5",
-      "category": "CONFLICT",
+      "title": "What to know about the Melania Trump-brokered ceasefire in Russian-occupied Oleshky - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONllIN0YycVhheUhkdFhFSTdabU5DMmJGMFNIQS15NWYwQV9BTS0tV3lPeHJkUGVsWmNNX3FZMkI5bEdzUF9sNXAtUklUb2JsRDZ1UkNScEFJMHRjRWZITGJxMS1hTWdyM0hhdjk3eUM2dkNiTG1IVjQta28takE4YUUwaWYtQ0MyNGE1aFkzUS1VQXQyNkEweDl4TWZYRGx4NlpZU2szYi1tdw?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-24T12:31:00+00:00",
+      "domain": "AP News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Arkansas Storm Team Forecast: Another week of high wildfire danger ahead - KARK",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWkZiWFVlWjdwR0VOZUd0amM3WXpiWUxEazEtN2NjSlo5MHlseVhyR05tSnY1TURYYktuMnhYd09NZHBMTzl5ZWZqYnBtSWhka3NraXcxSmxHTmdyeVNCLVJpUmRDM2VWQnlQbFV4N2tPV3lzWmxPbGdTajIzMThvS2dwMTl1aUtsTGxWSjlUSXJvNXhiUkxrM0wtd1duUGZTYmpEQ0QzZXdCTW1KaXpDTmpuVTd2cWNabV9J?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-24T02:12:45+00:00",
-      "domain": "The Washington Post",
+      "seen": "2026-10-24T19:55:55+00:00",
+      "domain": "KARK",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-10-22T07:00:00+00:00",
+      "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Oct. 24: Earthquake measuring 2.5 shakes region near Toms Place, CA - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByRk9JbGg3TFJEa2VodF8waEZTemhuNHhuQnRBczlRZEV3cnpCMnp4c1NadEdKckRXMXJtdURiZWxrOXp0dXdwX2p4dGZObjN5TTdnbjZyMjkwTjlSQ05xb2ZiVmtqek13QnlhUUphczZkSDBWdFlsSW9lZWM?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-24T19:04:06+00:00",
+      "domain": "Sacramento Bee",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Rescues and emergency response continues amid historic and catastrophic flood in San Juan County - KOAT",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN3I2Q1BCRGVjYTZObjdQXzE5cWR3UXd2aDRvaTFzRklwYm5kck8tY1FvZTM1VER2Y0xVdXlPcnA0S1VXeU1JSnh1QThTaDJ1MmwzZkZuanBBZ243S0xCYzVva1VmSkt4djl1Rm1JbFBXTGR1WDVYMjlPRE1LX3NZYi01Tno?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-24T19:06:00+00:00",
+      "domain": "KOAT",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "King Tides drive coastal flood threat from Miami to Charleston as tropical rain soaks South Florida - FOX Weather",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGJobVZ6SnJGRldzNjEzcmFZbHBUZjc0aHJXbmRoZEZSajl3TmMxSEpJN1VNRG9lMENFdUJlaThPQ2tqenplNWFXZzhKV2M4TkJ4NmtzQXBKeEk4VmU1dXdjUU1WbFlCYnhLREJjWFhUbEFqeWRGLWpjaVEtSDRqd2tLV2cyNUlVUDJwNlFaVnFCNGxib2o4MFZYcGl2Q1NaNVBxekF0R3FoWmhXMWpB0gG0AUFVX3lxTE5QT0M0dkFVaFJzY2gtUXM2MUxPSnBBTkJlWFY2N0RURkpNY2tqR1VCZWtZaGN4NVVhMmUwQU00NjAzaFZ2YVJ6TnNVQXI4cmNBZzY3TV9RelFFcWVrYWh0TmgzcjFBSGFZS3VTX2VqSkhCaXM5Yjh3ZDgwM2FyRXQwaWZaWk9YY1g2cjZicWJXelFWcUxCUWV0X3lHTHFmb2RJUExPSFBlT2xrekVsRzNvWTUzTA?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-24T11:18:00+00:00",
+      "domain": "FOX Weather",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Navajo Nation impacted by historic flood on the San Juan River - KOAT",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXhqZUlrMV9HcVk5a1M1WUNtTXdfN3pfc3phRFlZR2xUSkVXRnd6NFBFZlFfc2QxRFlHaXAxRGRGSkZHTnpZZDdJRUxET2IyNnZaREdtdWxZcnFKNW9FUTBQekdxcTdWdnI5WFNMeE85RVpoYWxMT1Z3M3RJOUNEenctc0M2NmlZ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-24T16:16:00+00:00",
+      "domain": "KOAT",
       "language": "English",
       "sourcecountry": ""
     },
@@ -189,11 +259,11 @@
       "sourcecountry": ""
     },
     {
-      "title": "Department of War and Lockheed Martin Finalize Landmark 10-Year F-35 Deal, Securing $7B in Private Investment - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSkJPOFh3LWJkMDJXMzdvdFdGX0NsTFZPYzFyNGRrdV9RU2RmZmU0Nk45TUFueUlNYzZqWllTLU1SbmFEZzZ3LW5haDA5U3Zhbl91TnZ4VkZNVzNwMmdQLS1yVDVmX0FEb1Uyal9ma1VCUXFTWkE1Z1hPT19mVDRVZjUxRFI5UTRIOEdEV0tkQjBMTDRKcVAzN3N3b24zbVNNS2ZSNXVsSHlkQlJVR1R3Sm9QSmgtTmRmZjk2M0R3THBMZEdqOXlKRkFWci1yaU15WFZjVA?oc=5",
+      "title": "Department of War Publishes Seventh Release of Unidentified Anomalous Phenomena Files on W - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcm1rdGlKMWR5dEJnRWR0dWVDZ3p3VVd4aFpsWHhIQXliaHBneEJ5WExmNWdPbHBZbDhhQXVrMjFNR19ka1ZpSEpoUXJtRkZtc1dITzIyWi1nOE1xeG9DVmluSzBzTHVwVkZWSWdXZThraFFTdlFWT2M5ektxczRXekEtTC0yLTFNS2lGZFBLai05eVNtb1BETHJ6TE1EN0tJUjNrRnl5THdRZVJvVnhMSWtsZmFCRU1jRVJxOWQ2ZmZOa2N3TmFYRk9mbnk1M1FMWFNpXw?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-22T10:22:46+00:00",
+      "seen": "2026-10-23T12:02:12+00:00",
       "domain": "U.S. Department of War (.gov)",
       "language": "English",
       "sourcecountry": ""
@@ -209,56 +279,6 @@
       "sourcecountry": ""
     },
     {
-      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-22T07:00:00+00:00",
-      "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Flash flood threat shifts to Plains this weekend after pummeling Four Corners, Southwest - FOX Weather",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEJMVEYwVklzMlZFcTdVTnRiWmphMHVmVExjaHE5d3RnNzZzZVo0WE9rd2x5d0JqR1ZtQ0IzVzBaY3BGaXRVc3VjU1hvUmNYNm9SZlJ2QTFNTy1FUDZueGtGSnBWYnhBbDByNTYxZEUyZ2NlRVBrQV9LRERoU1JpaHNDT1dra3lWcE50UXhQbDhKWk9xakxIVdIBngFBVV95cUxPNkNQc1FCQW9lVkxQTUJuWkRQcmtIZ1VFR1phM1YtekVkTDhkRm5vZndSZHhnNWhWTGxnMENpV2J2d1hwN1l2WjVBbl9Ecjg2WjdqM0h1WFM5QUFFQmt5dm5WaHB0Zk5fQzFOaDY0UXJSZjFpMS1YX2Fzc3BsRl9CdFVnM2ptdEpNZFZ6bHFDenhtNHUxdE5GZEVnWkFQUQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-24T12:53:00+00:00",
-      "domain": "FOX Weather",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Navajo Nation impacted by historic flood on the San Juan River - KOAT",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXhqZUlrMV9HcVk5a1M1WUNtTXdfN3pfc3phRFlZR2xUSkVXRnd6NFBFZlFfc2QxRFlHaXAxRGRGSkZHTnpZZDdJRUxET2IyNnZaREdtdWxZcnFKNW9FUTBQekdxcTdWdnI5WFNMeE85RVpoYWxMT1Z3M3RJOUNEenctc0M2NmlZ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-24T15:00:00+00:00",
-      "domain": "KOAT",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHlzeURsR3Y1eUZHZDhJMDV6c1NmazNhamplQlF4LWNZNUswWlVhNDBNa3FaRmRyNmV0U2tiSXk0M0ZHSDRnYl9iS2ZBWHA4MnFkbWdYR2R6M0tLV2tSNWpBaEpYcXREZlBGYzBNdERTdWloNk0wTENNNlZ6dC1wdVhKV0ZCdmIyajJpRTBSeER5dU55VHRLeGEybzhHRGQzNGZWUnMyX1NLbzNRbDkxNXVB0gG3AUFVX3lxTE5qTDdlWnc5Zlc2aGRVTFhpcVoxT2VnWnhmeGdfeS1xWE44WUp3RjZsNmMwOUx3dXE3amtWTGxnQlg0SU82VXA4bGNEQjlFM3Y3UzZqSk03M2xTWmpseFlEd3NvXy1lc1UzanlLbV82eVVIQ2wyWDJ6enJCSDRYdjQxT0FSbDhqYkhUa2pQWEJDWjRsZFRDRmFENnpaMzlBNjBRMnR6WFVac1p2eC1YdHhOdjh0NGMyaw?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-24T00:19:34+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Russia, Ukraine agree to US-brokered, 1 city ceasefire - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQVYxRW9ZOHFXQlE5YzlSRmZWSkVyZUNoUDUxZ285cGt6V0tQRE5PX3NRRUpxWm5lcWVUZnBON1VsSC1PWkJWNnRrclVLdW56U05OYzVJbGc2UWNZcy1xZWhkcFRkRTdZZXpBMkJWeWF4Xzl0VTNycndTNThGTnlEMmJ3elJUdzRQenhRR1NB0gGOAUFVX3lxTE00VmpoTXF4NllzNmxCS3czdk82QVpoamZCWlhLSFhObHM5NEdQUjdrUjl2YlpMNGEzVTNwcXczYzhKUU5FRzJibWRKbzFobndwRHBNZjJCRU9lTzkyeWFZd01TcVZlNFpFVC0yUzRidFIzNmZSNndkQVcyNVQwSVNseVFBUjYtaXA3UVJpcnc?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-24T07:31:17+00:00",
-      "domain": "DW.com",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "No tsunami threat to Hawaii after large quakes hit off Vanuatu - Honolulu Star-Advertiser",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT1JPcExYS08xcUdaMXNzcUpYanpIY2JqNnJoV3dHblJDdEt5c0tueFpVa0hhRTdwN0VTQlJIREdzdmRsT2llM2w3ajJsbVRjLXhNTWc4UkdLbFlnVVlrbGh2M2cyZUxudHpNaGQyNy0wM050SXZyaW10dW5GTFh2amhySTAyc0tnR0ZXOGFad3d3aEJfX3lUVUM2WDZ2S04xa21TX2F1bXMzdEE1WlNrT1hfNkV6ckp5Z2Fz?oc=5",
       "category": "DISASTER",
@@ -269,32 +289,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Department of War Publishes Seventh Release of Unidentified Anomalous Phenomena Files on W - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcm1rdGlKMWR5dEJnRWR0dWVDZ3p3VVd4aFpsWHhIQXliaHBneEJ5WExmNWdPbHBZbDhhQXVrMjFNR19ka1ZpSEpoUXJtRkZtc1dITzIyWi1nOE1xeG9DVmluSzBzTHVwVkZWSWdXZThraFFTdlFWT2M5ektxczRXekEtTC0yLTFNS2lGZFBLai05eVNtb1BETHJ6TE1EN0tJUjNrRnl5THdRZVJvVnhMSWtsZmFCRU1jRVJxOWQ2ZmZOa2N3TmFYRk9mbnk1M1FMWFNpXw?oc=5",
+      "title": "Opinion | Iran war fever is rising again. The battlespace has changed. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmozelRrLWFLcnl3U2U1ZjhUOFFTOS1uWGdFc0Ftc0lxb25Jdkh4cy04Y2JNaUNZSGEzMUFUcHlhSDEyS0NjVU1pdjFsMmJBS1JaUlFpWnVxRlNZZUx5TXFaVkxBekl6bjhDWHBBclVBR2QtOUFhVFF2WjVhUUlzaEMxTFlWT3VyX2NzWGdRZmVyWk1LVDVXcFVxODR2VG5GQWc5bjlWVG9Sdw?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-23T12:02:12+00:00",
-      "domain": "U.S. Department of War (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc28yS2Z0aVExaE1CeEZtYURTUG5NMDBhZnVidVctdjJZak1tMk5oQy1aU0dlQzBJbEV2SWlUdUdxNC1YMngyZEhLM0l3ZmI5dEliUjRPNVdsSnV2QWV2TS1TNVhaN2RTYlpSaEFCMjFHRGs5Z29Cek10c1BfUEZROHpjd2NIRHFfNEhLUGdhbDBXQ2hfXzUtc0daeHZPRlpoTXo5TjlvTVZuWXgwVmtEbG5jemZUWDRvRDJvWVQxb3VKdzZucnBlUEhPZw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-23T20:04:09+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Governor Jared Polis expands flood disaster emergency to 12 southwest Colorado counties - Denver7",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckVwcHd0TktfY2QxLTctR1o3aGg4bHdydHBYc0RjdWxsQkhaWGRtUXVJOXVuSlVtSVBTSXRhczU2SjZHU0x0a3NVd1YxaWpIdDV1NElmYWRBS2tQZl82bDdCY0UyNGtnNkJsVnd2SlJNa0JSenZneVNiNktycEFTdEZiOWRXTHFDNU8wdzZlTVpjaG5LN3BxX0RWU3dDb0NxeE9EUkN1X0NxdlUxSDhTUzlGNnBYTHl6WTIxYU04LWJWdjBhNGc?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-24T10:35:30+00:00",
-      "domain": "Denver7",
+      "seen": "2026-10-24T02:12:45+00:00",
+      "domain": "The Washington Post",
       "language": "English",
       "sourcecountry": ""
     },
@@ -309,22 +309,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFNJeDNkbkFpbnliam8zamd3UU1pZjgzS1JkNTF3M1dRcG0wbm8yZnpxMmp1UDdGdWpPZ2F4WU95YzZnTzVURnNlbDFId3VzWEpmMnJNQkxSY3ZJRmEycDVFR2F2YUpGaVZLbjZNbm1fTkRiclV6a3pXVmZtekVWaU52aHhHMHl0R3ZjX0hKQ3Z3SjUydzdsSklfRTVReUl2Mkh3RFlZRk0xUW4zVWZkbW5YdEo0UkZsRzZqZ0lIMA?oc=5",
+      "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHlzeURsR3Y1eUZHZDhJMDV6c1NmazNhamplQlF4LWNZNUswWlVhNDBNa3FaRmRyNmV0U2tiSXk0M0ZHSDRnYl9iS2ZBWHA4MnFkbWdYR2R6M0tLV2tSNWpBaEpYcXREZlBGYzBNdERTdWloNk0wTENNNlZ6dC1wdVhKV0ZCdmIyajJpRTBSeER5dU55VHRLeGEybzhHRGQzNGZWUnMyX1NLbzNRbDkxNXVB0gG3AUFVX3lxTE5qTDdlWnc5Zlc2aGRVTFhpcVoxT2VnWnhmeGdfeS1xWE44WUp3RjZsNmMwOUx3dXE3amtWTGxnQlg0SU82VXA4bGNEQjlFM3Y3UzZqSk03M2xTWmpseFlEd3NvXy1lc1UzanlLbV82eVVIQ2wyWDJ6enJCSDRYdjQxT0FSbDhqYkhUa2pQWEJDWjRsZFRDRmFENnpaMzlBNjBRMnR6WFVac1p2eC1YdHhOdjh0NGMyaw?oc=5",
       "category": "CEASEFIRE",
       "severity": 1,
-      "seen": "2026-10-23T21:16:00+00:00",
-      "domain": "Reuters",
+      "seen": "2026-10-24T00:19:34+00:00",
+      "domain": "Al Jazeera",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "‘A terrible crisis’: San Juan County officials describe widespread flooding impacts - Source New Mexico",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSV9yR0tFNTBSLU1DeEhNWXlEdDU5VmZaUTVTX1FvZlRaWWpHQnpORENaNXdQM1d6dV9mU2gzYnpVT1JOYnJmWVd3c29QdUpyaFhhUU5ybE5jZFh2RWFXSWE1bnl3dVdPRlRxMlFJenJfLXZsOGhONHFjRFNEOWpiLUlKaTY2ckcxSUhDSGt0UE1RNG9WeXhEX29PMHhQZ1JtLVpCN1dJQVZsOUpidTFDTnJmOA?oc=5",
-      "category": "DISASTER",
+      "title": "Live - US warships ready for potential strikes on Iran, WSJ reports - Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiblkxNnVtVlJKZk9CWDVFRTZvY2F6bWZORmVtSkR4NVY4VzZQa3dPZy1KNE5EbUpvMWF3TDk0VEY5QnAzTmFWS3FjenBLRHdpU2UtMjVKZlphZl9tRkE?oc=5",
+      "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-23T20:10:58+00:00",
-      "domain": "Source New Mexico",
+      "seen": "2026-10-24T20:14:36+00:00",
+      "domain": "Iran International",
       "language": "English",
       "sourcecountry": ""
     },
@@ -359,52 +359,52 @@
       "sourcecountry": ""
     },
     {
-      "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90UjZEMHJTSmRjVzFrQWQ4SE9ad1FGYTB3ckJzTENRaWZYdUtJcWJta2I2X3p4MlhPUkNUamUxVkJGVFBya1Z0ZzlKQTFnWklpY1g2d3cyVQ?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-23T20:22:37+00:00",
-      "domain": "UN News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Portland Beach Road may close as high tides bring flood risk - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbG04SUF3UjlpcFkwMHpNZU1SbDZIam9OemtiVlhFVGRjZVlRYXA1RUZXMTlCYmx3Y1hKakt2ajVfUXFWYktSZlNEY3lfdjNWMU53dFBfTEtXQjA?oc=5",
+      "title": "2.0 magnitude earthquake shakes close to Cobb, CA on Oct. 24 - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZZ3Q2OTNOQ01vQXZCVkM3R21FSkxsMWhVMVNuZ1JScGlxTWpncnBvbmZQMWlvTlZiSXFLMDA1cmJiX0F1TUc0XzFTMmptajFLaTZUMWN0TWgxZ0Q2QmNoeVh2NHlIbERUcXRibzZKMnR3eXRjM3hGTGNTOU8?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-24T14:06:24+00:00",
-      "domain": "BBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump Prepares for Iran Escalation After US, Israeli Elections - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbS1tMzRuM2wzRGNDV0R5b3o5N3p0V1U1OVhreW01YXB6dWdmQlBCMS1Hb2FmQnJYYVZsSVJKNG5pVHFGN1pqWlJYUk13cC02OTR5RWpZczZ1c21KMjkyMmIxOXJOQ1VDZFg0V3pSTENZTi1DM1NDeGx1OHJBVVc4TjlyeG84ZUhTZ3NXVnVHZGZVaE9tVFFoSHVkUlJoeE5BMkJJVU9kOFNSUG05YVRtc09R?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-24T13:00:00+00:00",
-      "domain": "Bloomberg.com",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "First Lady Melania Trump secures ceasefire for Ukrainian city - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQkVEWFJuNWdyTF9IdWZoZW03aUZBM1FpSGtVVElaa2tRVldsT3dyeGQzRjh6TlEyS0trNHZWblRuS0xmZUN3MVh5aUJ1S3gyZnlrQlNPM01uZXRPWnE3ZmRDcG4wcktid084RTIxeW41b3BwUHpjSFg0T0c5c2N6MzRTMWlGRUZRNTZaTXh5OER1M0JOMFRoS1VpU0hOeFJGQk1yOHMxTjRrN0ptMjQ2bnl0bEFHY2NC?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-23T23:14:59+00:00",
-      "domain": "NBC News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "2.1 magnitude earthquake shakes close to Coso Junction, CA on Oct. 24 - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YQ2NPSFBncVc1WFZYQjBsaUhTellYZ2Q3V2k1dXZOWjM2aTQ4LWY3T2VwR1pHUVNZbnFfVjdHU3diZXlPdHBfTHp0SkJEWnhGZ294Q1A5VVE5alVTd3kxNDlzbzdkbTZtNFB5Q2VuSGhPUmZSYjVSWDdxTmc?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-24T11:29:06+00:00",
+      "seen": "2026-10-24T19:58:06+00:00",
       "domain": "Sacramento Bee",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Injuries in China's Tibet rises to 76 after earthquake, death toll remains at 16 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3RUZTBjRENZY1ZLS2FfZzJIWUN6QVdCcnYzQXVtc25yZFJMZTg0UVpSMlAzM2ZqQzVzSVBvclp0NFZDb1drQ29zZTlnakRnNXc3aE42R2ZId3RqSll2Q0dBamdNdzFUUnVTX19vWC11XzVJTTZ0QmxIazVPcDY2S3pFeDduc2oxaWlTQ2k4b1pQbXo5RjdNb0Q1TFBUbHh4UjZfcU9laE5sdVc1Vk1PUmRkOVZqZkk?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-23T03:18:00+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Powerful Earthquake Kills at Least 16 People in Tibet - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kaHFyQlBNNFF4Vzl3M09jTG4tWHByRVdCZzlyVGZXOU05VmtNS3EzTFlSUlRhd2w5VUliMjZjbTBQaThWZkNBR1BWdERWTGtSRGZVd2VyUkQyWE5kRGxVM21WTjRVVUZXekR1RU1ZVU05T0lkNnltMy1qbU9LUQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-23T03:56:57+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-22T14:58:00+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "A Philosopher of War Changes His Mind - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTGpCOUROVVlGRF84ZnIyUXBUaEh6UTB4ZWdIV0FTUVFmWC0ycVRVbF9WUlEtbDYxTXdYZXFUWEpiem83SXZaeVgzbGVfcVhScGp1TGl4VG83Qm8zWlZMSTVhMzZnRWNoVEUyc3RiNW9QSF9nUHp1QmhibHZSNDM2MEpGelZmUFBNbXliSnpxWGpGTEVJZXc?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-22T10:00:00+00:00",
+      "domain": "The New Yorker",
       "language": "English",
       "sourcecountry": ""
     }
