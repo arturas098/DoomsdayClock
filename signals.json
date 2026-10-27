@@ -1,13 +1,23 @@
 {
-  "fetched_at": "2026-10-27T05:06:25.734687+00:00",
+  "fetched_at": "2026-10-27T10:35:16.669634+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
     "google_news_items": 35,
-    "lrt_english_items": 9,
+    "lrt_english_items": 10,
     "errors": []
   },
   "items": [
+    {
+      "title": "More than 200 US troops to arrive in Lithuania as rotations resume",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3095090/more-than-200-us-troops-to-arrive-in-lithuania-as-rotations-resume",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
     {
       "title": "Polish man detained after wandering into Russia from Lithuania",
       "url": "https://www.lrt.lt/en/news-in-english/19/3094319/polish-man-detained-after-wandering-into-russia-from-lithuania",
@@ -59,16 +69,6 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "EU working on multiple fronts to limit Russians from entering bloc",
-      "url": "https://www.lrt.lt/en/news-in-english/19/3083275/eu-working-on-multiple-fronts-to-limit-russians-from-entering-bloc",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": null,
-      "domain": "LRT English",
-      "language": "English",
-      "sourcecountry": "LT"
-    },
-    {
       "title": "What's In a Name: 'War' Sends Clarifying Message to Adversaries About Departmental Mission - U.S. Department of War (.gov)",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMmJLSnc2NThiYTE1TTF5b09SZnlPODlBd01oMWxOTUtSajFGSVo5eGdTZk8xemtiRmQwTkZIUVlEOHJNWE1ndkk2MFYwZ01kQW1rU0NTdTV0ZXZJR3ZJNUNJYi1ZdGgzZmZDSVJmUHN1Yl94X0xyeWcyN3pGN1hwN3VPVEZVU1RmV0x5NlVQVFpzQ0IzRDNEVUxxZElNdl84SVB5enBJWFdFYWlVSWxHOEVRamJhVzVhMXBKLWxQWlhfQTlIQkZqa0pRNGI2MjEyMzlWYXEzbWo?oc=5",
       "category": "CONFLICT",
@@ -79,22 +79,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "Ceasefire brokered by Melania Trump goes into effect in Russian-occupied town ‘on the brink of disaster’ - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWHZER19tTExKeXZxank1RXlBY1AyUl9ETWRLd05mX09uWkg1TnNxckVSRWs4dHJnS3JDYS1TOThqVkZxUHhTajhGc2FGbGxTYWZhT09uMDdUMjAtR1U0eFBmam84Q2RwMEZrQVlaQ05jWXR6RHNmX1NZNzBzRVJHTkVOWG13XzhCdEZ2N3lWVW9nbjFMUnN1LVpqN1dFcjJjUEFEcy16M01PWWNudnRHZlJScTBhZEwtVGtR?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-27T01:42:00+00:00",
+      "title": "Gulf states worry U.S. could pull most troops from region after Iran war - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNE1WRTBVQ1hVN2FDWmVZal8zT0dNcUt3NE5PV0dHWHVKU1AxRnl0dWp1Y2M4N0VWeTJITzRRa2RXS0dHdFpHSnFMTFh6TUI3ckNtWmh4aV9BNUVGTzd3d3NOYUVZbzRjSGxlSHJMVmtNcktKVHRYRHlhMnhyai1QSFFsanBwdDlSRFRLTE1zc3Njb01ReEE1ZW5fc1I1M3FkVHhWNUVTVDVDTEtWVXdj?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-27T09:00:00+00:00",
       "domain": "NBC News",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Netanyahu touts Trump endorsement on eve of vote, suggests they may restart war on Iran - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUluTlhFbGtJMWMtZ09ieVhSblh2b0Y4cWpleDVwWUVfUWVyanZIOHFhenFqaWRYZ0U0cEd6MFVjQk5xSXZkWjJNRmM4ZWdPa01KTHBRRjVHRnJPRWtlbGRwWFBNOFJnQ3F5Z2JZbjVFVE5ERUxDdmozN0FPUjRkaUpVNGIwRUFTVXhROU95dC1wby0wX2xzTlg2ODlZeDR2cmM3bHFFaHItbGJ6X3gxT2lwX0FONW11aGtoeWFXQmhmc00tWnlQZEhHQQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-26T23:06:29+00:00",
-      "domain": "Reuters",
+      "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine - NPR",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96c25NUTRRUWRJQ3doVDR3cTVmWnBPdTljNDRlUDlUTlg5QUV2MVlFWlhfSGk4Y25xeHdtZ1BQdkw1eUJGZGVMTGNCUWVXQnIzaXFDMnFTV0xWUEkyNmJRR2VIZUNiTC04UTFhblVR?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-27T05:26:58+00:00",
+      "domain": "NPR",
       "language": "English",
       "sourcecountry": ""
     },
@@ -103,28 +103,38 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdjZTTXg2eDNMTTdoVUJxdmFaaXVvb0hFdXBQaHJycnhNTU5jM0xtZ0k2VmlEdUIxSWcwZFd5OWRxaEdpTVBMSE9yNU5WTGE0M1RzMjYtS0FOWll6M0U3VHlqcXRLMUw4ZmxiNWc1T0NBS0F3SWkwV1E5X0VDUVEzSzRGVHVZQ3VUOUl4bzlQVXFucl91azBLeXA0RWdNSWNTd1NFRmZKRFl5VHhZ?oc=5",
       "category": "CEASEFIRE",
       "severity": 1,
-      "seen": "2026-10-27T03:47:00+00:00",
+      "seen": "2026-10-27T09:59:00+00:00",
       "domain": "The Guardian",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "State agencies order financial institutions to explain delays, denials in wildfire claim payouts - ABC7 Bay Area",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQVJIZE5HLV9MMkNuNmFzOWlVS1N1aERQTnNvV1I2Q2xqd09PNFQ5djFTSDFWNjFsUUgzOXNMUkZKQ3RPMzljT1dwTzQya2ZuYkt5VjJhUVhfVXItekFPRjI4Uy0wanhxOEtIa3VaUk45TnRVMEw0VXdOLWNycTdzR2Rjel80cnRFX0p0S1ZQYTRRQWY4eWxPRy03UVJGX0JfZE1SVEdCemZGVUhGSzgtNFdtb0M1VmtkYXMyVHlJWlcyVk3SAcgBQVVfeXFMUGIxT0pEVlEzWm5RVHQxMF9PZkEtWWFNSmV6XzlyM1FRUlBpR0tiLXNRNUVpemtIb1dMTXEzNURjeEdOMWlvR3dBVUp0RkdYZUlFWE90N3pvRkR4aXB1b2xNT2dwSDRaZ2xGazlVcUlWRnlEb0tFTmREOVBBeE1fbkZqNEc1ZWxVWHZFRUc3dXVtMWxUdGswb2tkaGp5N2hUQVF0WWYwaFAybFg0YlVOTzlxUVktVm5WcnRQYkg0RzNPSmJ5NUtkTHg?oc=5",
+      "title": "Newport Beach, Long Beach race to clean up flood damage before next round of high tides hit SoCal coast - ABC7 Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY1MxS2xybDVEWXhYeGFJMmhDSnJLMzc3RERFbGNDTENBcUVfZmtwbDYtOEFxRC1lUDNHYWJqOWcwMzBxN0RjQnpLUUNXeFdjdWRFbEdPUENKTlg4QXFqS1laX0cwV2YtX2xwdC0zTWVNRDg3UFpqQ2d4b1hJZERrbDZHQlpkZEXSAYwBQVVfeXFMT2pxc21MTGJfaDVhVnhxMEdoQVVOajlpVkdTVlNlZnNScllKUHVLMTB1YzlrRllxUHFaNEJDVDFnU2M2eHVqOEVVWS1CdXlDYXEyYUdHMHZqTVV5RzV5b0FtWkJvZ215MHpwUEJBdVdFNkNfeUk3ZEp4d0xueVJUWDV5aWZqRFVYZkxwNGY?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-26T22:40:35+00:00",
-      "domain": "ABC7 Bay Area",
+      "seen": "2026-10-26T22:19:57+00:00",
+      "domain": "ABC7 Los Angeles",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Flood Watch issued as heavy rains, potential flooding expected across Islands - KHON2",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPajNQOUNYdmxqRVdzVkZ1Z2J2dUVGWmdEdGNWYmZ2cnZwbm9RUUQ0aWN0b3YwYUtXVFdlaVgwRFdQNjdDZkxQXzhTWE9DczJTU0JlVUVHVUtFRmJid3pEVkVHN29YUkppVEx0Mno0eDZyeF9XazFEcjRBSERTSE1hSTNTWdIBiAFBVV95cUxNVFRWQXlqdkpfZzVXMnZhLUtXYTg4TzhtRzJqdnR1N1NXd0xQaHVxM1MxTHZObkthVlJxV2FJVGRfVFB3cG5IR2V6WFc2ai1aZHFxVVUwaWtlZmpyaUVVLWVlT2hVLVVVdFpkYTZsYUE1MkNOMkZCTzVIRzdlclYyUk1YQWJfOFBs?oc=5",
-      "category": "DISASTER",
+      "title": "Russia, Ukraine begin Oleshky ceasefire but keep up strikes elsewhere - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcmNDbG5UNU9BQktvTmJ4MW8yYWptYlVPd2ZRYUhZakItODJtZ2l1RHhOeFJEbGZfbDAxYVI3aGpYU3RyVEtLLWZHNHE2SkZnYUk0V1VsWHAtR0p5TkhBNENFMmpJTmU5OHI0bld6VEtuV3VCU29CdVVSOE1aRGFOLUVyVEhSMXNUbGdoS2tqdHl6RElKajZmbUd4S3RHSmNqdTFhSTJiTTZUcDc3YV9QNXdsT2oyS1ZfeU9VaDhjMzhPRHAx?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-27T02:00:00+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "‍‍‍Artificial Intelligence at Work {CV45RT} - NYC Health + Hospitals",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPME5UaHVQaWxHQ1FnWDBQU1h1c084VHZWMEU1Qm8zMDVqeklaTlBkVFpibW9iT1JhMnhPT2dFZEdBamxTTWlIWFlBb3lFUUpnS3dBM3RDZkpEcnpTeVJYTUt1WHNWcWlsWC1saVZzQWlXU2xaRFJUeW91a3I4NnBzWFpPNTgtS1B5ZTd2YWxNZnBiYnUyMjN2eU9nMkR2NnI2bE5lWExVNUxyb3VnZ1NqRnpKS1BVeVhfa1g1ZGV1akp2ZG5VaXNyVHBCR0otcWFoSi12RUxEUFl2Q01qcUoxMHBWcEkwdEZUZVIwTENpLWc0VlFlZTBSMkVsRDc5aHl1QlhOTXRnRjNpeTZjaHZGQTRUV2pnWDN1cFo5LVJsZXk3MC15a21wWWVEbWF4eFN2eTE1azlmdzEzYS04QWYwR2M5bkItMnB0QUFEcFFOSUtFSWs?oc=5",
+      "category": "AI",
       "severity": 2,
-      "seen": "2026-10-26T19:55:09+00:00",
-      "domain": "KHON2",
+      "seen": "2026-10-27T08:32:36+00:00",
+      "domain": "NYC Health + Hospitals",
       "language": "English",
       "sourcecountry": ""
     },
@@ -139,6 +149,16 @@
       "sourcecountry": ""
     },
     {
+      "title": "Flood Watch issued as heavy rains, potential flooding expected across Islands - KHON2",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPajNQOUNYdmxqRVdzVkZ1Z2J2dUVGWmdEdGNWYmZ2cnZwbm9RUUQ0aWN0b3YwYUtXVFdlaVgwRFdQNjdDZkxQXzhTWE9DczJTU0JlVUVHVUtFRmJid3pEVkVHN29YUkppVEx0Mno0eDZyeF9XazFEcjRBSERTSE1hSTNTWdIBiAFBVV95cUxNVFRWQXlqdkpfZzVXMnZhLUtXYTg4TzhtRzJqdnR1N1NXd0xQaHVxM1MxTHZObkthVlJxV2FJVGRfVFB3cG5IR2V6WFc2ai1aZHFxVVUwaWtlZmpyaUVVLWVlT2hVLVVVdFpkYTZsYUE1MkNOMkZCTzVIRzdlclYyUk1YQWJfOFBs?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-26T19:55:09+00:00",
+      "domain": "KHON2",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Delegations meet in Iran with Mideast region on edge over potential for renewed fighting - AP News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMWJncVBjVnZqc1hWNmxhZFFWZUZkS1hXLXcyOXJSeFphV0lJR3dGX3loYTVKVmdFMzFuN1ZNYktiRFAyWW1mdkhBcE9UaE01V1NveFJ2SUlzU1h5YW5sN084S19oeXBaRWRRZVdCWnlWR2kzN3F2ZVUwMmUtMlh1STBSUXZDdVc3clRBb3VESi1FNWM?oc=5",
       "category": "CONFLICT",
@@ -149,32 +169,42 @@
       "sourcecountry": ""
     },
     {
-      "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd05yanVUalZUaF96N3JPYjQtOHdSX0g5SXhxZ08xV1NYRk1yN2lwTndDMXZXR1NUcXFmdmVsenlIbWRMalBfXzFtSk5tVl9hdjgxQlhDU2V5VzJPTWlEek04c3lnMkt0bVFXZ0Q2a0praUUyV3BtbTlhaVBoMFRielVkV1pTYnlPMGVod1ZHMi0?oc=5",
+      "title": "Ceasefire brokered by Melania Trump goes into effect in Russian-occupied town ‘on the brink of disaster’ - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWHZER19tTExKeXZxank1RXlBY1AyUl9ETWRLd05mX09uWkg1TnNxckVSRWs4dHJnS3JDYS1TOThqVkZxUHhTajhGc2FGbGxTYWZhT09uMDdUMjAtR1U0eFBmam84Q2RwMEZrQVlaQ05jWXR6RHNmX1NZNzBzRVJHTkVOWG13XzhCdEZ2N3lWVW9nbjFMUnN1LVpqN1dFcjJjUEFEcy16M01PWWNudnRHZlJScTBhZEwtVGtR?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-27T01:42:00+00:00",
+      "domain": "NBC News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Saudi-led coalition says it downed Houthi missiles, drones aimed at kingdom - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaXlqZ2hqcnVxVFQ5c1dTTEZYVWdybnItSno1SHNHRnVNUmNvU3phanJwODI3U1FoZEpFYkllQmtYSVhEUUtGU1RhR1dvaXNKMHJMOFIyaS1aWk5xdWo0TTl0OXJHY0JHbjRuazNOaVJsMFVER1llQjdMU2poMUZmU3VzR3JzUDRtSVkzM2VzTVpmQk3SAZgBQVVfeXFMTzcyYWktUzV0Nk5zNzRWck1Ub3pXald0MDJldUdNVVgyUUxjMTJ2eXZVa1J0VW9QbFlJVktNekNudVRER2diN09fY2w4YS1VNGFQb2pMZ0JybFI0SUthU3ZPTXV3RTBMaEduVlFiSDNBVHhWSDZpRGNlc2RiT2FiVWRxVFd1dmlfNWpxdzlCVXRST1ZkRk5xN2Y?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-10-27T10:07:13+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "US consumers paying the most for fuel price spikes from Iran war, study says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXI0Ml92cUxsR2hZRHB2OHJLOXIxeHA5MkFFU2JTb091Vk93VXRZdEZ1MFV6OUE4eFBubzhPcDA4M1ZSSjNBN0hzR3dwci1RQzNRcVM1eFJEY0MxTGVRNWdEVGpxWTJvRWl0aFNmWHhYYjBpeDljSjNsRUV5eDlyRGZqVEctMjYyYkZ0cEFHSTB3RWJmc1FxeFZ2VnI2NW9jZHhkV0R5TmJKWkRIZlJ2U3BQbV8?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-26T14:30:53+00:00",
-      "domain": "The New York Times",
+      "seen": "2026-10-26T20:20:15+00:00",
+      "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "SoCal coast hit by widespread flooding as record-breaking tides move in - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdHM4Ums4X0RCZUg2aVQ1SG80UF9RN1YwZk9BVV94MmZVLUVMczVYdTFjeHVzZFV6R3dkOWx5T3ZzNk5JOTNySWlHeVlRWkc4UHR2bEkyV0w1UlM5bUIzNXh5N1dySmxXTGZoZWl6ZE9FT1VJajhwWlVhQ0NsRVY3SGEtNWNySlVOUnNDdmFnNEZCSUluZjBMdElrdGJ6dEhuNUwtU2RDeEt5a0c2SGNLTWdR?oc=5",
+      "title": "What officials know so far about major flood impacts in southwestern Colorado - The Colorado Sun",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtalh2UUVtaWk1UFR6MlAzWW5yNEtsWHJJZzRrVFlBbFZXY1VGUk91dzVTYmx3SGpWSGdhb2hXUE5CZkp4aXVDWWlXTl9IV0w0Nm5PMmsyU0Fhdi02UURUMHNIRnJIRDM3RDEwZXJKal9ZU2lNRVJYazJFaw?oc=5",
       "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-26T20:00:00+00:00",
-      "domain": "Los Angeles Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Healey activates National Guard as wildfire spreads to Berkshires - WWLP",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX3lvemIwaGVwRk1vNDh6eHhaYi1ybVluOE9rSDB0UzB5R2QzMFFmY1NTZHJMSkZMZ2tTSFY2OXA2UDdyaHNOVEt0cXVPeXpFbjA1R2ozbzJSQU9XR202amdWOGFYUHpQS2hQLXdDQmxPN0lfVFdUQ1RFX2U4ZVltNEZLRTdzaHZrWXRkQ2dzeTVzTGhyV3k4X2l6OF9kVjdzT0FzTlZUSnBRUdIBrwFBVV95cUxQRDIzYjVCNndkN1VOeVU4UTMtTTRVZHY0TDJMTFFOSklYdllDNFVpMkh6WWxYdU50aUNDRFprSGJMOVB6VFhKSlJYY1dJTVRpek1JYnBodE9MYWJUcUlFdTZweWJJSXNXMzRiOEJVOUFvLTVYczNDTFdVcHA2MDl3TDZTSUtOWDFBbkZUdzRkcTJIWGpnSlEzejFlQVB4V3JFcHRENGViTF9sczNxTVB3?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-27T01:37:46+00:00",
-      "domain": "WWLP",
+      "severity": 3,
+      "seen": "2026-10-27T10:03:00+00:00",
+      "domain": "The Colorado Sun",
       "language": "English",
       "sourcecountry": ""
     },
@@ -189,22 +219,22 @@
       "sourcecountry": ""
     },
     {
+      "title": "Netanyahu touts Trump endorsement on eve of vote, suggests they may restart war on Iran - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUluTlhFbGtJMWMtZ09ieVhSblh2b0Y4cWpleDVwWUVfUWVyanZIOHFhenFqaWRYZ0U0cEd6MFVjQk5xSXZkWjJNRmM4ZWdPa01KTHBRRjVHRnJPRWtlbGRwWFBNOFJnQ3F5Z2JZbjVFVE5ERUxDdmozN0FPUjRkaUpVNGIwRUFTVXhROU95dC1wby0wX2xzTlg2ODlZeDR2cmM3bHFFaHItbGJ6X3gxT2lwX0FONW11aGtoeWFXQmhmc00tWnlQZEhHQQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-26T23:06:29+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Flood warning lingers in Four Corners as inundated towns face sewage-tainted waters - NBC News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSDhteFZTSDJwSXpWMHpfR2N1YzhtVmZ3VFhkeXNNb3RwRG1sRVY0ZG40RHVDZE5oT1oyWGJkU2xTN1hxbWRQYjIxY3k1dHlsbWJhN0RQUVlJMGJGblJEU0F6U2R6ejVGRTdnaVZIQS1PMWZ1RHVWLWYzek8wREtwSkVicmRHQWxQNUtWYlBzbHp1WF9HQVNSVTMxN1lrUQ?oc=5",
       "category": "DISASTER",
       "severity": 2,
       "seen": "2026-10-26T19:59:56+00:00",
       "domain": "NBC News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine war briefing: Trilateral peace talks with Russia to restart, says Zelenskyy - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPczVkSVc5NFRncGJOaGdaeVIzblFSRkNfd3Y0akhLdE1HVUhmQmRrdnJNelU2Y1p2ZFpUZ2VRdHYxVTkxVkVIRE5xQWFEYVQtUFRPcUx4ODZDeWhpSEdUZ2YtRWxkNGVyakhvZXpXc3drSjIyTWJZVHBJMW9majFiR0xwSElGelpJRTBjSGZIREJSZDMyN0x2NXlGeWs1T29kQWNRNUp2VnpCSEg2YmFjMGpjTnoyWmJIVkE?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-27T02:19:00+00:00",
-      "domain": "The Guardian",
       "language": "English",
       "sourcecountry": ""
     },
@@ -219,21 +249,61 @@
       "sourcecountry": ""
     },
     {
-      "title": "Flood-weary US Southwest eyes forecast for more rain - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSTg2ZTlKdVdmc1RKN1FvSWp1YlVVa3E0TEJxc2FUa1F5bTlnSnFMMkF5ZWlfa0V2NkVQWVNTRGdLQ0tQTWVWNWpkSVZ1YmRSU1RyX0N3U0R3OWg4c0lwczBPQ1dMMG42bjdadmNlRGR3MnNta3hRcXU2UFhma1E1WjF6U3VmenMwME1HRklRSUIySGJ1R0ZaeUtvQllQbWt0Yzk2NEJQc3Y?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-27T00:55:00+00:00",
-      "domain": "AP News",
+      "title": "Dairyland Power considers bringing nuclear back to former Genoa site - WPR",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zamVOTXFIMXVxMHNYNmlYVkNpR25DU1QzZXU3aHB6SS16cGowdWhNWl9Lek1YdFRabVB4bi05WWJlZmg5d0hBZnpNdFlBTWU5SUtodWk0d0twelBwWnVCb28tUVVxdWNMTjY5Z3ZsQ0dRTUJ2NTJVY0xaSC0ycDA?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-27T10:00:00+00:00",
+      "domain": "WPR",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXpnLU1DZ3RHdUdUUEpLT1gyNHBacVNZczhrSkhzd3dLZV9RMl9HNUszaFNXRTN6dEctQnRoSVA4Q3Rfc1dFMlBmQ29vWExwa0kyRzdfSUl4RDNIcDA5ZllHQ25SYXhUdHd0VXF1OEN2LTYxdmU5aEt1UDgza0IwRGg0bnJRZjlLV0ozelVEdU1EVGNJLTJkREtWTjZUaGZrVEJlb0NkTGFVQdIBrwFBVV95cUxQQlZtUG9QcDFJVTdxOGdrb1R1NFVnZUFPRVk3VDhSZ1kxNEhJNmFEdVRQMm9OWDlsQ255bG00SlBsaElJM3RhVFZfWXBkU0R4a09yUlFLbHl3WnFMdWtPazVhYVFfSmdSalJtZDJLbnN0a0RLR0g3NlZqSEZ2eE9jOFB0VU00ZUxkOVRlLXY2MGx1ZHFSMDdnaHhKeTJoZW51RU9iVEJfTFB0Wl85TG9r?oc=5",
+      "title": "SoCal coast hit by widespread flooding as record-breaking tides move in - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdHM4Ums4X0RCZUg2aVQ1SG80UF9RN1YwZk9BVV94MmZVLUVMczVYdTFjeHVzZFV6R3dkOWx5T3ZzNk5JOTNySWlHeVlRWkc4UHR2bEkyV0w1UlM5bUIzNXh5N1dySmxXTGZoZWl6ZE9FT1VJajhwWlVhQ0NsRVY3SGEtNWNySlVOUnNDdmFnNEZCSUluZjBMdElrdGJ6dEhuNUwtU2RDeEt5a0c2SGNLTWdR?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-26T20:00:00+00:00",
+      "domain": "Los Angeles Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Berlin resident sounds alarm after discovering wildfire in the woods behind his home - NEWS10 ABC",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1ppZDZnWk41Nk13Z2dhMHJuSzEybHJIcVJ5YWg5UFpZOUYyZnpZXy1qVlhMMTd0RDhHelNubmRIODMxVE81Mk96a0s4QVRiRjRLNFppX0Rqem5RZ0wxTF9aX29uajh3WUx4OWh2RFdwNV9rSmY2MFdkLS01aWp4QWxLa3JKRHF4STRMMU1RQUJiRmhuZHc0OUVZeEN0d0MxZU0wZDM2Nkx2TC14QlJJN19yY9IBuAFBVV95cUxPUzUyQTA1WUJBQmVIMWVfZDFlcEN4azRMRnU3Q2pxTGJoOHlHVFIyQ3hUajYyZlNka3paY1VacmxxZDE1RkVUcmZscnloWVprX2dSWXU2RC0tOUgwNVhnYXdHUUZRVEVMRmlOdUpnRWhpTzBPRE1JYnROODJEWDJ6WkZqYm9HUWJueVFjd0VSYlJ3WHVKTy0tbW43RVNYWU16STY3UFFpRi1feXJSOGRYMzdYUmNNZFZk?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-26T22:31:37+00:00",
+      "domain": "NEWS10 ABC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd05yanVUalZUaF96N3JPYjQtOHdSX0g5SXhxZ08xV1NYRk1yN2lwTndDMXZXR1NUcXFmdmVsenlIbWRMalBfXzFtSk5tVl9hdjgxQlhDU2V5VzJPTWlEek04c3lnMkt0bVFXZ0Q2a0praUUyV3BtbTlhaVBoMFRielVkV1pTYnlPMGVod1ZHMi0?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-26T17:30:46+00:00",
+      "seen": "2026-10-26T15:46:06+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zUnlnMk5HcGo3aFhDUHJyM3l4R2tmdEJLT1hhakpqRnpTZTRKcEFjenlYSnJpTXhmWVRyY2J5OUhOWUpkNVIzM2FVRDB2VXU2MVY2YThZTzF1aU0?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-27T09:18:44+00:00",
+      "domain": "BBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "UN panel accuses Israel of ‘extermination’ in West Bank, genocide in Gaza - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRTR6dkhkUUFtWFkybVNYTlRKU2pEcENUZVZDR2xvN2RWZURVSE9HYUJ6ZUhTREV3ejhCLWtYaXAyWk1Nek5sM2RVOUNOYWJTbGtLUGVsTXo4WWNfOUtYUUhxaUwxWkdGSDJJZUkwOEJoY2wxQ1I2YmdKZ2dSTll0VlNjckR6NU5QVjh6Q2gyWVg2bU83ZzhUT2ZWeGxJaHYyeVVqM1hMLTBSQmNF0gGyAUFVX3lxTFAyeWNaVlNZdmptejJ5SFNxOHBiaUtpa0Nuak1BUGtCdHdPb0Z1R0NMNEcyVEswMHNYRy1RQkJkc2lfa0lRU0dJRkpMZUxqY21NdVpLS1ZBd05xT1lPWmtoQWJSWGNsRTdFQWwyRU42Y0NBdWNjR1J6X0xRbkZFaUFaWXdCNUNlcUV1X21yaFM1bG5YOXlxQnd6Nmpjb1g4eDZVYTFQOUg3U3lra2xyVjE3MkE?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-10-27T04:07:06+00:00",
       "domain": "Al Jazeera",
       "language": "English",
       "sourcecountry": ""
@@ -249,42 +319,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "Assisi Peace Meeting: 'We can choose life' in a world threatened by nuclear arms - Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWm1oLVgtMEpzQzRBNEZfalpJQzg2b2luSkxwUE41VnVKN0Y1MVhvX2xuVmJjVEVhNEJsdlkzYUlVeUo2eVZ0N0M4eHNGRjdlLTBGT1hWcXNsX1hhSGpUY3luMmFoNmllUl9RUGpMZGlYSG1XbXl4dkFqWndOcmFqMWhsaEQ2MXVyVkZfNWJyREhXcG41M3VjUjdITHRWZHlwZjBqTlVOaHdfZ3k5THN5Tg?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-10-26T15:23:07+00:00",
-      "domain": "Vatican News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Oleshky: the occupied Ukrainian town for which Melania Trump helped broker a ceasefire - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmV3Y25paUFiMk1UOGZkcDY4cHJiM3ZGNm9OSHpXMHJRemtuQVd1anhiZGxRM2pITkpQNnRsOFhJSERWS05zSy04bWJyUThJeE1EU2MxenhWZi1FY2FPNFhJaGhoTjlXVjJUSjZreFBOQjRuR19wOGhrU1NpOXdMQ2RaTUVQbW9GR1hZcDNWcVdzc182TFdIb1RiQXZuaDJiNVV4YmI2clotcDZjNGdxM0tTdUxYWjk3?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-26T14:34:02+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Flood Watch issued through Thursday as trough moves over Hawaiian Islands - Maui Now",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaW4wM2c5Q1JqdXA3Qjgwa3pCMTMxY1NyM29OOWdaS2JzaWhDNER6NndfQ2ZxRjF4NjNWVG9uTEROZ09ENjhVS0JUekVEVFFZYWRzUXVORUt5Xy01NlZBa3QtOG9DT01sS1IxOEdmd0FqWWxOS2JDY19ialVhZENRdEU3U2dFX2Jkclo5b05YSE5EWTdfSVJVY1FnT0hES2NWS0x4SHUyWEc?oc=5",
+      "title": "Flooding in parts of Marin County as coastal flood advisory in effect for Bay Area - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOVhobHRFWmc5Zk16Wi1HN3VlUDhoeHdzVjAwWVBndHFIQ3hUbFVXYWpwdkd6amtZZUtJSFgxdU1VM3NudC1fSmxqaExXdDJmUE1mOGoxdGJPU1ZadHNHME81QURCdGRIb2QzT3VDYS0zdTE4dE1KSTlOVWpjWVlUZzl2STNhZktRODBpaHNuQlltMnJyc1VnakotOTRFRUh0N1BESGp0OWxvTFJQeFE?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-26T15:32:21+00:00",
-      "domain": "Maui Now",
+      "seen": "2026-10-26T21:45:00+00:00",
+      "domain": "CBS News",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "King tides flood communities along both U.S. coasts - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYjZCcFFwRjl2MmQ3U2R2T3ozYV9LVkN5ZWNXRjFmWTZIcm5pSUs1eUZRZWJOTWZpVmk4bG9DZjY2Ykk2NkVpMDRxZVFPV1NFUzNDOHl0dzFDQjJJUkc1bWYtNU45SXF4NG85VUU1RzhhOWg1TTZwOW9Hb09QdlRIUFQ4RmxzRXBZdm45ZG1jVWczak9nWUZZeUYtWVF2TXFSamJwaW90dS1Udw?oc=5",
+      "title": "Flood-weary US Southwest eyes forecast for more rain - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSTg2ZTlKdVdmc1RKN1FvSWp1YlVVa3E0TEJxc2FUa1F5bTlnSnFMMkF5ZWlfa0V2NkVQWVNTRGdLQ0tQTWVWNWpkSVZ1YmRSU1RyX0N3U0R3OWg4c0lwczBPQ1dMMG42bjdadmNlRGR3MnNta3hRcXU2UFhma1E1WjF6U3VmenMwME1HRklRSUIySGJ1R0ZaeUtvQllQbWt0Yzk2NEJQc3Y?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-26T23:13:12+00:00",
-      "domain": "NBC News",
+      "seen": "2026-10-27T00:55:00+00:00",
+      "domain": "AP News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Congo’s fast-moving Ebola outbreak tops 10,000 confirmed cases as authorities race to slow the spread across Africa - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmhKSTBjVm9kTEljQmVqemc3QUlib0RrWTBUYk4zTTRYRmlhZkprbTgzZnNWSjNHWFozNU5LcU11Q0VPWkpybDRBT2h0b0hSQ3lZZFVZV3JXSXpJYm1qX0lnQWVvRHVKcWM5MVR2QUFyMHBFaG1KMUtQbk5oa1RMSk1FYlVZbW95aF9qYWRNUmxMZ1gzZDFZWk83UUxxUdIBowFBVV95cUxONjlGVkVHdXdjcTQ3a1VDR1M1NUpwU0xZRDgycThpRFEwdjRMMlZpWWZ4UmU0ekJ4Q25lUksybmxaWTNGT2pwNzlvU19aWDRGTjZWRnpFdzRlRUlNai1lNDNSZ2FqOHhsc2hKdlJWY1Frdm50U01HODlSaW1Ea1ZSZGRtS2xaV2xjRldkaG9fb0h5Q0ZDR3M5Z2R5Ymg3di1pYlFz?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-10-27T09:35:00+00:00",
+      "domain": "ABC News - Breaking News, Latest News and Videos",
       "language": "English",
       "sourcecountry": ""
     },
@@ -309,102 +369,42 @@
       "sourcecountry": ""
     },
     {
-      "title": "Saudi Arabia, Turkey and Pakistan send envoys to Iran in push to end war - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPejFkczNnNTlDQi1sY3d3VkFxUjVSb1lJWEFYVGV1dDUydnFKRmxwTzctQnNzRzkzUjd0c05YMXZiak8xX2ZYSnhWQjZ5QWRrbEFabS16VzJVS2U3aWhpbm9nU0E3YndHRVYxX09tcTRIMF9YZU5ZbXRNRHBQTExJNWZ4ZnhWQndPNk9mYVVyOGR4Nzc4Mlkzdjl6WUJSa0NEM3E5LXdlZ1NpZEFIVktCYXB3VQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-27T01:23:31+00:00",
-      "domain": "The Washington Post",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Saudi-led coalition says it struck Houthi missile facilities - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV1Y5ZzRwcWM2LTJ1S2sweGU5SmdhRGRyMVNteHRZRWpzM0o1Yks3U3c2clRxdDl0VjRwQ0tWbXZlQ1FobHJ3ajJDS0h0NHhLMlg0Q2hlbUVRSmE2b0MxM1EtZzdmb1B5WjVhRGJIWDg0dUlZN0Y1Y2NkRmFwQTdFTzIwMnZtR0p6dk9GYVo1TF9LNWQ1N0htaGdVN3Y0T0pJZGJHVNIBqgFBVV95cUxQd1hTSTAxQWN3bDhQbmtGYjUyNHUtYUhScXhSMFNIUVYwaV83ZHI4S0E1bG9kWWFWRjRrcENhQlVxZ25YZExCek52eU5RWlk4NjRxUUpsc3YzazRtc3NncllKekNRUnZwbmJjenJhNVhfUk5PYWNaTlY3U2V2dFpsM1pyWjg2YmxwcE1TR0h4TlBqMjJCanhmWklITHlmYU9HQ2pMMnlvemdkQQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-26T10:46:54+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "New Marvel Cosmic Invasion: The Siege of Castle Doom gameplay details - PlayStation.Blog",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmEzdUhWZ1VGWE0wSjltelB5Z1F0R3BDOHBrb3JJYXk4VDIyUEFMY1RlZHdfUmRKZDgzalE0M3V6bGhBWTZhVndINVNHd28wUzBiZW5UNHk0QzVWY1JoamFRNEFVNmFfTHNRNmdFVERpQU9Oa3NMdE1lYzgwcklpclo0QzNXU3VZVjFTSzJCcTVFMkVDVkQtVDJIVU9wei13cnRuUzBld2k5ZVhMY1E?oc=5",
-      "category": "WAR",
+      "title": "Assisi Peace Meeting: 'We can choose life' in a world threatened by nuclear arms - Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWm1oLVgtMEpzQzRBNEZfalpJQzg2b2luSkxwUE41VnVKN0Y1MVhvX2xuVmJjVEVhNEJsdlkzYUlVeUo2eVZ0N0M4eHNGRjdlLTBGT1hWcXNsX1hhSGpUY3luMmFoNmllUl9RUGpMZGlYSG1XbXl4dkFqWndOcmFqMWhsaEQ2MXVyVkZfNWJyREhXcG41M3VjUjdITHRWZHlwZjBqTlVOaHdfZ3k5THN5Tg?oc=5",
+      "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-10-26T16:00:09+00:00",
-      "domain": "PlayStation.Blog",
+      "seen": "2026-10-26T15:23:07+00:00",
+      "domain": "Vatican News",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Department of War's Office of Strategic Capital Signs $150 Million Conditional Loan Commit - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUHh2am4xdndrVmRlbkNwTHRPMDJmc3hoRWJBNzNHeGpmbm02VjNWY0p5ZFVmVTJxOE4zUUtpSXJjR1JBRjdvVlpyRW1xLWFmekE2alJGV1dPX1JmV0hZVWJDOUJVWEpKVFlhSlVUa0Q2b3UyVEdfWVRTZGNobW9YZm9ZQ3FaVXQxcjI1dG00TW0yZnNNU2NTUHkxZkl6cWFxWXNWYUxUWmtUNmZIZi02dFlIeF91SkZZVFZRWVVKaW5lMWpJdHdFbmcxcGk5cEF4eTFQRQ?oc=5",
-      "category": "CONFLICT",
+      "title": "DRC’s 17th Ebola outbreak tops 10,000 confirmed cases - Outbreak News Today",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ1hDS0pJWDBxTU9meEpHbjB0SzFHalpuNlFxTk9wYngxMjdfNG1fd0FwVG9KeHdHM2dCbURtRGdLREtPXzFOQ1NaZHFidThfS19WWEZSU2RDVmt0UkJ6OUxCWlE2WW9EXzB3enc1cld1TnFZR1RPb1prMlJmYTR3VmZB?oc=5",
+      "category": "PANDEMIC",
       "severity": 2,
-      "seen": "2026-10-26T18:39:37+00:00",
-      "domain": "U.S. Department of War (.gov)",
+      "seen": "2026-10-27T09:55:13+00:00",
+      "domain": "Outbreak News Today",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Taiwan rebuffs China's commemorations for post-World War Two 'restoration' of island - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZjdsQURjQ0MxQmgtQVEyTGZiNzFRd1QtY0dsRXowVHhQRVNObEJLV0Vhc0tKQVZDbVp2a2Rmbklod1hURHFhUGVZb2JKRUdxMGxtSmxtcW55aV9fdG40eUhJNHZmUC1HLWlUWTVtekVVYTZqdGsxeEJtbEh5VkVQdFBYRS1rYzBoVVBVOUZtaEtWQ2FEQ3dpYmZyOENnRmZoRFVUT2h3MW9tNXE4a3JYZTY1RjhGUlA0ak5ENHRqTQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-27T03:42:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "First Alert Forecast: Flood Watch in effect starting Tuesday for the entire state, heavy rain expected through Wednesday - Hawaii News Now",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMUpRd1BlR2JkdU44QzRRUXlCWThfRE8yci1IZXNYeGY1TmlqeVA4WC1hZ0I4aXhvdlZfWENRdUs4SE12R1hXdnc3NVhNcDJoUmlsckVxX1NQY1RXTUE4TlktcXZLWTV5NW1BaE9TNmowOERnTGd2LWtDNHMwMjZhV1RnVTc5ajd4Z05TM0FsdF9JVExfQW5sZ1kwbFlFNnRkN19fVi1LM3lJVTNRVGxiSU1uaFRNcEVaWkRtVlpQbmpibTh1X1pySV9EbWxOaUlLRDVmYnNxMFcxdVlyQ3FyN1Z1QdIB9wFBVV95cUxNUkVHcFk5Zk9OSEtpclB1b083SWp3c1JwNzYzZVhuN1FqLTBwNFRvdUdsX2VYbU9KOVAyM1FVaDVTY3RjdjBIeTdSeUJQbWx3Z0dENkFwTDhKS2ZXQjJwQnJpdHZkZFhqTGxIQWxOV0xBaTJRRHRpTTJEUXY3dkE0M3RoWU5lWHNSNHJIN1FBeUpnVWpIdmNhc3hHMkVZdjJHUEpyb0NONG9neE85Q2hKMXBmWUl3WDVabU9OU3huQzJ0aVJSLUg0YmNvd2lfLWRDSHp2NVNCRFl1ZU9EMnM4NmJMcXBsVWp4bjluTU1SaXRZaV9UeUU4?oc=5",
+      "title": "Flood Watch issued through Thursday as trough moves over Hawaiian Islands - Maui Now",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaW4wM2c5Q1JqdXA3Qjgwa3pCMTMxY1NyM29OOWdaS2JzaWhDNER6NndfQ2ZxRjF4NjNWVG9uTEROZ09ENjhVS0JUekVEVFFZYWRzUXVORUt5Xy01NlZBa3QtOG9DT01sS1IxOEdmd0FqWWxOS2JDY19ialVhZENRdEU3U2dFX2Jkclo5b05YSE5EWTdfSVJVY1FnT0hES2NWS0x4SHUyWEc?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-26T13:24:00+00:00",
-      "domain": "Hawaii News Now",
+      "seen": "2026-10-26T15:32:21+00:00",
+      "domain": "Maui Now",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Extreme drought, wildfire risks continue - Talk Business & Politics",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVZ1hlVlRYc3VpQkxZRHV3QVN3MnBFWGZxbXlhTXZSOGhyZS00NkNmcTBIWDc0S0lXa3dCRDN1ejMtMzhtZzJVTW5VZEhhWjBZdkpRUzNpcTlEWENGVmRPNVJPclM1SVhOUzRheXJ1eFAxNzA5M3JEM1A1dFo3dw?oc=5",
+      "title": "Breaking: New wildfire reported in Los Angeles County on Oct. 26 - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42RVlXMFduWHhjbnVON1k4Uy15YmFTYklpWDVJQUJ2OXhDaG93amw1MXdVU2Jhdi0tc1h0bXRRWXhpclJLVjVETEpXQ2FNa25MTkkzMXRyZVpkSGNWZXJVNU9yb2l0OVZvV1Y3Q3BIOGIwX2Vu?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-27T02:00:14+00:00",
-      "domain": "Talk Business & Politics",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Russian missile strikes on Ukraine's Kharkiv kill two, injure four, mayor says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGJtb2NGTFJkaUZINzFZYUo2T3RCS3REQ1ZCVWhSMGludTZfTldKTElPaUFXeWRudzBURUdxUVQ2MzlqamRhbGRFTnJtTTBoa281MFotY2JsaURvbUppWW1jeG9xbkpGMHdzY2NDVDBnbDg5MEtkY3ltQm9qZVREZEJlSjd0WllfNnM5N211cXg1ejVkZ3JyY3doSklkVW1hZFQ5V1ROQWlxRFlmWTNrNHktdHA?oc=5",
-      "category": "WAR",
-      "severity": 3,
-      "seen": "2026-10-26T18:01:43+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "ESPN fumbles the Holy War by forcing Utah and BYU into a dreaded early-morning kickoff for fans - Fox News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMVNPdnZlVGlPeXVNTGtFc0p6NVp5czlfWVc1S0JSejFNZUZoMzR6UmQtWEJVQW9OVHNfdUR2R2tPR0ZqZDlNOW81ckJHc2NLX2FwOFVaWkhWODBvRWhTTkQ5NG01TUpHTWtmbGRtb1dGQnNtVXBMcFRmcV9QSm9CY0hRam8yanJoUUxWUGJYQzRoemRQb3FZX1hkVXk4VUtDLWFVOWFpT0xoTnFXNG05Wl9R?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-26T20:33:46+00:00",
-      "domain": "Fox News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Netanyahu faces Israeli voters in first election since Oct. 7 and Gaza war - PBS",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTjdiRUFQZzVCNWRNdkU0NzR1b1hPTlhINnJ6Q0tER0NQVkNRcms0Sl93ZVFzdU51cWdPSXNPRDIxNmV3SnRycnRlaENBelowZXFRM0JVSmFSN2sxSjdNdVhTU2hhTUwwcFZjd1JOaWpybnNQbU5DVVRvWGtJWDJLN0VYQ0M5V2pjVVZMQ0VWRlJkUEFDQk1nTl9oLWRsMlJBdDlWaHZsV3JkY1k?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-26T22:45:37+00:00",
-      "domain": "PBS",
+      "seen": "2026-10-27T06:47:05+00:00",
+      "domain": "Sacramento Bee",
       "language": "English",
       "sourcecountry": ""
     }
