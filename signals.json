@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-31T17:44:19.146157+00:00",
+  "fetched_at": "2026-10-31T21:35:55.802123+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -69,6 +69,26 @@
       "sourcecountry": "LT"
     },
     {
+      "title": "Persian Gulf scrambling to prevent Iran war from again hitting its doorstep - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZk9yVldQN0UtWWZ0bUNEV000V2x1VldwVFhSNlRqX0pQNWVVYzUzTGpuQzZILWpFMDhYang0SXR5Rmlic1l2cUNBNWJPcVRxeWxadF9Kaktjc0FGSE9tX2JOM1FyZnBoZWFtdDdPUDhndzFyTUtLYTlPMEZ2QTVqU1RTSTN0a2pjTTR0Sk5ob1lueTFtYlhFQ2FjR0hlMk5DbFN0VE9LV2dodzItWjhoMHQyb3NFNGM?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-31T21:03:41+00:00",
+      "domain": "The Washington Post",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Middle East on edge as fears mount the Iran war could restart after the midterms - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6U0o2UHZCSFl5N1RfNzEzSWtrcXNFalpsV1htVUZYTHM5NVdyU05GQXloeW5JaXU1b1BlRU45WG1BRE5oZmhfN1JZMjRBM3pFZW5zRmpfdGpmMk42M2JvVFN0WmRhM1BtdFRYTWszS3lwNk1yMjRRZmd3?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-31T16:44:45+00:00",
+      "domain": "CNN",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace? - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT1JxSV94cm1pZi0zZDZ5XzVYczB1aDcyQWhfSnpjcWlpV0FjeU54dVJGV1BYalFncXNBVmt3dFVwS2lVenFmdHB2TkpzVXNsdl93OHg5T01xWFJhZndQMWs1d1VqMDhKSW9DM2tZbUpyNGl0VFV2TU5Id3NqZWM2SXhkeXhINmtEcHdPWFdfbWFrQUMwUWlLQXZKUFFfY21ZM21fU1NQUFI5VDNtMFpCcNIBtgFBVV95cUxNVDM0QklRd0M2TkdmMWdnbGZORFc3bm9BZVRNYWdWU1NSV053eTRYR3NsMlk1TmxBeU5ROUZjRWhlYmR3WnNMemZwRENSSnVuaWFOTXoyRWc3dE85RXFudFRKemRGcF9VTllfLWdfZGFtekItVW5pS25fclpLU0ZYenMwSzg2YjhHaVk3RUdaYnpEa3lJa2FLY2U5RmNvX0JTRnBfWjFORWxpaGRkR2hCTS0zcUNQQQ?oc=5",
       "category": "CONFLICT",
@@ -79,22 +99,42 @@
       "sourcecountry": ""
     },
     {
-      "title": "Persian Gulf scrambling to prevent Iran war from again hitting its doorstep - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZk9yVldQN0UtWWZ0bUNEV000V2x1VldwVFhSNlRqX0pQNWVVYzUzTGpuQzZILWpFMDhYang0SXR5Rmlic1l2cUNBNWJPcVRxeWxadF9Kaktjc0FGSE9tX2JOM1FyZnBoZWFtdDdPUDhndzFyTUtLYTlPMEZ2QTVqU1RTSTN0a2pjTTR0Sk5ob1lueTFtYlhFQ2FjR0hlMk5DbFN0VE9LV2dodzItWjhoMHQyb3NFNGM?oc=5",
+      "title": "Live - Iran hails positive shift in US tone amid renewed Doha diplomacy - Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xekJZZUdONFZIdzhFbVNUMUF1TXY3TTZfVVo1UEd6X0ktZGRwQURYcWFDNlcyaEg1Slo0bXdQVzZxVkItUVdOaWd5VF8tX1owdUcyNXZ2cWY0TUtSd3c?oc=5",
       "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-31T16:00:00+00:00",
-      "domain": "The Washington Post",
+      "severity": 1,
+      "seen": "2026-10-31T20:08:31+00:00",
+      "domain": "Iran International",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Residents evacuated from Russian-occupied Oleshky reach Ukraine after localized ceasefire - PBS",
+      "title": "Evacuees fleeing Oleshky reunite with family at the Ukrainian-Belarusian border - PBS",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaTNrNU5BVTM0WW1TSVZNOF8tQy1FUFhQUG5BYTBSNnBxUHBoazliWmxQTVNLWkowc3JHbkRVVzBpdmZXRkFUZVY0dDNqRWVKbl8wQnFjZ3c1U09rejZzU2N3YnMwX2NvaUhTU01SNzBSbVlYMGF5TGNtWkxGZzJsY0VBVXFaeFJaRDZuYkhMWXdsNlFKOWdoZGxNeUFXVnZhSmhZVWdiLTNoX19jYUg3Z1RNNDN4WjNsaWJFNkYtNy13Z9IBxwFBVV95cUxPTEN2b1dHdllTNzJta3I0c2Z3LW0zREFQc3VHVXFiSmpFd2N4Um5hdWdPc1NjcDNLdk44eXdORUpfNUoyOHpHU1RQbkIwUWhOYU55bTNZRFVTWFpvU1lDTVlJRVo4d1JHd0kxMUdvMXprNTY5X2Y5WU9qNjB6dXZFYW80bkZKUU4yaFZjanZFLS04SmN5ckFxa2NHRWJ2WGIwRF9TbndaVUVITUZmT0tWMG5lOUJzZmR2MlBJWGdGNlpOYk9qblVN?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
+      "category": "CONFLICT",
+      "severity": 2,
       "seen": "2026-10-31T14:47:05+00:00",
       "domain": "PBS",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Starved residents of Russian-occupied Oleshky return to Ukraine during a rare local ceasefire - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFpDMzF1UGlpLV9sdTZxWXRVLW04dWROZEtPTXE2V0JpNDM1c1pjOS1HbVlUNnd0THlRNnkzQTJfa1JxY3ZmR1llTHJTMnFpcll4SjN5TWdKMnY3VWRVWklVTkFxbkFJSEl5X3owR1FoU0RJZE9oUUJpTl9CUXpoV0k2al81eHpfWGNjclVrZU5lOXEyUnA4Y0JSd1dwVnR4LWVscXlza19fbF9nZmMwYlBITndMREZZTUlweF8tcTJSWDg?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-31T16:26:58+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Polis requests $27 million in federal aid for southern Colorado floods - The Colorado Sun",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQal9YbWdkSWd0Z0lhQVBnTDRqYThrSlBqUXpSdDJ4NWl2WC1jcDFoR2V5ejl1MEw0aU1BTVRKU3dUdW16enVSVUNiSmE0QmNNMjJSU2RJa3NYWWFXT1djZDBaMUNkNlhZaTVJZXUzbmdQQlpkU0JQWjVUUVZpZUFWS1M4TkhMWUc2dnc?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-31T17:05:03+00:00",
+      "domain": "The Colorado Sun",
       "language": "English",
       "sourcecountry": ""
     },
@@ -109,52 +149,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Egypt fears escalation in Iran war would be more destructive, foreign minister says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVUNZU3g2dW4xamJOV3lTQ251RzhyLXd4dHY5eTRvVFkwOXF6Vm4zUkxCdVEzaEE1R3BxQS16NlE2WlFQYlpsaUlxQkhNSHlTeGNzSmZGbXB1eFVGdUJkbExRZFUxcnJBZ0JXVklVaEpQdXExWWpyQ3FUSzg5alJFak9TSllUbUt4LWl6WHlMcWR3TU9kV3pXN3E1dUlyLUFnai1UdzhIY1RDdS1NWXQxQUU4X1FYalpRVUtWcWVBUGIwb0lNb3JrdENIVzYzdw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-31T08:21:43+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "Russian Offensive Campaign Assessment, October 30, 2026 - Institute for the Study of War",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1pubEVnTEZwRVFIUmJKWlpfYmp5eV9CcVUyaTFqcGozdkc3VERha1hMVHJVNllkcm5ob19uQ3VFRVFPUUtWY1NLTlltc0lkdDNxTTN3U1hycHBLb3FuLVRrQmkxZ3ZENmlySlBBcWstdXk1WHhyem5ua3p5Z21jNy1DaUlTNkRXOVdXanducE9UdlVoWjFIMWp5UjFja1I3aHgyRUtsdVljVDA?oc=5",
       "category": "CONFLICT",
       "severity": 2,
       "seen": "2026-10-31T04:12:09+00:00",
       "domain": "Institute for the Study of War",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Russia, North Korea Test Missiles in the Western Pacific - USNI News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZFlUVWtwRFlMVDF2ZnVFOHJCY0h0bFZGNjNzUWxzMmx1c1lnLXAtdjhLbzFiRGc1QXlpZVlkbEZhMVhzSUZUeEliVnNTaVdCM0dpeW1oVTduUHAyV3pWZlRGbzhETXZLem9vVm8wUE91QnB4MWNWc1k4dzRzZHV6blpMQkxoVlJsS3djUDFkVzV4Zw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-30T20:50:00+00:00",
-      "domain": "USNI News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Commentary: Symbols of fascism and genocide don’t have a place in Alaska - Alaska Beacon",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkd5c3BSN0RVT2hQdHFGeDJnc092OG5hb3dNY2d5Z0hWQi1xQkk3SkUzaVRZOGY1RWpQX195aEtCVEpkdFNlMlUydmx5aldULXJlWnJGTUVYbHNZYmJfUUxLdUgyMFoza2ZRdHZHYVUxLUw1OGRKNXZQSHdudXhmS0lTNmJZVlpSb2ZsTzcwSXE5OVBXMGJrUjI5UXE?oc=5",
-      "category": "GENOCIDE",
-      "severity": 3,
-      "seen": "2026-10-30T22:15:30+00:00",
-      "domain": "Alaska Beacon",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Polis requests at least $27 million in federal aid for southern Colorado floods - The Colorado Sun",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQal9YbWdkSWd0Z0lhQVBnTDRqYThrSlBqUXpSdDJ4NWl2WC1jcDFoR2V5ejl1MEw0aU1BTVRKU3dUdW16enVSVUNiSmE0QmNNMjJSU2RJa3NYWWFXT1djZDBaMUNkNlhZaTVJZXUzbmdQQlpkU0JQWjVUUVZpZUFWS1M4TkhMWUc2dnc?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-31T17:05:03+00:00",
-      "domain": "The Colorado Sun",
       "language": "English",
       "sourcecountry": ""
     },
@@ -169,12 +169,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Ukraine war briefing: Moscow’s Lavrov snubbed at G20 in Atlanta - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZHhGSm5DM2JzWkpSOG4wNkUtVW1DTzh5WEEwMl90MHRBbnl4Q3VWY016TkRtN0ZCVFJ6QUJXbkhreWFFblZKVkk5a1k4Q3FEdFo3SFBISnRIMGJSNC1rNFNWaEt4QjZVY3hURHhWOUJCaWt0c2duSFY3MmhmLV9yUk5BeTRDQ1NuWXNoZW4zWE9yeXBadWxSQUl1T1VOVFVZWmhCdTJMNUJtRms?oc=5",
+      "title": "Trump’s Iran War Brings On Record Oil Company Profits - Mother Jones",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGo0dk0tTHBfeEhIU0JfaWhMNzRYdTFEcFl4ekg3eXVmY3Rwa25ZNlRBeHM5QUhLQ3E4T0FnTEZ5NzFFRTQycXpwQ0h1N0VEUC1kdk0xVFdsQUxSc3hNVTVLc2xMTHVKQVNhakUwQ05LOGtRcUNhQkVTZlMycmpmeG9iSzBjb3BJdndJU3R6NXhDUWJFcS1OU3JEcWtwMGM?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-31T04:26:00+00:00",
-      "domain": "The Guardian",
+      "seen": "2026-10-31T16:29:59+00:00",
+      "domain": "Mother Jones",
       "language": "English",
       "sourcecountry": ""
     },
@@ -189,31 +189,51 @@
       "sourcecountry": ""
     },
     {
-      "title": "Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOXVMQjZUM2xKNklHbEtiU01DV3d6YWU0Qzl3S3A1WndBRm03MTBteTJSSWg5bG5Mci1Edjc2WmZPeWE2QmtEMW8wOUI3eHZxUkF3ejF6aGs0OFJvUnBuMGdrQVJnWGdMdk90ZXJmNmZydmZEZURlWHZmUEJaMDdoYWRlSW0?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-31T12:00:01+00:00",
-      "domain": "Financial Times",
+      "title": "Civilians from war-ravaged Oleshky arrive in Belarus during Melania Trump-brokered ceasefire - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTzFXdlgzUDhJZW91dkY5ZW9GZmVHNjk4eG5KcmlBbmdGNDJlZlhQLVhXZXpxRTd1bGktSlFtYW1BaEtpOHNZVXlEYng1ZV9HTXV0eDdGS3dYZE8xSlBVZHhDUFJIbV96UENZWVJfaFFjTWIweWpVTzJjMUFoMU0tYnFDQXRLRmE2WFliU0t2S2g4N1NJRklqLXNpUmxEZ0pFdVltZ0k0TDlRUDJCLV93aUxJZ18?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-31T10:28:41+00:00",
+      "domain": "NBC News",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jNU5SVHJ6R1hPT1VhOS02QU9URWQwR0htNnBXeEg1UXNWOGV3T25BbTVhZXJXVDdhV3hRVy01RWItVTR4eWRSWGdWWlNTdjd5QnB4MlA5Wmw1M28?oc=5",
-      "category": "PANDEMIC",
-      "severity": 3,
-      "seen": "2026-10-31T14:48:49+00:00",
+      "title": "US, Canada see growing interest in limited ceasefire in Black Sea - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2JIVVB6TndsbFNkS2Vma2ZRT2NBOHRyQTRkcEc2ZnNnRFc5R0JoT0hpem96RFMwalJGZFozdncxNmRBaE05ZU1hQXRsU0sxUDIyVHRWZzhlQXVfLW5GSGxBcHhscVRrLTlLSnFsOEZ0SnliUzhuQVhLeGc3VFBEWTI3ZjRfQU1uS2NWYjk2QVBEVldRVHZOUnZn?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-10-31T20:10:06+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZU9vVXZSbnhhckxtakdBUm90QXBOVWFQYnp1dnhGMzl1WjkxTkNyMWF0MXZhaGRRRmNPZzA4Z29UTDFpMlZzS3pRXzZUdkdyeEdNamEwR0RZeUE?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-31T17:53:35+00:00",
       "domain": "BBC",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Starved residents of Russian-occupied Oleshky return to Ukraine during a rare local ceasefire - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFpDMzF1UGlpLV9sdTZxWXRVLW04dWROZEtPTXE2V0JpNDM1c1pjOS1HbVlUNnd0THlRNnkzQTJfa1JxY3ZmR1llTHJTMnFpcll4SjN5TWdKMnY3VWRVWklVTkFxbkFJSEl5X3owR1FoU0RJZE9oUUJpTl9CUXpoV0k2al81eHpfWGNjclVrZU5lOXEyUnA4Y0JSd1dwVnR4LWVscXlza19fbF9nZmMwYlBITndMREZZTUlweF8tcTJSWDg?oc=5",
+      "title": "Reunited after 1,711 days: Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire - CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGhpMlhFeDZzcmJkMy1NWFRHTDU0NDhNTG5GQ0ZTbGw1TVFURXZ3LTlnYjRuYkEtckVNS2d4Z2ZnMWNvSHozc0p3ZzBJZy1CeS1DNHl3b1hmLV9JYURQUHpjZXBiaFNSZEN4SGNMVjdqRWVVUzdZanFmdmx6OWM4Ymt4ZXBsN3NqYWNEQQ?oc=5",
       "category": "CEASEFIRE",
       "severity": 1,
-      "seen": "2026-10-31T16:26:58+00:00",
+      "seen": "2026-10-31T13:07:47+00:00",
+      "domain": "CNN",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Egypt fears escalation in Iran war would be more destructive, foreign minister says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVUNZU3g2dW4xamJOV3lTQ251RzhyLXd4dHY5eTRvVFkwOXF6Vm4zUkxCdVEzaEE1R3BxQS16NlE2WlFQYlpsaUlxQkhNSHlTeGNzSmZGbXB1eFVGdUJkbExRZFUxcnJBZ0JXVklVaEpQdXExWWpyQ3FUSzg5alJFak9TSllUbUt4LWl6WHlMcWR3TU9kV3pXN3E1dUlyLUFnai1UdzhIY1RDdS1NWXQxQUU4X1FYalpRVUtWcWVBUGIwb0lNb3JrdENIVzYzdw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-31T08:21:43+00:00",
       "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
@@ -239,42 +259,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "Why are US, Russia and China racing to put nuclear reactors on the moon? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeTcyMXJ0dXBMRXJwTlE4amM0V1pmQ0xTZTZndjYydVBnRTA1ekVseHVCUTdlcUt6b1kwSFp3amZxLXdtdzNQS1hDNzFKZExXcWF5ZkZ4amZQX2hkdDdlVkxaOUlPbk5vRzNyWFhQaW1hMUVGaHJ1Y1hVMm1VMHVwN2JaRTZpTk9QalpnVDB4aV8zcjFFTzlBOVkwUGVja01FaUsxd1c2djFQZVZpUWluaHJB0gG3AUFVX3lxTE9Va1B1NFE5MEtjZzZGc1FoaUw1NjNTSm1mZExvMGZVdVVVYVdEM1gxRDh3UG5OaFFuTlIyOTZISkZrYXJXY2ZZMllsVnVMRWlWQTNRakdmY0cteW1yd2JCaG95anRtWVBKdFN2TU01dmhRZzZvNl9ZQmd6SlFfX3V4T1pteEFBYm16dEdjakFhSlppR2NJYTR2YnY2YTU2LXBoUGtHU050QzRvVklzTHMwSWV4RnN0SQ?oc=5",
-      "category": "NUCLEAR",
+      "title": "Commentary: Symbols of fascism and genocide don’t have a place in Alaska - Alaska Beacon",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkd5c3BSN0RVT2hQdHFGeDJnc092OG5hb3dNY2d5Z0hWQi1xQkk3SkUzaVRZOGY1RWpQX195aEtCVEpkdFNlMlUydmx5aldULXJlWnJGTUVYbHNZYmJfUUxLdUgyMFoza2ZRdHZHYVUxLUw1OGRKNXZQSHdudXhmS0lTNmJZVlpSb2ZsTzcwSXE5OVBXMGJrUjI5UXE?oc=5",
+      "category": "GENOCIDE",
       "severity": 3,
-      "seen": "2026-10-31T05:50:04+00:00",
-      "domain": "Al Jazeera",
+      "seen": "2026-10-30T22:15:30+00:00",
+      "domain": "Alaska Beacon",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "New Mexico Gov. Lujan Grisham criticizes Trump for not approving flood cost reimbursement - Source New Mexico",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ1Qwbm9CNnBPR2piRUdFT3Y1T0dVNmpHdW9hSGNuTXF6dDhBcTkxY3FIRlplaTlCOXBmSGxzT2gxd0ZqU3lLMG9yV2N6N045YTZNdk9ucXVqQVB6MjZvaFNEejE5S1hCcDEwdkNjMmFDREdGT2UxdHNTaklEbk9NTkI0Wk4zVGJzQ2lIY05UbmNCaTU1X01JUDJLQkFTQzYzNHNGdWU4WXhrYjBsZThYa1ozdWpncmNKNE1rbXhR?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-30T22:26:09+00:00",
-      "domain": "Source New Mexico",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Anti-missile defenses installed to enhance Trump security at Mar-a-Lago, DJT International Airport - Sun Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPREJnMVJPT1VTTkZkdXFyM1ZDMjJyM3loTHhXZ0FjRXhOSU9lUjhTTHdXTzkzMlYzUVBUTzFrajgzLUhTVFBBMWk1aTlRWUd3X1M1elhwS2ZwMHpjSVVLSEc1SVpZMVR1cGo3Y080eElrT24xbGNBa3JVbFczVzNQNXRCRUdWNk1qQnRURXJuckh3SWZQTUQ4X29TUWxvUEM4aHdHejlpWDJ0dGlySWZiOThVbDVwdzYxaTc1WlhqM2RhTjVLRXlrVTROU29CbktzQkZrSw?oc=5",
+      "title": "Iran targeted US air defenses then hit aircraft and buildings on Mideast bases, AP analysis finds - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMnA4dnBfVkNUZ1dxQWFVbGtlSWpSMDVfWnBXUHI2Qk5wWE9jUWlUZFpySkhzZVVuQ0pfOURlM0Q3RFlNbHNvaFh2Snk2TndhNnhQckdpQW92VjMwUXpZTVVyMUVuSEpzNkhzdEZPXzV2aVpHWVJ0WThGSHp6cE9ISm5HMngxNlgtckcwUFdqY2hRUHc?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-31T11:33:46+00:00",
-      "domain": "Sun Sentinel",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "US approves $2.1 billion Patriot missile sale to Ukraine - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGRTc1V3SzhDNWZQUUVuQ3hsWmlKcUY3V3ZJb0poUEh6ZGZjSVZlNzlaWlF2SVVwU1M3RklET3hzdmtnVU54NXEtb0ZCYUc1WjZMR3Vya1Vfa0ZhSzhEUEg1NkF6bjlIODVJQW9mN0htVWM3dDRKbFF1MjVsMjkwQUdmNGpmNHBkWWl6dmtDeVFIYmptQ2VZZ0FyTHhqWVplU2RkZFhONnZNN3F0UWVWQUlJeno?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-10-30T19:23:00+00:00",
-      "domain": "Reuters",
+      "seen": "2026-10-31T18:18:00+00:00",
+      "domain": "AP News",
       "language": "English",
       "sourcecountry": ""
     },
@@ -289,72 +289,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "Oct. 31: Earthquake of 2.9 magnitude reported near Westley, CA - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WSUwtNDhvMzlhOGU4RUpQckJuM3U5NVZZMG1HVUNGNkdVY05QUy1iaTI5LXczM3FYajB1MUNNbmdWaGVFMUJ0NTJKd2drTThnaTRvZVFWVWdZM21lNHJGajktaWtFNW16bzh6SUFlMWsyb2NFOVlLVXZud24?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-10-31T16:57:06+00:00",
-      "domain": "Sacramento Bee",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Congo Ebola outbreak kills more than 5,000 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbllsVjgtOF8tYlNWQTMtSzkxZ1paY0Fud2RmVVRldXhsdi1ST3hDM2VyRHZIUUNHZjVOSHdSbHNOZE5nZ0I1NVRsT2lIS0N1dWllTm0yUThUVDVHcVNJZVZDdGljeUt4dGhYOTVsRy1FYlM1ZTJkMVZkTncwcHJGVmNvNDNYZnJBQUxvNnpvM1lLc0w1ZmVhVk5MUkt0YjAwZUFGYWZDczJSdUNJNWQ0djFDLW8tcjlJS0owaU4yZTRaZw?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-30T20:53:19+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Congo Ebola outbreak deaths top 5,000 as fear of continent-wide spread mounts - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWlyam1sUmtaTno0Rk1sTmsycG5wNXh1UkFpRzBzZFduTkFpdHVpNGtYQlExbW5VTHh2bk9RbkxtVUEybkc4ZThKYTBieVRaTm5aQXhtSW9pUWdhZlRiR3c1ckQyZ0FoUXFpM0pNbEl1bDdyRHJUNWFDWW9PYTFVTVFHSVNtNkRUQ3NuZzl1V0xkRkNDU25JR3A0bDIzS0hNa3ZpX3JGLVZSdmVDRFlnSFM0T3FRb2lKVGc?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-10-31T12:16:49+00:00",
-      "domain": "NBC News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Family of real estate CEO wounded in violent Toronto home invasion, officials say; 3 suspects at large - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMzhWU0V6c2NuWWFXdjVvcFhNbGdJQkVlT0x6NGkyNldwcVVaSnVDbHpiV2JfRjdnNWlnNHVBTzFGUVZ5TzZUNWhaTVNhNmh4QlJFOVhVTmVFWnJVa2VDcnNEdU15dHFCSmt0ZWx1UzlQNkNsSUdfYXZvUndWMjZuTmlibWZOdUQ4dnc?oc=5",
-      "category": "WAR",
-      "severity": 3,
-      "seen": "2026-10-31T01:13:00+00:00",
-      "domain": "CBS News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Civilians from war-ravaged Oleshky arrive in Belarus during Melania Trump-brokered ceasefire - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTzFXdlgzUDhJZW91dkY5ZW9GZmVHNjk4eG5KcmlBbmdGNDJlZlhQLVhXZXpxRTd1bGktSlFtYW1BaEtpOHNZVXlEYng1ZV9HTXV0eDdGS3dYZE8xSlBVZHhDUFJIbV96UENZWVJfaFFjTWIweWpVTzJjMUFoMU0tYnFDQXRLRmE2WFliU0t2S2g4N1NJRklqLXNpUmxEZ0pFdVltZ0k0TDlRUDJCLV93aUxJZ18?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-10-31T10:28:41+00:00",
-      "domain": "NBC News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbTc2b1lwVlZZb3NjVjlHMW9GeHFXRU9sa2xvaVhvV0ZTLWNSakJqNXlYT0FwNDNON3lSSmllTzBaZ19CRzZ5Sy1vejBzN200NmdwSFNFWFFnQ2NmeHVOQTdoQ0toZEF5QzEwc2FRcGtlcDg0UEp1a2FLTi1nejJJRkNVRWhseTFqNlZqUW1Lb1U2NEJEZmNpSDJGME9Wa2NiUEhGQlN4dmgxWHk5R1pMa3BqUzVpQlpIUFBVNVZ2NldUUTZfeG1NSmFmQWtHOGlnd1E?oc=5",
+      "title": "Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOXVMQjZUM2xKNklHbEtiU01DV3d6YWU0Qzl3S3A1WndBRm03MTBteTJSSWg5bG5Mci1Edjc2WmZPeWE2QmtEMW8wOUI3eHZxUkF3ejF6aGs0OFJvUnBuMGdrQVJnWGdMdk90ZXJmNmZydmZEZURlWHZmUEJaMDdoYWRlSW0?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-31T02:20:23+00:00",
-      "domain": "The Guardian",
+      "seen": "2026-10-31T12:00:01+00:00",
+      "domain": "Financial Times",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Iran’s supreme leader warns US, Israel against war - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbjhqelpiUkhZNHk1dHgtOGpmRmFyX2Z4TXNwTGtiRFFyYWlVQm44dnJuOVk3TXpHajlmblNUeG9RX1BxT21xLW9KSFRUa1hiMXFPNTk0ZXlMMVo3aGhVbVRJaDRoMnhwS2tSYUJKU3U0OVlHZ2NuRkg4bXZlTWpvY2lVS0ZMcHNiNVd5SmRUWUVMQXJYeVhPSkF4SXA2djR0Nm1pS29HY3JubUdu0gGsAUFVX3lxTFA2dThnU0RNelJwZ3Q3Wk0yZTBhUkZ1LWJieVBDYjFfVnBTb0pIYUQ5eC1kMFEwZHFTSXlhQ0VnVG43V3lLV2M1S05kQy1GTjVrR0otOUNHZzItSzYwRHlGbERkbUVQYzdkWlY1OVBpMTFZUmdNTUI5dllial9tMUx1aXRDQlBsU25JTHJ4UHJvbFBzU3lpN2U2V3ZnZkRwY3RGRkkxanpFMS04LTk?oc=5",
+      "title": "Russia, North Korea Test Missiles in the Western Pacific - USNI News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZFlUVWtwRFlMVDF2ZnVFOHJCY0h0bFZGNjNzUWxzMmx1c1lnLXAtdjhLbzFiRGc1QXlpZVlkbEZhMVhzSUZUeEliVnNTaVdCM0dpeW1oVTduUHAyV3pWZlRGbzhETXZLem9vVm8wUE91QnB4MWNWc1k4dzRzZHV6blpMQkxoVlJsS3djUDFkVzV4Zw?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-31T14:16:26+00:00",
-      "domain": "South China Morning Post",
+      "seen": "2026-10-30T20:50:00+00:00",
+      "domain": "USNI News",
       "language": "English",
       "sourcecountry": ""
     },
@@ -369,42 +319,92 @@
       "sourcecountry": ""
     },
     {
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxZU9vVXZSbnhhckxtakdBUm90QXBOVWFQYnp1dnhGMzl1WjkxTkNyMWF0MXZhaGRRRmNPZzA4Z29UTDFpMlZzS3pRXzZUdkdyeEdNamEwR0RZeUE?oc=5",
+      "title": "Anti-missile defenses installed to enhance Trump security at Mar-a-Lago, DJT International Airport - Sun Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPREJnMVJPT1VTTkZkdXFyM1ZDMjJyM3loTHhXZ0FjRXhOSU9lUjhTTHdXTzkzMlYzUVBUTzFrajgzLUhTVFBBMWk1aTlRWUd3X1M1elhwS2ZwMHpjSVVLSEc1SVpZMVR1cGo3Y080eElrT24xbGNBa3JVbFczVzNQNXRCRUdWNk1qQnRURXJuckh3SWZQTUQ4X29TUWxvUEM4aHdHejlpWDJ0dGlySWZiOThVbDVwdzYxaTc1WlhqM2RhTjVLRXlrVTROU29CbktzQkZrSw?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-10-31T15:50:41+00:00",
-      "domain": "BBC",
+      "seen": "2026-10-31T11:33:46+00:00",
+      "domain": "Sun Sentinel",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Mild Halloween weather, but major flood concerns Sunday - ABC4 Utah",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4MkFycFFtRUkybzY4ejdSSUo5dTU2THVQS213YUlUZmdfckkwbEpMYVp1NmhDbWQ5WExfV1lIeDJkSEpHUzdsUjcwWDNFN2FnVWRlT3p3c1I1WnhFTklrNTBJTVBXbVlUX2tkdGt0Q1BqRm1GN0dBX1VXMTDSAYIBQVVfeXFMTjc3ckt0Y1Nfb0RQbjdqZXRtbEFyQUd3NjZUUmlaZmlLZ2N1OVJCTXZYakNnem9paUtVa1pqazg2VFRtWmVmUW9XMUtwOEhOLTJ6WlM1bHdiZ21Jd0tvUkNjWkExWDRVYXJkWUxnaER4aUZLcHJUdktsSHpoOGY0Z2ktUQ?oc=5",
+      "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMXVfVkFlUGYya1F1S09GMzdSMnNkaE9nbmkySGFtSkNHcklPRHdQblA5aEN1WDQ5QnVWb2czb3FocHNRalIwWXEzYl9NTzRJYTFUWGQ1NGpIR09EdkllVGd5QmpmZ21pd2dWRVpEczhvT3ZQUGpPaE1vdUpzN29kdzVTVWh1Uld6?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-31T17:56:18+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Gov. Polis requests major presidential disaster declaration for southwestern Colorado flood recovery - Denver7",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQczNvVXZEWjdBcTRKaFZSZk82UmF0azE4bUgwQVJmRERWRkRlMjR2UTkxV3NYWS1iWlV2YU9hVnZpTDRiNE1HNTdtTzBZSGZWcXR3Yno1eXY2YnhzcThrSFkzUDlwUHVGdXJWUjBSelZpY25uZkhkaXhmSF9rZk16V2x0SWVNRW9Mb0lfUG1kVDFqSEFtWWV5UHdzdDR2M1RpSG9KZzY5TTZILUZ1ZExNc1FsR19EbEViMGw4UlhCVm05X0dJVk5TOXc2czN3WDA4akEzRUFR?oc=5",
       "category": "DISASTER",
       "severity": 3,
-      "seen": "2026-10-31T15:00:00+00:00",
-      "domain": "ABC4 Utah",
+      "seen": "2026-10-31T17:15:03+00:00",
+      "domain": "Denver7",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Michigan’s messy Senate race spells trouble for Dems in 2028 - Politico",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWFTV0k4WnFIWXV1QlJkb1VINFZqTGs1ZUdrYTFXbDJIZk1LVVFGMmlCMWRMUE45dUxNdy1GakpTZHZINkw3cWd5Mm02dml3MmRCUVRsWU1ueU1zLWMyNnp3VG9YemZJYjlRYnpMQzN2SGpuVGZ2S29wZVYwUjFUUm5jQ0gzVl9jZzE5VnVkVUo0ZUxFekRVT3NaWEVGSVdk?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-10-31T11:00:00+00:00",
-      "domain": "Politico",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Oregon State University sees ‘alarming trends’ of wildfire smoke impacting schools - KOIN.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWlzVzNQT29mWjZIRjlyQVhfSE9DSi1BT3Y0TEpma0V4TVdUN25BdzU5TnlBOUVuaUhaYjZJcEdudENxcS1QZm1aZVo1dERmZ0RCSzktdWlSWjJ5TVRtUDNaU0I2eVRlbkh5akNXeHFYa2xyTEVvc0s3TWtwX2pPT0liN0JLLTJEenVBXzF5dnpVdGhxUFhiSlgybmpSRnVudHBHeGFsbnl2Vlc3UVNEUlE1dE1VOHVB0gG-AUFVX3lxTE9RYkZmdV91TzFhSnFhdDg2WFpIMUxrWHlwdjdFak56QktPN1BUSjVDLXFTeGFEb2JWMG11VXh3Qms2ZEM1MXdkb3FnTjlVQ3ZTVG5MQ1Y3eTZDYXEwaWNlVlhJSDB6blhDcmNaNEUxOVFDdW8zdnd2RVppSTB2NzZ4cnRmaHNZUkI3eHg3d01HZGpfWHA2enFpNzh6c21mU2xCaXM3YUhPMndEbElRdnBZRWZSR21VVm5YNElaX3c?oc=5",
+      "title": "Oct. 31: Earthquake of 2.9 magnitude reported near Westley, CA - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WSUwtNDhvMzlhOGU4RUpQckJuM3U5NVZZMG1HVUNGNkdVY05QUy1iaTI5LXczM3FYajB1MUNNbmdWaGVFMUJ0NTJKd2drTThnaTRvZVFWVWdZM21lNHJGajktaWtFNW16bzh6SUFlMWsyb2NFOVlLVXZud24?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-10-31T16:00:00+00:00",
-      "domain": "KOIN.com",
+      "seen": "2026-10-31T16:57:06+00:00",
+      "domain": "Sacramento Bee",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ukraine war briefing: Moscow’s Lavrov snubbed at G20 in Atlanta - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZHhGSm5DM2JzWkpSOG4wNkUtVW1DTzh5WEEwMl90MHRBbnl4Q3VWY016TkRtN0ZCVFJ6QUJXbkhreWFFblZKVkk5a1k4Q3FEdFo3SFBISnRIMGJSNC1rNFNWaEt4QjZVY3hURHhWOUJCaWt0c2duSFY3MmhmLV9yUk5BeTRDQ1NuWXNoZW4zWE9yeXBadWxSQUl1T1VOVFVZWmhCdTJMNUJtRms?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-31T04:26:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Why are US, Russia and China racing to put nuclear reactors on the moon? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeTcyMXJ0dXBMRXJwTlE4amM0V1pmQ0xTZTZndjYydVBnRTA1ekVseHVCUTdlcUt6b1kwSFp3amZxLXdtdzNQS1hDNzFKZExXcWF5ZkZ4amZQX2hkdDdlVkxaOUlPbk5vRzNyWFhQaW1hMUVGaHJ1Y1hVMm1VMHVwN2JaRTZpTk9QalpnVDB4aV8zcjFFTzlBOVkwUGVja01FaUsxd1c2djFQZVZpUWluaHJB0gG3AUFVX3lxTE9Va1B1NFE5MEtjZzZGc1FoaUw1NjNTSm1mZExvMGZVdVVVYVdEM1gxRDh3UG5OaFFuTlIyOTZISkZrYXJXY2ZZMllsVnVMRWlWQTNRakdmY0cteW1yd2JCaG95anRtWVBKdFN2TU01dmhRZzZvNl9ZQmd6SlFfX3V4T1pteEFBYm16dEdjakFhSlppR2NJYTR2YnY2YTU2LXBoUGtHU050QzRvVklzTHMwSWV4RnN0SQ?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-10-31T05:50:04+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ebola Outbreak Tops 10,000 Cases as CDC Cites Spread to Kenya, Nigeria - Contagion Live",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRURwbFZhVnh3dnlWSjdpYURUMnNNaDB2NWIwRW96bVJoQjdWSzFMOWVpTC1zUzZQM2lMQjdoUmxWNUc0REVVd0N1S01DdHdOcWtzS1hyWk1UMTZwN0dSTVZNT1F2eXI2UTNodW9yamlRU2Q0b01MbmRGMHBwdExiLXVsMUNxWmYzVE5vU003R050WVlvaWdfS1hKbDdCRTdSdVlkVXluOA?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-10-31T15:27:50+00:00",
+      "domain": "Contagion Live",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Fremont teen develops app to help seniors during wildfire danger - NBC Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQkpjZmxKeXVqVmkwTnlmY1BiVTE2WmYyV0dUSXgxRDUyTEk1Y1FneGU4cEZGT1pveUhKYUdZRWZsdkJEeHBQd0pnMWlHb2p3eklCOFdoN3dDeUNzUFh6LXZuSDNoVGhBZm9jRS1jTUYxN250aW0yNlNpbm5wWGIyUVBnTkNoV1o4SkJfZExGUzNKWTBrRFliNFNOTUNzWGJOak83VFdSSFhtckhIdXpsR2pXck16VnJLSUpKSC1NUDhhVzUw0gHMAUFVX3lxTFBpSEtnVHcyMXdVMFhvS3FVTW16UktlZHE4MV95SlNhb3BicGZGbGw3WnRtMGxUV251b3JyaUd4c2tFWnFGRi1XRTJGd19VM2EzUFBrVXU5RDRxcmRSRFNKXzlJeVUxYWRVSUFPdlpIMlRfVi12NUVrWDI2WFFHNXYyMWh0N1RPR3hfYzlYbnJhbEJhQkVXMnhEei1mS0p5WDAxekVaUERCYUdrYW5Fdld3bmgwMlFKbUs3c18xbGIybFJpMmR1TXM4ZnZqMQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-10-31T20:02:16+00:00",
+      "domain": "NBC Bay Area",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Lauer Farm 1944 reenactment brings World War II history to life in Allen County - WLIO",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSy1QRXJITVczSjlGQUJlYVZvTEkydFlpbjNDY1FiaDJBVXBMbU00dVNYUjR4Zk9Sc1JqQUFWbk4zeUxkWXIzYndkUHU5clZHVGFvYlN0cXZyMll6SGxWUVRwUC1ObVNuT0RfeE5BRTVMeWxlWng3S05BSGhWTXV6ekdyTVJDd0d5TV9IdmVFQTM4blhJdng4QWFmbFhIY0t0bkotTFBjWmJyRFdLUGtOaTA0Tm9EN2ZyeWfSAc4BQVVfeXFMT0tRbDI4OFFKVDBHVmhBUmtTN0gwci1sSVd3TVVBeEZKRExZc1loS3IzUmY0NmFLeUtZQTB3d1JRMzhhNUJBUlhpSl95NUhQcjY5OS10OEZwQzVjMGd2bWtLUG9Qc2c4ZDFGSHZQZGFEMVhHa1RqNXFROGdSR2hadm5jbjdfd1o2UVhBdTRST3Z1emItMFpnMmxBdUhxT0N3amZNZGtOaGYwRWZHOVRybWdsaWpMYTJDZ1FNaDdPTEdTVkZmbUFwTWxtYVVIUHc?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-10-31T20:34:00+00:00",
+      "domain": "WLIO",
       "language": "English",
       "sourcecountry": ""
     }
