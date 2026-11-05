@@ -1,16 +1,16 @@
 {
-  "fetched_at": "2026-11-05T06:47:56.057868+00:00",
+  "fetched_at": "2026-11-05T15:27:56.591895+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
     "google_news_items": 35,
-    "lrt_english_items": 5,
+    "lrt_english_items": 6,
     "errors": []
   },
   "items": [
     {
-      "title": "Lithuanian president criticises ‘hybrid threat’ term, says some Russian attacks ‘kinetic’",
-      "url": "https://www.lrt.lt/en/news-in-english/19/3102197/lithuanian-president-criticises-hybrid-threat-term-says-some-russian-attacks-kinetic",
+      "title": "Ukraine’s EU accession by 2030 unrealistic, says Hungarian FM in Vilnius",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3105409/ukraine-s-eu-accession-by-2030-unrealistic-says-hungarian-fm-in-vilnius",
       "category": "CONFLICT",
       "severity": 2,
       "seen": null,
@@ -19,8 +19,28 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "Lithuania backs Belarus fertiliser sanctions, says Politico report is outdated",
-      "url": "https://www.lrt.lt/en/news-in-english/19/3102092/lithuania-backs-belarus-fertiliser-sanctions-says-politico-report-is-outdated",
+      "title": "Belarus refuses Lithuania’s request to extradite fugitive Antanas Kandrotas",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3105099/belarus-refuses-lithuania-s-request-to-extradite-fugitive-antanas-kandrotas",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
+    {
+      "title": "Lithuania ready to host additional US troops, defence minister says",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3105072/lithuania-ready-to-host-additional-us-troops-defence-minister-says",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
+    {
+      "title": "Lithuanian FM denies US pressure to allow Belarusian fertiliser transit through Klaipėda",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3105062/lithuanian-fm-denies-us-pressure-to-allow-belarusian-fertiliser-transit-through-klaipeda",
       "category": "CONFLICT",
       "severity": 2,
       "seen": null,
@@ -49,14 +69,74 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "Eastern flank criticism mounts over Ireland’s EU defence budget cuts",
-      "url": "https://www.lrt.lt/en/news-in-english/19/3081351/eastern-flank-criticism-mounts-over-ireland-s-eu-defence-budget-cuts",
+      "title": "Midterm Election Losses Complicate Trump’s Options on Iran War - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVBBOE1vYThfaERwMm5SalVMTXQzR3NWZm9qMVlPWWJUY0JWeWRqRjBLa3NCZlBaNU9YQzM4SEh4aDNhdUtCcTBMZzdnVDhlMGx0R2FkLV9MbnZsUDRRQm9Zc1NfbVQ0V0ZRNHpTZjB1UlpGcld6S3FCeVBjVEhOczhiNUJhRWFmSlJ1cg?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": null,
-      "domain": "LRT English",
+      "seen": "2026-11-05T10:04:44+00:00",
+      "domain": "The New York Times",
       "language": "English",
-      "sourcecountry": "LT"
+      "sourcecountry": ""
+    },
+    {
+      "title": "Gulf states brace for war with Iran—again - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2I0Y0VRNU82dHV3WVZxZnN2Zmt3dHZFWXFJRjVJbHBickRIcFFqdEROQTdnMDk3SnRBMFo2TEFESWx0YVBLaHVHUVlPcmRGS3dSTkJDRU4tc0ZuV3diVUpsVE8xdVFCVmVTbFFqWldVWEU1bFVXLWowZ1lfS09ySFBESlE0VTBsWTlib2xlVjJCc2x1Z2FtYWhJeDM4cGFtZXlB?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-05T13:58:17+00:00",
+      "domain": "The Economist",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Magnitude 5.0 earthquake strikes off the coast of Northern California - San Francisco Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTVM5ZEtybUR1R2duUEQwdkZhUzFQVWRHUHFJeWRMUkZncDRnMi01UG9BTkhpcTVYRlVQUEwyRWFmVXFZVnpnYzhyQmNVZmtyMGJjVUVtV1dldHdLcEUwaXVHVWJDZlk4U1ZmYndTRHQ4TzJacFdWUGxDUlZMWFFheHl0VHZTbkJISHVrcjgyMWNHb1U3NWUwLVl4VlVvZ2tBeXBFNjdkbG9IdG5LQVVj?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-05T11:06:48+00:00",
+      "domain": "San Francisco Chronicle",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Water rescues, evacuations underway as ‘catastrophic flood event’ hits North Georgia and southern Tennessee - CNN",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMDNtNlZpbm5qeGpWWlRsZjhSRUJZT0VWblZjWGc3MjFFRHc3VndhV09GZ2dnem1BWUhVUmN2Z215ZjF4TEtQSkFYTGZoblRvdzBvaF9ZdmtrdDdhWFNlSDJmYVFZS2lEU1hCOWFnZ2JIajhHem5nRDlScmpsVnlWMTFuN2hHNXdUVDJOLXNTUnRYZ1dsNnJLeGUxNXE?oc=5",
+      "category": "DISASTER",
+      "severity": 3,
+      "seen": "2026-11-05T12:24:02+00:00",
+      "domain": "CNN",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "The South flexes political power in midterms, sets regional influence in 2028 election - NPR",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbGVyVU9nVDNnWHFMVW8yV2pJSmkyN1RmS1hFdFhKV2h2ZkNCUjk2ekdzYTVVTU1qak9SblgxWHpJbDNpV2JOS2ZtcUptcUtGUzJtN0FuQmE2N25kcVZEeHduQWhMak5ieHpEck94UmF2WDdlbDgtSG9wZTZ3c0V2UkJ2R0dQQS05aWlzdGtJTExhbDhZX0x1OFNtYw?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-11-05T10:00:00+00:00",
+      "domain": "NPR",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Wildfire near Maine-New Hampshire border prompts trail, road closures - newscentermaine.com",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbzc4YTBGZzh6QlFrdVhYZm5MVDZldkJRMldQZ1Y0V1VEOGI5Wm1WZTlESnZaT3pyd0c0OHQtMklqWlprTGxzNzFqQ1gzVU4wZ3BWN0lIdXdoY3JkUU5CN0c1RklwaHJMRVFhSGE0ZlYzUjZlVHJwMUdYR2wzOW1RV3V2TGVVZUhBcGltdnA5N1hFUkl6TXk2c2VxUWZId2pQUFh4ZHVHRUx1LUVZUzlGd2ZyLXF3MGpxdFZxSU9LR2FvQ2RUS3BXZElrTms5bXFnSDFPbUtxSHNTVklHSkRaN0xCdjdSdFNnNWk5eXE1d1JKdnI1WFJpOUNZTXpFdzFJM09z?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-05T13:16:00+00:00",
+      "domain": "newscentermaine.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Department of War's Office of Strategic Capital Signs $250 Million Conditional Loan Commitment With 6K Inc. - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNkZ4X0dsb3ZPcnJVZTFOS2FvbDRGVUdZVVZ5RmhKZ1VPUmFKaVFZY01zR09weWpRZXlWYTc5ejlxQ1ZWWUd0bl9MdEVEQW84ejZvaDZPdmtvUVRadV93VS0wMWMwaTNRQ29ZVGJkRW9mZHBTOUkzOVRfcWc3S3JpS3NPN0pJUk5WczAzUVFnX2xIcDNxRGJnbFNjaVNQQW54d1Q5MXlvb0x3aXVkb3lOejZYaDNyRzU5cU9QeGhCNWxKLWZ5eXBUaVVsQ2JCNk9oOWlQRA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-05T15:11:22+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
     },
     {
       "title": "Vance blames Iran war for GOP midterm losses - PBS",
@@ -69,92 +149,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "5 key insights from the NBC News Exit Poll about the blue tsunami - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS1BDSGFQdXEzLVhiVVZsd0MtVEVvSTRZSUxvM3BGc3lxQ3p6RThGd1BlTC1kUlMxVVdqUUFFa2xrNTFkc3FSM1Jkc0hLS0tVelEtajQxTHRBNmJqOGVBUVJaa24xdWlTNEUxN2RDR2lnaHFiS19vQzhpQl9aMzFxc18xWjZ3R1QwdXM3S1RFdXhzZ0JmNUdEQjZUclc0VTdGQ3dBWk5ocjVZZkVl?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-05T05:13:54+00:00",
-      "domain": "NBC News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Exclusive | Trump Acknowledges Iran War Is Partly to Blame for Republican Losses - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWmVDbWFnYVgyV3EyWXY0RVI0ZWE0UTdMRWJvSmFVa0lJVE9WajlzWEMzZ0lJM0l2VWVaVWE0TjZOc2pTWU1YcHd4dHh2dU00WVBzMXpfcEdQVzRGaVoyNEw0cUQ0c0l1blgzQTJyOFBTQmhVd2JScDlpTGQ1R2JnRk5PODBVU1o3QmNqajZnME1BTnRqd2N4Yk1LM3NjTVRJU29LWjhRTUVUOTVZcFNwNUFrUm1UUEE?oc=5",
+      "title": "Turkey's Erdogan says he wants to discuss ending Russia-Ukraine war with Putin after talks with Zelenskiy - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdjZURmhQRHFISDloNWJlU3RNLU9BaXlZT3VBWFZxdnhsLVBXcFhCZGJKeURqcFJaX1o0eGRZR25nWkFPT1ExbXRyelhjckE5d21wZG55SWZhckNFNmp0S2JmdTA0OS16eENHX1BDOThpX3ZldkF1RTFNSjhDS1NBOGtzTTBkbjBPenEwVTF0Z2JLeEEtd1hSS2gtUmFLMzhCLUQ5bVd1VVFnNFlvQ19oWERCU3ZzR2xiS3RiRVdPTQ?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-04T05:07:00+00:00",
-      "domain": "WSJ",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yRE8zWTktbFNWZGxHdlhMZk4xYTM1VUZMaHI1WGd6ck50M2N6anJ5N1pFOWlVZUtlN3hIWmdKMXlRWC10Z3FrSzFWWlFCSEFjT2VuQUZpeGpZSWs?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-05T03:47:56+00:00",
-      "domain": "BBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "The Blue Tsunami - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlRXdmYTJ5YkdIQlNHYXdOZnB0NzFwNmp2S3hncTA5NUdhOVA1REFLZXZNNXBsdFd1b0h1UklVeV9vbFRLYVFXQk56WGp6Q25tUnF6TzVycDBicTBqbnBreW5hY0l6UmdJblBfSWNTS1liUzA?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-04T16:17:37+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Oil falls for a fourth day on expectations for lower risk of Iran war escalation - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-05T05:00:22+00:00",
+      "seen": "2026-11-05T10:17:43+00:00",
       "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "US Rep. Mike Flood narrowly wins reelection in 1st District House race - Nebraska Examiner",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTl4Y1BWRExXWFcycUNRaVlUVjFTc2Y4M1IzcGtNc25yNDE2TDcxYWN0UVBCMFR1RUxBNVBGbUxVQjdtcmdCMldtR1Vlb2VESUZtV000WGVnaDNlcW9qcjVTOVFNc3hEalBMY3hBYUwyeFB4amxjeENGTEpTMXhHb0puc1dMZTlqVGE5d1VZT3FhZXhySjJlYnUtUngwUEtFa05ZbDlYRE1FQXdxVnln?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-04T18:17:04+00:00",
-      "domain": "Nebraska Examiner",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Tehran's war debate turns to wider strikes and nuclear threats - Iran International",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TaE5GclZpZUtpb3dWN2lDMEVXSFQ5bUNsUC1kV1pva2wtemxoMzh1S3pnVjJUMlRuVEt0MTdhbGVTTUtJSzBMS2lpRDB6STFydVE?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-04T20:24:30+00:00",
-      "domain": "Iran International",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Yes—It Was Mostly the War - Cato Institute",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yYnJTZFRyckVRd2VfTTVDRGJkSGRRRHk4S0NRaWxzMVg2Qms5YVU0WWhReXdKVHFxNV9LaTZtcDFLRlpsaFRIMnZJTTJRQTZtc2xaUVNPOHRHRTQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-04T16:10:03+00:00",
-      "domain": "Cato Institute",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Blue tsunami breaks MAGA: 5 takeaways from a blowout midterm election - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTlRHckk4bFA0QmdHUnQ5WTYxVDZLMzBnMUhrV294cDVHZlZ3X1VHMlJSVF8ycnJ4REZabGdPRFpwU3BENkJhdnBQRmZTYnZLVU8xaU1EQ0lrVmpHTENocjY3SVV1T1hUNG9ZVGE2OE9YWEJ1ZW5xVVN4eUxXWElKQlBB?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-04T14:18:07+00:00",
-      "domain": "Axios",
       "language": "English",
       "sourcecountry": ""
     },
@@ -169,11 +169,181 @@
       "sourcecountry": ""
     },
     {
-      "title": "Trump says Republicans harmed by Iran war, inability to 'transfer the love' for him - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNUZjXy1DNGJHT1JRMlBGNVZ4alh1Ymc4NnI1azRtblU5YmlGWFRmTU5KeEFvNnUtdDYta2pWZEpDRENSZVd0QXk2NlNmMmRsenAzUHlBcktGZDdzUUltbUp1YVNTYkR1cE5HZXVGbDg1dXdTS0xCUEcyQ2g1dWFZR280NDhWbC1KZmsxYVZGUWhxV1N5ZGxraG4zUUloMzBPcDhCalhRaHJnZy1LNzBobGd0R25SQQ?oc=5",
+      "title": "LIVE UPDATES: Flash flooding in north Georgia pushes Toccoa River to new record-breaking height - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZWxBblJIdkZPRDNfLUJCbUVQSm1NZ2hjczBjVmllZVE1blpOSS02QUUyalJraHZJVDRxelV3N2xndzdlNWRmZ21LOXRGWnlKSHVhLVdqbm5aaEEtb1BzbG5tNTFtaVZ3TG43TzlfZEd3Q2pLSFJHMTZaV2F6RXIxR3QzNmV0OVp6M1pvbkY4cm9naVRmWlN1eGFMOXNYVnlYdTFVRnFRM2owTEFfTU1TS3VYVkJFZ2RFa2hyekpHWGliWEpHQnJGNlRFcF9oazlmbDRz0gHnAUFVX3lxTE8zVEd0aDVUeF9XUVF0czZjSUpYWGdzbk9SQzFYdk1yNGxfTjV1ODlvZ3UzQ1BWN0thUGZFT2Vla2FLbmZTTExEQjlqb1puV3d3NGZCaU1pRGhLVG01NU9uZGNNa1h4cXplSERpeFFQUVQ1X3Q5bnFRZzRhREk1RjlGVGVSV2ZvcnNUQTUzR1dXanFvQTllSGk0M1ZwWGc1amktck1Tc29RNnBYSXhNZ1diczBmeFMtTU02TXFWX2RiRGQ0V1hPaXpNWnQtSDBVcVRXdUoyZ0Y4b2tBdFAtQ0JtRFIxak5BSQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-05T14:07:52+00:00",
+      "domain": "WSB-TV",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Michigan can use artificial intelligence to improve lives - Mackinac Center",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEZKNXRhRHlsaDNzd21DZF9XcERZN2ZaRkZHSHp1UTNZZHVIbDFCbE85emFWaFkxMjN0MWFvOHBoRGpWUWNoMFI4VllsdUI5THczRVZpc0RETWtIeXlzcVAyVVBaSlI5ZW5fR3JJS1FlU29vREV4Nk82Unh2MTBpcGk2YUo2NEp6S3BhYXJsNjlLbzRTNWMw?oc=5",
+      "category": "AI",
+      "severity": 2,
+      "seen": "2026-11-05T13:03:08+00:00",
+      "domain": "Mackinac Center",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Blue tsunami breaks MAGA: 5 takeaways from a blowout midterm election - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTlRHckk4bFA0QmdHUnQ5WTYxVDZLMzBnMUhrV294cDVHZlZ3X1VHMlJSVF8ycnJ4REZabGdPRFpwU3BENkJhdnBQRmZTYnZLVU8xaU1EQ0lrVmpHTENocjY3SVV1T1hUNG9ZVGE2OE9YWEJ1ZW5xVVN4eUxXWElKQlBB?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-04T20:58:42+00:00",
+      "domain": "Axios",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Russia deepened Iran support with missile launcher deal - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzNsRFA0MVVkdHQzNzVtZXFtdEFYczhFaXo0SVdncGV5WHprY0FLcTAtaklOWUNCb09Ic3BBSWdycW5rMWFKWFJMbHhaejlmMmdwN2RIbElKcE5QMndxdnozdVlVd0R3TFVMOWVaXzFiZU5RaDFUZTk5Q0o2STZDb3dmREM?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-04T19:46:21+00:00",
+      "seen": "2026-11-05T05:00:16+00:00",
+      "domain": "Financial Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Everyone’s Talking About the ‘Blue Tsunami.’ In Japan, It’s Complicated. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeUJKQl9lLWVKLUEwUnRmMzBJaUp0X3hIN0VyS01FdTd6LWRpdUlJR1BlemZTTTJGa1ZWWHFxWmdwYjE4WWdmaV9ZWUE4U0lNN21XRWZfdjNyWHVRdjhRUkQ3alB6QlNVZ25TOXZEb2w2bmlDMHlGNnVKeTdOR3hiaXhjVVlkLUNndDlfWA?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-05T14:31:58+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "A month after Yemen government offensive began, war of attrition takes hold - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSGZ5eTA1aEhkZlJxM1NGOXB1b2k2TWZPd3lCcV81Rm9WS0dlUTJ6UHRrLWkwYmloTWg0YlFtc2hqLUJDRHF1aXNPNVdFVllvZ1Myc3h0c3pfM2FWMnB6a2NPdEgxbnZ0TzFVNHBmcDhYb3BWOEZNY2R5MFFTNlotU3AtTUl3MTJqMVBDTmhVZEhNWmVaWTg1Z1VXRzJXellLMEZTSmhfTmpyN0dYTjVNTV9XWmV2UdIBuwFBVV95cUxOdm9XdnVudF9QVGZRclFwMkhRd0NTdzFZSHV3aTItY3ZYLWhmdU4zOXFnUDVNdXdUMnpnYmZ3NkZFUElmeTlEcTlhY3owN3l2YVBYcC1vMnp3V1VLNktVS09xaHY5MVNwS0xoTzU3dS1FZ0R2cUtoVTVXVWkwcnJQU2JiQ3BYQ1pkX2V2eTFsZ25idHFNWWlmck1KbmdGc1JkSDh6cTN2RHFlWGlkcTMyajl6dkxEQnFUM0FR?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-05T10:04:27+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Oil rises as investors weigh uncertainties around Iran war - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzM2c3YzcktwU285aS1QaVVzTk51WFR0UnpxMXlnaFdEd2RtZWYzMm81TDZQUTJZS0ZlLXFVV3ZhcGFibkdLZm9Remo3YjlhNHJTd1lxSXNMUFNzejhIMkt0TlFRXy1RZl9TdTkxbDhfdjQxUEIzcUhaYlpOMjZJSVViNmVPV0dRV0RmaTJ3dDJ3QUs4TTFleFlnZnNyUHhVYlQ5NldaZVRZRFd5dU5nVnRKVUQ0UFE?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-05T02:20:00+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm Losses - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcnRLVmRNTnVEX3lyT3ZheWVqaTB0Mk9kYnk2TUJFVEY3dUlXUFNiQjlCTS1HSy0yZ0poQ0QzQlVtWWZHQUpwNXE5Snc5MFA2WUQtRXdXTW44Q3JydHM0X0pmMmtVSGp1bm5zemd3aHZyaEF6RHRHV1BpUGxJb1dkWURLbmNreXhU?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-05T09:27:00+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Melania Trump to host Russian and Ukrainian delegations at the White House - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RdDFXcUVUVTJpb3dobHl0TTJTY3ZhTnh0d0p1RkRkSlhiVjNaMHZpWEtaRWVqRms0eWFqS3ZwaUo5N3BmVEpIdlo0Y09udzhaNWt3NU1vNkxiYUU?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-05T13:09:12+00:00",
+      "domain": "BBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Oil rises as investors weigh uncertainties around Iran war - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWI5VVd5QjQ2czk5cjBSOHBvSjhKRmtSMnFUSlZPNmRpWFQzTmhBZl94ZnpibGtUdGRDWFNuZTU0MTdIZktfNlVJMUhpM1M1S05xN21wcUtvelhxN3RVbW01T0JyQnFucVVkTEp1bU5NZmp4azFkT0l2b0FVb2FtUkFTTHRrd2FoZUx6YlY0ejVJbVV2TkNWZ3B0dnpqdjVKME1OWmtZZWRXSlQ3ZWZ3OVMxTEx1OHBF0gG-AUFVX3lxTE9jRFNha0MwNFU1d3lTeVRhWGZONFRuV29Gb3FJQ3ZkeV9RUnZnWlRmc05hV0dTSWhnUDBoTzlWNHZJbWp0Rm1QY1d3Nmo2ckJIOXRVd0phYkczYlRsdndvdmhRbWJOMDhFZGUtQk8xZGlEa0JmT0phYkxYbVdsWC1rbFRrWUl0eldCWDNIakFRSHZyUnEtYlh2R1RLLU9ubkVIM0FEbUJpR3FlWWswVGx3TXBKRDZkMzhXcUptMUE?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-05T05:02:54+00:00",
+      "domain": "CNBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Wildfire survivors pack courtroom for PacifiCorp lawsuit - Oregon Public Broadcasting - OPB",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVE5RVNrZVRiOV9LeHFtUEVqN0RhQlNma1docFloa0xqc25pOXFOXzRoclBBa1BhQnllNDFLZkdscl85dTRxYTBES3V2bEVSdDNIMkpQTGlwcGJLUFdFcEU2RFpQdTVHaDk3TXgxc2JEczBqemlJd3NzQm15UWZoUXVHMm5NUDF3R1BhN1FrVDlSbHZ0dFdOV21R?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-05T00:43:30+00:00",
+      "domain": "Oregon Public Broadcasting - OPB",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yRE8zWTktbFNWZGxHdlhMZk4xYTM1VUZMaHI1WGd6ck50M2N6anJ5N1pFOWlVZUtlN3hIWmdKMXlRWC10Z3FrSzFWWlFCSEFjT2VuQUZpeGpZSWs?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-05T03:47:56+00:00",
+      "domain": "BBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-11-03T08:00:00+00:00",
+      "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Peace River, Horse Creek in flood stage; major flooding forecast at Arcadia - ABC7 WWSB",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV3JEelNSTmc1OHVnV3hTT3hNTjdidDRXbTZwNDMwaUNRSG9BQndTcXUyMjJpZ3Z0ZDc0d0RnUG5ma1BvbGRRcHBiSmFEVk9IakRlRl91clRjc3ZpYnpYcUVYUXFIQlVWRDkxSWJlSnZQQ0JRQXZ6bEtPa2I5dUJNaFJUdmN6TWxSSkNlUlBCMzV5NkVjV2ZkbW5menAyUGFUSXdDcm9NelpEQdIBvgFBVV95cUxQSlcyN2h6TGs3RnhSdXd1ZmJvRGJPaTZiMU1ta2d6QTRYaHRxM3hCbTNpZ3pEZGZKQ0lTTXJxV0h2dXhOY1FBNVRYOVVRcnhJSmdaWjNCX1I2TjFtTWFwTVN0bmtteWVYbDhxVFpRazhqU25aWUktRlpKZTkwM1JoOHdCQmJsYUhSOGxTWE5ZaENzRUR4dmdRSDdHdDNVSnNqVGtJSU1jU3BZdUkyZlV0YlZzM3hkTUdBSDRheW1B?oc=5",
+      "category": "DISASTER",
+      "severity": 3,
+      "seen": "2026-11-05T14:51:00+00:00",
+      "domain": "ABC7 WWSB",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "The Blue Tsunami - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlRXdmYTJ5YkdIQlNHYXdOZnB0NzFwNmp2S3hncTA5NUdhOVA1REFLZXZNNXBsdFd1b0h1UklVeV9vbFRLYVFXQk56WGp6Q25tUnF6TzVycDBicTBqbnBreW5hY0l6UmdJblBfSWNTS1liUzA?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-04T16:17:37+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Emirates Airline Profit Falls After Iran War Disrupts Air Traffic - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2hfQWJDNnFHaDIya3JhZmdid090dlZMZHNZVk45UmYwTlRyWTFjM3F3LTZKSjRNV0ZSTTA0eXlOSGtvbU54cklqSnZiTmJHYmJtWHJWUzBBTHBnNDJMM05vRURrZHVsNlBXaWdTRElzX3ROY3VnYnZpak13b3VyU0tJd2RLNXpNU0hZNDlSQUFmaUg2cjdCY1BmSDUxVWs4RlVOMlhVUnM3V084VVNyLWNn?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-05T10:20:00+00:00",
+      "domain": "WSJ",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Guest Commentary: Alongside hatred of war, we must teach peace - Orlando Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSFNCdllkSS1YNHNrSWhHSHNNUU9QUzVCdVlSLU1jNTZxUlhieDNQbkhpeEI1aVk3YXRjQlJ4TmdPNjZVNGFXSGtwYzV1R1E2Y3ZDWXZPRDg3Wkhua3h2aFhsamRLbXBBOVN5UEJSVVlYak0xd1pRcklhcjhvZURYX0ZmaTdXTmdldmc0dnBSUEd6emxncDZ4ZzN1THYxb1BDa3FKRTdmbw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-05T10:31:18+00:00",
+      "domain": "Orlando Sentinel",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "India in final-stage talks to expand missile sale to Philippines, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV000QWU5a0lPSXVaZDVhb0pJOXkzUjN0MWVXMVNZemNfS2E3SFhXMEdwNzVyLWw5UGU4dlFaYzVlUzkwQ0RGUlgxZUg1ZEJQTWd0aDdLWlpza2hZR1NMZzRJTEV5U1U2cjZ3bnVpZUtjc3lKdzZKd3dDY2VscFk1ejhiTHNJYWIxdm01SV85YzBxU0dnWHB6c1ROd01wZURpSE5MQnVLVThUbnlRSXNHR0dDZWIzSmRjRXRjZWFuTQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-11-05T09:01:59+00:00",
       "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
@@ -189,162 +359,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "Vance says the ‘real reason’ for GOP rout was anger over Iran war - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTQyRUxiZlFaS0w1cVRjbGhkcldaSmVxTGZWSnM1OUxKbGN4TjhORFphODVPeHJyOWxENWRmUUtEZkRVb1B0cWFjQXRLNkp1R0duenMwc0xhQi12S1Mtc0xYcXBfMUt0WEdSX1RkXzRyQzEwNHkyNnphUGdqYjJMTjhrdUx5eE1oRUluZXZzanZONzVMb2Y3eWsyMWNGUThuN0R0UC1tTmRjaUNZaWc0?oc=5",
+      "title": "How Trump’s War in Iran and Missteps Flipped Washington Overnight - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzhmcEwxWnJ6eXlYcm5qb2lmOXVadVNibW1kYm1PbG5EaGVhQ0lnWDVQVk8tWU84Y3ptYWtJdjFjY29xZnUxOE9LbU9RVzI5WlhDbXBEbDlNRnBDRmJZVHk1Z2h5VTBCQmxweGxOUWhlZlJKWF9zaGNkSS1abVctSktKSHZFTFV3c24tNE4tdDdNQ3lEVFhmWFNobDR0OVFK?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-04T16:42:23+00:00",
-      "domain": "NBC News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Vance repudiates Iran war after US electoral defeat - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa013TjNzRzN3VjI3QVg1bEtHRjdHNjFyeVpZTURvOWw1M1cwX2dpZXhKUXVTVEZRUjJTS20tNjBHSUlSS3NnOU4zZENjTmRoTHZmN1lEZE9lS0dRU1ROWWxnaFlhRXNtZUkzTGlHVnZ6YmpfTERySXRfV3FzOEd0bmgzOW5oVlJqa1FONmI3NjVleWVZR2d6LTY1dlZqUURPMnU3ZkpDQQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-04T17:26:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Iran's chief negotiator says Americans voted 'no to war' - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TQUxQNVBvM2RuXzZnTWxjS1VPRHo5dHR3S25zZVFJeFhJYzVnSHJMcGMyb1JpODhEOG5ScDlHb3d3M3Jqbm1FRjR1OUlESElyUVFvLXJmbFFlWkU?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-04T16:59:15+00:00",
-      "domain": "BBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Rupee to rally after US midterm fallout sinks oil on Iran war-exit hopes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQME9GZlNzY1R1djlUYWZnQ2lQRXE3ZHoxQ1VhOEZhaVRyVTY3TWZIRXhNMDNaemNtb0NFNzJZeTZtYlRCX0FtbFlYenA4Z0gtSkZBZVFRQThHZkRtcHhsR09wWXVhdl9CLUQ2Z19JNWpFWlI0N013RFR4VDFrSTFoZzVQS3F5Y216eWdlMTlZbWxldWY4TXh0M09TLTBuX3lUZ1ZWRzVaRHhxSENxT3E4Qlpwd0E?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-05T02:19:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "\"What we just witnessed was an AI earthquake\": Voters revolt against tech at polls - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhQ2ZvVnJGeTdHU1FieFpQUGFQUngyZ2QwaUs3bVh0R3JBdm0tMTA5cFdWTXZ0OXdiNU1Yd01lRERGN0tEY2FPeVYxM0QxakNyREZlbTZRRkZmSHJyZEM0eUtkMzhubzlMeWdLQk9JRF9HTjQ?oc=5",
-      "category": "AI",
-      "severity": 2,
-      "seen": "2026-11-04T14:38:08+00:00",
-      "domain": "Axios",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Vance blames Iran war for GOP’s midterm losses - Politico",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNGdhaGpjM256RXdqdWJMUUdVQUFyNHlEb05xTXE5bmJDLUlURzZrd1JCcGNLMVc2cTI2NEFoeDh3TmRycEMwRWVzbzE2LW1jZU96cFNlMzJHcDJtSXFYV2JUWmVuT0JIc1k5eWUyVm42VjEtZEVGd0cyUnZyNVY3cUxn?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-04T16:07:00+00:00",
-      "domain": "Politico",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Vance’s Break With Trump on Iran Follows Weeks of Handwringing Over War - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFJjSXRlWWdRcV9tRGxUSkNsRkdLTEpNNW9Yb2tNbm1nTzZUcHFoRzNPdGQ5bGxOb2g0SnFQbEpBZmVlOXgwOS1YMEZuN0xyLXEzbE9YbkVIYkE1SDNJUVd5OXpmdjBHWXdhU1o0TndoakRCdm5fLUhYUHNvOENySXdxUld2RXNiV3Z2NHZ1NU5LaEZrQlpIQWNDZmZiNC1rNG96LV9qdW83UURHRm1JaHV1Qzk1Zw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-04T22:36:56+00:00",
+      "seen": "2026-11-05T10:52:37+00:00",
       "domain": "WSJ",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "‘AI earthquake’: Democrats eye a Silicon Valley reckoning - Politico",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQam9BYnlkekhXbVVvWktfYnhhcmpwdEpHV2FMYm00MlZWc2R5WU1zVnFtbTNqSjV6XzJuYlNZVjByeVhQN2loUEdmUlNWenNNbVhXWVkzd01RUF9GTXFaUXZMYVNmSWdHLUFBbmpVdWZkRGh0N1ZjbE0zWnRvMkNUVXoycDlmalJDX19Fa1g2TlZ6QTJKWnZSbg?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-04T15:06:00+00:00",
-      "domain": "Politico",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm Losses - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcnRLVmRNTnVEX3lyT3ZheWVqaTB0Mk9kYnk2TUJFVEY3dUlXUFNiQjlCTS1HSy0yZ0poQ0QzQlVtWWZHQUpwNXE5Snc5MFA2WUQtRXdXTW44Q3JydHM0X0pmMmtVSGp1bm5zemd3aHZyaEF6RHRHV1BpUGxJb1dkWURLbmNreXhU?oc=5",
+      "title": "The Czech government’s new culture war shows the Maga spirit is still alive in Europe - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdzYwTVBiX1RrS3pXOXhJMWFXdl9GRWJHYUdncGpYZ2lKaTZKUHZ4d2llX0VVSHBvWkJ0S1BXWk1DNThvZGJmMWVDMUZnWnJaZ0lDVGpoa2g3eU1HTWFSZEhRNWpCYURDLUxUN2trZ0FHTVBWNnhIVUVWSU1vZDlPaDJaNGppMXdfN0g5OHY2ZngyREd6bUxwUDlrMld1VmZoLTBWLQ?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-04T17:00:23+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanRQS1NxX3lCdmRsYWJ1STlUY3B4SDIwaHpITTBOUnh2ejlJNUlkQW9QWkJXcTFFckhBLWlCTnRPUTJYaWd1Q0tVSDhIQjNkd2NQRFpXSkhaTVJiZHF4cG9CbnhDSVYzejkxX3JDS0kwaGs2NmM2RGJNWjJSSmNzU1FHT2PSAYoBQVVfeXFMTmJ2eEhROHc3V3Y5RGwwQUVCUC1oTFpqbnQ4WjdNbE83Uzd2SFpXUWJCdloxT0VqdWM4Z3RPM1UwVS1rWHFLLUo1Y2ZScGFjSkZqQ3NQSl9RMnV5SjRPcXZEZ0sxLUJWWTZxbldMcFc5WENINlJnTVo4QmMzLWFXSzB5Uk1Xb1oyRjVR?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-05T03:44:00+00:00",
-      "domain": "CNBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Could Democrats in Congress end the war in Iran? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yYk05dUpUT2ZHS3ZVeHhlRkRLOFU3dG9xeHpVUlI5RE1qMV80eUVXTDNmMndhc0xiQ09JX3ZpYVAxR0M0SEptdHQySVk0RXM2aW8tSFhjdlM?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-04T22:14:41+00:00",
-      "domain": "BBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Midterm results: Five lessons from the blue tsunami - Vox",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRnp1QTEtZDBiVlJRdUZDSXdjZ0VCVzhEOWYyc0FSUFlOMS1tanBVVk40ZDVDT0JCanp2azlZVUExLXc3WEpRQXJ6U3p5QmVUYnFwRjVhR0QxcTdTWFJpNl9WQkpYUmlFU2VRVU5qYk8yQzdnX2t3Y2FJZFYtalNsSXBGMnlfeXhFUXc?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-04T20:05:00+00:00",
-      "domain": "Vox",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNekVkV0ZSQzFFVWNVeWw3VkNDb3puOUtuSnBnMDM4QllXbXpHNG9kWEJJa29EcF9mS1NEVUxFQTJ1M2lwQW1Bc2RzWWhkbGc4V3VvbVV0dlBHaWk3aENpWHVpQUkzVFdMYkF1QjJ0ZTZ6dk5fdFFldkkzTy02NmdVd19ac1U1X2pybTc4?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-04T19:55:00+00:00",
+      "seen": "2026-11-05T11:31:00+00:00",
       "domain": "The Guardian",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Trump dismisses prospect of replacing Hegseth amid Iran war fallout, looming Democratic investigations - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeC1Ed0o3YWVobm5mOURJNTkxSTF5S0N5SmFCdHJOTVM0TndfRHk2QUk0dFNvMHgxRzRpUlM2Qnh1a0FQbVBlTmZuMzFoeGQxOFhac1FhRkZPVTYtOFNLSEZrVE9qeHBPMEtCallIOEFmNjlMVmN2dnloMy0yT0J0STNDb3VhcnZJdU44VTYxOHFPS0RPSzR3WS12RDF1M25kbF9uQUo1NNIBrAFBVV95cUxObmthZVoyUHozSDJPeXd0RzFWMENBRTg5N18yNU9zRWtXVFVWTUEtUUZ6bEo2Uk90LWJ2OHVaWTJnbHZxcGtPZW9XQ2JfQjNKZGhjVUxFRGhKRkMtTGhub1J2RHUwX0dPSU51WEp4RC12QTFNeC0yZy1WbVR0S3puQ0FYNFJaa1g3SU9TeHpfY0ctODZhY1p6V0plOUtqYnQ5MGpCalpWVjFhQU1Y?oc=5",
+      "title": "Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how? - NPR",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUlhBeklFdElHX1VZa2hWaW5lQ18waTMxLVpTU21Kbi1fd1hXX0gwUWFnbFQ5NEhxbHF5RXJaQ1lTd2phVUpRN1Ztdkl4UFNpOXNUbEdVdWVmV1VSSzg3U0JEM1pyR3BhQ3BwM05TQzJycFJTeFdyTE16bjNGNUtkM2hxUnBTMXptUnI5QXRuQUFGd280WE51aA?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-04T23:21:49+00:00",
-      "domain": "ABC News - Breaking News, Latest News and Videos",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Cruz warns ‘Texans will be hurt’ after ‘blue tsunami’ - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT0VnbGZPLVZBNWZuMGhldHFUYUs0M1Z4ZkZfa0J1eF9CQXhoenRWbUFkSHZ5SHFubXdVWWdFbjBSaVdrVkZBSmRZbkpqQVdEX3lSMy03cGJDemMwYkVncFgzWmNHQU1HNkJyZTVBRGxCaTNpLWJZRUNEWFVRTlV0ZNIBhgFBVV95cUxQZ3ZWMlV6TnlsQ0xzTm1tQXg1SVJMWl9rM1JKT3FDRGR0WHQ2LWtOUTVJa21rRXFfSXZrMFJPTllTOHFZUnAyWkQwSUJqazA4NC0wVXc4cnVlRkxkNFlPcUdJeVBCTXdtV3NqaUNpRnVzcGxFeDhOYnRRVWoxZHN1WjRZTlZiZw?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-05T01:59:00+00:00",
-      "domain": "The Hill",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "European far right distances itself from Trump, blaming Iran war for Republicans' defeat - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY1ZyNWRabEpTdG9UeDUzc3BpN1RRZ1FXZm1OZGdFSDVoNms1S0JHWU00bnhZeGxHaHlFclFTX0ZVUzU5ZEx3ZXIzTmVRUE5KMlBETUpXWEZiVC1zckhRaDk3ejNpMnVqZVh1WmllVk9jUVJoRHE4R3pnN3ZRSUI4TVJGcjN5UjhPWEVhYTJvWGFLUkRKbE1kcUFLTS0wU09KbFllV2ZXYXFHcHVhemFUNWVmQUlPaTNIVnd5V2FyZGZxRzlo?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-04T17:16:41+00:00",
-      "domain": "Reuters",
+      "seen": "2026-11-05T11:45:30+00:00",
+      "domain": "NPR",
       "language": "English",
       "sourcecountry": ""
     },
@@ -359,52 +399,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Department of War's Office of Strategic Capital Signs $150 Million Conditional Loan Commitment With LeoLabs, Inc. - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX29QS1lpVFRvUEF4QU1KMEZnWnZGN0ExQUJ3Mk10S2p3V01OTEs0azczOGRWUi1fZ1BPeWRERkEwSXhHWjFnRzFTY19NREZHc04wYXg4d09pTzlNSmpBbnRvT0YtQ01Dc2hkRlYyckk3ZnduYl9KXzkxd1BWdnJDRTVZZVBtVjR3SnRTcnkzbXY3aXFfMnRPMWIwVXNtTEFBWm82LWNsaGRHSTdjbE9RdnoyMnZOcXhBQ1phTFVYVk1uNGRiR19ZRFFNQTBoQ3c2MFBGNQ?oc=5",
+      "title": "Russia agreed to supply Iran with 90 advanced missile launchers - FT - Iran International",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NUEs0bzlMcmZmMXVETGtzb3g1MEE4N2U0S3FyMV9YcTQ2LWhqaUlZVTFKMzR4ZUFrWF9zYmRDYTluRzZSdkZKMEM3Z1pQbkZWR3c?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-04T15:01:26+00:00",
-      "domain": "U.S. Department of War (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Advanced Radar Contract Bolsters USCENTCOM Counter-UAS Defense - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzlJNXA3cFdYRFhwNlFNMFBnSWQxNmRRaTlDY3dKWkhDT20xeDBnUzhtV1ZYVG43clpkRE5kcTRzSTBVcGc0cVFFQ29DdURFOXBWQ2NFVXRlUWhTVlRTdkJMaUk0ejdzM3IxX09GZUVuUlFzT0NxU29wQTI5VVFRdmpxZjNaT1ItTzdPZG1FTEJYMVVFdGVuTE1kNnJBT0NhZVUwRTdRdTBNNUpHcWJ4bFlyYm5jRkxtaWF3QUt3?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-04T17:10:11+00:00",
-      "domain": "U.S. Department of War (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "There’s No Modern Precedent for This Democratic Tsunami - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMHVTbjdiT0JJVDdaVFhSNmNMckRkeDhmWEU4ZC1HWVEzaTY2UFpVci1iUl9GTXBha0lOY3B5eC1sbW50OEtLMDBFSnlETGRjUHZVTkhRVXBtUk5nUHRGdENEcTlyTFFiRUc5eE9FNm02SjNtUGE3b0lNODd6RmRQNXJPSmtNc0FCaW56UE1CUmFfQQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-04T14:02:51+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "News - 121st Field Hospital Revives Korean War-Era Rail Evacuation With a Commercial Railcar - DVIDS",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYmxmNzNRTVdoaldXbDVXZ3FqVGVrQWhRY0pQbl9sM3U1ZjN3QkZrcmdoUVhfLTFuWVU3b1VhbnR4UHI0SzBFWUxobFlZUEpaVjh5ajYyQTQxQ2Z5SXNaTU1NelhzcmF1SFZNZGsyY2xGWnA5QVRyLUJ3bFNhWVdzMnpEczh3bHJjWnJQTXMweV9pbjZnbXl5NmRwdURXck0xM0E1X3FrajVQV2RwYUx5Mzd3ZTB4eU01MEQzaw?oc=5",
-      "category": "CONFLICT",
-      "severity": 3,
-      "seen": "2026-11-05T06:15:00+00:00",
-      "domain": "DVIDS",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Oil prices drop below $100 as midterms fuel hope for an end to the Iran war - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSGJKNnFMbzBpa0NfandzTGhDY0N4ZHZZMjBRbkRkbGJiUWZyeUR6aXo1b3FRSVhCVDZjdzY3N1BLQkw1VGtHZVBBYjJ6NEVHS1A4cUluRkt3eFJuNkxoeDVvY2s1R3NvY2FlNXRkZTdfblhMM09FaGNpOVh1cnljczg3bnhvZw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-04T19:56:47+00:00",
-      "domain": "NBC News",
+      "seen": "2026-11-05T08:49:53+00:00",
+      "domain": "Iran International",
       "language": "English",
       "sourcecountry": ""
     }
