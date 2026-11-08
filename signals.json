@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T00:36:43.847063+00:00",
+  "fetched_at": "2026-11-08T07:22:16.867994+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -69,62 +69,12 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWQ5c2RBN2lVLVVlYWRjNS03cFo4RkpVQXgzZUhWN2lyaS0tUHA1SXJ2Vm56MDQ4R0JCNlFubmt2bEhEZG5maGpLV0J6M3JRWm1iUHVWb0dXUnJWN19fU1dLS2tTY2lRNmI3YzNKM1ZPb2RHSE1pb19kWE9mS0RNRlNjZWU?oc=5",
+      "title": "Russian Offensive Campaign Assessment, November 7, 2026 - Institute for the Study of War",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObGI2Y05zVlYxdTlfSjFmejdOZ3VDc0RIQzNjSmFuMUZMX05BY2NZLWd2a25mY05YUE1ZODFUdHliMjVKZ21zMFBXSkkyWmNKdElES1o3OF9INXdOY3o2NW82NEo3Y2R5bWNPSjRhejNQRVE2UjBFYVFWZUJLTU91RWNDNFBwNGlvb2xCOUlZcHQ4TVNZd2RzOU5kb3lETlVQNkVCdGp0QlZITFE?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-07T13:03:12+00:00",
-      "domain": "CNBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "US offers millions for information on Iran’s nuclear program despite Trump’s claims of obliteration - CNN",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGdGeHgya1Y5SDZ3ejIxcmRQVmVyeGpqSmNTRlJ6ZGVvZjBxZUZJR2UyR3drbHNvM0NHVjdPV3dEejVYSTl5RnFxTERVUWZlcFBNYW1RUU9aLVhfd3VRSF9ZX1NOcmNvRzN5UUhvbTFkcm9zYUFTSWxnV0M1dGktUVU2S0ZqVV9qXzloa2JDX3JmalpJQ0RqZg?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-07T16:01:54+00:00",
-      "domain": "CNN",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Why BYU-Utah Is Called The ‘Holy War’ - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xTTFpNHMxdkctcXJLSllKc25LR0x5Vld2Zk5tX200ck5WZVVXWW1GcXNpS1RnZ1ZkYnc4Q0tTUFZSM0JBSzBSZUs2QWszZU8xWUM2bk5kS2xrdVBKUVB0X1VnYUl4Q2dSZ1pBZVRhTHJnOG5PaG56clZkTGZfUQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-07T18:59:10+00:00",
-      "domain": "Yahoo Sports",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWd2ZHNRRjNUZE56eU5kdTU3cl9ja2dwemEtRWYyaG9GcEVBU2RBS3N5a3g1dFY4blY4a1d0eEtQa0VwdTFtNGVZRGhkWW9fZURoZFlnS0dZUXBndnJMME5EUjloYmthMDlOcnltMUNVblF2eHRXNU53RWdLNEZuRWtZYzF3M0d6QlllRjBMMnJaUU5SdVJ0YVVWUXM3V0hKeVg0YXV4ONIBrAFBVV95cUxPSXZRVmV6bnNJWlA5Zm5mcHZNMEdFNjBGbXdGYWJsYnllQUxFM0pQZ2N6OTdpYUZ5NUFtSHhjaG15YTF3VVg4TFM2MTFZVE1nOGN1dngxOFZfOExmajNUMXFJYVRwR3VISFRiMWFBVWlHOE9pSjJtdkJZTHlHMGFFN0xkOVVRRVotTjgzOVBFVGhBbGxETTRVN2JXNHV2OXRYVjlSQ3ROdFRTeFFF?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-07T08:51:56+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Iran warns US of 'devastating response' if Washington starts war - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmVtN0wxM3FSekxMN0g4Tno2QXRwMEQ3a0Ezd1VGdkZORUYyeEVHeDh1UlB6anlwMUhNN3VBbk9Bd0RRU1RjeWJCRUZ2S0VFSHA0SVR3Zm5IdEZLUFE1X0hCZ2lFSTR4cXpZSHIwSnczMldyVnJPcmtUWmpwNHNzSnYyYnBLLUw1V19yZlhNRHQ4NG5yVzF2M0ZCY09zSGNlOWZWVTBpMmRtQ0ZpQjA5RFA3OTU?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-07T19:05:40+00:00",
-      "domain": "Anadolu Ajansı",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Inside the Operation That Helped Ukraine Turn the Tables - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlU5ZjdTamhLa1pJSHRwQlk2RDJ6TzJmOW1QN1VFR08xcDg2eDllcmlSbFhUZzZIcjVUdXpicWN3RjJmaUpZaUtwNFlmZ3RiQlpFbXUtZEM0eWx6N2xGS3R0Zzd0UV9KWGhKS3RTVHlrNGtsWkdhSmZLd09UWGFWMjZXbHB4RWt4WUtRazRPTEphRk0?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-07T10:01:41+00:00",
-      "domain": "The New York Times",
+      "seen": "2026-11-08T02:13:50+00:00",
+      "domain": "Institute for the Study of War",
       "language": "English",
       "sourcecountry": ""
     },
@@ -139,12 +89,112 @@
       "sourcecountry": ""
     },
     {
+      "title": "A strong earthquake with a preliminary magnitude of 5.7 strikes Japan, meteorological agency says - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEh4WjJIRzdiczB4SWZBOGdvQ2hFTXZNaDhIYzFuUGNiSENIazNybFp3RllfU3lraFBTbW1FTGpWVUdoT3RMcVlIMF9HQTZhOEJTYXdMVW1PWnFFdVpETExCdFJLczF3T3F3TVBuU1FhZjRvd0JoQXdtVEl6QjJ5ODlFX19wVWwwNE1weGNkbE1kQVVHZ2dTZlFEWXplTm5DVXlFU3o1MjI4Z1N2eWtmWjRCLWZFQTk1S1lyMURueXR0b3fSAcgBQVVfeXFMUEFra0xiV1l5LTVocF9YSlYxQ2ZWbGs5LTNBNENMeDQ0U3l1ekE0a1c1SXpUNkdmSnE4c2tCTFRRNmRSdm93ZFVRUVBiQW10UzllYTlMLXVrZ215THpHSXozOUVIYjRJZ0UwcWpUS2J2bGs4N2NqdGZGbHI0NnFXT19oNGswdGtzQ1o2WTAtVzhyaGFVa2R0bVpWaHU4Z3FUQUhQM1RIa3NYZlpnYXhnaG5LN1V0aUNmN2YweFhpd3lMRVYxM1lTTlg?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-08T00:06:51+00:00",
+      "domain": "ABC News - Breaking News, Latest News and Videos",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "US offers $20m reward for information about Iran's nuclear programme - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rejdkUUZrcGI2bGlpbExoU2ltR01MRmJObjZuY3YxZU9rVTRBTURES2R6X1k3RXRzS2o1dlh4Nnl3M0g1SzU0QkZsQkRYYXJBd2w1Ynpyc0lmZHc?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-07T18:14:38+00:00",
+      "domain": "BBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "US offers millions for information on Iran’s nuclear program despite Trump’s claims of obliteration - CNN",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTGdGeHgya1Y5SDZ3ejIxcmRQVmVyeGpqSmNTRlJ6ZGVvZjBxZUZJR2UyR3drbHNvM0NHVjdPV3dEejVYSTl5RnFxTERVUWZlcFBNYW1RUU9aLVhfd3VRSF9ZX1NOcmNvRzN5UUhvbTFkcm9zYUFTSWxnV0M1dGktUVU2S0ZqVV9qXzloa2JDX3JmalpJQ0RqZg?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-07T16:01:54+00:00",
+      "domain": "CNN",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Strong earthquake shakes central Japan, shattering store windows and injuring at least 22 - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWUdHZWFQdzh4U25aT0hXNC16czN1X1NmMzFMYXZleGZ6SWU1bWswdzktZ0pFbXRXQTBTajJTRGg3MFhMMzE5Q1NzMHIwU1dKMW1vUE5LTGdBU2dZa2NqN2J4TjN2aVU0ZDZaLWRaVjhqTjFqMXl3M0dRNUJrY3NSNnhB?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-08T00:45:00+00:00",
+      "domain": "AP News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMWQ5c2RBN2lVLVVlYWRjNS03cFo4RkpVQXgzZUhWN2lyaS0tUHA1SXJ2Vm56MDQ4R0JCNlFubmt2bEhEZG5maGpLV0J6M3JRWm1iUHVWb0dXUnJWN19fU1dLS2tTY2lRNmI3YzNKM1ZPb2RHSE1pb19kWE9mS0RNRlNjZWU?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-07T13:03:12+00:00",
+      "domain": "CNBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "California election: Jane Kim declares victory in insurance commissioner race, vows wildfire insurance overhaul - ABC7 Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV19wQk5DTjdOYzJmdHRxRmZzTHZGbEN4T25DMHBTUDNwb0lfZHNXb0d1SHFFWVFKcTBDQXJIcjZlZ3VMc2xlV3FNdG90d3pTZG9SNzBrLTFMY3BNYUoxcXcxeWwycnNuYjlrVXpFNFhXWUhSdEdmdkJFSmVYTkxIQjNNUEhlM3F0TW9rc2NiQ29wN3kxS1hDMENHeXdlZFNQMVU4MlRxWVpadmJiOFFtelVrNTNkSGdlQUlDZXRaa1ZsakdYQi00c1d0Q3HSAdIBQVVfeXFMT210MmFVZEp5c2laRmFOUzhyRTJlV29iNUNqQk9mVUVVdWhXMkE0alhXSWRrQ2Z2ckNidnluRzVFdzlCWXVWbExOZWVTbElJODFUQUpnNmUwcktyS2EwUUt3ZlRhS0o2c2F4cEJaS0RreWhwejJwaWxxVFJhLThsSXpodFd1NDczVVpmWDJnYlNzZTRmNUxyVHZfSlotajNoQXdUbTRKMWpoN19pTzZxWFcxdWRWLVEyN3EzcTFOQkVwb050bXVmUGZkSjAzbkhkcld3?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-08T01:22:08+00:00",
+      "domain": "ABC7 Bay Area",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Home elevations ‘caught in a ball of red tape’ as flood season looms - Cascadia Daily News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWF8xbmt0OVpCbFFwQzk5R3g3Y3BKX3VVTlpodHVHWk1wMEV1amZlTE5iZXB6RzFVc2NUSDRkVEdpUmNkdGtVLTN6X1BXQWVXWUp1SGN6YnRGdUNZQW1FVnZDaDA3V2NhNEVsSUg3dlRTNWJZN2ZWUmM2NXhfcFo1RmZZWFp6S3FpcmtjQndtWllxU3R6RERzQ0FZWERyYXZDaUVGTm9WRDYtVmlLS3c?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-08T05:06:17+00:00",
+      "domain": "Cascadia Daily News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Texas's 'Blue Tsunami' has former Texas congressman Beto O'Rourke 'over the moon' - NPR",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbGVqcmRyZ21SMHBEa2xETkkwcmdlN2R3LUY4Mk9RQ3pJRmVKWmFQR2MtUFEwR3RxUkhYQ1QxT21MQXVvV1J5LXJVOEp5aFg0ZFZQVGtSVlh4THJiVzlkM3FERFdnOWpjaTc2U25UWDRtTk1oem83MU1GaUw5MkZOLWtOZTRtR1g4THFTSGZLU201eVIwZkJGZ2x1TW9rTGVBM21ldWVCamhvRVFUZWlMQVFnb0pxM0ROLUZqZA?oc=5",
       "category": "DISASTER",
       "severity": 2,
       "seen": "2026-11-07T22:12:08+00:00",
       "domain": "NPR",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "How a Talent War Spelled Doom for the Traditional Law Firm - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNWg1YURZTUs0RF9HMk1BaXBLT215WXQxakZWdVNPbDBNUmRpa0lUUXRRVk9vbmE2MkkyVkVBWm9tMndORndqMDlmQlplRDVHa3lTV0RaZnRkSlBOZlFLeU1ObUFYMklpa0g0dzEwTmNJMW5rQWpNVFJ5dUc3WDhXdWNSWnoxa3ZGNjljYVdQQUk2aFFSWUM0MkZrV1E?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-08T01:00:00+00:00",
+      "domain": "WSJ",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Breaking: New wildfire reported in Los Angeles County on Nov. 7 - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BODlGc3V2LXdIWFJ0OW5CX3JScUFOb1hqSFJtYVBETi1mTjRmX0NYTkhRNzdsTkdrQ3pycFVMTFlwYVZMUEI0Sm1Hcm5iZmE2QjcwbGpLOGd5QWZyXzJhcWI2b2JkemhfLTktWnRqM2YxYmJ5?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-08T06:52:05+00:00",
+      "domain": "Sacramento Bee",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Wildfire modeling raises questions about homeowner risk and disclosure - Aspen Journalism",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc0dZY3VHR3NoQ1dsTEJGeDNpcVVPTlBZQkVzYmFCQ0N6c3BBRE5rOW1FOTQ3dXBfQWZCbUVFV2tIa3RuRksxQUM4RnBtSmZCRm81VTYzbXQ3b0gyZUlxX1Bob08yTllkZ0NJbWNHbDNkY3p6V3pKcHhfeVhUdFFiSWlCLUF3ZGRldnNrQVFNRTFvdGhaRzFjbWVNRTB3TFVq?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-08T05:12:27+00:00",
+      "domain": "Aspen Journalism",
       "language": "English",
       "sourcecountry": ""
     },
@@ -159,72 +209,92 @@
       "sourcecountry": ""
     },
     {
-      "title": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US - AP News",
+      "title": "Drone and missile attacks wound 9 in Ukraine as country prepares for talks with Russia and US - AP News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-07T17:30:06+00:00",
+      "seen": "2026-11-08T00:37:00+00:00",
       "domain": "AP News",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFNrLUQ1dG9iaVNVYWYzRjRlbmNnVEFHR29rcWh5NnFpaEx5UWs1RjNTbWZoc3oxd2RQWUdBaXFaNzJENjlUWVdNOHNsQzlWOFVYdDZHVTFvQmpGWEpSSlZFLXRVTUxWX2lQaHl6VjJMVDViVEM2NXF4cnZJcUo1aWJHc3MtdTZFdFRhLTF5cXBTallDMFVZY1dlMkd5RFU?oc=5",
+      "title": "Earthquake hits central Japan, injuring more than 20 people - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa05nV3hpY01YUHJaZFNtNE9NY3g1OWx5aG8wTW1jTXRLNldzTmJLMUZoLXFsbEhPNDYySGx2Y1JDbjBtU0VyRWVMTnZ1a2NGSW5fbXI5dFJmdWdNb0ZGTFVDbjFmbXplTU1GYWJsX2J0dlBNQS1PbGZiQXVSMHBNdEZoMGZCOUctT2hra2NndzhCbzhEUGRKQXFMUG42TVVo0gGmAUFVX3lxTFBxUlpNSG8zMVpDZ0o2LWJRUnNMaW9BUXd6UU9Yc1NvZlQ1MFlSLUEzRURvMHREMEJsYXF1NFFOUlZnUTdRb0s4N3Bkd0tfMzNlUUUyenlKNENxbnU0ZlFTRUxQUGh5NmFlcGNzcWVBUGZ5dHRKeFVTVFFET0JDdFhkVlRkNFFtREE5clpVelFUVXo0MW85QW9mSC11dVJadDliMDBlZ2c?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-08T04:23:39+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWd2ZHNRRjNUZE56eU5kdTU3cl9ja2dwemEtRWYyaG9GcEVBU2RBS3N5a3g1dFY4blY4a1d0eEtQa0VwdTFtNGVZRGhkWW9fZURoZFlnS0dZUXBndnJMME5EUjloYmthMDlOcnltMUNVblF2eHRXNU53RWdLNEZuRWtZYzF3M0d6QlllRjBMMnJaUU5SdVJ0YVVWUXM3V0hKeVg0YXV4ONIBrAFBVV95cUxPSXZRVmV6bnNJWlA5Zm5mcHZNMEdFNjBGbXdGYWJsYnllQUxFM0pQZ2N6OTdpYUZ5NUFtSHhjaG15YTF3VVg4TFM2MTFZVE1nOGN1dngxOFZfOExmajNUMXFJYVRwR3VISFRiMWFBVWlHOE9pSjJtdkJZTHlHMGFFN0xkOVVRRVotTjgzOVBFVGhBbGxETTRVN2JXNHV2OXRYVjlSQ3ROdFRTeFFF?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-11-07T07:02:00+00:00",
+      "seen": "2026-11-07T08:51:56+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Strong earthquake shakes central Japan, injuring at least 22 - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnhfSHFxOEZXQXkzVVN3YmZfd1RIcV9KZ2Z2d1J2YkM4Zm1mYUlBcE8yV1pqQ29FUGVfXzNMU1ZhV3lhN3FKUnIyMnJlbURwQXNTV3psb005ekk1VC1EY1VhRHRkVHlrc0UtLVNpV3VIdUZ6ejhVaUF4M2Vvd2hBMFFpOXdvWWs4WTAxTkRKXzJjbmpZX3ptMmdqS3ltZ0xaRWw3OGplQzFKTUk1RFJJQUF4aw?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-08T03:09:00+00:00",
+      "domain": "Los Angeles Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcDZGV213b2dwYWhTaHVHT2x3d1RjbkJ0dTMwdWFiUTlJbnRueS01SXlfaXJUVnV1RGUzUU9JZXpUOFItSUJWTWFVSFJ6MDN4VXRFRW9GazhKRDFUR0lzRS03dDN0Z2o3ZXFhc2hTTUtPSWdFX2pIa2tmdFVmNC1UMXlDTWtvZWtPbXZTaTIxTVc5aDJ1RzNDLVVZcXlCdFg1YjFzYXRtTzFfSXR5U3AtdEVTLUdsalNNbDJBZjI0dklYY19vLW5FOUtRODdxMVFUcU9XeW1TUnAydEZEQmdkUmcwWkF5a2wtSnc?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-08T06:00:00+00:00",
       "domain": "The Guardian",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Department of War's Office of Strategic Capital Signs $250 Million Conditional Loan Commitment With 6K Inc. - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNkZ4X0dsb3ZPcnJVZTFOS2FvbDRGVUdZVVZ5RmhKZ1VPUmFKaVFZY01zR09weWpRZXlWYTc5ejlxQ1ZWWUd0bl9MdEVEQW84ejZvaDZPdmtvUVRadV93VS0wMWMwaTNRQ29ZVGJkRW9mZHBTOUkzOVRfcWc3S3JpS3NPN0pJUk5WczAzUVFnX2xIcDNxRGJnbFNjaVNQQW54d1Q5MXlvb0x3aXVkb3lOejZYaDNyRzU5cU9QeGhCNWxKLWZ5eXBUaVVsQ2JCNk9oOWlQRA?oc=5",
+      "title": "5.7 magnitude earthquake shakes Japan, injuring at least 22 - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYnN5OU1mLUpBdkVHS2JONG1hbXl2b1JXSHM3VFZmdHl2cVlFWXkxX1hWUUZDZlFzZlByRy0yTjllSmhsWkYydWJIRmszdnZtejkycy1zUW5lWDc1czBmc2p4U2gyNmxHV3haSkdURFRwUjg2RzhXTXhyZHpGSDE0bm84dEUwUktVS0ctOXVMeVRxQUdDSGE3akxB0gGuAUFVX3lxTFA5TldfanROa01mS1dYdFJDU3cyUWdPaThYRUlBdmZENFByeEpsWFVtb0VHRk8wMHpPSUlhZDlPWFBSRGpUQTJKOUhzNy10Ym02Y3hoVVhxT0FKaUN5dlRQaW5OazFIREcyMkZ5QlFMTXZHVk9pWURyR2xubmVRWDhBYUk0N3pVNlU0Zm5vb0dBaHNpcnNnbWNnQ1NfRktqdGM2XzVfejJvU1Q5NTZvUQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-08T03:14:00+00:00",
+      "domain": "AL.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlU5ZjdTamhLa1pJSHRwQlk2RDJ6TzJmOW1QN1VFR08xcDg2eDllcmlSbFhUZzZIcjVUdXpicWN3RjJmaUpZaUtwNFlmZ3RiQlpFbXUtZEM0eWx6N2xGS3R0Zzd0UV9KWGhKS3RTVHlrNGtsWkdhSmZLd09UWGFWMjZXbHB4RWt4WUtRazRPTEphRk0?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-05T15:10:21+00:00",
-      "domain": "U.S. Department of War (.gov)",
+      "seen": "2026-11-07T10:01:41+00:00",
+      "domain": "The New York Times",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Iran prepares for war to resume, eyeing new targets and a shift in military tactics - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUpka2hLSkx5ODRTeUJaOGtYZ1RvNHNHR3ZsamxQTWhjaWU1RXgySkh3Q0lyWnBCMjRqMHRZeWlJOVVJVkJwa3JmM0s1N2Z5YXdGWlMtTTRzSVcwRUVoYXhPbXYwTEJXT3lHbnlmUDkyaXJUU3hRRHdyUjY5SV96Ym0zcUhMQ190MnJjS1Nra3pwbEV3NnVZbV9uam45N3JiRlowOTVUeW9GRm1mTjNfM1R3?oc=5",
-      "category": "CONFLICT",
+      "title": "‘Blue Tsunami’ Impresses Bay Area Voters. There’s More Work to Do, They Say - KQED",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNVl3ZUpUMVF1amIzcWlzU0xqekFqMUNnSXYzSkhndGtMR1l2R1VBUUY4b0lXWjZEdHZnQlVtU3pQRE5pRV9TNV93OThhajFVa0hRczFNcHZ6c25kSzRsS2lGWVQ1S3FraFc3RkhsUjJTR2JMT2hyTXlPOFhLQTFVdkJ5cDF6dllJbFdVR2VWVEw3YXhLVTJUSTZzektGVWZ4aG9aUk1FZk8?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-07T11:50:35+00:00",
-      "domain": "NBC News",
+      "seen": "2026-11-08T00:37:47+00:00",
+      "domain": "KQED",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "US offers reward of up to $20 million, possible relocation for information on Iran nuclear program - The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TeUNiSDFDMjdhOHNsX0RPeTdBNVZZcU43eG80SXFaWXdJY1YzTXlDZjdBdjV3MHNQZG12WFo5OGhGOU1kWGdjWjY0b0tuYmhHV05LWENZdWc1NHdyV1B0ZklTaHo1RWFUZ3c?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-07T17:02:26+00:00",
-      "domain": "The Jerusalem Post",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news - AP News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWlBaG5BYjY0T3dxT1Z6aFlidmJqREpvYzlzdXFOQW8wZFpLaWZSUktyc0dhZXJQdUd3UlJHLVVITURzd2VnWEFtR2w4cVcydHVIVXFCci1yOUJXVnpQWXAteGNWQUZNcWZjcERDZ01KeXFpd1hNN1Z1QmdIY0c5N2ZsOWxKQ1RHdnk4LW1QNVpyZw?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-11-07T22:29:00+00:00",
-      "domain": "AP News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Iran’s IRGC says building underground sites for weapons production, storage - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnVtZjdfQnc2S1FwTXpEWnFWRFVxMzVDblFHdFFYaHlNenEzQjlBeGlyaW5waEhQSnJYVDh6d19nRExqTzhTT0JZSzFQUnlaRDFpcHF2dmJwd2ZDNW9uc1FqajJuNXpObEY1ZE9QX05uWndIZTJhQ1JqUWVWOTFlV2gtVWR1LUVDVWhaUWtINUstNEMtdnVCbFhPblU4X2tHR0tmMzNlU0pOVHFPbUpfXzlvMkPSAboBQVVfeXFMT24yWU5kekw4SXgtbXRBMW5IUDhkejNrbEJ2YlZZNkdNdWx5V3J1NU5GWTNHdHNBNkloSXJBTFFUZnVqdWJQaVZUZDRyVGZaY0ZtOExrMS11bW5CME13MVlDUXNUcWJYeW4wRmg4aHJoTTJ1WGVIWXlJb3JSWmZkY0Z4TEFHX0FZNTg1QnM5MWlUVmpBNmllMWFaQllEd3huX2JKZzdURzRncHBUR2ZSUDRTTGJCMmplLTln?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-11-07T15:39:53+00:00",
-      "domain": "Al Jazeera",
+      "title": "New outbreak of mpox in Anchorage prompts advisory from state health officials - Alaska Beacon",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWhRUGpvb3pKUmx1bHZDOXZRbklOLTlvOFRiRmt1Um5tNGJzSV9hUXgxUW5BV0V0M3RlZ0ktaW5pOEdGa2xEWDI4MzA0Z0IxNGsxNEZzcml5NlZRVS1aWVItWGlhcVhIUHh2dm1CSGZxb256QkFWRVBUVTBmNGNPMUZ2NW9nQ1dNRVhWVTRQZUY4anNrZnVQSXZIcUVCVUZCQlpXd1JlRVBsU1JnbzJiWnRxZ3hGdw?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-11-07T01:01:57+00:00",
+      "domain": "Alaska Beacon",
       "language": "English",
       "sourcecountry": ""
     },
@@ -249,42 +319,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmlWWnMtTzdiUHpoSW8yUnpONHhJYVB5MGZDeUZsZENScV8ySzlUTlZOT2xUMWtuQWRqZ09RY0J0cHNxUlFlZUpsdVZkX1BhTndacWg5WFhxVTZkaVhCNDRJQlZFWmY5THd6bkRUWWMyWnQ0azJfZ2ROY3VRbWVvTk5ZZ1VlZHppcnRrZlVLR1VRTDQwNWUwOU5xcDZRNDc5YzQ0WDBmeXNoTk9iaXpqaNIBtgFBVV95cUxNYTFGRDdJbDZ4dF84UWp3MWdSMFlzYTI4NGF5cHdBSkpXRXhxOVh1WlJqTzI5ZXd3VWZXY285bnVMU2JTR20tcTlqdzRVbmNQc0JBRDJFRFk0WTBXZ3R4U3F3eWRnMFp2RExYZmpGVkRJMmtuNVpkOUlYb0x3M0RvWkdxa09ELU4zZ0dQNlFmbE9XX1l3bTBJLXI1RnpMZkF6dE8yd09jRHJNbTRvWkxCSjlxLVVWZw?oc=5",
-      "category": "CONFLICT",
-      "severity": 3,
-      "seen": "2026-11-07T12:03:34+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "A strong earthquake with a preliminary magnitude of 5.7 strikes Japan, meteorological agency says - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEh4WjJIRzdiczB4SWZBOGdvQ2hFTXZNaDhIYzFuUGNiSENIazNybFp3RllfU3lraFBTbW1FTGpWVUdoT3RMcVlIMF9HQTZhOEJTYXdMVW1PWnFFdVpETExCdFJLczF3T3F3TVBuU1FhZjRvd0JoQXdtVEl6QjJ5ODlFX19wVWwwNE1weGNkbE1kQVVHZ2dTZlFEWXplTm5DVXlFU3o1MjI4Z1N2eWtmWjRCLWZFQTk1S1lyMURueXR0b3fSAcgBQVVfeXFMUEFra0xiV1l5LTVocF9YSlYxQ2ZWbGs5LTNBNENMeDQ0U3l1ekE0a1c1SXpUNkdmSnE4c2tCTFRRNmRSdm93ZFVRUVBiQW10UzllYTlMLXVrZ215THpHSXozOUVIYjRJZ0UwcWpUS2J2bGs4N2NqdGZGbHI0NnFXT19oNGswdGtzQ1o2WTAtVzhyaGFVa2R0bVpWaHU4Z3FUQUhQM1RIa3NYZlpnYXhnaG5LN1V0aUNmN2YweFhpd3lMRVYxM1lTTlg?oc=5",
+      "title": "Flood and fire threats in multiple states - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMVVCdXFrME9DZzN0c2UyNUw0aVpSODM3cXFsSkV3dS1MeUNJVW9PdXJNLWxuT1VlLVoyZEVyMzNKdVhGNk1PbDJfeHowVUZ0NUhob3lyZjl3bzRhYk9YZ0h5Ui10blpBRTBRSG9PRklKMEhFQmhtSXhJbVN4dUZlRDhlLXJuX2dnWE9JSHJTUGhjS1p6WWdNSl9KUXhwZw?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-08T00:06:20+00:00",
-      "domain": "ABC News - Breaking News, Latest News and Videos",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "New outbreak of mpox in Anchorage prompts advisory from state health officials - Alaska Beacon",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWhRUGpvb3pKUmx1bHZDOXZRbklOLTlvOFRiRmt1Um5tNGJzSV9hUXgxUW5BV0V0M3RlZ0ktaW5pOEdGa2xEWDI4MzA0Z0IxNGsxNEZzcml5NlZRVS1aWVItWGlhcVhIUHh2dm1CSGZxb256QkFWRVBUVTBmNGNPMUZ2NW9nQ1dNRVhWVTRQZUY4anNrZnVQSXZIcUVCVUZCQlpXd1JlRVBsU1JnbzJiWnRxZ3hGdw?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-11-07T01:01:57+00:00",
-      "domain": "Alaska Beacon",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "EXCLUSIVE: Expanding on naval blockade, US military looks to restrict Iranian land commerce - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGRyZ1FFOWdNalpDbFdEeHZqc1JMNVVkekpWT3NULUU4N0hXTkN3MTQ5dlNSWjdhaUVCWlVUQVdhbkZrOEdDZ2FlNS1qOENqVnhOWGNYcmgtSU8xN3pHUjIzdDZ5akJZNzhnR3g4U0w5NjR1NUNka204MWRxak1WN056VUQ1MEhpNnpnaWVGSF90RlBMaTBWY1R5NFJDa3Q0SE1rMDhUUHRJZ01EMDJHdkhqMTY5aFU5TGd6WTNsekRoQkcyUkE?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-07T16:57:15+00:00",
-      "domain": "Reuters",
+      "seen": "2026-11-08T00:20:10+00:00",
+      "domain": "NBC News",
       "language": "English",
       "sourcecountry": ""
     },
@@ -299,22 +339,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "World War II veteran, retired Philly firefighter celebrates 100th birthday - 6abc Philadelphia",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWItU3VtbHB3MnBXWkszX1BjNWFtLXl3eGFYbE9hWUZ1VUlGcTRIbmFOSUFZbE4wa0k3bGZ5WmlkZDhYbmdhRFdDbjBYUFBMUUMtd09kRC1KNzNsSWN1QmNlZWs3SmFKM3ZGMzBjdmw1QnA5NVc4X2hmVTFlS1BBakpON1RrZ0IzaFZCblplMS0tcjNCOWNlMzhoVGprM0x1UU5qbE1aZ0TSAa4BQVVfeXFMUEludWNtUk1oU1YtMUxqZmVRUVVlV0pScFhPWmtoWUwyYUFrUkFiVks2eXRBVGRJUURkQ1RHdW5FSy1fNE9udmFKUDlZbXRpcnlfa3JBT1dMcFlLOW90TllBa1Ytd1ZyTFU0bXpJaXNPbGFVWGFBS25PRzVZeUdZcFJsaHNfYmgzaFB5Q3NLQkY4NExzY2czTURNOFF1SkUxVVJla3pLU1loT2gzc0Fn?oc=5",
+      "title": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news - AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWlBaG5BYjY0T3dxT1Z6aFlidmJqREpvYzlzdXFOQW8wZFpLaWZSUktyc0dhZXJQdUd3UlJHLVVITURzd2VnWEFtR2w4cVcydHVIVXFCci1yOUJXVnpQWXAteGNWQUZNcWZjcERDZ01KeXFpd1hNN1Z1QmdIY0c5N2ZsOWxKQ1RHdnk4LW1QNVpyZw?oc=5",
       "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-07T23:41:15+00:00",
-      "domain": "6abc Philadelphia",
+      "severity": 1,
+      "seen": "2026-11-07T22:29:00+00:00",
+      "domain": "AP News",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Russia launches missile attack on Kyiv, injuring residents - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2dldG1kWEpfakpLWGh5STYyWUZzRUd6bk04Nnctay1rbDRDRXE3cmV1ek5fTmpzZjdob0djTWk3T2ZfU1BrbDBEZnVla1VVTnJYblpzWjJsSEZjS0lCVkpqeDZkemtuUm5YZENxZ2hLdjQxWmVZTU9xMkVpTUtmN3NGS2dyVFptdkNxd0l6N0xXWURUTjUyOWRtQW1xSXPSAaQBQVVfeXFMUFJYbXBPWTFBYjgxT1dKcnNZV0JrUnJNSTg3RFBzcW5ySEJObUk3QmI2b2FERjlhWlRxVm92TWUtWkEzd0YzU2RzN0laZXVTNlZGYkN3TlpTV1VjaGo4dlBtbjJuNldFZGVHLXdFaHJRZEVqUG04Tl9XOU51ZVZXUnV1Ny1lcHFEVG1jUmU3NGM3R0xTVGZRZnh5UlU5ekl1MlRkS0c?oc=5",
+      "title": "San Francisco brings free sandbags to flood-prone neighborhoods ahead of El Niño winter - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTDQ5ZWVKODc5d1RkRm5CVFdZQkVDdW5lbGpJNjBMamdYUzFwdkRjd0tuNmtiTmh5dkhmTU1oalJmdkZyM0tGMnNudUNpc0ZwVHA1MVVjTlktdUVWMlZtX1pMVGdEY0ZpM0lneGh3ejhtM1BxckZHeVV6TTBVMGR5SXdPdEdDMzlDYzNmOFlYU1hwSFJUb1dac01Ec2dGUlJpMHR2VTA2MA?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-08T02:42:00+00:00",
+      "domain": "CBS News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Utah Won The Holy War — And It's Winning The Kyle Whittingham Divorce - FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUV9EeVJOSGZTWUZSN3EyZDhlQk1GZ242bktZUUxtVEJNMFQ0ZEtWOUM5V0JTY1hwZjN0Z3huLWM3SWplLUZvTXlsUU1TSDZGek12eXR4elYzM3ZtenZ5NXE1TnY0Qy16cVA3SnlSY0VQLUpoaEhCZGlIb0NUalpBX3RIYjA1WTI5dVFwR3pNMElZZkhzSGY4UWgwMkx4dFAyY0HSAaIBQVVfeXFMUElCeHQtOU52M2RwR3BYcFlKUFVnN0lTSk9rV29EdmVSdi14b0RCWUNLaFRfUmNiSlMtSU92VzhIWU41OVE2VzU4Y3U5bDFSbUpCMkRZb0RlMkhFN0F4elFRaUpSSXJsVV8tRWU2UDcwdzFNWW1ReWt4eWpISjJJcVItTFdzWGdaV2hEb2VTUmtyY1gtcnVncWhud19xY3FfOUNR?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-07T05:18:07+00:00",
-      "domain": "Al Jazeera",
+      "seen": "2026-11-07T23:32:31+00:00",
+      "domain": "FOX Sports",
       "language": "English",
       "sourcecountry": ""
     },
@@ -329,82 +379,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "Up to one-fifth of Iranians still support hardline rulers despite war - NPR",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQmdLMVMwRWY1dXlGWG5WZ2tabGdqYndQRlJQU0Z3c3BSWTJqdWtfM2lwZHZZZnZJUmpEOG5yVEQ4WFp1RFBHQ2dvZkthdW1mRjBTVkF6alp1THRxWko1Q01TTnlUZlpKMVR2WnVJQ3B4ai1zbnFGSE1zSThlY09NMG9uU0ZNUjlSY0xzZnc2MkFSNEJ4R0QtcHE2dzh1eWQ2NTE0ZFZyOWs1LS11dFlVTUJrYzA?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-07T12:40:57+00:00",
-      "domain": "NPR",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Flood recovery continues for First Lutheran Church in Janesville - Spectrum News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZDAwakpGdi1BanJyYlpNM2VBRmMyTjA4cjR2X0dWU3pTUkZ1TXI5TE1ZWENMa1RFcnVCTzR6UjAtZUgzQlRlSlduZThyOUF0WEowbFpzMjI1YnZNdnYtQ0cyVTJLUXZXZWhXWnh6b3VXRTVjcGd6VE1nYWZOeDk5X3BHMnlHRXZsWmpkWWNUUmtsVU9fc0w3UVVPUUdwNEVmYWN4LQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-07T15:00:00+00:00",
-      "domain": "Spectrum News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Storms that caused 1-in-1,000 year flood event in Tennessee and Georgia move up Atlantic coast - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbE9LZWg0cmZNWDEyc0dQbEJMMEJDWEowb0hZaEUzWTFyX082SlY5aWhwWU5nY3JMVFp2dGR1VlJCeUJYU3pSUkRRZlUzbDZIRVFydzFXLUJEVVdwNVo5TjF1OHM5LVYtdml0emVZcUFBYlZjN08xQk5jOFJ3X2RYSURacGtWLVZHTTBpbk1wTzJrbzhm0gGaAUFVX3lxTE5wV2x6WFdqb0MyLS1vZTJVVzVnTkZTTmFwenJsMTlWUUN0VUJfREctcUU2WEhhLXR5eFhkemtGWTU2eTY5ZlktRW1Pd0xubk5VS1hvVU1TXzJKTkpmWkZoZmIzWmVyc28xUDV1VXhYQ0k5THJDRXZtTkZJRUhKTWR1ZVBZUGJjSFd2My1LcmpkZGw4dGNBVDRpdkE?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-06T23:45:53+00:00",
-      "domain": "ABC News - Breaking News, Latest News and Videos",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObHRCcDhuX0lWbVJuNHA2TFVfMzd0dTFhd21WZWR6Zlc1bm5YaTR1enFmQnJGSWtRVnAxdHN0eWhjY0I2bDVfcHFmMFRYV3pILVBQeTFPVDdCVm41dG15ZkZjS29oUzRpSFY5WWpLLXZZREVkOV9RbTJsbVZhMC1UMTNPQ3k3LXN2MThOZG5MRTdpVUFRRUZWbWZ4SEhrbmF1UjFhT1dGU3NWUkhvT2k2c2dKZF9TckV0d2JCVUhTaDBkaEFsWlhfeDhyRFY?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-07T06:42:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "60 years of denial about Israel’s nuclear weapons program confronts a new reality - CNN",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1ZmdPOVA5TFVsRkppNmNVcTdVREJUaWUxZTJFbGxiVF94NXZFVVdvNmp5ZzNGOFVCZlVaRWtCcC12MVRtVFltNXd2REVnbkstYVAzQTBuMGtRemZtY3NWbTYwc0hpaXZKcEVHWnkyOXVDM3lEdDJCeXVfbw?oc=5",
+      "title": "$20 MILLION | U.S. offers reward for information about Iran's nuclear program - WCYB",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNd2ZHT2NxMmVZTGpIdnRRS05jSmVxVVpvdjdRSWtVbmJFZDNQOG4tVlNJMTlPXzVwbHplNXdkb1N3dUk2UlFOcG9NUW1ScktjMVJIbURSa3BXdS0zeThwb2VOWHRVdXhYNjZYa1JlRm1fdkdDbVNoei1uYjZrNWstTnpOa25HQ2w0UTFyTFg1OE83UTAzcmg5SldndVMySUZYQnRzZHg3MXJuZERxNG1fQU5FNk9uaGdOZEcyam5WNjNVQ3BLc3F2VWIxSWE1M1FHZ0pwdlRXbzkyblA5Z0l0bl9xRFktdTVCOEwyclBKSXFVY3NwY3AwUkFKOG1kMXpkVFdMemtnWGRISTdfWGJFLW9xVWhnV3J2T1ZnOWpiQUwxZGJrMGRlNl9HdFRfMWZzNVhGVVI1cHlQQTN1OTRXSmpDMVZCdi1QZG91UzZ3M2haNEtzVi1aYXIwVQ?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-11-07T05:01:15+00:00",
-      "domain": "CNN",
+      "seen": "2026-11-08T04:32:46+00:00",
+      "domain": "WCYB",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Breaking: New wildfire reported in Los Angeles County on Nov. 7 - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uS3oxVVRhbVZuRWtjV3E4VVE4QWRqa19RaWt5NjFNSTlWelVvUS00QWxjWUxkNG5LNG5MQzJKZDRhOExNQzI1aXQ3RUFHVzJRS2ZFS1Rhci1Bczg2VFZGNE9SNHZTUXlJU1AtNkJRNWhxQXJE?oc=5",
+      "title": "Breaking: New wildfire reported in Riverside County on Nov. 7 - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByZmZ0eGxPNHp3TURicnpMUTVvZ1NWR2ctNGpZMVluelU4RDlQb1ozMUo2SUlPQS1DRFlXTXZMZlNtdmNMUWo2YktaNXp3QWVyeng0QnBsY0sxMWo5Y1ZpRjNwR0RIbFZnREExMW1BcFpCMEp5?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-07T22:46:07+00:00",
+      "seen": "2026-11-08T03:15:08+00:00",
       "domain": "Sacramento Bee",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Flood and fire threats in multiple states - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMVVCdXFrME9DZzN0c2UyNUw0aVpSODM3cXFsSkV3dS1MeUNJVW9PdXJNLWxuT1VlLVoyZEVyMzNKdVhGNk1PbDJfeHowVUZ0NUhob3lyZjl3bzRhYk9YZ0h5Ui10blpBRTBRSG9PRklKMEhFQmhtSXhJbVN4dUZlRDhlLXJuX2dnWE9JSHJTUGhjS1p6WWdNSl9KUXhwZw?oc=5",
-      "category": "DISASTER",
+      "title": "Iran prepares for war to resume, eyeing new targets and a shift in military tactics - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUpka2hLSkx5ODRTeUJaOGtYZ1RvNHNHR3ZsamxQTWhjaWU1RXgySkh3Q0lyWnBCMjRqMHRZeWlJOVVJVkJwa3JmM0s1N2Z5YXdGWlMtTTRzSVcwRUVoYXhPbXYwTEJXT3lHbnlmUDkyaXJUU3hRRHdyUjY5SV96Ym0zcUhMQ190MnJjS1Nra3pwbEV3NnVZbV9uam45N3JiRlowOTVUeW9GRm1mTjNfM1R3?oc=5",
+      "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-08T00:20:10+00:00",
+      "seen": "2026-11-07T11:50:35+00:00",
       "domain": "NBC News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "US offers up to $20M reward for info on 'Iran’s nuclear program' - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbHNPcnl1RU1DVmVBZEVIU1NERndsU1NERmRxSmVkLUV5dE5Vdk5Vak1IVGdGQkEzUlNXa3YyYWVpYlpybTdCeG03Y1pTVjdxYlE0ZzZlMXo4dEFhSl9aVkphUmc5bVN0MTNvRnZXVWRjTGVQbEZydk9tdE1OXzF4ZFhmUUljUDNrU3o0NGdyMVUyZWlBS0xyc19mRGRiWm14Q0pKdTY4MWQ4a09LOG5LNmJVNE5LSHo3X3JaUGhKeG8xY3FU?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-07T11:31:19+00:00",
-      "domain": "Euronews.com",
       "language": "English",
       "sourcecountry": ""
     }
