@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-11T15:13:18.486064+00:00",
+  "fetched_at": "2026-11-11T21:58:52.715439+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -69,7 +69,7 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "Russia and Ukraine agree to a large exchange of prisoners of war, officials say - NPR",
+      "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough - NPR",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84SXNzaE0wLTZtQjFpZUp3Y2ZkZEtyZVFwQmpyVU9FTDZLR1N5YUJRSjF3R1drZUpfT1pveEdHZVdMZDFPQThlak1oYlpOaHFiT2RIMVh3ZDZZOGNWWFVGM3FmNEs5V1VhMTAzNV9TN3dGVjFId1E?oc=5",
       "category": "CONFLICT",
       "severity": 2,
@@ -79,92 +79,52 @@
       "sourcecountry": ""
     },
     {
-      "title": "Trump swung between war and diplomacy — then chose a third way - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVAwSVNaUUFvdkZTVGc0dC1SMndYbUlSM3ZFMlpBb05lVXk5TkpwaVdPczc5ZGdJMmNrT0FCWElJR1k0Qk5BQ0xzSTR6NS1fM052MmY0WlJsdHhKNWRnT2FTS2JYS2VoaE1iMGhVWWE2MnM4VnloZXFyaHBQVnAyc29B?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-11T14:30:06+00:00",
-      "domain": "Axios",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "Iran will not allow enriched nuclear material to leave the country, security chief says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSmRMSFZZUld1UEFab291N25WYXZVNENjbmtrWVU0OEEwZm84Z2RONXZHM0JnY2FId2ROLTRvek9lWmZiSFNQNlMwVVpVQ0Q1V3NsSDk1alc5Z0JoMExVY3NpYjVSVDhXd3RtYmo2M2lsdHoydlUteHlDMkp5QlZsWGQxam1JUXFuRkV0UHhOTVB0ZWtxeUhCTkNHNkRMMG5TaUdQaHBUYTlmMkhBRjBWUkZUTlNMVU1ISzFfVlduXzBJd3p0U0psdDNTa1F4Zw?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-11-11T12:04:28+00:00",
+      "seen": "2026-11-11T20:03:05+00:00",
       "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Measles is surging in the U.S. — and outbreaks can cost millions - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11SF8wQzFKckN6TDEyVVRVZ0JDZUVwdlhBbVlENFhLWm9fQjNnQ1FuYkpPcFA2cU1iRGJWQ1FOT2RyTmQxdlBaaXNjWVd4bl9YVkpwNkZNeDRSWjJrWjJuaWF1dG56VHc1QnBndFFVOU9QVlFDbDRsbFd3?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-11-11T12:00:01+00:00",
-      "domain": "CNBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Secretary of War Pete Hegseth Holds a Press Briefing - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQTk2NTRiQy1oTXV0RjRjazVkUWtDcW5QUFhDRHBPUEF4VGRzWEtUSjBWRUlDYW5lMC0wSGRNUkF2M19vWjIyT0ppZWdnRTlYaXN2NW5lU3luU1ZRc3JLMk9PNmptM2NhUGxjUWdDV1JNYzVuNnZwMEFPUVljV00za0RtNzlBcGk2MFRLWkFEMTJjdVJPNFR4SGdhWnBId1A4eVZPSERyR0pBeDdfclZuazgzcGdJUDJY?oc=5",
+      "title": "Trump swung between war and diplomacy — then chose a third way - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVAwSVNaUUFvdkZTVGc0dC1SMndYbUlSM3ZFMlpBb05lVXk5TkpwaVdPczc5ZGdJMmNrT0FCWElJR1k0Qk5BQ0xzSTR6NS1fM052MmY0WlJsdHhKNWRnT2FTS2JYS2VoaE1iMGhVWWE2MnM4VnloZXFyaHBQVnAyc29B?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-10T19:04:17+00:00",
-      "domain": "U.S. Department of War (.gov)",
+      "seen": "2026-11-11T20:34:45+00:00",
+      "domain": "Axios",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Testing the next generation of wildfire tech: Interview with XPRIZE Foundation’s Andrea Santy - news - Mongabay",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNFV2elpMT2dUQ0xaUUxNYlM3V2I1ZGVKVDduOFVHTERJRF9pRnpDcjU0MzFYdHFQNTZ3clJzcTd5aU9jcU5WbUhiQlZ0NkFfc0JUSUZWWmZ0LVFoXzlrSGMzcVVmQ0d2THdUZUNXXzZtS0JUR3VmS1pOTklpYTZvUnJJWWV5X2JsMFByN1FmUkVNbTJHVUM0TWFscTRzaUhrVktac0JiWHE0c01pREx4Vnd0Zlg0V2hocnk1YVlzb2x4OW9t0gHKAUFVX3lxTE5kZGlrdUtpeENjRUlfb3J0SnU5b3g3OENkb2xFQ0ZWVzQ5elY3MXlpOXJVU3RRV0Fzci1OMGNoYjljVVhfSVByY0NyQU5RMWVsbVl4UEVhSWxSRXdNMkZhRGpjcThDMHR2RlJjLUdNQzRNTWN3VzkzeExXWnljMFZOdHpRWU13RUpmV3VhZWcxZnF2TkxGY0VVaElRcUlDbkhYS3Y3d0JQMko3cDJIUk1KYW1yeDJ1anNCLVpwdDIwQ1hWakNBOU9nUXc?oc=5",
+      "title": "The Wildfire Emissions Protection Act May Have Unintended Consequences - Resources Magazine",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVZVa2dsOVBYVDNmSW5jR25GaGhjcThvWUt1cnZ5MGtTd1dRTHZXdkRPdl9BVmJHM1J1Y3h2OTE4eFZ1Z2FUcmJHLXJ1clBlc0pqUXN0U2h1TnFMNTBYekE4SngyWHFhcUl1M2ZrcG91U0Nra2lKNl92UjhZajVrYnlmZVJJS3VzSF8zZnpkUjh6TVcyN0JZMHcxVWMwVFhUbHlBaHNzZW9uMUg4QUoyNW1JUTE?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-11T12:51:07+00:00",
-      "domain": "news - Mongabay",
+      "seen": "2026-11-11T18:49:04+00:00",
+      "domain": "Resources Magazine",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Community-led flood solutions in southeast Michigan - Kresge Foundation",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkhjNUVVeG5GMklyQ0NTUVppUjhiR0VQREZ0dk4xcGpwbUhUUEJxLXBXckFIS05kWWIwbzVyaWh0c1h0clZIbnFSdFAxYzhpbTRwS3hLcnpIb3lvd0MtYlBRZlp1OXp5VzlVQm5OMlF1NHo0cC0yVHFTcmNXX2RSVzlQLU9Cdw?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-11T14:04:33+00:00",
-      "domain": "Kresge Foundation",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "France pressures Germany over nuclear risks of long-range missiles - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQalJ0Y0VNR1NBVnlPSjJKYWwyNFg0SVZaQUVvblBtTm16WEtCS2kxdVVlTEZQUEFZQkdYUjFja1ZLQ2tXQldlUkRxdjd5WHZQeU1qeVB2MlBJbFMzZEVQRG9WWU5VMGJwN1d1bmNHNEhCOGxqYnZtdHNnbUhCQkE1TjBBSy0?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-11T05:02:58+00:00",
-      "domain": "Financial Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Israel’s Rafael unveils new, larger cruise missile dubbed Super Ice - Breaking Defense",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0RwOF9JbHBmNXF3Zk9KaGV3eEFwT09SelFnQ0VZU1dhT0FKS1k4ZU5zMy10ekMxQUFvaG05REFuTXBYMGJpT2JiZ05Ib3JYZUlIX3YzVk9xZUx6T0VjNjBOLWpJYUNVc1VYR05RVUVPY3hhMVBMNDB0aW5LZFYwVUdxQUdkUE9kNDJqRTFRbU9ZVjFSVzJLNmlpeGlXOHNad1JiTA?oc=5",
+      "title": "Extra Points: War Stories - University of North Carolina Athletics - University of North Carolina Athletics",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45Y1VneXowTENPSDBWQUFZRjRVSzRrQ2dIb3d5VWQ3VG1YcV8zb0tjVE8wcnJkTnpyNHBESU5rNm9aVFF4MUY2QkxFVW1GaUU5MHlOSGNqT2taeEJYSFpwcmF0UXZpSTFISjVRLS1qTXg5QjlNVENLVQ?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-11T08:03:56+00:00",
-      "domain": "Breaking Defense",
+      "seen": "2026-11-11T20:11:13+00:00",
+      "domain": "University of North Carolina Athletics",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Oil Is Stuck in Limbo, With No More Iran War But No Peace - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2F5dklIUm9LbGw1WUJ6c2NKMEpZMkVGdnkzekZJUkVHWTFCWXdwdHpJbnVLQU5hRXY5V3dycEltY1p5VVpCWHBJM0JaUlktcVh6c3FKZWpHdXdqN0RLanVDc2VXVUc1dmN1aThRZjI4OUdEZ19KUm93Vm1wMklHRVFuMkhvemFGNnhrVTk4MkRraUhvT0hqVGRSRDhJdl9UYk9pTGxDc2hkVEg3cWRz?oc=5",
+      "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWGxvd2hwTGtyaGlUa3hIS3BUSkdPYXJVNUd2Wnl1V0M1enhlSVdnUU9UN091S0JPLThfTTk3QVkwUmhPR212enhUWDUxRGdqZ0RtVXVJY3Ruc0podzdET0QtX0VCbGMwRzY5ZHMtTEQtMHNSaGtVQmVueGdCWTJ1SXFTVUlZRzVzZXdDUTZwcXo3cHdyTzlfS3gyTzMySDBmNlctcHNR0gGrAUFVX3lxTE9ETk94YXFQVXpLTFZnMUFLWDJEYWlLR2pDSkkyUTdtSFNKcXdfQUtHUkNTcnBNc05LYk4xR09nZ0ctUDVvakxYejhwT18xVURRUHA3TUdWLWpIOUVpTnFkQmRFWXhaaWpadTNOLVpxdTMzUUl6OVhuQ25sSmRUMXJfMmJiTEtHbFpMSzVaNXpTU1lRTlkwWmFyUHZQb2Q5TENUMUh1ejZVZS1jVQ?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-11T04:00:00+00:00",
-      "domain": "Bloomberg.com",
+      "seen": "2026-11-11T21:06:03+00:00",
+      "domain": "Al Jazeera",
       "language": "English",
       "sourcecountry": ""
     },
@@ -179,11 +139,81 @@
       "sourcecountry": ""
     },
     {
-      "title": "COMMENTARY: Trump’s Iran war pause is as costly as new strikes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXNuaEJXU0pFb0oxRlkzenJYREJId21QY2pxclZ3bnBDWEFwZXFhZkJCLTJEUWJELTRKeExPZDdYWmZUY25UZnNJYXZ5NGNUYXpUSHkwZUJyYU9wWmp0aWVHTUQ1ZFVlQ3dOZnE3azBSNm9KZVRMWnJEWXExR3VrektGaXU2RlNySG5GX01LbHR2M2xxMF92RzcwZWV0REJ6T3ZIV0dvQkM0c1pQU1hzQlVB?oc=5",
+      "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWjZYdEdGclo5TVdOVXhmMWc5c2ZlWmZwN1VsVFlQS1FCQ1ZsZVVhSC1NYWFvQ2cwUEVOWHVFREUzYUJUbFhSUG83U0tYRXlaTzFpOXhsekhwNHJBbHh0WVR5MERnbzRkUnlZWmFUM2hyWWZvZktCLWZpUUs4MnVObmNVdVFlV2gwQ29PV1RibElJdklnM1E?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-11T07:00:00+00:00",
+      "seen": "2026-11-11T19:48:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Glycosylation and importins liquefy the FG barrier in live nuclear pores - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53NGVYUktsSmdGeTh2T2gxNlVpM1NsX2U4blFDR0I3LV9DVEFTdjJubVRNb3BKc2pMcDRqUlpnYWRqLXRYSFVSd0UxSGdqd3lmTXBzNjZtdWhkNTcxY3k4?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-11T16:22:36+00:00",
+      "domain": "Nature",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Measles is surging in the U.S. — and outbreaks can cost millions - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11SF8wQzFKckN6TDEyVVRVZ0JDZUVwdlhBbVlENFhLWm9fQjNnQ1FuYkpPcFA2cU1iRGJWQ1FOT2RyTmQxdlBaaXNjWVd4bl9YVkpwNkZNeDRSWjJrWjJuaWF1dG56VHc1QnBndFFVOU9QVlFDbDRsbFd3?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-11-11T12:00:01+00:00",
+      "domain": "CNBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Qa0RNbzhZOXczN0lZOU9EWkx3MV9vVjFicnpIdWJzT1MwRVliOV8yMElQcG1EUU8yTEJVMkVHbTZsSW5GUE9sZXp6Wkg?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-11T20:05:10+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Democrats’ strategy for ending the war in Iran - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkxkdDluUkkyVTV2aTB3UzU4RmRndFlPU3lKSGU5bTRWRUxRVnR3U3RjMVBFakpqd0JOdHgyOVJQRVFkcEpUM3otTWIzNkZoVVdkZzhvWVZYRWNhLXpMU2dUZGRSVnIxeEczaUhUTjFXa0wxR1JYc2tqSDJGQTVLWVZOUjFMN0FPMDBwa0NJRkZYeWQyb0RUMW11c2U?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-11T21:01:49+00:00",
+      "domain": "The Economist",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtdDJ1amh3VkZuY1d4SEV0amx1RWU5Q3FYa0R0VDBxNU5vcTFtOUVzajh0U2dhUzVxeWpUQkNWX0FPM1NHMmpqQ0dUblA4UjBuYXVWaWwwQmkzekE?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-11T18:04:58+00:00",
+      "domain": "BBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump says US won Iran war, Iran responds - NPR",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRi1JakU3TzJVd04yYXJFNWswV2NRSUxJaE1Ga2UzZGVhU3RyUzRGUEt2Yi0tMm9pMlVTM0t4QzFEQWx0YmlIbVlDa3JHTF9ZU2ZQTTY4eURMdUNSRXlyOGxrU2ZxLWpYYUtnS1lqblBoWHY1NkJ5MkViUVJuUTJELUEtYjFHU0d1dENZR3RB?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-11T10:02:53+00:00",
+      "domain": "NPR",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDZlTWwtdThPTnp0UjFXeXowU3I2SzZTbDA1Zk9BZUJER0dMV1o3S2oza0sxUmxlT2xhb2k4Ykx1TDlORm5zNVdJSk8wVzZBM2VRV2xFUlpJQTdiTTJJY1ZULXJNbjIyaWVudGx5UUNjZWlMaGRJcXZHVjBmUkUxVmVxZC1FUWk0SUFmZkFQZGhaeFVPdWtkV2xIQ0hRT1ZDWGYySlk3RHdRTDloMDlLdQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-11T14:14:31+00:00",
       "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
@@ -209,32 +239,62 @@
       "sourcecountry": ""
     },
     {
-      "title": "Secretary of War Pete Hegseth Remarks at the Naval War College (As Delivered) - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcXZJWFBlaldKR0tXWWk5MXZUN1pYTHF0aE4xVHAxaW1sRlloem9nbUFaT3JrcG5BcGFldU5hSC12eXB0SkVmM0RSSmFOanRtU2c4SWtYQkFKellIWXQ3V0lWT1N3SHJuUVVvQXlnMkd0aHRSSjU5VEZCOGFVOFQ0aUdPZTdsZWV1VUlBYzFfY2tSVW9LNzRFc3gwRHdYYnBHbEVJS3IzM1ZNTXpweVd6a3BiMTdla0FnN04wWEJYdV9CWFNVMkExb3hRUHNmZw?oc=5",
+      "title": "Saudi Arabia intercepts Houthi missiles, drones; group denies targeting Mecca - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-11-11T20:57:51+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "COMMENTARY: Trump’s Iran war pause is as costly as new strikes - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXNuaEJXU0pFb0oxRlkzenJYREJId21QY2pxclZ3bnBDWEFwZXFhZkJCLTJEUWJELTRKeExPZDdYWmZUY25UZnNJYXZ5NGNUYXpUSHkwZUJyYU9wWmp0aWVHTUQ1ZFVlQ3dOZnE3azBSNm9KZVRMWnJEWXExR3VrektGaXU2RlNySG5GX01LbHR2M2xxMF92RzcwZWV0REJ6T3ZIV0dvQkM0c1pQU1hzQlVB?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-10T02:05:45+00:00",
+      "seen": "2026-11-11T07:00:00+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Munition Inventories: An Update Amid Renewed War Risk - CSIS | Center for Strategic and International Studies",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS2YyQWxSUERFQXV6LWNlQk52N214cFVjVlZXS05qdE96ZmhLODlleC1uQ1ltSVdJNVYxM3BLaHY0WDJzMmo2TDlaZHlhVDZBdVpHZ3Z4ekJKSTJNQy1BUUNPcklnU0hrWGpRb0tJRVBtdVhtbGQ3SmNMdk9NQ0lIb2FaQWNQQQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-10T18:01:55+00:00",
+      "domain": "CSIS | Center for Strategic and International Studies",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Secretary of War Pete Hegseth Holds a Press Briefing - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQTk2NTRiQy1oTXV0RjRjazVkUWtDcW5QUFhDRHBPUEF4VGRzWEtUSjBWRUlDYW5lMC0wSGRNUkF2M19vWjIyT0ppZWdnRTlYaXN2NW5lU3luU1ZRc3JLMk9PNmptM2NhUGxjUWdDV1JNYzVuNnZwMEFPUVljV00za0RtNzlBcGk2MFRLWkFEMTJjdVJPNFR4SGdhWnBId1A4eVZPSERyR0pBeDdfclZuazgzcGdJUDJY?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-10T19:04:17+00:00",
       "domain": "U.S. Department of War (.gov)",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Bessent reportedly moved to military base over Iranian threats on his life - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOajV5Qnhma05Zd0llOVU2c3JoTkpLcjJOLThqUjhoYWhob25vUHV6WEhzQW9ISTRlU3IxaTc2cUlDbFhwNHVZbTd3NVpxNjg0UEUzTENnVHd5ODI5QmpUWmUwTkQ2dzJVRmw2U21vUmdfRHJ5WW9Vdml2cERNWExrYnliQQ?oc=5",
+      "title": "Cornell Law Veterans Law Practicum Wins VA Recognition for Iraq War Veteran - Cornell Law School",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdVhISW5vN2ZUOVFTLTFTa2xYakJkX1BSbkpiV0RZVU9wV1FRbTJsWF9aT3VvbWpBS3lCRzV6aHZxUDk4T0ZKa0FPUTNSRDdHYkNMbWtyMldwMVBaM1pyTUhTcENQa3I0Q0t0bnc2VGw3S2JEbUpZMWlkTGpNV1NLRjJjQ2dWb0NsRFBSenQyZDdHSW5NN0dJM2tXME0taU5rZ2x6MjhYM2dzVWd3dGlRN3ZaOWt0QQ?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-11T04:06:00+00:00",
-      "domain": "CNBC",
+      "seen": "2026-11-11T19:55:54+00:00",
+      "domain": "Cornell Law School",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Oil up 1% after Iran says no nuclear material will leave the country - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUDdYdlFvTWpsUDJOZkVpN1RNYmM1RlIwZUxzSGhrazVnMTJ1el9lT2lpc08yc2VrUjdyR0tSWjJIRVRMdXh2cmJDam5yY2d1QURuUFdvQkh1ZWJDdHFXbmZCejViSHhTYnl6YU1uMmEtS1NIcFU1dmhPQVZpN2R5Ykc1OVBrUXVhemRVa01TblQ5THN6eDBlOXl3Nm5qTEtKRjNDeVVraW1hRjUwZjQyclBwd1hCTlZvNkdaVVdlUDc?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-11T02:10:00+00:00",
-      "domain": "Reuters",
+      "title": "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaEM0N0sxdWVLR2tod0U2NE9LZDlDNmgyYTBhLVlsUTRFaXljN3lzbkpyLURSenZGTHpienotWDFCMFlfNjc3OGQ5dEp6Um5QVGZtQ05LbzlHajNJakpLN1VCWktkU0ppNTU1ZmZBaklXVXRCOUw4WENhX1pUWW5NZUVKaTl3ejFRVG9Oa3EwTWtiYTZHRy1Ka2xTb1JIY1ZSSXpVTmF5Y0YtZ01TdV9MQjJsRDM5TDN5eU04U2ZR0gHDAUFVX3lxTE5SWDB6aEdnQTNyOVFUX0dodTY5YzA4aFR1NHFzMlZiUmpxQVlDV2xzSUFGQ2t1MUQ5LWljUHJrSlhvMjJsUjUxT3h1OEFsel9IeWtJVTJmc0M2RHY1ZXdYVXA5NmpGdXkzeEY4aVpjUE9NLUxUdTlQSGpra3JSQjc3eDFfODZmMkIwcEp3WUxLd19leXYxb1Z0ekd4TkZ4TEZRUGgxd1FidFROTHc1dzJtQXl3U1ZzUWRZWkRRWXJqa21TMA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-11T15:35:49+00:00",
+      "domain": "Al Jazeera",
       "language": "English",
       "sourcecountry": ""
     },
@@ -249,6 +309,36 @@
       "sourcecountry": ""
     },
     {
+      "title": "Deadly floods sweep Gaza’s tents, intensifying pressure on Israel - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYjkzQWRCcUdGMWtLV1RQd3dQUzBNTFc4Y3VpSVdFek1TZjM5RGNCT09XUWt1aGxfcHlacUwwRy04LXBIMGFtcTFidGk3NFhacW9FeWM0UVpoTWxlVDdIRnRFay1DWG9UYjRhcFpVM3FnQVB2T21kbmhQRkR0NjlFZ2JRelRra3BINlBEMmNBeElfRExYd2xMcVBiLXpEbHZicXRxRHlLMzdKUVhxQkEwaFJLVQ?oc=5",
+      "category": "DISASTER",
+      "severity": 3,
+      "seen": "2026-11-11T13:50:51+00:00",
+      "domain": "NBC News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Oil up 1% as Iran official says country will keep enriched nuclear material - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUDdYdlFvTWpsUDJOZkVpN1RNYmM1RlIwZUxzSGhrazVnMTJ1el9lT2lpc08yc2VrUjdyR0tSWjJIRVRMdXh2cmJDam5yY2d1QURuUFdvQkh1ZWJDdHFXbmZCejViSHhTYnl6YU1uMmEtS1NIcFU1dmhPQVZpN2R5Ykc1OVBrUXVhemRVa01TblQ5THN6eDBlOXl3Nm5qTEtKRjNDeVVraW1hRjUwZjQyclBwd1hCTlZvNkdaVVdlUDc?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-11T02:10:00+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Exploring How Autistic Individuals Interact With Artificial Intelligence - SBU News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSzE3YWtULTBGOE1fZ21ZM0Z5aWdiWTV4VERGYzhSVmZyWDZwWDFMMUxGRTAyS3JoQjF0eURWVGdTX2pheWxHTnpyZ0liZlNBMGdoUGFyaVBqQ2hQamlKWWE4U2Nqb1NTRm9SZXlWOE43T1BIdUc0MTRHR24ybGpaNXpNZFQ1Z01ucEJtMjk4RmtWUUVucHlZS21Wd21YYmk3d3JNYzlpY3FGaW11bGJYSWJnQUtZamgtTUtOdG5rWQ?oc=5",
+      "category": "AI",
+      "severity": 2,
+      "seen": "2026-11-11T20:37:35+00:00",
+      "domain": "SBU News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Secretary of War Pete Hegseth Orders Sweeping Overhaul of Military Education to Refocus on Combat Lethality - U.S. Department of War (.gov)",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc2tHNnNuNDRXWnA3SFRRLWlyeVdwUERhNmhCeFFBY2ZQd2RlVF9nSlBWbjBJakwtMkRPR3BwODFOM2MwWm8zUU51c3kxcVlzT1Z3V3RNVUVtOGxVSG9TZDlUTHZkSXlRUGJHMm80OU8ybVVCaXFSMEhtV2szSzlUbW03c29LM3E1aFFyTmY0RkhyRHUxdV9tempiNGhzczJGSjdOck1XTDR0dklWN3dfN0dtQTF2ZjJ0OTdqWk02X0dHUWVEUnRaS3hRVlZoWEJHTkZRMA?oc=5",
       "category": "CONFLICT",
@@ -259,32 +349,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "Ukraine's Zelenskiy says he is pleased with messages from US envoys on diplomatic efforts to end war - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOE1NajdIbmstcUtMa2VYcTRvZlFjbElZOG1aZVN6NDFyU1pxbTNlVkR6SnRqejAyYkMwcy0zV0YyT2lCeEtfaVNEVUwzaWo1cFA5Uko1QzVCQU13UDFhN1RWZGxwSjRqbmJEeUlqWVYwX0xuQ0EySE5wWk85X1Y4RXFUVnprRmw3eFpkY0RDbk1HTFg4N1I0X082Z3RNSkpOUDd0bGw0aFA0Zmdad2ozakRBQ0ZOeU1fTnZ4bExVUQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-10T22:28:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "SLO County health officials confirm death of patient in E. coli outbreak - KSBY News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2hYbG9NdHQ5cWRROTBKMTNSa1VkYlR1Z1c4dDQtZDVYQXBGRTZTWDN3akFpVHBvVlhQdGNuLW03a0dyYUJyaU1oTm5xTG56Smh2NlVFeHFyOE9oWGQ1RWUxVk5jaVF2MUlUalZZN0VMV21UMlRTNENpNy14ZExDeXlibHFWUTZkYlJyekVZdzhjZVFyUE9Bb1lfSGlkWWFfZUlVNV9wSnZTWFda?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-11-11T07:07:28+00:00",
-      "domain": "KSBY News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Rafael Unveils Super Ice Cruise Missile with 1,000-lb Warhead - Naval News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWHNfNVNfUkJJSldsRXJaRVJqN3lhaXVVQVYzNk8xa01BNDJOc19QSEtHNlNWbnpLUElTczk1Z3JHWmFDVk5mWFNJaVhULW8zWGduT2ZVYTREeTA1T0c3cm5CNFl1Zy1VM0dPX1lDcUpxcXhwRHhZR0VRdnRNd1YxczQwM3FEYV9Rd1hDYkJjRlhoYUhyWFlNYnpGdktILTdOaEFwR3NYMXcyQQ?oc=5",
+      "title": "Congress has to act first before nuclear campuses take shape, US Energy secretary says - Louisiana Illuminator",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzbXVOVWN4dnJqOUs2TUFGTHNpRjlMN1lMdVR6eENyMTBrWXpFQnNHdkVnaFQtdGVWU25fM2FyOUd4S2RHNjk1dVpBQTh1N1V1ekoteVlrY19uRERwRlJkZzExOXg?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-11-11T09:07:13+00:00",
-      "domain": "Naval News",
+      "seen": "2026-11-11T18:20:54+00:00",
+      "domain": "Louisiana Illuminator",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "The IAEA Holds its First Advanced Training Course on Nuclear Law in Russian - International Atomic Energy Agency",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUTN5VnNDUEVIcjlCOEtEbnp0XzNwWHJRWEZnTHJMT25wcVdranZlM01DSWE4SVJfN2RJYlNwd1R6d1JfUEdTcm1rOF9XSXRNNEcySFVIQnBaVVVMdklVNzhIVjMtVWpyUTVQRDZlMjR6OVZQZ3E0X1JiZnlXQjVVVmVnUGJiTFAtNEFQelNEUWNuVFV6ODgyX3NZR2M4M3VXZm02aEliek1YQmJxSElJZjNR?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-11T11:30:00+00:00",
+      "domain": "International Atomic Energy Agency",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "What Democrats Should Do Now — From Anti-War Wave to Pro-America Future - Quincy Institute for Responsible Statecraft",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGM3TkZPdVREREU1OEstQVdvYWxkd3VsbmYtVWpVc0ZsdHdBLXFkU1lmbWVkRTY0SkpnT3ZfUXlIYUM0Nkw0anUyenFnNHkxakpRenMxanBIQ29QNHdSY01tOHJ6MFFmNUF6d0xxNzRJTXIxSGxXby1hYlV2RW5CNzNYYWtULUZ6TnZta3Z1VkM3MHdYYlZjdWp1VUtaRE8tOGhoNTJFMA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-11T14:17:00+00:00",
+      "domain": "Quincy Institute for Responsible Statecraft",
       "language": "English",
       "sourcecountry": ""
     },
@@ -299,112 +389,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "One person dies in SLO County E. coli outbreak, Public Health says - San Luis Obispo Tribune",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EMHBfbjg1ajIxVHkyUnpDRDZrSGM3UEdhVDN2cTBzcG00QzYwREtJLVVKaVE5Vk9sVWluWDVXNUlTTUpTYUtpemxheE1aeU1ldXdQM2VnQk5VeWM4QUtJeC04ZHEtcWJiMWdWOEYtNNIBb0FVX3lxTE9FWGJEZVIzMENxSE5mYWhYR1V0NnNwOVRFV0hUTHFsT3ZEb2xFZW54ZlJfMmZxMkw5aGxaSUw1RnV2RlJ1ZkQ4aTBMSS1HbUlWeHpfOEx1NUFxd0ZqNE9YY1ZuYXZ5eTVxUjJYZUozTQ?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-11-11T02:28:00+00:00",
-      "domain": "San Luis Obispo Tribune",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Calvin Lindsey, suspect charged in Auburn Gresham home invasion, sex assault due in court - ABC7 Chicago",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMnRhUnNpQVc1eThsYXA4Q2lnSXlrZS1QU1poczc5SVpwdVY5eXRvVkhsOEphQmhZbG1ubkFFNm5xVURsakFNczZWdVo5WFJCRFlBbk5UOTJGWVkzUHZKbUtiWkZTZXZMeGlZeXNScGc5TlNwOVNyWDNQSVN2THhoOEM2ZmZUdTIzelRMU0swYTA4VFVmREZBYlVNSXZHZ3R4NmpxZXN0QmE1ZkdRYzJHYzM3N3dFYUpsTTg5RtIBwgFBVV95cUxNTmY5Y3BuZ1ZVZmZ0Z2pVbzVHR1Y2WjQ2NFZOOGt2NEdhUTVoWW0zcUw2cDZuam9tNkVVcnR3V3FMVWNqR1VFLVBFczgzN20temlmQUg3dzl3NVVYWEdJSjZVQlN3UGFuU0p3MURGNTFNVDhQNlB1MGZLa2VUU09hZGs1b1RZTDA2MXNaUEhsMXY4bVYyTVBPZm1IeXJDb1FZc3RRck1WdGJOWWhETzl2Y3VWZWpwM1duX3hCZFE4Vnl6Zw?oc=5",
-      "category": "WAR",
-      "severity": 3,
-      "seen": "2026-11-11T11:13:32+00:00",
-      "domain": "ABC7 Chicago",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Gaza: Winter storms flood thousands of tents - Norwegian Refugee Council",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kcXhUeDZFMVpSUEt6dFpLd3N1Q1RXd3hKT3FOeTlLdlVaU1o0UldkYXl1OThNTW5lbXVHdTZ4ZlZYb0NMNUdqRmM1QmM5a0N3eHB0QW94NklYQTNhZDlLQk1LSjVtY3pHUDZkOG5scnFTNlVHTlE2czdrWWU?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-11T11:46:38+00:00",
-      "domain": "Norwegian Refugee Council",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Hegseth impeachment effort is blocked by House Republicans - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHJadVdURVZBN1VwelMtYTQ2XzFxekpzTFdhTDR2Q3lkNDE2bV9IUmpWZW9KTy1KQ25PWUhGQWszRXN3WmNLdl8zcGUtbEM5Tk10OXlFbUlCMTM1bURjVFdpbzJXNlBXd3NVYy1tanExMXZsREtFZGNob1JTWC00eTJnR3F6MTRHbldFMU12WVNZc1RrclBPQXlrcUNyTkt5U0VZblZ3QUVlMndzT04waG0xN2szS2Uzbms0?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-11-11T05:06:00+00:00",
-      "domain": "The Washington Post",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHJfTXVYZlRMcmFrTlhwc3AxeU9uOGFXUUZoSkZQVVhRTGRJUkZTcEEwM1lMMVhpWUdZM1hSekpyRG9oYUhoM3ZEcFlqMDdfZGcyMUE4NHlSSUpuMXR0VEtfRkhIYTlHRExaM0l4M3JLREZ2QWJVbWEzNkczdGRiS3ZYRXRhWnRPaU92cUJhQnplMjdHc0ZjdGpB?oc=5",
+      "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUWlBQbTI3NE1qbVR5d2g0V1NTQ1Jva1NlSFZ4ejRESy1qNFY3eFBFZUdnR1hOVm5FS0liOFo5SVk5NGhlLUk4clp2aGNOSmQ5bHNfM3ItdWpycGNza1FEQ0pPUFhfNzZUbWZ1aUpJTEs1cFRB?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-11T09:18:47+00:00",
+      "seen": "2026-11-11T14:57:07+00:00",
       "domain": "The New York Times",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWjZYdEdGclo5TVdOVXhmMWc5c2ZlWmZwN1VsVFlQS1FCQ1ZsZVVhSC1NYWFvQ2cwUEVOWHVFREUzYUJUbFhSUG83U0tYRXlaTzFpOXhsekhwNHJBbHh0WVR5MERnbzRkUnlZWmFUM2hyWWZvZktCLWZpUUs4MnVObmNVdVFlV2gwQ29PV1RibElJdklnM1E?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-11T05:35:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Servicemen remark on Honor Flight Upstate’s first trip dedicated to Vietnam War veterans - FOX Carolina News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOenlaM01lbUJHekNsNGNJZ0hGUld2Z0NYNWxiWTh5OGV5alY0UDJ1U2tKbjlCWDRsNDBCRUg3MUlkMER5UTNrbnM4OEFCbjFtd1R4enhkYm5WWW9CNkdYWDhZU29QRUstZEtKUjgzR1BIMHFpZWdSZDN0WXRVRTROdUR3T1ZfU295S2lBQmhKVlY2bmtLa3A3anRHWGFGRFhXWVV2cXM3OFhDM0xlUWRTNkhLMGx2MVFaSDhmWC1n0gHSAUFVX3lxTE1wME11X2QtU3g3cUhNRHQ3WUxyUGJhMmNaOHBoem9GQ0tuRlVEOGtPVjkydkp0RkJyX0h0U01rYzBHUXhiNnVmZ0ctX09kUGRva1FIZU1wUTlQMXZMVTV0am04SXlJSEd6SVBzbVRGWEhQaXFORHJ5OGJ2UW8weHZiMXVfNy1JM2tUZGYxU29uNTc3Q3g5bmpvVVliVnpDUk5BZlF5YksyZHNYRmxsTWpINktHWko5aTdaZzdrd1ZxNU02RnRJZlFtMk4xNTRyNjA5dw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-11T13:57:00+00:00",
-      "domain": "FOX Carolina News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Iran backs nuclear treaty even as hardliners raise prospect of bomb - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZkRvWkJ1UFNFY1MxclBlakcyVDN1WDVaTmRyVzg5WlE3UDVDUklnRHM4elVqOHRiZ0lsNjNqRWhENFh6UF9yUkJmLU5VeDgzbzhpSlh2cmZjNUR5RUFvQUJ5eFVWWnQ4QnZWeENrQncxazJsNEU4d0RnSU96QlFrU1NSQjRhc2N4VUpjd090N2k4ems0ODlqMUJzU3JZQkxsb3o3ak1JelVUSzRieVHSAbMBQVVfeXFMUGdoYXJqdU0tX2t4UHYyR2tpY1dvMTM2OFBZQXJBNnR5My1aNW1rRzNfMXlBNUwwTWlma0FxbnI1VGlXNFl3eG1JVkMyWXI5MDhOWkNIQTRJMkpLTmg2TEZYVEdFd1Z3VjMtNEx2WWJzN0NDcUhVbkpXWkxTMFZveS02TnN3YWlTSzk3REJDWE1QNGtkRGFSTkxQSy1MTVJFb3Fhejd6Zkg3TmdOSVpreGxmd1E?oc=5",
+      "title": "Nuclear softening at an embryo's two-cell stage may be vital for further embryonic development - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFZ1VWTlc5SGszZUdDSnkyMjZMUG5IVmxkY3Fld19lWjVlbE5zajNneWdodW5iRl9oaTA5WGFNYnowc3Vpd1k1SWJrUXVRLUttZW5vcTc4dUpURXlaaWc2THo1Sm5yUDIwRnFSc2Z3NWg4eW00TDBnbjl3?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-11-10T17:49:50+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "E.ON reviews former German nuclear sites for data centres - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMUZtdG5ia0pEWWFVTnZPUGZpcWJLbkEzYm5vaHZVV25yTXZqN1hFWGxZbnFpSEVsQXJZUzdzX19qeGZ6eWFPRXcxQktkWlZ0OHliaF9IUGFnakRjWG50ak1Db1h6M3o3bXJCRGhxT3B1M2tjR0F2MktxbG1oc2RlVWtLUnlKdk1ldTRnNGVhUWF2Q2pyNUN6V21iQ0Z4anVSOWZvcWlfQQ?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-11T12:23:54+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Most Americans want new Democratic Congress to end Trump's Iran war, Reuters/Ipsos poll finds - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzd5Z2JCbEZwZWtzVERIdVpCMHZSa1lZdW5OdXVwbHozbW1rM3ByUTRyZFNyTThTOXFLUnViZWtDbHllZWFUYVZXeXhUd1E2YWdSeTZVakNuV3ozbHJqdkJkN2RNeVhvRW5XRXRSWUhmdUx0RVFsLUNXdmFoMUtzOENaMS1UbzYtY1A3SXJmNFUtWHZQOVdDVC1DWENfbUVEaUF4ZGhBTVR1NEplSTBTRnU5bDBibDlnaWhjTERn?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-10T16:27:13+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDZlTWwtdThPTnp0UjFXeXowU3I2SzZTbDA1Zk9BZUJER0dMV1o3S2oza0sxUmxlT2xhb2k4Ykx1TDlORm5zNVdJSk8wVzZBM2VRV2xFUlpJQTdiTTJJY1ZULXJNbjIyaWVudGx5UUNjZWlMaGRJcXZHVjBmUkUxVmVxZC1FUWk0SUFmZkFQZGhaeFVPdWtkV2xIQ0hRT1ZDWGYySlk3RHdRTDloMDlLdQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-11T14:14:31+00:00",
-      "domain": "Reuters",
+      "seen": "2026-11-11T16:00:47+00:00",
+      "domain": "Phys.org",
       "language": "English",
       "sourcecountry": ""
     }
