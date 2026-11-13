@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T18:57:07.587529+00:00",
+  "fetched_at": "2026-11-13T00:25:44.720161+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -49,12 +49,52 @@
       "sourcecountry": "LT"
     },
     {
+      "title": "Secretary of War Pete Hegseth Elevates Special Operations Leadership to Revitalize the Leg - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRnFsNHEtUElmeF9KQ3pQS1lPWDRzdE9SZU03Mi1BVW56Wl9Yd2pZNmFNcjluY1hQaHg4ZlVPR0ZwaE9nTnNhT05HNEdjTFdscHdRR3ktQnRHbVc4ODNHQlM5UGpZaVRwbHp2clFFY0kzdUpzSGtlUTM4VmhiZTFvQ2RuMU52UGZLR0dHMEFWOFVWckowVDYwc0J5ZWJyM3dGQUN0MW12akZfdmpKcllPTUhaNTJGRWUwR3hGdUJDUHluSVNGajE2QmpGNm1KUjhfV1ZRWg?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-12T19:18:12+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "War Eagle Wonderland brings holiday magic to Jordan-Hare - Auburn Tigers - Official Athletics Website",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEg2UllnVXRIMnlGdVhtVV9rbHQxejRobTI1QnpxeGNzZDhUU2F0bFpHNk5pLWRnQzVQdVV6V2c1OVliczFfR2c0S19HRUNhX0duYllwWjAzdmJ1bHRDaEREUXVhX3BUaXJ5eDl4c01FdUpFTFdfM3RIcTFLek8yYXdYZ21rSEU1MnV0ZHRKVFk3TVF1UHc2MzY0Q0Nydw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-12T19:05:43+00:00",
+      "domain": "Auburn Tigers - Official Athletics Website",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "US senators demand end to Iran war funding in bill averting shutdown - News From The States",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYjQybVJpU3hCWGlNOUhQVHUzT00yQVNwX3RiOFlTdzhqUzRWYzhuaVV6cWUta1FReUVnSWJ0dzE5UXZ1Uk9mdnJKT3NYRGtHcHRhaS00eVAwT2I3YWpkQzVzeGlKMGhDVU5RSy1LdW9paWdlTzgyS3lGRkMxVGs1S0hzTnJpWVFVTFF6WUE4SDU5a25lNllTdXNRMjNKLWVtMVJubXV4aw?oc=5",
       "category": "CONFLICT",
       "severity": 2,
       "seen": "2026-11-12T17:20:00+00:00",
       "domain": "News From The States",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Spy scandal / Hegseth’s future / Are we still at war with Iran? : Sources & Methods - NPR",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeTk5RHpuU0s5S0tGVXp3Y1d4N25JVHU3TFJjZDh0dUNpdTExV0h0N25JeE0xeWxkY1A4VVpqTGFuaG9hMnFfNVZCNWt2dkV5aWt4eGFvMDB2Zzl6RjZ0eDBfRi1QU3JWWnpWVmdLZWRYVmJRN20wM2t4dEg0eEtSLTh4aFBzN1hWQXh5aXRUNkFSMXUwNzJkT1JlSGZrZ0RGT0ZfTg?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-12T23:11:15+00:00",
+      "domain": "NPR",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Wildlife, Wildfire, and the Landscapes that Connect Us - Theodore Roosevelt Conservation Partnership",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzZwN0dGNTYtVkZXLVA4R18yYUg5clozZ0Fjc3hBNVRaaHFUaXU3UmFXb2tvWlRzeDdueEt6VkVuWjBEN1FEdXUtTllxQzBORElXZ0toVnU1Qk9jQkRIQnRkQWdfUzg0VFpMbXJEc1B5YW1ycGpDemNDdXFBYlFJODRhamVPSXV3dnh2Y3hn?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-12T22:22:39+00:00",
+      "domain": "Theodore Roosevelt Conservation Partnership",
       "language": "English",
       "sourcecountry": ""
     },
@@ -79,12 +119,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "Department of War Expands Community-Based Childcare Fee Assistance - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZUtQcW9SNGJXbU5oQXhnVlMwVzhwLVE4dDBIZjhLQm9xbzlCTTJXT0VkU3NsT240Wkx4ZS1CQWNkU2dhOURKQllxOTlyME1lLUhab3h5NnJEcmhReXZmUFRhaWFtQkVOc1lYWHZDa2l1LUhhdE8ybDJfbzhLT1JtYVBMYXo0WVZhRmlNR2cweHBGTmlaWEJ5VlZiM2luSTJRNUNQWjl3d01hYTNQMTdpQ2E0bFVpOUE3TTlJTGFJZlpRNkE?oc=5",
+      "title": "City of Melbourne Announces Debris Removal in Flood-Impacted Areas - City of Melbourne, Florida",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmNZeHBSdXdnYzVBc3JwTDNFY0RYQVVPckRqOVJuOU1aQlMwa3VJa1p2djVJTDdEdkFqQmJLVmd6RnNiVXdWemZqWkRnMW14VGM2czRuVEFiSS1xTEJzcFV1UlM3Y1lOZ1VLaVBzSzZaVGhMQ3NXNWNrMXBYS1N6N3ZTRzRDUUdaQ3dkLUU0RVJFakdpODVJZ3BjN3hQS1F5LWU3ZzJ1SEl3MS1lZlZFaWt3UQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-12T21:22:30+00:00",
+      "domain": "City of Melbourne, Florida",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Jensen Huang's ouster triggers an AI earthquake - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94ak4xcTZteHBzaGNaXzhfWGZ0MzJ0R2VCOEJQSUF0eVhrWUZmUWx6TVhFOGZmVkdOSG1rdm1KbkZKV3YxTTloUnlNeDdTZjRxeHplWmVFaXZ4bUNuYndJRV9zdm9jb1lfZlE?oc=5",
+      "category": "AI",
+      "severity": 2,
+      "seen": "2026-11-12T19:32:22+00:00",
+      "domain": "Axios",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Mapping the toll of war on farmland: Q&A with He Yin - The University of Utah",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZU10bXhZbzJJT3A0T21xSlZqZS1xT2JEMFcwMGthVEtBNk1yU203dG8yOXltNnd3ZzduLWlRdmliWFFXb2laRU1UY0hiaUs1SXpJVkhXYVVKUVNvWHVSbVBIdl82b1Y1MDRDd0pKN3h2WjhiSWhhamRZTGV4SVV2dDc3cXF3NDg5dndXSm5TSEtUdw?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-12T17:46:45+00:00",
-      "domain": "U.S. Department of War (.gov)",
+      "seen": "2026-11-12T18:21:03+00:00",
+      "domain": "The University of Utah",
       "language": "English",
       "sourcecountry": ""
     },
@@ -99,62 +159,112 @@
       "sourcecountry": ""
     },
     {
-      "title": "NTI-Led Delegation Advances U.S.-China Nuclear Fail-Safe Dialogue in Beijing - The Nuclear Threat Initiative",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORms2VXJOVUZIWHJFVlFLNldiMTFfN044TWpTSW1LdkFBZWRRVUhWQXBJenM0YUVsZWxseTdnWkM4dGNIUm5odmlLWW9hM1p5SlZjVGF4T0hTbmtKRE1XTGROa3ZGUVFrbDhOVHVkd005X1hqSl9pT09fRDBUcXBMUDV4eGVMNWZZMFhQQ21rQlFFeU5fV25adXNLWjAySy1teVBJ?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-12T16:52:30+00:00",
-      "domain": "The Nuclear Threat Initiative",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Jensen Huang's ouster triggers an AI earthquake - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94ak4xcTZteHBzaGNaXzhfWGZ0MzJ0R2VCOEJQSUF0eVhrWUZmUWx6TVhFOGZmVkdOSG1rdm1KbkZKV3YxTTloUnlNeDdTZjRxeHplWmVFaXZ4bUNuYndJRV9zdm9jb1lfZlE?oc=5",
-      "category": "AI",
+      "title": "Research reveals mystery source of 2020 Aleutians tsunami - Geophysical Institute",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2duVTNGUGhVWVZpOEZzYkpkZUJtR0N2SmhNdkRVOXgxTDRqY0VPT1JEQ1lvQUY5bXNlMV9ydVF5TlRWaGc4el85Wjd4NmhhR1JiUjMyejBYMkZpYnB5eDVVdk53eGFoV1pMQzRlSmhuZ2NIc1lmVG5pcU9nS2VkcnZVS3oxV2xBYVJiRWFn?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-12T16:30:00+00:00",
-      "domain": "Axios",
+      "seen": "2026-11-13T00:01:10+00:00",
+      "domain": "Geophysical Institute",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Mapping the toll of war on farmland: Q&A with He Yin - The University of Utah",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZU10bXhZbzJJT3A0T21xSlZqZS1xT2JEMFcwMGthVEtBNk1yU203dG8yOXltNnd3ZzduLWlRdmliWFFXb2laRU1UY0hiaUs1SXpJVkhXYVVKUVNvWHVSbVBIdl82b1Y1MDRDd0pKN3h2WjhiSWhhamRZTGV4SVV2dDc3cXF3NDg5dndXSm5TSEtUdw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-12T17:38:55+00:00",
-      "domain": "The University of Utah",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Transient nuclear softening for zygotic gene activation in mice - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YT05fdW1JWXVUbTd3V29wWGRDSkd4Z1JfbTkzZDFYYlB3RXBBYXVNaVhNLTZWakI4bVdwZ3FsV3kzQl9sUjRfOVhURUEzMURLRllCZEJneWxVak1PUHpR?oc=5",
+      "title": "How safe is nuclear power proposed for Kentucky? - University of Cincinnati",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DNkpnZUNtaU00VDU4SjgtaW9JZjEyWTE5enNSeUFnTmQ5X3o2NWZrMVd6Z3JDaExQaDV5WTg4VDRXRThPWndxSVFKcVJLZmdNbFFzdnJHNTVoekpkbTNCR2wxcGlYQQ?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-11-11T22:14:23+00:00",
-      "domain": "Nature",
+      "seen": "2026-11-12T21:59:15+00:00",
+      "domain": "University of Cincinnati",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Feds Greenlight Construction of Advanced Nuclear Reactors in Texas - Inside Climate News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcnZia0p1ZTdwNFhMQS1qanlkcUtIb3ZfaWhWSmVJNXZpLUhUY1E5LVJNeGotTUpaeEZnN19qVkNxSFBrNHY5Nk5QNFppMHlWUDc1THVHQ2hIUmlzay1iREUyaG5Ia2tEX05fWG1zQmxPeVEzcXFrX1JNUG5yYTg3cUNKZw?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-12T18:18:03+00:00",
-      "domain": "Inside Climate News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ebola Outbreak: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
+      "title": "Popular California beach closed amid E. coli outbreak - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakk1V1BRaTFyMmhPaGpza2w5WEtKazVhUE9CU2FTMmpiUFVjRk5HSmV4SmFEcWM1bldPemVINWV3enNXdEV1dnBjM0RCUVlXQ0lET0stN0gzajJad0hnb1FaRC1Ga256a19LeURDUlN0ZW5pYVJWM01TU1hWRUF4N3NYSFZ4QVdmYWdVNkdGREZvRlNCU21YZVpuNlFqX2RxYUVzN2FQSXM1MkhfdnpUNGpkWExrVURD?oc=5",
       "category": "PANDEMIC",
       "severity": 2,
-      "seen": "2026-11-10T08:00:00+00:00",
-      "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "seen": "2026-11-12T16:48:08+00:00",
+      "domain": "Los Angeles Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "What a ‘very strong El Niño’ could mean for flooding in Oregon - Oregon Public Broadcasting - OPB",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWhENTRnNlQ3M1pNVWJzZkZPa1NRa0o1R3BlbjYzandSTHhzeUpscThTYWdZb0d3a1Q3UWNTekFhbEp3Qjl0SmMxcG1CVmRJRG5nYXlIdFY1WmNMdU9iNUlncU94MGJGYWVXbHpBRzdVdnZINFRVdGRYOF8zUEhyUmc4YVRoRTZJSGc?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-12T17:29:06+00:00",
+      "domain": "Oregon Public Broadcasting - OPB",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Department of War Expands Community-Based Childcare Fee Assistance - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZUtQcW9SNGJXbU5oQXhnVlMwVzhwLVE4dDBIZjhLQm9xbzlCTTJXT0VkU3NsT240Wkx4ZS1CQWNkU2dhOURKQllxOTlyME1lLUhab3h5NnJEcmhReXZmUFRhaWFtQkVOc1lYWHZDa2l1LUhhdE8ybDJfbzhLT1JtYVBMYXo0WVZhRmlNR2cweHBGTmlaWEJ5VlZiM2luSTJRNUNQWjl3d01hYTNQMTdpQ2E0bFVpOUE3TTlJTGFJZlpRNkE?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-12T17:46:45+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Colorado flood victims hope for speedier federal help - NPR",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMVJDOFp1X004V3FmTHVlODhnVnVXdS1iUkdwNDlEaVRFTENRQUc1R2lId2ZtM3dsN0pLS0JsQk5LcWFmSTZ4Smx1Rnc4ZS1nV19CUlB5cDZfNG1CNDNBLUVmSjRnckdKX0hGbi04LS1VVEpqby1RN2x2WGUwTjdHaFFNamczSmQwSkRDRi1iZlBXRmVmNmY5THJSanFNLW8?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-12T23:51:38+00:00",
+      "domain": "NPR",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "War Department Expands Childcare Assistance - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX2xldDN3S2RXTVpRempkWFNnS2YzZmNVeUZDYzQ0X3VEcWExb0pDbTZvTjlxem1Sajd6WWF6Y2JHUXQ1VlNRXzlsekRpSU9kdEdHVERCOUFRczl5dVdTZDlLVnVacXdWWjhLa1BXN2dldVBFV09WV1NHa3kwX1BibjFEV3hRdTF0WTEyN0xlLVR5dzgyX3R3YzV3Q3laVmtRWWo1QmlQczVXQQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-12T22:29:58+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "World War I Revolutionized U.S. Military Medicine - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQalYzWEpKd1FuQ09PUnRqRUx5QS1Ed3QweWFDaXJPTWdzVzA3Rjk3Mjk2VjJCNHV4M3JidmRXUV9SWmVlWHppamN5T241ZXBFaEU0Q09hdWlLRFpOdWNTR3ZyRW9YWG04aml0Q3lKQ2puMUgxOUpOQTUtZ3RVTlFEa1JUTXJBSnlPbG02RlgzYlhnTXVCMkV1UEt2R2RwOGdyUWR4NE1FY0h1anEwbzgwYQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-12T19:20:45+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Oregon nuclear company sued by investors over executives’ stock sales - Oregon Public Broadcasting - OPB",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGxtTkI1TmdadmR5SzFaUUVtZGRRTXg2V3lHU1hKM25MQWVDOEl3Z3JNYnJTQ3RmNnVqSHFCUUpjYlhEbnRNU2Nicjhsb2JuNERYYXI5RE93MVlzaHZiSzAxanM1aUc5S0xzRURsZkczN0pHdVF5X2MxMDZxYzJvc2ZvTUNhNlNadGU4NHZmc243VzVGSk9wMXp6a1JsWjVGZVd3NTFYbVYwQzhh?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-13T00:17:48+00:00",
+      "domain": "Oregon Public Broadcasting - OPB",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "CENTCOM calls Israeli media report of possible Iran war resumption ‘pure speculation’ - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUjF6LXZDY2RSWG1xT2xMQ1R6WWowNEJvcTctckR5SGxFZEFoa3RjTUMzMzRrOWJkeXQtbU5mb05oWndIT1VrUVR1dTJBQ2VfbXBVc0RvU3dxUFdOcS1RYmFRMi15OW93a3h2YWVZSm56Q2NmYS04UEVVR3J1SjRFTWs1WV9wM1pDRlFnQjcwS1VkbFFDdExoNlV0cEwxeGhYWGoyOTNZa3hibk4yN2dBMzMzOS03czdTMjk5WDVWa1V6SWtuU1dlTzUyVGw1c1hPS0E?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-12T23:28:56+00:00",
+      "domain": "Anadolu Ajansı",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "A political earthquake in Mississippi - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGNtQ0hhSkNTSVJ6T1FSOUdXYmFPYlpUN1ZwOUdkLXU0Vjd1Q1otbGh3dWZrZlkzNWtxbldtbFU5Z3dBV2M4aDJRTmhacC1SV3VVZWlLMGZXTlJSVks3SDdtU1R3ZU9sbVpmcENtSzZKZUxsLVJYLUFscmpiVlViVE5ORm1YT1NSR3c?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-12T23:09:17+00:00",
+      "domain": "NPR",
       "language": "English",
       "sourcecountry": ""
     },
@@ -169,52 +279,42 @@
       "sourcecountry": ""
     },
     {
-      "title": "Wildfire Smoke During Pregnancy Linked to Asthma in Young Children - American College of Allergy Asthma and Immunology",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2Q3X3kxMEEyM0lxNVBqRnd6QUFqS2d0bkU5enprRHR5V1VCQ0Z1bDBkOElnTmhpbzZXY3RnV0lSTWRWSldjUDZDX0dkRWJTR2JVbXQ5RHpaMlQzRG44VUswNnVha0xjNm5FNHJtamVQQTBKX3JsdXJzb2QwTnBsZENzOVlPcEFpYkZJNERTc1lPRk54?oc=5",
+      "title": "Panama: Earthquake in Azuero & Veraguas - Situation Report No. 09 (as of 11 November 2026, 12:30) - ReliefWeb",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVB0dVN3dzc2MTBDcXROZWJsQnZDYUpPWE5XRkE3YnVwOXpEZ05WM0FWUW1jR2k3Z3hxYm9kb1lpblYwa0dPczNJMjdkaVJidmZIVm03SXl4LWxsZExfbkV2aDdSVHBUT0czUUJzU3pWUjJVd0ZlbW53YTVFOTljQ0dkWG9UazFnb1RXRWxUdEF0YTNTMkczelV5eXl5aXJENUFzR0RfT0c3LTVONFpyNkpEWFE?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-12T17:02:12+00:00",
-      "domain": "American College of Allergy Asthma and Immunology",
+      "seen": "2026-11-12T19:20:44+00:00",
+      "domain": "ReliefWeb",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Bay Area flood risk maps: See which areas face the greatest dangers - San Francisco Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORTh0ZzZ1TlhZaEdWUjFkR0lzSUlLQ0RvbF9vLUtoQ3k1SEpWSVNrbVRHY2xubDV3YVZpOEN5aER3emNHS2xHY0dhcU96VjdlajE2MlFKUHlXN1IzbWNkYWljR2tYUDlvcnJRT0Nza19pb0R0T3luNXF6TEVQVXN5cDNHaC1vQ2s?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-12T12:02:46+00:00",
-      "domain": "San Francisco Chronicle",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Nuclear Deterrence and the Significance of AI - Global Security Review",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSkRzQkpESGYtM2RkT1RIakpUV2pyS2g5Z0hVWWRkaHpmT0JfQjJUdUI5WlI2dkdQUERGQjBaUkpCOVN6Zm81UHRkRDQwWDVLS0lrVzVFTHFSNmtJM2dvQUFlQ2VIZG1CYVNuZ21IRkpfY1BqckFtajhNMjEtV2RQeGFEbkF2QQ?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-12T14:07:46+00:00",
-      "domain": "Global Security Review",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "US envoys meet Putin in Moscow to discuss Russia-Ukraine war - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRG45T2R4UmFjWjFib21RZmdqMFNSNmc4VlM5SDhnSFNkOWU3WElJTHczOEhnSG5hc05KQ3BHdUV3R1RYeXRMVkQ0SlJmbkMxRWhkTVFDOEQ1N013VnhGdW1ENzlIR21VREJYUmk1SklrWEYyWUg1NTMtMDU3VFVaeTA0dkMtWFM1c0ZwUkNMNlE4VUd6Mm5CY1pESVZVdkw0SzZXNkVMMNIBrAFBVV95cUxPYThFUTlZR1BIaUZKVFdOcFlqbi1DR0FEUlV1d1UyMGNvRG5oa0ZtRnJsN0FoRW9GeUFyTGlsVkZtcS1HTmdoRGt1bmlvYmR0aEtuQ0pWT0NjdXBwRG1NSXY5RnRtQkx3MHR2WjRaQmkxMmxmRHBORnI1aXBrSnNvSGN6SHE4ODRsWlFLWGxraURmajBZc2daN20ycFY3SFRpOVVmQ3JEVVZvNmFz?oc=5",
+      "title": "Sentinel at Tomb of the Unknown Soldier Receives Award - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGN5OF9UTFBpV0JGMXFXZnF0THh6VVZUX3h4YjFDNkdMR0JKcm51dkF2ZVJGU3ZQQWtwTjhMd2tJWHo3ZENXMEpzUkdfWE5FOGc2aUNyWVE4YnZXX21YY1VhNXF4R0loNnNLV0xyYldNV3lCRDlPeGs1Ykc5NGwtSk9wN0dXMUljX2pTYmdJbzBKTEFHblVzaFZPZUlGWjl0d1FDczZlY1VJU3ZNdTI5ek5yZHl2cTA4?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-12T15:22:44+00:00",
-      "domain": "Al Jazeera",
+      "seen": "2026-11-12T22:07:30+00:00",
+      "domain": "U.S. Department of War (.gov)",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Turkey, Canada's AtkinsRealis sign deal for study on possible nuclear plant - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdnZ4VTI1S0pTU0VMc3RaWVNnSEtFRXZ1YzNpWjhnbENOMkJaVWtqUXdKUi1wakdaeVBKdmh0RU5fNnZOMG5LX0pPel9GcllmU3NST1AxOHRPaUszdUFJTlJPVHBGSFl4QUZXenh2aC1VUDJ1b2ZUS0dBYzFZUFZlUnJVS0hxZ0lqQkoyZS1qTjJOdDd4R2RhcS1aVVBNV01OZDNpQlV0ZUhRWklXUGVVb2xlYWNfUjdYVHc?oc=5",
+      "title": "Feds Greenlight Construction of Advanced Nuclear Reactors in Texas - Inside Climate News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcnZia0p1ZTdwNFhMQS1qanlkcUtIb3ZfaWhWSmVJNXZpLUhUY1E5LVJNeGotTUpaeEZnN19qVkNxSFBrNHY5Nk5QNFppMHlWUDc1THVHQ2hIUmlzay1iREUyaG5Ia2tEX05fWG1zQmxPeVEzcXFrX1JNUG5yYTg3cUNKZw?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-11-12T07:30:00+00:00",
-      "domain": "Reuters",
+      "seen": "2026-11-12T18:18:03+00:00",
+      "domain": "Inside Climate News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Olin Lagon: Credit Hawaiʻi's Tectonics For Teaching Us About Tsunami - Ideas - Honolulu Civil Beat",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZaUo0VEFRdjE2cnBFNGZxRkxRbkUyYlFwc1k4ejJoaEU3ekFhemRpYXR2Mm95ZW53OVMxTU1URHdvX1Zvclg5cHhSdjZtVVVnNWFRRWN3Z1JqNHMxbDRCWXlxLTFVMFVvU3Vhc1QxOUZzUQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-12T10:01:00+00:00",
+      "domain": "Honolulu Civil Beat",
       "language": "English",
       "sourcecountry": ""
     },
@@ -229,172 +329,72 @@
       "sourcecountry": ""
     },
     {
-      "title": "Olin Lagon: Credit Hawaiʻi's Tectonics For Teaching Us About Tsunamis - Ideas - Honolulu Civil Beat",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZaUo0VEFRdjE2cnBFNGZxRkxRbkUyYlFwc1k4ejJoaEU3ekFhemRpYXR2Mm95ZW53OVMxTU1URHdvX1Zvclg5cHhSdjZtVVVnNWFRRWN3Z1JqNHMxbDRCWXlxLTFVMFVvU3Vhc1QxOUZzUQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-12T10:01:00+00:00",
-      "domain": "Honolulu Civil Beat",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trumpeter Started Playing Taps as a Teen During Vietnam War - The War Horse",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0c0l0eWplZVF5S0RuVGdyS1ZVTDBxZlN5ZTkyQUVTNVQtRWtHWlAtS2pjdGJRbUlhTnd6SmRBZXNtN3l2dU1HOVB3ZkwzV3p0WW5DVUM3Ymdldw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-12T12:00:00+00:00",
-      "domain": "The War Horse",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUWlBQbTI3NE1qbVR5d2g0V1NTQ1Jva1NlSFZ4ejRESy1qNFY3eFBFZUdnR1hOVm5FS0liOFo5SVk5NGhlLUk4clp2aGNOSmQ5bHNfM3ItdWpycGNza1FEQ0pPUFhfNzZUbWZ1aUpJTEs1cFRB?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-12T03:22:36+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "University of Manchester develops new methods for treating radioactive waste - American Nuclear Society",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGp0d2kwUGJUMmVwaXdWWkl5WENrTkFZQ2JGcUJLYkJEWjhHMGpsbnRNeHh3bVdaZ3lGVFUweHExSm82aWFVV2Q2cHFsWExmMXpuT09uQlJiZWFmbXZpVGJXM1g3VnJVanNjTENEamZRZUFPRWtiMEJ6V05NTUZpN1B1S3RoT1owLXg5ckMyVHB5XzNtU3loNlNqLWtuM3R1RWctcVJHZmRCUTBVUll3dVV2QkZ0UQ?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-12T16:59:23+00:00",
-      "domain": "American Nuclear Society",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc2lvZUtOMFJMUFh0VlBpdnZObEJBZHNSSmNzOENBaDhrRElabllhNWo2bGV5QTNtbGZsZnpIQWpPSy1helVnWWxjRHB3emtzWm02bHpmS2xyM3JTM1NIc3pHQ0FZek1NQ1dLbWZJZWoteE9YYUp0SndXMFMtWlVKSlZuUWRob0RGbzZYQlpfWV8zbFBwRk1lVEdDTkoxOUxrWVdUVGgzMA?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-12T17:57:00+00:00",
-      "domain": "AP News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "COMMENTARY: Just like the US, Iran has squandered its good options to end the war - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjNkU1dtRi1ZR0lyQmplWGZON1QwakF5Wk82UzhRSzR6ZlJfVFlpTkJLWEVBdGFsc21GbEVNMURkRDhaWm9tRHhwZGhUclFxXzdzUlZUU0VUYi10U1MtVzF5djhHNFVCSEhUa1dMN0pvWjktV2JQVGJTa01lSl9lM1RkY1RGdmJmOWVGUkd6MUw2WjBDZ0NPQ3pfYzh2ZXkwNDF3YXppNlBIcEhIUWlQcVhoZXpEOUZpNXYzZHVrdlVybVYz?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-12T18:44:30+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine war briefing: Zelenskyy sees ‘window of opportunity’ for peace as US envoys to meet Putin - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaUloTmRZUVdRTnN4czkwSHA4cDF5aFdfcVgxNlg2N3djQjRNMEN1VDA2ejJXZDlFdUZremp3ZG5WS3FWWmN6QURJSVItdzUtYzFySFdPcEZVVWNvX3Fva3JLYzdpWUFWd0V4UF9sVG5YdjRmYW9mUW53MUxBc2E5eklpeTBKX05ZdXcyM1ZPRENCeGgxUTZ2bTBkWGh1VU12VDVFSlR5cUtYSTFYd2FOZGtSenpaV2JNa3IzN3NFbUhrSFVZaEpxdzdYcnFpNVdDRzFNTjJEbw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-12T06:23:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "America Faces a Reckoning Over the Iran War. So Does Its Iranian Diaspora. - dawnmena.org",
+      "title": "America Faces a Reckoning Over the Iran War. So Does Its Iranian Diaspora. - Democracy for the Arab World Now",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNFJMNUpURDVQRnFycEtiNXo3d1kzN0ppUDFlTjNkbF9NSk15djBYQ3hpVGhQTExLTDI5SV8yTXBvb0g2MnZKemV0MzJNTzJVcUE0TndOZzBmVE9BUkg2QkFNQm5VVjQ1dGhTUEVCdTdyeTYtVFFlUjRkUWd1ZGtTazZCVDNnN05mNnY4TUkwNEpKajhMWVEwQzRR?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-12T18:04:26+00:00",
-      "domain": "dawnmena.org",
+      "seen": "2026-11-12T23:55:35+00:00",
+      "domain": "Democracy for the Arab World Now",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Trump ran on a platform of peace. His war may have cost Republicans the midterms | Mohamad Bazzi - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkp3M2Vsc1lacjEzbVJOOVhnRXIybVgxZktUOUNZQU5LQkJ2elYzZWlmRXdIN2pmVlBPekZPZ1M1ZFNrY1BSYi1mQ3JTam9aSVZibG5Ienh5RHNydmQyXzJSRXRxZUhDVS1NUjZfdjFJY2ZJejRKY094eU4tb2wza2dBMzR2QjlVOEZMSw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-12T17:19:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Cape Fear basin strategy identifies flood mitigation projects - Coastal Review",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLXdPQzJhbU02eEJ5VU53X2VySG5QZ0c0YzFrS3NUWWxnZjFZRmdTTWFaaTBwWWVUaEt2M3BxVHNYWmNhazdDOVN4QlQ0aFg5d2c1VmxseWdnRC1kSFFBa0FhRkRYbHRZVUhaQmtLNGFCQUwxLTlZcENzSzBqZ3ZveVdEemRFQUYzSnB2ME1WcnNYY1B4QWhnV0twcmI?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-12T15:48:45+00:00",
-      "domain": "Coastal Review",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Kerrville flood memorial cross rises again - spectrumlocalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRFpJLTNXMlUtbWhUZVJDeUJ5VnJaaE9BSW1WT3ZSMFJuV0pSOUpoWHduei1TQWx6YkF6N1VWajVYYkdta09icE5vTWpDNTVNaTlUbDJyNUZfMFRJZnAteUFHT2NIblR5MlJiUXR2WGdMc1RzRDJHQy1PNHMwMmhwaTJjUUpnVHdLc2pPY01lTnNEUlFGV3hxMzgta2F5S2ZWYTNGTDh3?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-12T18:10:00+00:00",
-      "domain": "spectrumlocalnews.com",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Expanded Public Lands Grazing as a Wildfire Suppression Solution - Northern Ag Network",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWEdDUXhOLUFiaWEybnFZaHc4TnVMbjJKQXFwX2dWaGtsYnFHZXJPblFvMVVYenMweGZMc2NCYUtBU3dUajRiZXUyaTZMclZKQmxrT0J1U2Rfa0ZyUy1pd2NPYlJBRWl3TjJRYmo1YUY2VjBES1RpeV9EMjB6RTRldDZ0LVRyZjk5cWFUQ2RiVlpiTUQ4YVpJ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-12T16:56:34+00:00",
-      "domain": "Northern Ag Network",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Cry ‘drone,’ and let slip the fruit flies of war - Breaking Defense",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYWF6T2Mzc0NzZ29mNnczYW1VdnRsNG8zRTZRNER2TFVpUnhoejZNNGRXRTA0MUtJSU1PMTV1aThQeUxTeGNtTUp3b1ZEN3Z5SnNCMm0yNjBnU3hCWGhlY1ZBcTFPUFZqUkxWb0JyYS1nb0FMSl91SkZ3R29xVTFza2ZGbHRFUExISVE?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-12T17:26:15+00:00",
-      "domain": "Breaking Defense",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Current Status of New World Screwworm | Screwworm.gov - Animal and Plant Health Inspection Service (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGpPNUpMeVA2Z3JndnNKNDllbmt1T1RqZGNmN3pNQi00Qk5JZ3dnTmI2NzE1UzlmeHBHdV9XQTBDMk5VVGNhU1hXQ3dlRG9OYnpWeEluc2c4SXdENjhTSnd5ejU0cTVoZURta0ZLWWRubjNzeTdKcmVHZE1jUzZJQVVBdlVReTRpQlhDbXVzdVFpWXVEOE9nQWRjSmp2TnA0WTg2TzNOeWhlQVNu?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-11-10T08:00:00+00:00",
-      "domain": "Animal and Plant Health Inspection Service (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Iran will not allow enriched nuclear material to leave the country, security chief says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSmRMSFZZUld1UEFab291N25WYXZVNENjbmtrWVU0OEEwZm84Z2RONXZHM0JnY2FId2ROLTRvek9lWmZiSFNQNlMwVVpVQ0Q1V3NsSDk1alc5Z0JoMExVY3NpYjVSVDhXd3RtYmo2M2lsdHoydlUteHlDMkp5QlZsWGQxam1JUXFuRkV0UHhOTVB0ZWtxeUhCTkNHNkRMMG5TaUdQaHBUYTlmMkhBRjBWUkZUTlNMVU1ISzFfVlduXzBJd3p0U0psdDNTa1F4Zw?oc=5",
+      "title": "Turkey, Canada's AtkinsRealis sign deal for study on possible nuclear plant - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdnZ4VTI1S0pTU0VMc3RaWVNnSEtFRXZ1YzNpWjhnbENOMkJaVWtqUXdKUi1wakdaeVBKdmh0RU5fNnZOMG5LX0pPel9GcllmU3NST1AxOHRPaUszdUFJTlJPVHBGSFl4QUZXenh2aC1VUDJ1b2ZUS0dBYzFZUFZlUnJVS0hxZ0lqQkoyZS1qTjJOdDd4R2RhcS1aVVBNV01OZDNpQlV0ZUhRWklXUGVVb2xlYWNfUjdYVHc?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-11-11T10:26:00+00:00",
+      "seen": "2026-11-12T07:30:00+00:00",
       "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak - NPR",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51N250eUlqeDFJZElKOHFCTktKcW9XbXdxeHBlMV9XNnhXRzczUFh0REVEQ1d0TTRwRm9zdXpxaXJnakJfcjJWelB6dzdCVXd5TGFJTHc3SUgwQVpxSmU2V2JENkhoN1RDcHQ5eXZmY1pRMXM?oc=5",
-      "category": "PANDEMIC",
+      "title": "Senate Democrats weigh December funding deadline to force an end to Iran war - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVNHSG5Fczh4NUhYZXp3SGNwdGFuV0RtYmQ0NnM4NDBTQldsUS1yX21leVhRaUtKb1gyamRyczRyaXBJeEtqUFB3R29aZVNhajdacjNSQy1PMmpKdlN5MFY4RjZGUTBKUXN0QUNLcGg2NVpudVhMVXNEclFvanBtMzFtN0I1QWN5SDBUNtIBkgFBVV95cUxQS01UMmpHYV8zZVdhX0VYVi1CQWNDcWh6RkNsRTQyUW96ZG5UbVh0aWtXWkVYNDNaTDZhVFpOaGdnMlZNUk5URGpZN0tGRTRYRUNfVUhlNHBLY1hIbzF4MVRBQmZCOEQwTmtmSXJvZ2hDOTFaWUtoRG1zdWQ4UnhFVElDRWZfUHd4RER3dkxRUjNrQQ?oc=5",
+      "category": "CONFLICT",
       "severity": 3,
-      "seen": "2026-11-11T09:16:01+00:00",
-      "domain": "NPR",
+      "seen": "2026-11-12T23:00:00+00:00",
+      "domain": "The Hill",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Democrats’ strategy for ending the war in Iran - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkxkdDluUkkyVTV2aTB3UzU4RmRndFlPU3lKSGU5bTRWRUxRVnR3U3RjMVBFakpqd0JOdHgyOVJQRVFkcEpUM3otTWIzNkZoVVdkZzhvWVZYRWNhLXpMU2dUZGRSVnIxeEczaUhUTjFXa0wxR1JYc2tqSDJGQTVLWVZOUjFMN0FPMDBwa0NJRkZYeWQyb0RUMW11c2U?oc=5",
-      "category": "CONFLICT",
+      "title": "Problems with communication, staffing, equipment in wildfire that killed 4 firefighters - Colorado Public Radio",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdzNrZFFnRFNOb3UzQnp3Qmdla3hwWFh3TzBkMmltNnhlR0VsbDhwRktOV1RXemZnRDBKN2RmSnkzRG9kZXA3VlQ5MzI4TE01V1FOcDFYcnh3THMxTk5paWZvRUVBa195a2xSOVZaVFZ0UkdlbENNV1dVRDloSDVBWTJn?oc=5",
+      "category": "DISASTER",
+      "severity": 3,
+      "seen": "2026-11-12T20:08:41+00:00",
+      "domain": "Colorado Public Radio",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Palm Bay flood debris collection begins Saturday - Spectrum News 13",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVUN0R0F3ZGp3Xy1oSjc1dTRyaUQ1bG1JeGc0MDVDX1BRQUd2bTB3SGhEcWhzdjRGMWpWcXJLeS11UzhIMTdfdE5KZ3JUNGpvNkFjaFVVV0tBclFqTklrMXJKU1I3QmpJZmlYWE15ZHRCdFdWeS1ZdUhYdUJTSDR0X2RVMGk4Sm1JdTh6UWo1d095c2RMdk5za0dYM0k?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-11T21:01:49+00:00",
-      "domain": "The Economist",
+      "seen": "2026-11-12T22:50:00+00:00",
+      "domain": "Spectrum News 13",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Wildfire Smoke During Pregnancy Linked to Asthma in Young Children - American College of Allergy Asthma and Immunology",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2Q3X3kxMEEyM0lxNVBqRnd6QUFqS2d0bkU5enprRHR5V1VCQ0Z1bDBkOElnTmhpbzZXY3RnV0lSTWRWSldjUDZDX0dkRWJTR2JVbXQ5RHpaMlQzRG44VUswNnVha0xjNm5FNHJtamVQQTBKX3JsdXJzb2QwTnBsZENzOVlPcEFpYkZJNERTc1lPRk54?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-12T17:02:12+00:00",
+      "domain": "American College of Allergy Asthma and Immunology",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Arizona schools tackle chronic absenteeism as rates remain above pre-pandemic levels - Cronkite News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVEZpQV9sVlVJek4wanlsT0pSZmZDLW1teVRCOXhwZGtieXFkWjRlVFY3T1gwODRicUdGekRLR3FCc3Bja0xBN0pWdkp0M0tGX2ljOXpXSUhmWG5iVkstU0NjUHRoMllYNWxGLWkyTmFxbkVBaDBVT0dKcE53b0RjQVpoZlQ?oc=5",
+      "category": "PANDEMIC",
+      "severity": 3,
+      "seen": "2026-11-12T21:46:54+00:00",
+      "domain": "Cronkite News",
       "language": "English",
       "sourcecountry": ""
     }
