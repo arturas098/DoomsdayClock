@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T09:27:18.680230+00:00",
+  "fetched_at": "2026-11-15T17:11:58.230684+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -79,52 +79,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "3.4 magnitude earthquake shakes Huntsville, Northern Utah - ABC4 Utah",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWWs4UEtvcVhRRVZ3T2tKaTMzZVF1djY5bHFVaC1qREhxcm04T0ZfNnM4R0ROSTlOMC1zb25PZUo0bjFNMmJHQ2N0c253SERXaXRNZ3ZBQ2VtZERSX2NTQTlfYXppektXcFVJUlpJYmtZQUR3bERTQUZHb2xyYmhRaUIzeHNwOGl1UUhjamtEUEhhU2dNQjQteW1kdVg0UdIBowFBVV95cUxOdlNhV0JZb1NVSmxmMEp1clpHR21zV1ZkT0JDUVBqSE5LRHZnOFZKenc3NkZtckxqUlpYanlJNUNjZTF4Q0FlaUpLSmFIUDNaZnpOTVVHSW9vRkZRNnhFd0hqTG1ianlYbWZSbVBwYTFmVWd0ckNrdDNoMXdWYnlKRS1BZjM3MHZLSjF5M293dlhXRmQ0UFd4RmU0TUl0OVVPODhz?oc=5",
+      "title": "How Wildfire Litigation Became Big Business in America - Inside Climate News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTGc5MElCV2VnX3NKaXkxVDBkVFp2MXprekg1a2ZydXFlQ1hEczhZbTR5NDJIRGJTNmxlWUIzNDF3SlFfRXlTTWhuWHdGN0pWVjczejQySkdIQXFORnloVkVHX1NOcTQ0MDdHek03VERpX1NQQzhOTWpNS0M2eUo5XzNWLWhTU2N3?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-15T01:52:46+00:00",
-      "domain": "ABC4 Utah",
+      "seen": "2026-11-15T10:00:00+00:00",
+      "domain": "Inside Climate News",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak - WHO | Regional Office for Africa",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUTRNWmRiRXF0RkVDOC0tZjF2ek5CSlFvaktDd2NFNm9YYVRFazNQYW5za2U0UUw3bG5LQkFWTTdkWDBxSWwxOEVhM1R0Nnl0X283azZKa05qRGJpeDF3aWNjd05RSjJuMDJENG93dERJYW52LU9WbVU1TXIzdGN1VGRlblNJVnlWTGpHRlpuRmpVYjlsWndmOEIyLW5xaWJwallxdHBFbWpGQzk0bmU4UTB6aFZOVFlLSVB0WF9LUGxqWDFtdTA2WURRbEs4aHkxazhOYlN3?oc=5",
-      "category": "PANDEMIC",
+      "title": "Downpours slam Texas, fueling final weekend flash flood threat as powerful Pacific storm energy pushes east - FOX Weather",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR2pOc05rbm9FdGRjbjlBLW1fRjREUmJtcUxCcF9tcmVsZGN5NU1paVZIc2dCdUdmUTFWZ202RFhLLWsxRVV4cDZoYVhhWWROY0V1MTBtVTVOTl9xdmREUGxzQWhsY0I1emE5eldyYkZmZVVMMUlBTENSQXNqbXkzb2txbG82N1dZNkdROEhfa09tTWtURFpDMXlzcU81S2dzRVB6dXU1UkRVNjM2bEkyOdIBtgFBVV95cUxPWDNRd1FZdjE1SjhsQzljcFEydWhTcWRzbHR6WWpnREEtWGw3VDZwbWNlNldwVkh3WDlkcTNtMkpKb29Sb0VPSTRNVURycGRkc1AwdEJ2NEhwUDdOWVI3UnVkbDkyR0V4MUF2YkdmN0t4eTVOMU5jVS1rUXNyZVdyYURSRGhmanFTaFJ5Z2psRk5jZTEtdWxZUXBiY0lOOU5BQ1dSTllzT2ZRbVkxQW5MYkNiZEE5QQ?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-15T08:28:39+00:00",
-      "domain": "WHO | Regional Office for Africa",
+      "seen": "2026-11-15T11:52:00+00:00",
+      "domain": "FOX Weather",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "U.S. Figures Iran Still Has up to 2,500 Missiles, Countering Trump Assertions - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUDVwNnk4SFpaRVhKQVNBZFI3VkdXM1VQaEtPcURJT3FMUUxXaVF5NjNVOUt6U0gyY0NWeV8tQkR5cXQtT2V0OUVncDhrdlh3amRZckptN2Uzbi1yNXhteFN2S1hMbGpIZEdXLTN0YTQ5aXVkVURRWmFHTTdIS2cxUjFKWVlFY19JbmZFN3ZucXVFTkV5OV83a2xrdnFRb0VUT0x2R3N5TVJFbWZFNzF5N0hSQlVhNmpYUDExU1Njbw?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-11-15T01:02:28+00:00",
-      "domain": "WSJ",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine Diplomacy, Huge Russian Battlefield Losses and China’s Quiet Rehearsal for Isolating Taiwan. Weekly Update & Big Five, 15 November. - Futura Doctrina | Mick Ryan",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2UHZKaUstRjQ4MVJVaFFIeTV5cUM2MVdrRVNLaGhyZEJReFlUa2NORGJjVHY4YkhJVHdDWmtCYzZNVnZPa0RZcjRpcFkyS3pSM1BtTVpRbm52OS1yUHBHZ3hTaTF6NnFFajdGQmdXajMyTVg3R0x0VUY3bzlpY2M?oc=5",
+      "title": "Mike Pence says Vance was ‘wrong’ to say Iran war caused GOP midterm losses - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcl9fcXo4eTEtZ3pucnhoSk5zR1hpNnJGa2NINjctTE5ybjltaVdIaUdZVUFFMVJzR3lqNjdXTXFwYUpDU0M0c2JUWVhKaHMxRkJqbU9yQ1U2RnlyYXJndlgwaW5IYWlObkxCaV92X1lZX0NyNENfLTA2eFBiN0VKMy11dHI5eEFUS1M1TjJOMDBYbVFDN1VyU3MyMDZlYXFlQ3g3UmROcHZQZ3VfWUx1bndSM0NkRkdES3FVMks3bE9QVWtNanNyV3oxOA?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-15T04:21:11+00:00",
-      "domain": "Futura Doctrina | Mick Ryan",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "US intel estimates Iran retains up to 2,500 missiles despite war damage: Report - Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRERKOGFNblFuMXowX3VMdEtEN0JqNXRJMlplZzRhYXhpTTd4RGowY0VLWDFLaWtNLU8zQ0RJZGR2NlY3clF4eW1BZ0dLMkJnYXVrQ2FMdy1ubE0tWVI1ME9FVW1kV2prT0YzY1VzTWxBcVloVllxSmEtNG9CTm83Y2thVmxQQjV0UEp0a0Ztb0k1S2h6U29UemNIdjV5a2pRUjJOX0l3TWZtcVlxVXN5RUJkMlVscHpHQ0RucA?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-15T03:22:52+00:00",
-      "domain": "Anadolu Ajansı",
+      "seen": "2026-11-15T15:55:59+00:00",
+      "domain": "NBC News",
       "language": "English",
       "sourcecountry": ""
     },
@@ -133,8 +113,28 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOazZlWlVBdDRXTFJtNHMtd1RZR3BxbG1iMi1fcktRd1V6Z2oyZXFFd0hRWVJWczdFb0ZhSUJyRXhFd3RsMzN3M1ZQNnNMTTAtNUVhVG5LWkFBRThZMUhManBfeFZDbGx6amlSaVpfU0NQQWFmUHh0REtCS24wUGdMVDM1NTJBNjFTTS12OFNROVlpeUU2UlVuR3hnd1RUZw?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-15T03:33:28+00:00",
+      "seen": "2026-11-15T10:31:08+00:00",
       "domain": "KUTV",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Syria launches vaccination campaign to stop polio outbreak in Deir ez-Zor - World Health Organization (WHO)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeV8wTXdkZ1gtZHJVU2UxOTdMLTByamV3aGVrZkJtT2NUU21mRnlEaWh3cEpPcHVheWJ5MGtTVVhsaXB2R21XR2VTZmtia2JVTllvOXhvOGtlYkdKcmZITXNXWlphYUlOdGRMODRiQUNBNUlGYXY0MEFQdXFvSkVpbUkzaVVEOUNkUnNTMTdZa3Rzd1lQdk0xNlZDQmQ3VXBnbDI2X1R3SXNrSmZMOERxY3p1Q1Q?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-11-15T14:04:05+00:00",
+      "domain": "World Health Organization (WHO)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-11-13T08:00:00+00:00",
+      "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
       "language": "English",
       "sourcecountry": ""
     },
@@ -149,6 +149,16 @@
       "sourcecountry": ""
     },
     {
+      "title": "The Pentagon Ignored a Warning About the Danger of Iran’s Drones - The Atlantic",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVEJkb2FSNEU5NWtBVk5vX3RudElUMEFFWlVoZXhYMFItMC1FOXhtY0VyenN5VzdRNlh5c1RzZnQzUnZxMHR6Z3dSX2dySDg1dXVybWlXV0dLQU9CYnBCYmhwMWNrZjFNVUpSNE9DNkF5SmpaSHNyNkRIdHFoOTEtRXY3WUphM2hGWC1Wbi0zNUFhejhfLUtMVjBR?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-15T14:52:46+00:00",
+      "domain": "The Atlantic",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Dow, X-energy Receive Construction Permit for Advanced Nuclear Project in Texas - Department of Energy (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEFzOTlmUjBOdENhNmpnVlVKR0VRTmIzVGtuOTI4dS1yNjhCdTVvTXJra19rMWM4N0hOWDlRZWdGbElpSW9UNkhBRjlvdDdET3NDUzBncklESjBhWks0amUxdDg1LUx1YldhX2p2NVNMZ3cxaXV5UFA4RndueTRIbk1FdHZ3VnJlVVk1SVBlbGM4bndCN3BLd1RDZzRTcEYzd0tqVEtWQlU1dw?oc=5",
       "category": "NUCLEAR",
@@ -159,52 +169,72 @@
       "sourcecountry": ""
     },
     {
-      "title": "Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWlZUDZrQV9aZ2RzMS04ZERzWXlNWHp4THBtR1pyZ3NBbjZkcm1PMF9PLUhuTzJzZzRZT2Nlb1p5NVJ3Ul9EaWVVTHQtb1Ytb1loSHRvYkU2ajBBZ3hPdW1YdTY1Smd5WDRRdWNFMl85cVBVRGJBbl9fRTAtZ0lBUFctdFZXVWlYdGdPb2paa3piNzRwbHVrQ2RR?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-14T18:36:00+00:00",
-      "domain": "The New York Times",
+      "title": "3.4 magnitude earthquake shakes Huntsville, Northern Utah - ABC4 Utah",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWWs4UEtvcVhRRVZ3T2tKaTMzZVF1djY5bHFVaC1qREhxcm04T0ZfNnM4R0ROSTlOMC1zb25PZUo0bjFNMmJHQ2N0c253SERXaXRNZ3ZBQ2VtZERSX2NTQTlfYXppektXcFVJUlpJYmtZQUR3bERTQUZHb2xyYmhRaUIzeHNwOGl1UUhjamtEUEhhU2dNQjQteW1kdVg0UdIBowFBVV95cUxOdlNhV0JZb1NVSmxmMEp1clpHR21zV1ZkT0JDUVBqSE5LRHZnOFZKenc3NkZtckxqUlpYanlJNUNjZTF4Q0FlaUpLSmFIUDNaZnpOTVVHSW9vRkZRNnhFd0hqTG1ianlYbWZSbVBwYTFmVWd0ckNrdDNoMXdWYnlKRS1BZjM3MHZLSjF5M293dlhXRmQ0UFd4RmU0TUl0OVVPODhz?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-15T01:52:46+00:00",
+      "domain": "ABC4 Utah",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Outbreak Investigation of E. coli O26:H11: Raw Milk Cheese (September 2026) - U.S. Food and Drug Administration (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbno3cGVuUXlVcTVqVmVESXVUbjJvR1lJbDI3cTZsLVI3dWY2QXpsazlYeDFpX3Nna2JIX3BXd2RsbGlzM3hwdkpFUTdHNVRVUUxBeXd4d0RTNUlwc3dFeDd0V0E0Znc2QmROMUlpSmhtV3lkcVhZQWV1TWRzLXNIRnlVak5FTVE4VGVnTVlRLXVCT2JRUks5WE9zSVFkS2NBa0xiMXhQcEg2ZUNfNGJfLTc4dVJMRXRQQWhYSA?oc=5",
+      "title": "U.S. Figures Iran Still Has up to 2,500 Missiles, Countering Trump Assertions - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUDVwNnk4SFpaRVhKQVNBZFI3VkdXM1VQaEtPcURJT3FMUUxXaVF5NjNVOUt6U0gyY0NWeV8tQkR5cXQtT2V0OUVncDhrdlh3amRZckptN2Uzbi1yNXhteFN2S1hMbGpIZEdXLTN0YTQ5aXVkVURRWmFHTTdIS2cxUjFKWVlFY19JbmZFN3ZucXVFTkV5OV83a2xrdnFRb0VUT0x2R3N5TVJFbWZFNzF5N0hSQlVhNmpYUDExU1Njbw?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-11-15T01:00:00+00:00",
+      "domain": "WSJ",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ebola Outbreak Reaches 11,145 Cases, 5437 Deaths - Contagion Live",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGdwN0VZTjJrdThPMTJMbE1UbHNoUlVGQXBCVkZSX01rRXc3WDlRUlZHSzlITUp0VEl4UEN6VVI2OGFQYjBNbHhSRF9QbjdXeVU5dnZOLXc0X3ZGNEhZdEtJQklJNThudlVCRE84dFFqdEpEbnZRS29uUnI3QWtmVjYtUGl1VHdGT0E?oc=5",
       "category": "PANDEMIC",
       "severity": 2,
-      "seen": "2026-11-13T00:00:00+00:00",
-      "domain": "U.S. Food and Drug Administration (.gov)",
+      "seen": "2026-11-15T12:30:17+00:00",
+      "domain": "Contagion Live",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "New World Screwworm Outbreak - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56UWI1anU1M2xycENLblpjVG10X3EtYnpqbEhyT2ZzMGhXcUd5dXFMdmoxRnoybjBJVUlXeElZTkNUaW51bkYzNGl6VUdDMkNBVklwV0xFOTFqYmUxVHY2cnJadW02b3hSUzV4QkhSX29hZzFTN3Zr?oc=5",
-      "category": "PANDEMIC",
+      "title": "Seismic activity on Nov. 14: Earthquake close to Chatsworth, CA reported - magnitude 2.0 - Sacramento Bee",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GRVY2elZyRTdDcDNraEZCQWJCOWI2T0Z1d1VmSURhWWNTbnp5RzFla1R5OWhlLUM1ZEZJYmlpN1JlaUxKbWhMdV9leUdGYmo2dW5HdmlLSkxPVHRHNnFMVUxSaDFKemZ0SFBxUEZrV2E4NXB6LXFySHdRNmo?oc=5",
+      "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-12T08:00:00+00:00",
-      "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "seen": "2026-11-15T07:55:05+00:00",
+      "domain": "Sacramento Bee",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONDZhdzBhLVdGZk1vZFdVY1E5MmhQMWVMWjAyRFJ4RzB6NUlfLWVBbmdsb1BQMFpLbnNlQ2J4bUdWNVpuUE1jbzNseWhuREhsYkRUWm1oRTNLUVhMLVNWWEE5ejh0OVpZakN3YkNjWDNvYUUybUtMVVhsVmladkljQ2h6ZDNvUWREdUVaNkpBclpHTkY2Uktzd3lYMnltNmZEeUh4MUV2RllDSWZPUWNlZjJsaEJ0T29BeDVfLTJydUV2aVVlbncwVTVKc3pEZEJ4YzY3LQ?oc=5",
+      "title": "US intel estimates Iran retains up to 2,500 missiles despite war damage: Report - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRERKOGFNblFuMXowX3VMdEtEN0JqNXRJMlplZzRhYXhpTTd4RGowY0VLWDFLaWtNLU8zQ0RJZGR2NlY3clF4eW1BZ0dLMkJnYXVrQ2FMdy1ubE0tWVI1ME9FVW1kV2prT0YzY1VzTWxBcVloVllxSmEtNG9CTm83Y2thVmxQQjV0UEp0a0Ztb0k1S2h6U29UemNIdjV5a2pRUjJOX0l3TWZtcVlxVXN5RUJkMlVscHpHQ0RucA?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-15T03:41:00+00:00",
+      "seen": "2026-11-15T03:22:52+00:00",
+      "domain": "Anadolu Ajansı",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "World’s top court to rule if Myanmar committed genocide against Rohingya - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDBRRS1KbTJxMzRiTlFFQnFlNW1uVk9jVWp0b2wtZ1VGNlJLTlFwaFo0SjFkbEM0djZyQW91M3lsN1lYTk00Qkw2VTJraGxZQWlHclF2YjhiVWJLUHlrMjFjdVB2M3M2SW9WMERERXR6NktITmNUNVpWdUZzVmlHWQ?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-15T06:00:00+00:00",
       "domain": "The Guardian",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Europe Must Step Up to Settle the Russia-Ukraine War - Council on Foreign Relations",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQklHM0IxVjFxSFA4Z1lIWUhqd09VSDhPeTM3ME4xTWs1NGNCMlBSN3hiUWNmWklGYkh2VzdsQk5Pbl80TUVDX3pJYy13Y3dCNlp3NUVzTzhCRkVqT2NTMUw3dXluaXZuNmF1WlhfU1pFQk5JNFRCT3h6VmxOWTdqYXNhQVRUaUtm?oc=5",
-      "category": "CONFLICT",
+      "title": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak - WHO | Regional Office for Africa",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUTRNWmRiRXF0RkVDOC0tZjF2ek5CSlFvaktDd2NFNm9YYVRFazNQYW5za2U0UUw3bG5LQkFWTTdkWDBxSWwxOEVhM1R0Nnl0X283azZKa05qRGJpeDF3aWNjd05RSjJuMDJENG93dERJYW52LU9WbVU1TXIzdGN1VGRlblNJVnlWTGpHRlpuRmpVYjlsWndmOEIyLW5xaWJwallxdHBFbWpGQzk0bmU4UTB6aFZOVFlLSVB0WF9LUGxqWDFtdTA2WURRbEs4aHkxazhOYlN3?oc=5",
+      "category": "PANDEMIC",
       "severity": 2,
-      "seen": "2026-11-13T20:41:35+00:00",
-      "domain": "Council on Foreign Relations",
+      "seen": "2026-11-15T08:29:43+00:00",
+      "domain": "WHO | Regional Office for Africa",
       "language": "English",
       "sourcecountry": ""
     },
@@ -219,22 +249,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "Iran Update, November 14, 2026 - Institute for the Study of War",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeHh0MDN0Uko2eHNzTS1lYnN6MUtXUE1pdTBGMll5RnZfd0FnNWI3UzBlM09NYzVrTzhLZ2xDQ3dUMHFGcTZaOUFENmoxQkl4ZWt4MWxjYW16SE16VTdpREFpWWF2ek85SnVOVVVDNUVVaVllZkZ0RWtoTFdnd3RoX25BYmNjQQ?oc=5",
+      "title": "Yemeni government force retreats from strait in major setback in war against Houthis - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ?oc=5",
       "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-15T00:37:12+00:00",
-      "domain": "Institute for the Study of War",
+      "severity": 3,
+      "seen": "2026-11-15T13:24:58+00:00",
+      "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Iran Attacks Bahrain as Conflict Escalates - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3lsWFRDVTFjbUZFVHdTWkVtWklneU0tUGk0bmdSQUh1dlg0NTg5MXFMREhEOURUTC0zeEJyUUtPTmh6TGNPem92V3pWeUlLUkVKelRuY0VhaWUzaHgySnMtaG4wZmRUUDBQVmx4T18wd2tkVW1wMUppTmFscWlKT0NiaERXYkpPcElwTnNjZFVWWTg?oc=5",
-      "category": "CONFLICT",
+      "title": "New World Screwworm Outbreak - Centers for Disease Control and Prevention | CDC (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56UWI1anU1M2xycENLblpjVG10X3EtYnpqbEhyT2ZzMGhXcUd5dXFMdmoxRnoybjBJVUlXeElZTkNUaW51bkYzNGl6VUdDMkNBVklwV0xFOTFqYmUxVHY2cnJadW02b3hSUzV4QkhSX29hZzFTN3Zr?oc=5",
+      "category": "PANDEMIC",
       "severity": 2,
-      "seen": "2026-11-15T08:03:00+00:00",
-      "domain": "WSJ",
+      "seen": "2026-11-12T08:00:00+00:00",
+      "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
       "language": "English",
       "sourcecountry": ""
     },
@@ -249,6 +279,16 @@
       "sourcecountry": ""
     },
     {
+      "title": "Africa CDC says Ebola outbreak still out of control six months since it was declared - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU25FZUdud21zOGRwcHdZRTZESUh4dUY0ajFFSTBhSXQwUWo5SXFVNGtXb0ZBcF9HUnZJeklFQXd0c0h4MUtWandzSVhzeldqZXFEdGZ3d0poQU5KV1dtTWZWUzdCQk1tQW56ZTAwT0cwZklldnZ6Q3dHVHFDQWJmNjhQaHFYOGZOa1lnU1Y2dGNwVGRZaFBrTTlESzk0a1B6Z0JQU0swOTZCanZBanVRS0hnTFhrQlRsSHRRbXhfTlFRaXB4aUhGS2VDV09VVDFvZThlOUFQLTJiaDJx?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-11-15T16:15:43+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response - UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqQ01qb3lwNWhSR0VzZy1pZ2Rxa0VKNllXa0FOaGVJeWg5bnROUm9VaGZhODYwbnQ0Rl9VbXd3THBCMU5LR2tyQkVUWVl1cmFDZV8xckVvaw?oc=5",
       "category": "PANDEMIC",
@@ -259,152 +299,112 @@
       "sourcecountry": ""
     },
     {
+      "title": "Trump’s War Poses a “Generational Threat” to Wildlife in the Persian Gulf - Mother Jones",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVlg3R0JUa253enlTSlFOMVBMaXRZRHQ3MlZOSV9uanFBazNDZkplWFY5RjZzLVd6anlxYzZoRVkxekE1S2hsbXpiRFJ0TzJMNUUxdkx3VmgydE02amlzc3NlNGRqbGpsLXVFWTVYTDQ1WF94dFpNT0lReGE5MXk0VjdlRmI5aFpLWUxQSjdJWkloelBHQmRTV19EeTZzZFE3N1hPemtIZy1LVFlaTkJ5QVdYMlcyZWVudjdqN0RtQzkzYU5NQUdiNUZzblh5TG5sdFJORGswNHlHaEE?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-15T13:00:14+00:00",
+      "domain": "Mother Jones",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Indonesia president conveys apology to Singapore, Malaysia over wildfire haze - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcHo5U295dTNfU3R0MVRNU1FYbkVCc3FtbXgxV2hwOHF0dnptUExXdjFqU0NQR3lldzh3UTlubXpORUNvU3NSdml5T0t2a0M3LUs2ZXBWcGtWM2RRNUNNYVV0c1hScjU0STVyZkg4ZnJ4Skg3ZWhiWF9XWjNQUTZ6SnlPcDg5UmpBdHBuYnEzWjBNV1Q0cm1HaGRSaEpuRXVhZTdFcFNoX0ItcU9MSGdwNmxKU3J6TUUzTnJCbUVVMVNRcEc4czRDTV93?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-15T16:25:41+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ebola outbreak remains out of control in Congo 6 months into response - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbDdPX2oyWFA5NTk3R19VSGVndHdHNFFiZmtzQWRhQWhnOTlCMGNmV1QtdWlmTURIX0lpS090MTJZTU9CTDNGVEJieHdSeF9LWFFCNFFjOU9BRVlEZ1hsZzl1Nm8xSGZNbFFSUkpQQkpqQnVDSGlfeEFCNXJTVEdNMUtROEw2QUdobXMxYXhwaVZkcUlwbzljbndMRlM1X0xhQmlRanRwWmJObjJM0gGyAUFVX3lxTE45Mkk5dGFZTHNkRlk0MkxpSU5WdFdtZ256a09zOHg0MFczbmJEU2VhY3lYd05MTC1GbUpoNUU3RlB1NFdwc29tRnZTSUt2ZEVxT01zZGl6eElGeWI4aTh6UzZ2YjR5bFNEMkM4M0RIUGNMLXRWZ0F6bUpvWVZPaHJSaV9ac2lzUmJvbUpVUVlkc0VkcmowQVIxNzVQY202RE1PWGpwN3RmSG5ueWZXcnBsQUE?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-11-15T12:18:56+00:00",
+      "domain": "ABC News - Breaking News, Latest News and Videos",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONDZhdzBhLVdGZk1vZFdVY1E5MmhQMWVMWjAyRFJ4RzB6NUlfLWVBbmdsb1BQMFpLbnNlQ2J4bUdWNVpuUE1jbzNseWhuREhsYkRUWm1oRTNLUVhMLVNWWEE5ejh0OVpZakN3YkNjWDNvYUUybUtMVVhsVmladkljQ2h6ZDNvUWREdUVaNkpBclpHTkY2Uktzd3lYMnltNmZEeUh4MUV2RllDSWZPUWNlZjJsaEJ0T29BeDVfLTJydUV2aVVlbncwVTVKc3pEZEJ4YzY3LQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-15T03:41:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "After the flood: Colorado communities struggle with daunting recovery - Colorado Springs Gazette",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNVlYd2UtV04yM25DaHo3UFp5N2paRlVQS2ZKUGI1Q29fSVBIaWNZZjRUMWRrcWlweHdla3dDcjNYc1Y1UUczWWRSNzF3dlMxY0lKcExKaHdmRmM2TWx0UTZGUER3cTdULU9FNUhtUE4wS1Vpd09Wb0JGT1lDajFoM1ZOcUNKekZoYTNPTVNRaldOSExCSlZBOXkwMmlGTy1pblE?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-15T13:00:00+00:00",
+      "domain": "Colorado Springs Gazette",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "To power data centers, Utah company may build hundreds of nuclear reactors on state land - Planetizen",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUnJ1NFVWMV9GLUlkVjdfTGJJSkYwNXRoU3dEUWx2anNaR205d2hsWXZwOTRlVjl6Wk8yWWdEZ1RNc05JSXowZmtuZTdxTWRvcmVkWEVtMnYxalptVFBfSUNGNmdyNGtJOURvMW01dWVtamxiNTNPU01tbHV4VzhQZFF6TkpHOTJQZGpsNjNQLWJFT3E3azI3S085cGdRQ3ZXTVNXdm15dlItdWw4c1otRXVMSkV6Q1BMaU9uOWd2dXRlZFk?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-15T17:00:00+00:00",
+      "domain": "Planetizen",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWlZUDZrQV9aZ2RzMS04ZERzWXlNWHp4THBtR1pyZ3NBbjZkcm1PMF9PLUhuTzJzZzRZT2Nlb1p5NVJ3Ul9EaWVVTHQtb1Ytb1loSHRvYkU2ajBBZ3hPdW1YdTY1Smd5WDRRdWNFMl85cVBVRGJBbl9fRTAtZ0lBUFctdFZXVWlYdGdPb2paa3piNzRwbHVrQ2RR?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-14T18:36:00+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Their son died fighting a wildfire. They blame the Trump administration’s new approach. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3Awc2VSS0VCV3FiQXo2eGJJeEl4WmdsQXBhaHc3a2dLd25wdjVCcjlCSGRlcXJOTVNpMEFmZ1RrTUhCcjBLMTBIZDdTekg5Z3d4YjlaajQtekFEZU85MlhXOEMzUnN3Y21RMlpvczI2OVlzc21jUWVsY3NCdEl5VVJudlA3b2xJUFY1WTV0bkVjLTc5UjBVQzBqdWhsRVdUQ3lUMWhhRldieTFWQ0xyZ1dDeVV6ZkhfeTY1Yk5rRF9zakROTlZ2RnZlVQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-15T16:45:08+00:00",
+      "domain": "The Washington Post",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "After floods ravaged their town, these Utah women brought neighbors together — and raised $200,000 to help - The Salt Lake Tribune",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fS08xb19kaTdvYlB1alNlYW84eEdpdWJSNXpGeFlGQ053MHhOQzd0SlcyVmkzTnBFSnY3NXVDbU9qQTNDQU9tR3RWeGVvMnhfWTR0Um5vdGp2M1hjWXVBRExmaTJ0bDJvM1k5RTVWZjVSeGJHV2VPSlNzbklSUQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-15T13:07:02+00:00",
+      "domain": "The Salt Lake Tribune",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trident nuclear submarine concludes record underwater deployment - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX3lNbG9CZUsybVk2bjhNSW5CcllEQ1RyaVU3SmQtSl9SdUxkREowVmRZOVc5RC1RSHBzNEp0NGxXbTJBTmhTaTZ4WWJ0Z1MtOTl0NXZ2T0J1V1JTQlptVTZYdkNEMXFFZUp1TXpNQzZ4ZlR1RFdwWjhla0dySnFRNkJNZUhjMW5qUklHTUJ5SnlfdTBUdGpJb3dZRjdZXy1q?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-15T15:03:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Video: Dangerous waves, biggest in a decade, flood Bay Area streets and threaten homes - San Francisco Chronicle",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUN0VnhBOExPSVlzSGp1d3N6ZDVobVZXY3p1cVB3UEl4RU42aFVjQnBoWnBBLW1scDZoc1pRd3RvdnlFWEw1dlNuVGVxZlZfWWJ4ank3YzNpWnRwTVh3SjBuZlJWNjU4U19fejJCMEpIR3NMZnJ6RXVxNC05VjI2VUFtNzNCTEY1ZWpVc1dpMlpEYzA?oc=5",
       "category": "DISASTER",
       "severity": 2,
       "seen": "2026-11-14T23:33:06+00:00",
       "domain": "San Francisco Chronicle",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "U.S. loses measles elimination status, according to reports, as Pa. battles largest outbreak in 3 decades - WHYY",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQVFQeEdZcUo3ckFuNE1sWjBWTDJ0Y3VNLTJBcW9ZZHVzTlBKMUdubURaOFB6clRSa1FTRnBaYm5yZnFtVXF3b0xRVHloN1JpM3FPaUpoNWZUaUlEdlVrdE1YVHRpOWdBVmNQajkycWN3UXV5Q1Y2V0I1RWNzZW1Lcm0zZWxXcFRK?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-11-14T17:17:15+00:00",
-      "domain": "WHYY",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Flood warning in place for Mason County for Sunday and Monday, says the NWS - Tacoma News Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xZVB6SEFNZ2dMUlJzLXZieG9qaFlURV9uUThBdU4tODVBekYzaFFreVF5QWRic0xHdTJrSkU3THhNdXI4TDFwS0x4ZGlSTmpKeHJKVjhPZW5ybDdoUlo4Tk80T3FBdHMwcUk2Q2FFOV9zUGlqSVVHczlR?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-15T06:17:10+00:00",
-      "domain": "Tacoma News Tribune",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Flash Floods - National Park Service (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GLWxGaWd3S3VmVThJQTNxcmR3aHdiUkUxVE1Tckp4Z1EyUFNzb2JVRE4wTnktMTRzZGdpV0pjVzRMem5xRVp3SHotUlVHMzVMeU1pZXFwLTUtVTZ4QjJJNkQ4d18?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-11T08:00:00+00:00",
-      "domain": "National Park Service (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Rep. Thomas Massie says he will force a vote to end U.S. involvement in Iran war - WLKY",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0JGSlpOOWlZNDFzdmZnS0xYcTRfUXN4dkJzaWJqazZod0xNX0xraE0tNi15VzFrM3prd2VCMzNudl9KbHE3U3hNd3VyT2MyN1dVM09ibThRVVl6MHJ1RHdEaUFiU21LT1daTF9WVGdTZnZmVmNMb2FmWWlKRktRVHlJWHp5S3BYMElPcEFWZFNMQQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-14T21:54:00+00:00",
-      "domain": "WLKY",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Nov. 14: Earthquake measuring 2.0 shakes region close to Parkfield, CA - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hU24wZ3VMNUczZko0OUltbnhRVXZKTF9IcWpYZGU5ZHhWWEdvbV85M2MtNEs0Rkxfc3pyUUh4dWZpVW9jX2lBVUViQVRWdlJUMzZOblUxWThOT2ptSFl5ZGU4TlNuYVNQZVpacDJtaHVGN1F1ZTJSMnhaY1o?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-15T05:01:06+00:00",
-      "domain": "Sacramento Bee",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Thomas Massie Offers Republicans a 'Life Boat From MAGA' Over Iran War - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95UXQwWlY3NDRTMm5tMVFoMHYyelFILWQ1cEhBSlo5bW9qMWt4ajluWE42QjV1Y3FWTnpoQWlQakF1YllQbjNWS05Nd19fUGo5S1g1NlZJeFgweGEzZ3Y0WGt4VW9ZbloyLS1vVzNSWjhVbnBmd3VCTmJGaG1MQQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-15T00:11:00+00:00",
-      "domain": "Newsweek",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Bengtson’s Pumpkin Farm E. coli Outbreak: We Represent a Culture-Positive Child. What We Know, What We Do Not, and the Records We Have Asked For - Food Poison Journal",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQQ1BUUURCZVBLTWpwSzJCMlI3Z1JEYjFiMjBuc3UyLXZieEQxVDJ3V0hBcE9xSjF2Z1ZxSDJyR25aRmhCZG5Sdk1hNkU0NDhvREVTS3FMcmMwZENBT2lUMkIwT3NvbjlCYXZscWdxNnFUaE5xQzd5VlRiT1lxeDVpc3kxUnhSamxOUlQzS1V3bjBFOHh1SVpfYngwa19NaTl2WGpSclpOMnhtZ01LREpnQnItSlIyZ0lCVkRaTXRxWnMxNFFOME5OUUEwQlJ6ajEtZ3FqTTE5RkJiaVo3eGxjWUNqT3NZMHp6TE9mVTYxa0E0WDdpZ0pTVFlnTjFsd01rQkFOTzktSGN5YmxEQnhheUpCR0IyX0p3enVKcWkwWGF5c1Q1OHV3?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-11-15T05:37:36+00:00",
-      "domain": "Food Poison Journal",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Is Gulf oil rebound at risk as US-Iran war enters uncharted waters? - Al-Monitor",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV1FsdFZUeUZhXzl6Y2pITk9oZjdldmhNc0lwM2pqSzZVN0ViQ0tBa0NtbzJ5VkthRjlDM0ZES09DTzAyd1Zsa0hDOWJSaEhZMDcxMkdjNEp6WUowZ3RFQWM0UzZIeFA4eWFSajhsQmhyN2sxQ05XWENlSGJDM1NsdkxYcmJjSXNwNHFtWktyZ1pMLU1nVHRiTEN6YTVUMll3bXBOdA?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-15T07:40:52+00:00",
-      "domain": "Al-Monitor",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-14T00:22:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "The Ceaseless Ceasefire - The Intercept",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSYmJMWGlVUjM4ek1mX0xRUVNOdFZ3cGd5SGtpQUNJZE5teFJnb19VT2Z0YkI5YWhveEttbXNJTmNwSkladklPdkFvY0toM2IwT2lVMkpVWGU5S0EtY0NiM0VFeWF1eG5fNXozMDBtOHN2T052TzV3Zw?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-11-14T18:59:33+00:00",
-      "domain": "The Intercept",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "From the Front Page: Thousands Rally Against the Vietnam War in Washington on Nov. 15, 1969 - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSmZfM01WUVNtd25vdzE0YmpjNnBaamlIMlZxQ3JRV0NUZjVNREw1VjVMYW5HVUhiZnlJWXFEM3dCVVNNYjBPd1d3TXdOZDM0SnhXRWlhcnA0NlY5WS1iU010bFdJeUdtcTBnTWN5c05hTUpaMEU0aTNQZzJPV0Q0WXh0dll1WVdnRlB0OUNIZ3NLaFRHaVExS1NaRWV0NFJ2S0FyQmc0eS16TlVESHFtd3hNU3o4RDd2cHlDZ0JBMWEtUWsxYWEwNlRtOFdqMFNtbmFJ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-15T05:00:02+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-14T22:37:25+00:00",
-      "domain": "BBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine War, Day 1,725: Zelensky - Trump Envoys Propose Kyiv Gives Up Territory in Return for NATO Membership - EA WorldView",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1ZSemJHZl9kaDdqYk9TQUNHem80cXI2bDRsYXRaM2FENEExXzV6eWZFMHF3TnlTVFRBREEzYmlNWWZFOS1CRmlYenVaYUZPWlRsVVJ1Yi1lX0RaQWlMU19zZ0Npdk1WR0xHSjRiNGlYa3o3YWxJUW5DY1JmUnZDbmZuZ3BaQ0lBakxHU19oVFVBNGxZUFFYeU01eUJGdmg5UUgtRlFHdWMycXRjWE0wUnZZa2wtRXA2dXBLSS12ekwtNTVKXzVz?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-15T07:59:35+00:00",
-      "domain": "EA WorldView",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Stopping the next Ethiopian-Eritrean War - Brookings",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZW5GbTFlUTFFODlVM1B3UzlUeWwzX2FJRldKMmp6SWVnVzdnSTd6VTFlTGp4a0xSaDh0czZMZE96SzRZOUdtM2ZQdmpHVVpERWRFQVBwNzFzU01XYW9zNk56eGFob3B2ZjR4cjgweVFKeWJUbkpxZ0J1TjJqRlJJSzB3?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-12T19:23:56+00:00",
-      "domain": "Brookings",
       "language": "English",
       "sourcecountry": ""
     }
