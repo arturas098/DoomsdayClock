@@ -1,13 +1,33 @@
 {
-  "fetched_at": "2026-11-17T03:54:42.393414+00:00",
+  "fetched_at": "2026-11-17T13:27:39.512236+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
     "google_news_items": 35,
-    "lrt_english_items": 8,
+    "lrt_english_items": 10,
     "errors": []
   },
   "items": [
+    {
+      "title": "Lithuania’s army chief warns radar may misidentify drones, recalls near-shooting at plane",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3117103/lithuania-s-army-chief-warns-radar-may-misidentify-drones-recalls-near-shooting-at-plane",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
+    {
+      "title": "Lithuania’s military chief suggests building physical barriers along Kaliningrad border",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3117079/lithuania-s-military-chief-suggests-building-physical-barriers-along-kaliningrad-border",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
     {
       "title": "Nausėda: Lithuania may consider closing border with Russia following plot in Estonia",
       "url": "https://www.lrt.lt/en/news-in-english/19/3116219/nauseda-lithuania-may-consider-closing-border-with-russia-following-plot-in-estonia",
@@ -49,41 +69,51 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "Russian activist fled across river to Lithuania. He was sent back and imprisoned",
-      "url": "https://www.lrt.lt/en/news-in-english/19/3110245/russian-activist-fled-across-river-to-lithuania-he-was-sent-back-and-imprisoned",
+      "title": "Russian Offensive Campaign Assessment, November 16, 2026 - Institute for the Study of War",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2sxaVZOa3FRVXE2QXVMb2wxd3VCX1VQZ21oSkhlQzhreVVlR2VTR1J0bFJheGE3czZqU2NXRXA0cTlRUnVzQ0xrQjJTcUhJUldvTC1rampSVXhCcVFNQm9US0dNbHd0NGlTdDc4Y1JxWE1jYW05VG5jaDBKVUgwcWpBZUhxZ3lGMUFtTXJpc0FXMVE4ZmRJOU9fTElVaW5ueElBOUZURWpqUUpj?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": null,
-      "domain": "LRT English",
-      "language": "English",
-      "sourcecountry": "LT"
-    },
-    {
-      "title": "Expensive missiles, cheap drones: cost-effectiveness of protecting Lithuania’s airspace",
-      "url": "https://www.lrt.lt/en/news-in-english/19/3113313/expensive-missiles-cheap-drones-cost-effectiveness-of-protecting-lithuania-s-airspace",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": null,
-      "domain": "LRT English",
-      "language": "English",
-      "sourcecountry": "LT"
-    },
-    {
-      "title": "Vance says there’s ‘no daylight’ between him and Trump on the war in Iran - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUDRDNGxfNWRYMTJBNF9hczlPU2hyb3NtZnY3OFE0aWllZDRFdkRMWWtDazN4S3hZMXFqZFpveERPTnVleHFIZm9kN1dqWlpPcEVXdkwzZXJOb2t6SkNmVi03N3B0ei1HTThqNEwteHNiVVhMSTI5bmh6QjROczBiVUtKRFpHRXFsZklGUjNCOHFPeEJY?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-17T02:59:00+00:00",
-      "domain": "NBC News",
+      "seen": "2026-11-17T04:15:17+00:00",
+      "domain": "Institute for the Study of War",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Watch What U.S. Aircraft Carriers Bring to the Iran War - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTEVOR1hUSWItcG1tUkJjMHgxclJENDhTQkZ5eXY5UTRuTTBpTE9FTlFJV1JlQzR2bmY0SEdQWDg2M2duZnd5UlVKb3N6MFYtLW85dmhtRGJDd2NQcnR3ZVRXeDZicWxEc1NVbFoxMGRZclhfRGEtbFlHdWhkczZ1VXRtSkh4Z0gyMmlfZEJCdkwybV9fNktLc21URFo3bWs5UmRJ?oc=5",
+      "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTC1nTzQwVTdkS1paY05NZFNnd2w3RWFsRWl5Vm9wM1NteWdsVXJSVGpnd3JiZnNjSHFlVlJLVmE4aXdQZ0tXV2tTWm1INzVZYmJQRkR6cGlIVk43bkZ0bmUyR1IwVHQtemdwemI0Mm8yS1BSVXBDeVFiUlFhMmQzV2pmX0w0RU1uVW1ubjBQTW9ZaXJ1OFJnYm1lLXhBTWFsaWtR0gGoAUFVX3lxTE5VYjRLSi01Y2JUZHN3Q0kxNkZUaEROMTVBc3dIUkdzVjVaeDFEZk9EcTZnUDNpb2l0TE1VOVQ2dE02Tno3UXpPNWxlRExpTzZTZTJpWktWZTZkMEVPU24yT1VFYXpVSmxxSVo4VnBfSXRmNUV2eXJxWWlLbmVfWUpCZ0wzWDZoTms0WEpTdmlnQ0NHV3pSRk1GejRqM1lVc1FfbGJUNmJyXw?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-16T19:13:00+00:00",
+      "seen": "2026-11-17T12:42:02+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Flood watch begins as heavy rain and flooding threat increase across Central Florida - WKMG",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYU51aFZyMlIzaUNJNUpOOGNrbzlqdS1wcUEyQ3hLM2tqcHB4MmdMSC05a2dlYVBHYWZicGhic2VjQ3lXTFF6VHdRbWVDbmpoUTdFajlZdWk0UEI2d2NwcHpUTjFpU3J2bVgwQXBYWFZCLUtIZkZlSXFtUDhUX1JuODNWRzRYMFFNOFNpdDdjU3FkdE0wXzdJU1VkbDl3cl9hak5hbDJrUDJiN1ZUUWs2eERkcGFDa1hKRXRYNjlIZ3o2WTNrbUdzNmJHSHRCM0Z2OGZvTFpR?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-17T11:23:53+00:00",
+      "domain": "WKMG",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "China and Nuclear Arms Control: Why a Trump-Xi Breakthrough at APEC Is Unlikely - Council on Foreign Relations",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnRSNjU4RTlBWG90NE5RNF9IYldNNGkza1Y5Q09HbU11ZmxrVzZIZTlNekZKVDhSSHUtT2tQWDhWV1FhVF9OUnR0bFRFUTF6ak56bjRra1RHV19TUGd5YklpWVZCTF9CTlNZd29ES1VQRzVxYWVTZUpiWktQWk41aXlQcW1mazcwem1IU0xycmRaSzRuQnlwWWJXbUJUaDVEckhSTVRiLTFlZTA?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-17T13:00:00+00:00",
+      "domain": "Council on Foreign Relations",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump’s Advisers Are at War Over China Ahead of Xi Summit - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFJvYjNhcXVuMWNTSWZCS3M3eDMyOGVmVHVtLUZDckRsSkZobWdBUUxielFrSEVNUVBLM05qLTlWb09ESHVUaXRjQmRPN1VsdmI1LV9uRTFmMTJrNHdQTzNQQWJ2RG9Lc204ODEwSTJGWmJpNTZoZV9nTk9XUGhaVXZULVM0Q1NYYjdENWUwc1ZNb1FoYnJteFB0ZG9LUQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-17T02:46:00+00:00",
       "domain": "WSJ",
       "language": "English",
       "sourcecountry": ""
@@ -99,12 +129,82 @@
       "sourcecountry": ""
     },
     {
-      "title": "Flooding a concern again this week for Brevard, east Central Florida coast - Central Florida Public Media",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaE8wNHlsRndfZ3pqNkVHdkRuWlVndUcxZC1LeWNKMm41WTQ2b0YxQ0JKNjdYQVNuY3FobFZfYzVZMTJDMXJhN2UwaFFTNm5GVnE0c2Y1Rl9GWWhJWHRKcWM0Xzd6dDh6Z3Uza0lhQ0ZxVnRwc0hmR1FlNWlIMDh4bmlvYkdiWTlzTldHZGNOWXZfZjY5OXVXNDY5OVVRMmswczlySEd1b3h6T3hNYlE?oc=5",
+      "title": "West Virginians face floods with little insurance. A federal watchdog says Congress could act. - Mountain State Spotlight",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yRGRuemdZQl9wenRWVGNXOGh0WEphR0phOC1FYk04dnJwcWtFa3lFQm03RjZINGtoRlVMSXlFUzV3T2xsNzV2cFVtenh4MjdNRHNvYUdQdV9oNmh0S01BTWo0b3plX1ZnZmhoWGFxNmhBeGppQ0dlV0p0NHU?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-16T20:58:00+00:00",
-      "domain": "Central Florida Public Media",
+      "seen": "2026-11-17T11:00:00+00:00",
+      "domain": "Mountain State Spotlight",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Are Multibillion-Dollar Wildfire Payouts Undermining Efforts to Make Forests Less Flammable? - Inside Climate News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXZPTFhpR200M0NMa0hPeEZjeWRJeFRMNGFKbmY3X09helZwaTFFQm5kYjlWbXRQZExMT0JZUDI2ZndseXdma2lwX0xLSi10UGR2RUd0ZUJLYmJKV0RVTU14a250eWFLdUNnVFlIX09YdGU1OXIwbHhOWC11ZjMwLWNxSjVoUGJLemo0Vlo5SllMQ2hVUjVuMThR?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-17T10:00:00+00:00",
+      "domain": "Inside Climate News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Vance says there’s ‘no daylight’ between him and Trump on the Iran war - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUDRDNGxfNWRYMTJBNF9hczlPU2hyb3NtZnY3OFE0aWllZDRFdkRMWWtDazN4S3hZMXFqZFpveERPTnVleHFIZm9kN1dqWlpPcEVXdkwzZXJOb2t6SkNmVi03N3B0ei1HTThqNEwteHNiVVhMSTI5bmh6QjROczBiVUtKRFpHRXFsZklGUjNCOHFPeEJY?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-17T02:59:00+00:00",
+      "domain": "NBC News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Wildfire-prone areas could turn to microgrids to cope with power outages - Yale Climate Connections",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQel8xUlU0eGZoVVZ5OXY0SnVfak5uZElTRFlNRjZVM2kxNjd1Z3BZSDBBMFpDZExxaV9KNkxzOTR3N1VZOXpudndGY1Etd1BOVkdWNjlZWXRjV01XNUNVV3cyMGdTX0NsS0pkaUxJRkM0N01YVk81ZlZjMjBsSGwtRGV1VkdqaFJxcGIxbE1LSWx0amlVRGxrRkVqU3h2YWZ5eWxRMFZDRFYzXzdVS1dDNExYYzMyWk0?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-17T11:59:00+00:00",
+      "domain": "Yale Climate Connections",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Wolf Creek Ski Area snowcat drivers traded slope grooming for flood cleanup on Wolf Creek Pass - The Colorado Sun",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUktZGlrZDBhZjhINVg2bDBIcGNRZVFDMjZvVmZEMkJvY0p4RjNwazBGb0RIWGJNZE9hcFRBMzhuSnZCRnEwdEhzZzNEelhDX1hDVkFPbnpJNjZJRXMzZkhUOFg2aGlTLWo0VVBpYnlRN2NvVjc5bmJOSlJ4X0xUR1FROEtBTXdHVk5yUU9fVlFGaGlM?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-17T11:10:00+00:00",
+      "domain": "The Colorado Sun",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Before AI goes to real war, make it fight a fake one - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONVhUNkQtZlIzUzhXbmRZVDZDTWRnMEw2THNGMVBIbktsMHBqWE4xcFdtWVMzc3VlLWtuTG9TYkZ0My1QVVZER0o1SDFCZ1l1M2x6OWNkXzNvQnI5X3YxSjZHX0VhQVU5S1Y1VTZVN0NtZU5yQ3NTTTlyT2sxeUgyT2U1OFA3M0hkY1VSM2pPZjRzNzV6YTNXaTNSdzJfWXh5SEtrQQ?oc=5",
+      "category": "AI",
+      "severity": 2,
+      "seen": "2026-11-17T10:49:23+00:00",
+      "domain": "The Economist",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Tracking China’s War of Words Against Japan - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0FLYnFpRHlhX2Zab2lSTHFfM2pWcEVHUW8wSXIxaXNxZFpOQjdlNEg3OHViMTEyWFdoZW40NzRHWFcwTzJhSWVRMmlBeWtpZGJTU1pDY2R2QTlRWjBjaW9oUU9Bc3FUcGlzeTFiNHlEQ0NNd1Y5djdCTnJFWDJ3Y3hOQWE1U2J0SEJadzh3?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-17T11:00:17+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "E-News | Classroom discussion leads to award-winning Civil War memoir - West Virginia University",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS0dVZlI1MHBkLTRyWktmRkhQajBvRG42cmo2dXFRWkNqeDJpY3hMMUVGbHRfbHY4Yl84NE9qVG9HVVBVaFJ3TkNGREthSkVtUzFPazF6WV9aeDNaYm9PaVUxazQwTlVta19jSmJMOU1ZR0V1dEpfR1p6cUdIcXVDRjhqVUc3ak90YUl2eElZcC0wNDJMMTZoMjBSSlRhZGd0blcxYg?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-17T13:03:00+00:00",
+      "domain": "West Virginia University",
       "language": "English",
       "sourcecountry": ""
     },
@@ -119,122 +219,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "Before the Warning Becomes a Crisis: AI and Nuclear Decision-Making - Center for Arms Control and Non-Proliferation",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWJhaXNNUnJwXzdVNkFtaVoxek9iV2p2ME5QLWtHOF9XaTl3NnFWT2dlU2hoMmpLemI1ZE9zbTVFMWhKRFFiay1RaDVreHNkVUlHVUtKdHc4V0o5Y1dJellSTGo1ZGs3dGZ3TU01ajhDNXk3SklTSm5CbkFlb2lIdHJQeVpvZFZrU05tQmdNN2VWTUFJM2FiY3NZdWw5dw?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-16T19:06:09+00:00",
-      "domain": "Center for Arms Control and Non-Proliferation",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "891st Missile Security Forces Squadron Airmen earn expert pistol qualification - Minot Air Force Base (.mil)",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMkdBNkNiN0VpZWZfZmVKbG51U1NFQ3IwSmlqTk83QWlxMEZsa1lETUpJR0xjdUxhOHhyTkx1ZWtTVGJPanBRallkZUdJQV9ITTBCMFQyb212dDlQVGNuekdTU0Zfdkw3MmIxV2xhcE5wcjR5YmtUVTdwMGZ5OHFWMDhTUUNyajdmdGduU2dzTG9vRC1zY2pzSDZLZDdyTnhsNFF5LU9HWDl3LWxMNk44cXh1YVNucXFlNHZTYjRXNWFRdlVNU2JDSTNxSGFwczZLZFp4UlNINFg?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-11-16T21:52:25+00:00",
-      "domain": "Minot Air Force Base (.mil)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "EXCLUSIVE: Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjlIbUpKS3NfVi1Oai13Y213OWJ4S0FkU0RIa1hDU1o2ZHBBN05zUXRKQnFZUDlXZ1hhbUxGS2wwUUJIbEVRSmNsSXFRNk10dEhIS0NuWVFHSHBPRFNxUUluT0ZZRlByUVhGajRMcWUxQlBkazFwU0hvYUthYlZGRzdEQTdrNnl4cDJWeEIzZWtaYnc0UUFMTk03QldsOHZiZGNTRTlmRWNrcVpIWHg5UGMzcDRINkF4cG1ZTExsZktQSjlTNm91Vg?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-16T14:08:05+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "What Would End the Iran War? - الحرة",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE91N2VTSVQ0YU12ak5Ca3NjYkY5a1lmYk1PSHJhVEx2cjdod1FfRmZNTkxmUG9wU2ZKSzVURDJPemdPZw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-17T02:51:25+00:00",
-      "domain": "الحرة",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3RSb255WmtXVzRseHpHdk5tT1ZLTlYzRzJudFZKZHVaR2taQzdOcmQzWGF1b3hwTmZodTV6TWRvM1pyX2JtVVNlMVI3NUtyQlRVQXhQS3FJR2lhN1ZZcFZ4WU5fRHlsLXZEXzN2aDItSUppYmt0YzdVMXg4dHRHYUZrVzhRejZYcGZxRVlSMVJxN1paNGV6MzhfaS1sNTg?oc=5",
-      "category": "WAR",
-      "severity": 3,
-      "seen": "2026-11-16T17:24:04+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "There will be less war in the Middle East in 2027—but little real peace - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcHVtaU1hOURXZVVlZVQzR09FQjNXZzVlRGxFWmRjUW0xSlEzVmhKd244VU92VV83YzVvMTNaVnZBTFNnb0xBOGw3TC1YNmd5WjhMclpmVUc3WHRPZ2pKNjRRWFVwR2FMTzk4MU9Ub0tvbW1FSlVydl84WEgxNC1CM1RrNjB1WUtURXlkMmU1ZTdHTW5UdDdtYU5fU0N0SFVJaVpSMk1MdDkwb0QzdGoxOGl0cHVRVURsa0tvMTRqdVVsZw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-17T00:04:36+00:00",
-      "domain": "The Economist",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Flood watch issued for parts of Central Florida - WKMG",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbVF0Z3pZVmF2OTRlSXJIeXA5c01FNEV6MEg3d015WVA1eHpNRHFKQ05UcU90VGtOV0V0S0RrSDlnclV4UWlMd0VVWXRlT1MtdzB3VHZaQTZNYmZ0c2FtWTNoSENJSV93M3VtUEU2c2dOSFBpaHFsYVRSeFd3YVVVWnBBMmhyY1Y2MTAxTFRSdjZzcjdJaFhDWG5Bd0UzZko3?oc=5",
+      "title": "Flood threat expected across Central Florida through the week - WESH",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IQ0ptVHlCSjFGUThFTGl5bzFYaEhFUFJKVWwwWl82REtmamhQYXZpMXRacXBybHE4TFlsc1JBT1F6VWhIY0ZxUGwyVk1fLS1LWnRBXzZCN3dXVlVRT01DXzNXVWZBYjNDQVlQSDZZX2JpTzNQ?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-16T21:46:39+00:00",
-      "domain": "WKMG",
+      "seen": "2026-11-17T10:52:00+00:00",
+      "domain": "WESH",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Flood Watch issued for Tuesday & Wednesday - WPEC",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VMVJKbTUtVXlRUHJsOG1LNVkwb0RXb2VWeG8zd3JNOXE5aE9IdDdTMW9oanZ1Q2RkaDU3cG9VYlFPdkNfSlRpbkZoTkl3RkladjNZUzUteEd5V25BZ3h3Y1ExUzlhajIybHZPYXBneV83bHp6UE9FUA?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-16T22:09:38+00:00",
-      "domain": "WPEC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "US braces for loss of measles elimination status amid worst outbreak in decades - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjdrT3QwSm9QTVNDUkRmZFhZb2tieU9zRzhra1lBM3dTZ0dTejYtY1RsQVFjLWpyUm82eDBaYzhlWXBjWmZvS2VkMU16blZSaVB0OEVQajNDaWtIOUNlSGhNM0dzNWFFa0l4cld2YU1mNGF4NjJYbU5PVWhLVU80bEVMWENuRDRndU5j0gGQAUFVX3lxTE1xN2RVMDN3RjRTRkdobFM4TmFzWW1pYzZHZmZrUFpkcm8yOFhIVFc1YUFYU21vUk9OY01rbE9fTUZJeTZCU0VIeXNWRHhfeFE2RC0xTlJrcHRYbWpIbS0wX2txdmp3Q1VVdXpBVjFsYUEweUFQNS10NC1OS29Ua3ZIZi1waFVUYnY4c1VvekN6RA?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-11-16T18:27:00+00:00",
-      "domain": "The Hill",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "A newly translated book looks at the Russian side of World War II's Lend-Lease program - Alaska Public Media",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQamFuUk1aVllLTkVtRkxwSW5XOVMyMkdpQmxfT3UxVEFQZFlkZE8tRFRwcUItcDI5LU15ckc3MlBWSHhERGh1aldUWnRnMjlzZ1dTMTZoZk9xUmREeGN0R3NpSkJiaTVfYVdmNG5BNC1va0hWOUxqWjhuUndEbVdZY29lNTRLbl82eEhvUW5kSmlmcDV5LUd6VGpaVjhHbjZGT0tDYVBrNGhONEkzSTlJN1dubUVPMGRtakMyOGhOR2NIcWE5cl9aRGQtbVp1cnZad0RYSQ?oc=5",
+      "title": "Iran Update, November 16, 2026 - Institute for the Study of War",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTHh3eFA0UWpNekpxS3M1ZnFyTDJ3aUVUMExhZ281NmJnUHA0Q3hyZHJSZHcyNnZyVlhtdVcyXzhycEE3YWJYd0p0X2s5LXFmVVVKbFF0NHlnVml1ZUQxMFZOYjdMZDd6VmZ3OGNWY2dGRENqcjdvSjdCcGx5R2dkSTJFRXlfUQ?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-16T20:53:00+00:00",
-      "domain": "Alaska Public Media",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Department of War Invites Seven Industry Teams to Participate in Phase II Directed Energy - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeWNrdHVWbk04OTBjR3paSWtnd293MjBYYk9Uc0VwSjJhZHhkTjJQM0ltT1JmOFEwMzJOSzBqemxfVG9TellWQXIyTEdjNTdsUzRsaXF3VzRRejF1bXRaZnVJUjU4eHZTYjBabTY0TmhMVlBDaG1Yd0VKYzl2bmNBTW85MlA2OHhNNkVPXzd6Ui1sWnRKdm16d0RldmF0LS1VaXoxcXFXYTNkNGxjV1NUbl96MHFEVDhrcUhCVWxueV9icnZDNE5tVG1DTVM3b2s0ZENQUA?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-16T15:02:20+00:00",
-      "domain": "U.S. Department of War (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeV9idVVUaFB2a1hNbHIxci1yVmxNTTQwczhxSFdvZXFxWVIwX2NDVUd1Wjc2UHprbUxsaU44R1JvYWpqMmdVLTVuNy1Cb2lTYkpTQ3BuMW90a1B0TFdEUEYzcndiZVI2WDNHRDd1Qmt0N0ZwSzR3Si1iS09SYXZXMTV3bExYMEZNTGZTU19nbW54QzQ0VVVVc3loY1RQcHg4djY5eVJXVDdLeDFWZC1oUVl4NNIBuAFBVV95cUxNQ0dvV2xFTmFuLWVhbmVycEw3T1VsUVA5bDVsc19Ibkl3ZUtRWm93MEVjTlBKV01pSFNiWXkwbWItdzZaV0JyZ2FuUVJTM0ljV3RaWDVqLThWcDBTdEN5NGk2NTdyRmdBWDhDRkUxRi1CVWQ5M0xVcFZBU3Q1OGE3djBWenFYczdJYjFaVnVrRlp2OW8zX3ZFeW5TZGdhVDItM05WelpTVVdtb0g4eEFoRGg0M1pLNFBl?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-16T13:15:16+00:00",
-      "domain": "Al Jazeera",
+      "seen": "2026-11-17T04:15:17+00:00",
+      "domain": "Institute for the Study of War",
       "language": "English",
       "sourcecountry": ""
     },
@@ -249,12 +249,152 @@
       "sourcecountry": ""
     },
     {
-      "title": "Eighth Army hosts Korean War veterans, reunited in honor of a sacrifice that shaped history - Army.mil",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcDVFZ0RGekVSanhZZ0JLLWs0Ml8yTUNEWE92SWxEejBIUkdGejdDQnlnVHNXSHJvT1dCVldkWm1sZ2NHa1lxckpVenlRNDVxeGN0ZzUxNk1CMlVIR3JDbmpCREt2cDh4Y0NVd1EzSmVHNkpQY1FNcVNuOHRGa2RMZmlMd29oTW9jSmRTcVJlYXZTTERVUG5EVUc4OUF3UmZIUEdHWEZ5RmFxWnJLYkt5RF9Eb0FzZ0Y4STlmWkhxNXNRS0FM0gHKAUFVX3lxTE4zUml6N2ZRdjhHUFVuRmJUeDctWmdrUkY1YU9UN0hxc2twZDk4YWR4emJ1eTRVUURtQnlMX1RkdW9XMDBvQmVDbmVOb3JhVHpMRHFxeXIySHktcUh5dnNpMVRlZ2lUMEVSRGNFc3dZUHN0c2JpcGR3ZmtrNWZKRzZBUUFHelpzN2UwakR2bUppa3ViYlF6SDJRU3dQb0hJRmJCS0tNeVRqTzRCMnR2bFJZLVl4TG1jSmkxVkVPdTFfUjF4NUdHSnRKYUE?oc=5",
+      "title": "Watch What U.S. Aircraft Carriers Bring to the Iran War - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTEVOR1hUSWItcG1tUkJjMHgxclJENDhTQkZ5eXY5UTRuTTBpTE9FTlFJV1JlQzR2bmY0SEdQWDg2M2duZnd5UlVKb3N6MFYtLW85dmhtRGJDd2NQcnR3ZVRXeDZicWxEc1NVbFoxMGRZclhfRGEtbFlHdWhkczZ1VXRtSkh4Z0gyMmlfZEJCdkwybV9fNktLc21URFo3bWs5UmRJ?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-16T23:39:20+00:00",
-      "domain": "Army.mil",
+      "seen": "2026-11-16T19:13:00+00:00",
+      "domain": "WSJ",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "German Investor Confidence Rises to Highest Level Since Start of Iran War - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUDQteVB5SGdEbmFJYktZb3I2UWRsY0JES1M5T0NsdmR3NklIVlhXTzVIeHk1ZFE0N3Z2U2tjQmpwM2UtcjhpaGdiaTdBSTVNSi1IOHhxNjdKSk1XVnBUa1V1eHN4YTBNT0h1NXd3bzYxSmJLbEJLcGo1dUpnSFh6Y3FIS1pzUkJGSVJiQk01RE9aV3ByRDFhZmxzdG9mNzJWZk9LX1BFamtnUlJrMlc5MVIyaVUwN3JjamdZcFREQmxWOGQ5?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-17T10:46:00+00:00",
+      "domain": "WSJ",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "NEXT Weather Alert to be issued in South Florida due to threat of flooding from heavy rain, thunderstorms - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaVphdE1RakJEa1RBVDg5cWFFbF9raTgyTm82WGx0QzFMUTBsTHlTUlNYOVVqQWQ2QWhSQVg5OHhzNVBGcEtYV2dWZ0hnNjRaY2d1LUZsUEV2ZzFlOGpoam13aWFZWE5UNlcyS2JJNGRRYlNpeTlPb2JvUE45YUc2RWVLZmhmS1pDUFRGa3o2c1JBa0l0ZTlZcEtxSUNFczhkV0U0aE5hTWtWbTZQYmtvU1AwMUNPdXBNNkY2WkktOUFVdw?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-17T11:56:34+00:00",
+      "domain": "CBS News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Orlando weather: Flood watches, warnings issued for Florida's east coast - FOX 35 Orlando",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSzZkRjJ6N2FBV0t6WVJqV3A5RHN1MFd5a2p2QmdqVVNnMjFiRXp6SDVfWkVKbENSbEJ2R2QzYkNiNmwxN1JTYk9rdnNncWF4MVJGRUZsZHBwYmx5VUhiQUw4OU9CMnZ6NVdySTZmTHg0ZElseVNUMnZTTG0zdXlxenE1c0haNWFPUlJocDV4Y1dibU9VYnRWajhEUlhCZ0lE?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-17T10:54:30+00:00",
+      "domain": "FOX 35 Orlando",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Contracts for Nov. 16, 2026 - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYnZJeDRndEljTE9GRWxNUlVaa3RpZ0JZMmt4UnZ3amc3TExKSHFxOVZwckRVSDdreUdqUjROZm92dlBUWHpVZU9haUFyQ3g2a3BMS01feE9TZC1UU2tEUUJxc0w4NHBJMmdOS3lrdDA5d2ZRd3ZnUXhVX0NnU19JRTk5U1ZqQU5PbXdPNVk5QQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-16T22:30:34+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ukraine war briefing: Crimea bridge attacked again after Russia strikes major Kyiv bridges - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTmg0aDByRUM0SnpqOVZlZmZncVpLOW5zZGl0SG9xemhVbVNhcndfNGNCZHhxdVdRZGZ1U3NiN2JfWTBMcGhHQnlCa2lGRWxpNUxlcmxENzFteHJiZzhzV3ZrZ0tkZ2tUVG1ZOEpDS1M4UnJFQ01PdVYwM3RUTWE5Ykh0WHhua3J6Skx5RWVEcHVzVDlMRmRESksxNlNPSS01RFRyZUNWM0wyQjFoYlVkbjNzM1VUZHJJUGhJSlZLbzczWmFDRXJTV2JfQlZaSnps?oc=5",
+      "category": "CONFLICT",
+      "severity": 3,
+      "seen": "2026-11-17T06:49:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "After the Blue Tsunami: Getting rid of Trump’s tariffs - Peterson Institute for International Economics",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWtiWTk0d2VDVjVNanNKU3NYYjBqQ1Vuc3I1VFlfWVFtZjdrREdRVlJpNEFyVjhRam55LXhQbkJJWldtNEZHRU9GME5waVpqR2VnWEZEc1R5U3RZMmNkVExUUVRsZVBpSlkyTG5OZW5XcHVkRE5fWE14RldiaGdIV3M3bU1WenYzblpkaFVQY2xXaUFqVzV5ZWhDT2c?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-16T17:13:36+00:00",
+      "domain": "Peterson Institute for International Economics",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "There will be less war in the Middle East in 2027—but little real peace - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcHVtaU1hOURXZVVlZVQzR09FQjNXZzVlRGxFWmRjUW0xSlEzVmhKd244VU92VV83YzVvMTNaVnZBTFNnb0xBOGw3TC1YNmd5WjhMclpmVUc3WHRPZ2pKNjRRWFVwR2FMTzk4MU9Ub0tvbW1FSlVydl84WEgxNC1CM1RrNjB1WUtURXlkMmU1ZTdHTW5UdDdtYU5fU0N0SFVJaVpSMk1MdDkwb0QzdGoxOGl0cHVRVURsa0tvMTRqdVVsZw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-17T00:04:36+00:00",
+      "domain": "The Economist",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Artificial intelligence for antibiotic discovery and design - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2NnlidTR2VG5veXJqSnhDTVA2ZUN1SUdZR2RRc3U5NkphUkVTb0pMTTZhX1lCc3pMWklJVWhscGZYWmpJYUdadFRnNDJNZU01aTRTbFNRWERaem1HUzlB?oc=5",
+      "category": "AI",
+      "severity": 2,
+      "seen": "2026-11-17T12:25:00+00:00",
+      "domain": "Nature",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "America's Corps of Cadets Will Build Patriotic, Honorable Leaders of Character - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUThSVm5TVC0zeElrQkFocGw2UmNLOENGRmxpcENqdHJZSmFaNUlDZ3ozdWdxMGRibVM1SThSTmFaU2M5SU5lSW9BdVhOSnlXRzh3dnFXN0VHMW9ZRTBfVTJVM25GODJrQkFLdGxBdFFzYnFwWEFodldwU1VhMnFKTzdiUndWTTFuNEZHNldNdUtlZ0g2Ynh2LS1oRlZDOHRoZDhtTlViam44N0ZTeUlFVUphRGR3RGQybjh5RjdsLXZjNk05OFZZeEFoUUtXaE96cDFkZ21R?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-17T12:49:52+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Iranians fear more civilian infrastructure could be targeted in new US war - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVktaWnZoTlg5eWNHS2VId0hpUi1wZjNDUGs2SWh2T05Ebk9JeDM4Wk83SG8xOEdITjZHQTd6TWI3bjdBT2VzSVZpUDJxVzR6UEc2UUxFT1ZJbXlobVZvYjNjcGgxZl9XVGRRdEpNWmxZYS1NZ0I3TlYzZW5mT1A0cG9JYkdxeEtrVVUtM0x5c0VQbWw1aGtwYmtVS0JWeW1EaWtCdDdPaFhnSmxfQzBGUl9jR1hNLTjSAbwBQVVfeXFMUE1oazhTZzR2Nmt5QTgxdC1xQ25ycUk2NkdmNWlnNWhtc1NXQTRzWGxaU0piYUlDZXg0ak9ETV93RDkzejFtWE9uYmNUR3k1ZjJUVi1PdG9fYTFadUo3MWhKYmRxcmF5aWpnemdTcWNhUEZBdlZoTmZpZnpyYnE1bG9FeXhoTzFKOUNrdWFxT2k0NDAta0FLOGhtbnZpbnFtSWp3X0RHREN4d24wbmpfZkNIQ0x0UElYUnlGeEc?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-17T12:50:38+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "These Ukrainians Aren’t in Combat. But They Deal With War Every Day. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85NzRCOHQ5NVZvZWt2QVYtQk0yTnlzeG9iN3RNaUtpRENhRVV1eEhJWG95RzNyNktuSDQ5cXdKOEdaUndfT2dQYkRQZGM1RnlsOUtoTW93dzV3SnVBNnFVcVVOdXlsMUdnLXpvdldkZTlhb29kSkJBcjFJS2xXM0k?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-17T10:48:38+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Drones account for nearly three-quarters of Sudan war deaths this year, UN says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUzVVZlh0cUIxWFBYU2NGYnZWdHZmc1RLY3oyNm51NTlQQjJEMFlVclNsN2tWM0FjMmRycVdsMXQ2WW4xeUJZYVR1V3lac2ZBTmJ4RWcxYXVxaFlGV1dNbXM3OG5FOXhheVdiM0dzUVktZnJZZkQxNUU4ZWZuM0lWV2JyZXVKUXZtcDl2RHVaTVRtRGN1ZFdPckdPQ0dZSFI1SDVfVGlPbWhYa0o0alNCNFdsSDgtUkhxakRWZw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-17T08:42:18+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate - NPR",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1bXBjSS1oSzlXdnQtZ3k2OGU1QlR0cU5qMlRqbFRmcWxZeV9YZU84eEVUeDloVWU0a2diUVMySEw0ZG1rWGpKU09MdHZWZkNUeTZJVnlmYUw0NkhEMllxM09GLURQWFpaMjMwTURB?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-17T09:50:45+00:00",
+      "domain": "NPR",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Flood Watch issued for Tuesday & Wednesday - WPEC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VMVJKbTUtVXlRUHJsOG1LNVkwb0RXb2VWeG8zd3JNOXE5aE9IdDdTMW9oanZ1Q2RkaDU3cG9VYlFPdkNfSlRpbkZoTkl3RkladjNZUzUteEd5V25BZ3h3Y1ExUzlhajIybHZPYXBneV83bHp6UE9FUA?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-16T22:09:38+00:00",
+      "domain": "WPEC",
       "language": "English",
       "sourcecountry": ""
     },
@@ -265,146 +405,6 @@
       "severity": 2,
       "seen": "2026-11-16T20:20:13+00:00",
       "domain": "VTDigger",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine war briefing: Crimea bridge attacked again after Russia strikes major Kyiv bridges - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTmg0aDByRUM0SnpqOVZlZmZncVpLOW5zZGl0SG9xemhVbVNhcndfNGNCZHhxdVdRZGZ1U3NiN2JfWTBMcGhHQnlCa2lGRWxpNUxlcmxENzFteHJiZzhzV3ZrZ0tkZ2tUVG1ZOEpDS1M4UnJFQ01PdVYwM3RUTWE5Ykh0WHhua3J6Skx5RWVEcHVzVDlMRmRESksxNlNPSS01RFRyZUNWM0wyQjFoYlVkbjNzM1VUZHJJUGhJSlZLbzczWmFDRXJTV2JfQlZaSnps?oc=5",
-      "category": "CONFLICT",
-      "severity": 3,
-      "seen": "2026-11-17T03:14:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump’s Advisers Are at War Over China Ahead of Xi Summit - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFJvYjNhcXVuMWNTSWZCS3M3eDMyOGVmVHVtLUZDckRsSkZobWdBUUxielFrSEVNUVBLM05qLTlWb09ESHVUaXRjQmRPN1VsdmI1LV9uRTFmMTJrNHdQTzNQQWJ2RG9Lc204ODEwSTJGWmJpNTZoZV9nTk9XUGhaVXZULVM0Q1NYYjdENWUwc1ZNb1FoYnJteFB0ZG9LUQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-17T02:46:00+00:00",
-      "domain": "WSJ",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Magnitude 5.4 earthquake rattles Peru, with tremors reported in Lima - FOX Weather",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMG1ZM2Z4Uk9OTVplQ1BiVmhLeUV1OGgyRkRxLUxJYTZERUg3eDloYTdQUEJKbkluQW1Rci1NTl8wdTdiQk8zMGY4N2dIeEk5NzdKclRkbmR3SnlsTGVxMHJKNHhnY1dMWDNaRG5UNFdfQTZmeXdhaDZ0ZGNfNVRjR0U5RdIBiAFBVV95cUxNY1JvUi04NHcxVzRVSURJT1QxQ0VmNnB3T0hpUGtGS1FnU2pKV1gtbnFjbW50YUUtVElYMVREUFR4eUFRaFpkbjF6RGFKRWVYOEVPWDhETGFSZWFyeUZ4bDNuUUdsdFRPMWRia213RC1jUmRacEVPbzEtM21FVExhOUJudFZkYVhR?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-16T19:20:00+00:00",
-      "domain": "FOX Weather",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Major changes to Pentagon’s financial auditing strategy hinge on War Data Platform - DefenseScoop",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTVqanQxRkttRkNaSGJxVWZycEg0WUF2ZnpxUHlQMnMwVndJdWxqUGZSbnl0N0M0dzloaXhKbzdwSE1xUjhlTzBQTHI3Yk93aHNPa3ZoNWJHYjlGd1JHSldyMUpCdEVBa2ZOSEpoRHkxQk1GakFsQ2JDcldKbWFUU1BDRkZtNEtwOFlEOWgxdG5rUlY0T2c?oc=5",
-      "category": "CONFLICT",
-      "severity": 3,
-      "seen": "2026-11-17T01:36:18+00:00",
-      "domain": "DefenseScoop",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "U.S. Forest Service issues wildfire alert for parts of Logan County - 5newsonline.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYmhBV2FnUHRGYXp5NTZwLWhEeUY3QUFPMnFwdjhQN00wRTI2WTRGLXlTOFJRbk40ZEYwTF9UX3B2SkpnQU9taXNRSldpeXhrNjM0dmt0Zy1PTmZUMlQ5clZ0Q3FLX2JDRV9BcVpBWDVtQTVjWHdWeHBIRzJKV2JyNDFjcmxjbVlIeGtNdFhISDNWSGJRS095RHRTQUx3VnY2NHJuT0NQblpxaHVTdVdreEZGZDVHbFZSSmhNM1c5N0dtVVNEMUd6dGFFcGZENFduU3JxZFp3X0ZiNkpFOS1ER0NXMktVX1Mzc1J3MHY4dXlTR29nQ2ZlRg?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-16T22:53:28+00:00",
-      "domain": "5newsonline.com",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "The year ahead will be crunch time for artificial intelligence - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT2pVSmZ4VEVVMF9OMkhabXM3RzZqR3o0X2hQVWp4dXhpdlVxMHBFV25kRWpXNGoyUWhGRDNUZEo4QmxCUmRFb092cFNhd1Q5Vkx0WWY2Q0ZRUHNXVC00Yzd1UVJybVhhb3RidEtuczV3SU9ldlVERnFsdUtyNWhYM2tnRTRqclBsXzF5SkdoaWh1NVhfTUtFOTRYakVJdDcwVzE3UjY0OU5TOVZPRHJUdFdib0Y4dw?oc=5",
-      "category": "AI",
-      "severity": 2,
-      "seen": "2026-11-17T00:06:50+00:00",
-      "domain": "The Economist",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump's Asia reset: Deals in Manila and Shenzhen, then a rare nuclear summit with Xi and Putin - PBS",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSlI2cmNPcXZmNVR0Z3dPOFVZbkM2OWdRZVBlc1dVSkdYSjRKdHVDNXo2UU9GaW5WclZZYTl2THJ4N1Z1aE5OblNTcEFRM0Qwd2I5Wlgyd1lMNHJ6RWRjcDJ4bjhIS0xYUEhOVmV6aWJrZWVreUNUc1FEVm12ZldfaTRBVExYRS1mcTZHUVRraGJFQkRYaWZFUXpDa2pIcy1ySGJLN0U2QnhOR3pSNENEY0pUUUJFa05PUG8tSlNVMHlGMDBIMTNKTdIBzgFBVV95cUxNVTJ5VUt1Um1pcXV5T3dpWjhOMGZFRnotbF9jZ19GZEZqV2tBcFFRN2xnS25EYTJnZkxvN2JuSG8tVUpWbDczMWRKMXQ1Qy0zaVVidm9iYUZvbG5YQ1g2eV8ydUxFdVdlRDZQczdxOXUydDdQTXFud1FLQTZIUkRBNG10VFZSUXZhVldDR2x3LVpfbWo4RG40WWlQNEVrbmkySlVyNHZ5VVoxdGEzUGNwY05lNlAtT1Bydjhzb3B2eEhPVGdTaVo3WGVHcjVxQQ?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-16T14:38:11+00:00",
-      "domain": "PBS",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "The War Room newsletter: Will America or Iran blink first? - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRW43aVRvVGVZZ1BYcWpSbEY4UXRLZmRaVUxWNXFuUWM5X2xVQ25kY3ZZYkdCR1BjbFhJQ0tJQlJQVVk2OUNKdHViR3ZDQ0RzcU9DQjlaeGh6ejA5RGs0ZTB2QkNaYnZPaUxBTjhiYkVmVnZfNFRlcWV5cHd4YUNEV09IRlhhejk4aVJuaUNpa01YSWZpcmJzcUxmbGdJN2FsZ1FwX0NPaXlGOTQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-16T17:38:50+00:00",
-      "domain": "The Economist",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-11-13T08:00:00+00:00",
-      "domain": "Centers for Disease Control and Prevention | CDC (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Bickings Brings Extensive Missile Experience, People Skills to Naval Surface Warfare Center, Port Hueneme Division - DVIDS",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSXJrLTRnMktpbWU5b1JSSkQwaVROdFk2SXZHTFl5bnRzZnh3Q1J1b0ZrTXZrWEUtQ1JERXR0QkZILWFpanNhOGhkUnJIYUtNR3B2dVVPeXdtTWEwRHpiUld5WXduV2k0bEtRUkwtSW1jMXBCaWVpS3NXbFJSOE1TNzRqVWNrXzJnUFYzMHhhdlBhb1ZUbzF3MV9fNEV2SnlUYUFVQzNHejQ0NnUtQjBUUVp2OHItTnJWa0RxLV9hLV9yYkxWajhmY1lPbjk4NjJvSFpoc2d0Vmt5T05NZmFz?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-16T23:51:00+00:00",
-      "domain": "DVIDS",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmhGNVhidkt3TlpMM3l5UmpTaGYyRnEyZ0pDQnhydG0wWm9sS3VGN0pndWVSODhUbFhYTW5EalBIMEljZEVsNndnbVVNd1dmVzNOMVNHYmtpOEZjVXBaOHNfQ0dzQjlva0QyNEU5OS1vMm50TmhuVEFaZDZ0THpwTDUtX3dpeV9HUEYwOEZaVkhBNzBrZXg1dXljcmVFRC1CT0hqclh2cU9uSklvSTRnSUxXVTlmQmNhNlI1Q1E0S2hSdzF3?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-16T13:53:57+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "The Trade War Was a Problem Before Iran—Congress Can End It - Cato Institute",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnQmFBZHUySklzTm9VSUhtMnhpWVJDRGtOYl91TDU5QUMtYng5X1JlMlA5cFZCYml2UVE0aC1YQ3FOTUstQlRua2lSMUl3a1NTM0xEZUNTWkdlQlU1Y2pyajRLdGNhb09MbUs5MTd0WnRSdVpZRVpQQ2hQVG4?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-16T22:16:20+00:00",
-      "domain": "Cato Institute",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Minor earthquake recorded near Lexington overnight - FOX 56 News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdHZ3NFJJV1BPczBtRmxfVENqbldVbFozM3FPY3IwaUVLNk1ucF84c1hjWDVVaWdZSGNvZ1dqdmVWMXJiNzdVMGNFbVJjOVJBT21USFNHNDJpT1FndjJYY2dSTVNYR2tmdjZsdWR0cVptYk9yTnA2MkdzcnkwNURRczFVQzBWTEJPbWtONUpzbUMtV2dhTGJ4c0hR0gGfAUFVX3lxTE5Na0VZWFJJSFh5VGFkRUpMeUowUVNyZlhtNUJFYjJDaGd1TmlLaVFOaTE5Q1JfbWhwaDVWenZydlNnMmZpTFdKRGhmRFZjQlpZMWxIMEstdFZCSHBTdmk4T1NTak96TGpYdmtOT1drT190NUlkRXhNV0FuYWRCQ2I4dmwxZ1F2OTZWVXFkSmx3X0ZITGVERV83VEdaaXhiWQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-16T22:29:41+00:00",
-      "domain": "FOX 56 News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "2.3 magnitude earthquake recorded in Lexington - WKYT",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRFBfcXVMSXhmTEFHOXAzbFg4bkktbTJLUWNCYTBzZzdnOTFmcFhJeEJjUl9KMTJ0Rk9WOEZPZmx3X3FIOHE2ZDBtdHJLcTg1anFQcEV4eTNCVnJLN3dKRVZHYk8tYVMzRlFyalRvXzdqVVNzc2MxTUd3ajZGVFhLSw?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-16T13:15:00+00:00",
-      "domain": "WKYT",
       "language": "English",
       "sourcecountry": ""
     }
