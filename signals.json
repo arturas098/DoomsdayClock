@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T22:24:50.039696+00:00",
+  "fetched_at": "2026-11-18T04:22:07.383623+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -69,16 +69,6 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "Governor Newsom announces completion of major Sacramento Valley flood project ahead of El Niño - California State Portal | CA.gov",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONWh5R2lwaVlkZzZRV09fYXJlWjlqRl9fTmhTYlZJZV93bk5BUmdJRTJyODlqOTBuUEQ2RFZpSHplNUx1S3l0TnQtRnZUM1dNXzBPeW5lMkNyQjloVUJJLXpHN2VfN1l4QjE2dWZmdlhiVE5RekJPczRXaFpTWDFnaXd3N1FjU3BlUVhIT1B1WjlGZ2ZhdVdqTTdBLXpNUGRkT3BtOVpkRXd3c3NuWUZ6SXNOaEFDaVI3akgybl93ZnktcnJnSXlmZg?oc=5",
-      "category": "DISASTER",
-      "severity": 3,
-      "seen": "2026-11-17T16:30:44+00:00",
-      "domain": "California State Portal | CA.gov",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "The Iran War Has Slipped Into a Dangerous Limbo - The Atlantic",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQamxuVzdNRmg1c2ZZQlpnR2FUUnI1Q3RqQ2pVT2tiUlBiTkpWeGdhazZLS1NyazZvQXZKODZ0YkE0UW9oZWU1Yk5TX01zemNQRWZmR2pQVy1aVzVsb09Lc0pTYWY3X1VfNDl5OEpVSmljNTNtajFUcHViTmN3MENPczliZnV6eWtxWUE?oc=5",
       "category": "CONFLICT",
@@ -99,96 +89,6 @@
       "sourcecountry": ""
     },
     {
-      "title": "Trump and Tehran gamble on time as Iran war stalemate deepens - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUh5YlVmNzRxZm9pNkZLZFQ4YWhKbExkLW51U3R1QWFFb3AzUXZieDdROGpiYVRoZEwycHV3eUVTZWptS1ZTTkdLSG9SNzFYdEVPUGwwOWJVTTV3NThPU2NjX3BsZnlmVUtLanZjZEgzdWZiWkp6NThLUENnMEpxOGZPVnQ2Vm1YWDhoX1UzRkx4SUh2cFhObkxsek1ub0UtNjNfaWNpaU8?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-17T16:23:42+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Naval Research Lab Completes First INSPYRE Field Campaign - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVlpRT05EdDc5TDZwM2xEZlFUX0dHbVFTak8wMzI4QTBSYXlSVmUxSlJ4NVZaMmE0bDdka1JoYVlvY3p4bmEySi1UQ2pPM2JmTDk4WnJVNGp4LTZ1enF2ZTNoUnpibnhISkZYb0x2UHlEOTZITDRabVhmdkt2clhvVDhTN29RT2tyRmNIS093aE14emhUa0tqc2dLWGN5ci1INlo0OVYwNDVyN2I5NEkxQWVsNkdiZ1BUcDFkeg?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-17T21:05:59+00:00",
-      "domain": "U.S. Department of War (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3RSb255WmtXVzRseHpHdk5tT1ZLTlYzRzJudFZKZHVaR2taQzdOcmQzWGF1b3hwTmZodTV6TWRvM1pyX2JtVVNlMVI3NUtyQlRVQXhQS3FJR2lhN1ZZcFZ4WU5fRHlsLXZEXzN2aDItSUppYmt0YzdVMXg4dHRHYUZrVzhRejZYcGZxRVlSMVJxN1paNGV6MzhfaS1sNTg?oc=5",
-      "category": "WAR",
-      "severity": 3,
-      "seen": "2026-11-17T18:44:00+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Senate docs reveal new B94 nuclear bomb. But what is it? - Breaking Defense",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORFNURGpYVEk2REloSTFWeVlEV1NWZ3M0VGtLTVRHZ21kM2dkWmNIZmMxRG5ySDhIb3YxUDN6Z2REN2ltYVpzWjd2MldQRU05aDJtbmM4T1N1TUNabnBVeTJyMVZ6UWJNWHFHRG5NMkdDR0ZFQjhsSGFBaV8wajJhaHpNYTBKOFR6MXY2eXUxNy1OYkZiX3c?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-17T14:04:54+00:00",
-      "domain": "Breaking Defense",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "GTA V flood simulations reveal how rising seas could reshape Los Santos - Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sM18yYVpvb2RCQWtRUGtfVlZ6aEVyNnEzRWVFR096eVZGcmNKeGVFMDlXeDJ1WmVvOWo2Q1JCODNFajNGOGFRWDdkUmhHYVdBZHNRdGd0alNpR01JWlJWSERIdVlPWG5Ld281VThZcExOWkhnWHVOVmFR?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-17T21:20:23+00:00",
-      "domain": "Phys.org",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Iran fires at U.S. facility in Bahrain as Tehran resumes strikes on Arab neighbors - PBS",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTlVZWjRCSVZZOTdxbEJHVlVJTjVyV2xWVXdaQ2tqUmVRNFJkaElDa2xhYWFqbEcwRDlaWnpNWF9OMy05OE5mM2N4VkhRQVZHdTFUTTlyd2JUSkwxR0Q3ZEh1UDZZNDB5cmVHa1lfMkM0ZldWT1pJRmVTTWVPMWEzQnloMWY2Zjh1TDdaeHRONmIwbERZLWtfMy12Z19JcDV2eUJxZElIWDdBWW5CU1NEYU5TVjJRRjjSAbwBQVVfeXFMTm93R19jS3VPR050YTJCYXBSQ25mYlo1RXNhZ1JSSXVZdEdiYUJJeloyZHlkUnJYTTc5dGVzbmlqZHY3Tlhscjc5cWxqT1JRTHMtVHlORE5TUVpKQVZ1d3FGUjhwcDlHbk5JSFVoeXZya1lTU1ZIUW9SRkUwZ2t0akZGa2t4VEpfdEZJRS0xcFFEZGVaVGtNcWFvOWdLTFFRUmFhTXBsQ1FydjA5X3dZUHdDVmE4WnduNXVUMTc?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-11-17T18:53:00+00:00",
-      "domain": "PBS",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "US loses measles elimination status amid worst outbreak since 1991 - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWJWZWI0Z0hHdVNYdHpHcXdvY0dZQTBiTG5ORUxsWld6S0pKZFM2UE1jZlhpang5Zmowdll6V0NfTDRvdlR3RzJaVE9ENDBlMWI4UzdkYVZzLUJWOUNxSVBRRGJVVjBqVVBzbFVyeVFPYk5zWUQ5QTkwM0F0ZngybGNicTJLdjZmS2xkMXNnRQ?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-11-17T21:59:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’? - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTC1nTzQwVTdkS1paY05NZFNnd2w3RWFsRWl5Vm9wM1NteWdsVXJSVGpnd3JiZnNjSHFlVlJLVmE4aXdQZ0tXV2tTWm1INzVZYmJQRkR6cGlIVk43bkZ0bmUyR1IwVHQtemdwemI0Mm8yS1BSVXBDeVFiUlFhMmQzV2pmX0w0RU1uVW1ubjBQTW9ZaXJ1OFJnYm1lLXhBTWFsaWtR0gGoAUFVX3lxTE5VYjRLSi01Y2JUZHN3Q0kxNkZUaEROMTVBc3dIUkdzVjVaeDFEZk9EcTZnUDNpb2l0TE1VOVQ2dE02Tno3UXpPNWxlRExpTzZTZTJpWktWZTZkMEVPU24yT1VFYXpVSmxxSVo4VnBfSXRmNUV2eXJxWWlLbmVfWUpCZ0wzWDZoTms0WEpTdmlnQ0NHV3pSRk1GejRqM1lVc1FfbGJUNmJyXw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-17T12:42:02+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Human travel drove Ebola spread in DR Congo, outbreak reconstruction suggests - CIDRAP",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcW5ZRzJjeS1zWVFocm1zQkVuby1SZzh0c1M4Nnd2bXNfMzVybW0xTWtVZkluVUVJLU4yY0l2SW9jR1dXZEdHZzU0SE5DVTlaV3pFYkNrcWZoMmRfYVhvSDRqRk9Gd2FhUU9wcUF1LVhCZEhxaFhmY2RQWVRWZkVheG5lbVhvcmhacnhWUUYtUVY1NjUyd3VjQzIyWkxkY3RyZWV0X1RkN3ctQQ?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-11-17T20:32:27+00:00",
-      "domain": "CIDRAP",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "China and Nuclear Arms Control: Why a Trump-Xi Breakthrough at APEC Is Unlikely - Council on Foreign Relations",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnRSNjU4RTlBWG90NE5RNF9IYldNNGkza1Y5Q09HbU11ZmxrVzZIZTlNekZKVDhSSHUtT2tQWDhWV1FhVF9OUnR0bFRFUTF6ak56bjRra1RHV19TUGd5YklpWVZCTF9CTlNZd29ES1VQRzVxYWVTZUpiWktQWk41aXlQcW1mazcwem1IU0xycmRaSzRuQnlwWWJXbUJUaDVEckhSTVRiLTFlZTA?oc=5",
       "category": "NUCLEAR",
@@ -199,52 +99,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "Update on Debris Removal in Flood-Impacted Areas - City of Melbourne, FL",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSEVudWxtVzJuVWlqNTdndHdwc2lqdlRVektLY2NaNUdobWFFTWQwZ1hnVXBFaEYzUVkteXptRzRDLTR4MnB5NHNWc21hRkNoemN2RlBDUVFwd0V3aldjZXpzTmhzQ0ZKLTBMRGhUcWVXUkozT0JhZEFGQlVodzNhOQ?oc=5",
+      "title": "Tracking China’s Intensifying War of Words Against Japan - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0FLYnFpRHlhX2Zab2lSTHFfM2pWcEVHUW8wSXIxaXNxZFpOQjdlNEg3OHViMTEyWFdoZW40NzRHWFcwTzJhSWVRMmlBeWtpZGJTU1pDY2R2QTlRWjBjaW9oUU9Bc3FUcGlzeTFiNHlEQ0NNd1Y5djdCTnJFWDJ3Y3hOQWE1U2J0SEJadzh3?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-18T01:02:39+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump and Tehran gamble on time as Iran war stalemate deepens - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLUh5YlVmNzRxZm9pNkZLZFQ4YWhKbExkLW51U3R1QWFFb3AzUXZieDdROGpiYVRoZEwycHV3eUVTZWptS1ZTTkdLSG9SNzFYdEVPUGwwOWJVTTV3NThPU2NjX3BsZnlmVUtLanZjZEgzdWZiWkp6NThLUENnMEpxOGZPVnQ2Vm1YWDhoX1UzRkx4SUh2cFhObkxsek1ub0UtNjNfaWNpaU8?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-17T16:23:42+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Rounds of rain fuel weeklong flood threat along Florida Atlantic Coast ahead of possible move into Atlantic - FOX Weather",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVnlKLWh0TDYzaVJPZlllNHZBa0dsVDZhcWFjRk9ndnRHOWQxRXpYQ2E0MndkTGtsMXM5UUd4SGtiMTU1Ymx6ZU5JQWRwaEV1TU1Ic044TmhZUGVvZ2xjd1RFWW5lOGJCNjZZVjNsYklUTlFXamdfQjhpaUt5R1lOeXRDeUg3VHhxUFZ0ZVpOUENsQdIBlwFBVV95cUxPY2ZhMk9TaW0yalFUOU1zZ19NSWtqUnVpZFlVRzJLdjMwR3hhMkFCZjhSU0tvUnhjdUxoaFVyRzM3N3ItMnVyWVg5b0QyUmlzdFlOSmtDeHBjQ1hPMER2ODdudkpFN01QajFyOS1aa0k1NXd2QWVzQUY4WXZ1OW90N3hRSXUzeW9URzVSZnlKSjRhQkpyaGxn?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-17T21:00:06+00:00",
-      "domain": "City of Melbourne, FL",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Denton resident shot in home invasion, person in custody, police say - NBC 5 Dallas-Fort Worth",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUnlRTC1hMlZ4WmhpM1RtRE53SkNlc3hBVnotWlRQSmNxNDN3U1FaZGhFZ3ZEejdwN3VxMlNQcmZ6Q1Nkbm5ydF9ncTdVMkVXcjZVMDhRSUxMY2VjaG9lUWYzT09uOGl1TkxrR1hXZzZpellTS21KMm1jeVNrRG1ld3B2eFBJNXJ0NktaWW53aGhKellkTVJycEVRUHREanRMemlyeEpIZ0RUWGY4ODhQaWRwb2RaMWRJSUZlNWpFTDjSAcgBQVVfeXFMT05JODJDMnJ3R0pXc21RRTBmaVNPWEQ0bTBvMmZrSUttNjBmRWE3OUVlaHU5SWkzWVp0U3NKZTBYZlMtaTYxYmtsZmZoTWcyVFhVTWZpVXZmMmlsTzBpVDl0RVRUOVB1WVA2Z3dBai01UWhwaVZmUEdHbWI4VkRSVDdFOXVEUVBIdzZ5TjJyNHkxMklTLVhoSDgyRTdxNTNPSDVxZWJ2eEltSlBzQ0NpemRMck9zNzZTQVhPY0hsZ0hVQVhZVEI5eDY?oc=5",
-      "category": "WAR",
-      "severity": 3,
-      "seen": "2026-11-17T19:56:46+00:00",
-      "domain": "NBC 5 Dallas-Fort Worth",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Research Roundup: Nuclear Medicine - UCSF Radiology",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oUXVEYUJ6eDllZnZpOTBWcWhKR2wxZVlSXzVoSVkxRllaTDJwbUZYanFSOEEzOWZDclBhLThNeHg2T2NUcTVnMzFPdlhKdm5RMmZyLVFHNTdFVjlRSlRpZjRZMnBRbUI1enltN1ZrdEtfZlJGNlBV?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-17T21:30:23+00:00",
-      "domain": "UCSF Radiology",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Major Sacramento Valley Flood Infrastructure Project Completed Ahead of El Niño Winter - California Department of Water Resources (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVlqc0xYTDhna0NONmxyTVhfN3N4b3lVcERFbTVaWUhRYlZybFVDRkpwU245UWNmdnpwMnplMzA2Mk9xTVZJaHZ3UVFxNmRmbDVqZUk5ZEt3bHgtWmNEcThqTUJMSTRUVF90ZHEzWndnNThiRzhfQW1DRUlqMkFKSjJRZlZjUURHZC0tTlVLYnNlczRWVVFDelhXZzBsZnc1RmhvZnA1dkNkSlc4UWMw?oc=5",
-      "category": "DISASTER",
-      "severity": 3,
-      "seen": "2026-11-17T19:30:30+00:00",
-      "domain": "California Department of Water Resources (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "US strikes Iranian missile launch site on Qeshm Island, US official says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWENzVXNRVjR0NU9lejlJWll3U01GOENvbnlKVWJuZG9ZSmwtdVRXSDRPZ3JGcGZnSGhfQmYzNnFRQ0p4d2ZaZk80Q0NKUEgtdTI3cmFwb2JxT1FOamJYVllwTFR3UV9ZN2xfMTNTTFZiS0gtSjU2Q3B6dkVLUmgyYzlpcHprNXdCMEdST0RqNkdkTEgycGFEQkVwY01yWENOcVNpYWpFYlRrRG1waGlwVHNKM3h5UHBidHpMcXlkcw?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-11-17T19:40:13+00:00",
-      "domain": "Reuters",
+      "seen": "2026-11-18T02:36:00+00:00",
+      "domain": "FOX Weather",
       "language": "English",
       "sourcecountry": ""
     },
@@ -259,142 +139,242 @@
       "sourcecountry": ""
     },
     {
-      "title": "Department of War Looks for ‘Next Great American Base,’ Challenges States to Think Futuristically - National Guard.mil",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWXU5bWFDV2E2RDlEcE1CZzZVY2J4VFdKTWFhWkNzeXVyMEN6d2ZXLWhYa040a2VPM0ZPQW1EQnFlam4yYTBPRzFzQThMMnpEWk1xdENUT1RibnJBTjVFdm9UdW41VDRVVm1yOFhJbVVNNXFnU010TUtxS2Z6a200UDFlNUpGd2ZoaG5fTkpmT0hDdTU4YUN2X3hSdDhwVkdlSGNBcGNEaG82c2Z4dVVTVFI4RnVtMzA0dUk3Z2pUeWJJeEdNUkU3a2NyTWM0eXJucWdwbU95RzlwRDJE?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-17T21:15:59+00:00",
-      "domain": "National Guard.mil",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Tell us your experience with flood insurance and recovery - Mountain State Spotlight",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kQ2NnTzBLWm52b0xFQ3NUcS1pS0NPNEhfQm1jTFVQQmcwS05kX0NKXzM1aUdUTTd5aVQ4cmd2UDNCZEsxT3IwQzdTd0JPMm5lbVNWZW5JZTNvVWFaWU9SSFJnbDQtOVltQjE1YXl1LUI5aG1wekh6dXZn?oc=5",
+      "title": "GTA V flood simulations reveal how rising seas could reshape Los Santos - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sM18yYVpvb2RCQWtRUGtfVlZ6aEVyNnEzRWVFR096eVZGcmNKeGVFMDlXeDJ1WmVvOWo2Q1JCODNFajNGOGFRWDdkUmhHYVdBZHNRdGd0alNpR01JWlJWSERIdVlPWG5Ld281VThZcExOWkhnWHVOVmFR?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-17T21:05:40+00:00",
-      "domain": "Mountain State Spotlight",
+      "seen": "2026-11-17T21:20:23+00:00",
+      "domain": "Phys.org",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Pokes Insider: Cowgirls find their fight in Border War victory - University of Wyoming Athletics",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZktVR2tCTXN1RDJXU21RSjdEeTVTQVVkTU12UllTbV9GdDZOS0lUZklLS2lEY21kekhVWndLRXBtbGJicWVPeXg1dHNnTVgxT2VzQ2sweXdDZ1RHNDgxeVdpWjI4YUlWNmdyaERaMmhSQ3hieHFQeDU2aDdRTjlQSk5HRnBFQlRITXZvc0VrVkc5Y3lKMjFWaGNIMA?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-17T19:17:51+00:00",
-      "domain": "University of Wyoming Athletics",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "IAEA Reviews Progress of Zambia’s Infrastructure Development for Nuclear Power - International Atomic Energy Agency",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSENtRFVqLVBQLUp2NEF3Sm81ekE1eUlxTHNRVmFPdUdMb2k4X3FfMmVJd2R3cGduUkp5SHNicVVBbUVMN0ZiRm1yNGxCOUoxT3NsdTdtYzU4bEFvdjJNOGFjcW5iLVFyeEx4YmJ0enRxaEdoclBYQ2oxM0NISnFLQ0p3T2loMU9PZFJRdFhnVWxIZkhmRUd0d1UwZW81ZzItZ0ZJWG03bE8zdEZIVnBCU3ZxR0RFNUR5Q0ttVDV0OA?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-17T15:54:46+00:00",
-      "domain": "International Atomic Energy Agency",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Remarks by Under Secretary of War for Policy Elbridge Colby at the Ukraine Defense Contact Group (As Delivered) - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWJPeFZBbGhNWFNjRXVGajkzMHBYTlVkQXVvcUY3d2lGRHRRMWJ5YVd2TUZEWnZyV0xzQTEzcDJBRUtiMTh6UklwYTdSWS1DMkc4Y2szMkh3X0E4dkVXdExyUmZPbVdwY0hWeEdHNXZ5YmlQS2NBWHhvakNtbkRrbld6Y3huQ0RjYU5oV0p2emhISjlBR0RUcDVXX2ZLSmQyUkJEdVFFVFgwTVNmNnVWd0c0aE5tdFZLMWxLZGtjcksyNFcxbmJ4cDkxTHJGRGE4bXlv?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-17T20:16:47+00:00",
-      "domain": "U.S. Department of War (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Denton police searching for home invasion, shooting suspect; ask residents to shelter-in-place, authorities say - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanFvOUpncE5aWUhvaVJfTlRaV2I4QXNuQTZMWWp5c0dmbkRaM0duWllwS2wtd3QzT01HdFlVa1BQYWVCQ3MxWlRkbWpNOU1PNDVyOVNaQXdxTWl2UXQ2dlNMQTZETzVUWmp2SEtZcVhTREZmZ1dZYl9UaTBVVFkzVERGVld6M3BxWmItdjNZTHZYQTVxbUs5dUliQVh2WjVuOHBHYkhDMFVtQ2N0R19JUw?oc=5",
-      "category": "WAR",
-      "severity": 3,
-      "seen": "2026-11-17T19:29:32+00:00",
-      "domain": "CBS News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Flash flooding threatens 30M along California coast as latest atmospheric river fuels storms along West Coast - FOX Weather",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWVJOckZJLTJQVkJPQzYwVzVoOEkzbGtxUG5XZjc1R2JQSndFbzRCRmZGbWhqTXRHbWVfWnU5WVlFbkJFa1NLNUtGX3Z2d1FaQzg5RWxWWmRydkU0Q1JrZmItUXdnUWdFSjdoUUxFcUthLV9TM3hkWHE0bTlDTjE2NVozVlVBT2xlS1JIUzNxQUR1bmtiSU84OWVmNHFLRWZXN0VXR2NMZ0cyQWhhaU9wQllrWUhYUVV2R1ZsSlFGdUJzZ0FzNWp0T3RWZnBXRUXSAdQBQVVfeXFMTXUwdHhpdkxEVnpCQWlKNmRkYkxGV2ZHcWdVTzA4X05Td1dhUjBaUWNXVjJBM0JJUzRVOWhsbUh3R1FhWkRjeHlINWxLWWs0NUc2cEp0eUNYZTZRVHdZdEQ2N0FjazNPYWlTYjZucXdHOGFjSWFyY2ZxaUlhS2JLbHdxUEthQzdTd0FWTlpSN0l1ZHpWLUJ5U3Fab05GNk5VU0FSYXVmNnJ0UmRfS1lHSjQ4Q25tS1hmQWlmRUpVUVRLRFNzV19xdnM0b2diNnlUZ0dqd1I?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-17T13:26:56+00:00",
-      "domain": "FOX Weather",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Rounds of rain fuel weeklong flood threat along Florida Atlantic Coast ahead of possible move into Atlantic - FOX Weather",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVnlKLWh0TDYzaVJPZlllNHZBa0dsVDZhcWFjRk9ndnRHOWQxRXpYQ2E0MndkTGtsMXM5UUd4SGtiMTU1Ymx6ZU5JQWRwaEV1TU1Ic044TmhZUGVvZ2xjd1RFWW5lOGJCNjZZVjNsYklUTlFXamdfQjhpaUt5R1lOeXRDeUg3VHhxUFZ0ZVpOUENsQdIBlwFBVV95cUxPY2ZhMk9TaW0yalFUOU1zZ19NSWtqUnVpZFlVRzJLdjMwR3hhMkFCZjhSU0tvUnhjdUxoaFVyRzM3N3ItMnVyWVg5b0QyUmlzdFlOSmtDeHBjQ1hPMER2ODdudkpFN01QajFyOS1aa0k1NXd2QWVzQUY4WXZ1OW90N3hRSXUzeW9URzVSZnlKSjRhQkpyaGxn?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-17T11:35:00+00:00",
-      "domain": "FOX Weather",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "US officially loses measles-free status after 26 years in historic setback - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb0JnV1hzMlA0LWRfOHhhUXFWQTBkVV9PTGpzUmxsYTdCUGw5aDR1MkVhbU9fdnlNX3NmSF9wOVRKRl9RU280ODN0ZkxUVWZpN3BBb0lGSXpXdkRqaHJEMXBjZXhkS3NjcUNwMXNHbXpNc1ZQbmZIcWVrc3hNcENpa2ZSZTJpelF0LXJXSmh2WnNfSGZabTZvVlVxQm5VTzJIMmdxT2YxUXZPMm9KUnpv0gG0AUFVX3lxTE04VUNCWXVxQW56U1VkQlNQYUNBVUJzZV9zZkFaN2tHRVZLNmFsaUVQXzNWX1I2ZEpOTHRHUGtwMVdnVTFMc2h2VzR1b2d2dmE5U3Ztd1U1dEV4Y0g0NUYycFlYTmhNQzB5dS1FMnloenQ4YklHQlRHbUZrRU5lVF9RTi0yOUd2YVlRRnZqNTh1SW1pM0tITTlDUVRCc0FGLXl4Q0ROYmNTUFRZZjRRUExzd3pNbQ?oc=5",
+      "title": "The Pentagon Urgently Needs More Patriot Missiles. It’s Running Into a Rayon Problem. - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BOEozME1HbXpIc2tEZ1RVNjE4d21GWGpVN3dZUXU0aEpDU09rS0oyN0FNRjVKU1lPbTN2NS1nQ2F3bGxHSlB4V1RBMkFOLWNKWGpoTm1TbXdNSzM5T3AzQkZmbXpXY2l5eHBtZTZhYUlBQU1ISzFVeHpabw?oc=5",
       "category": "CONFLICT",
       "severity": 1,
-      "seen": "2026-11-17T19:28:36+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Congo's Ebola outbreak is spreading and killing at a record pace - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOEFWMzBNRHVFZGVza1RSRXBVZkxZZlJuUmI3cDYzc1Z0RU4xTmZvM0lWZzBTdFRCXzlaUURKQTBRX2FBakk2eWtXN1JYelhKNjdvRmd1TDZxUFJCQ3puQ0lYOW5aYzd2cmF3YUxCaGtONUE4YXJPc1VRQmY0dGp1NjBZTzFSYUJUdHFramt0SEV1Tmx5TGVlUG1hVHlFbjh1WTdvUWR4N2NCRExCT1lVM1FUZjFiM0ZPeTkxTHJ5Z2w2M3pK?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-11-17T15:07:29+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump’s Advisers Are at War Over China Ahead of Xi Summit - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFJvYjNhcXVuMWNTSWZCS3M3eDMyOGVmVHVtLUZDckRsSkZobWdBUUxielFrSEVNUVBLM05qLTlWb09ESHVUaXRjQmRPN1VsdmI1LV9uRTFmMTJrNHdQTzNQQWJ2RG9Lc204ODEwSTJGWmJpNTZoZV9nTk9XUGhaVXZULVM0Q1NYYjdENWUwc1ZNb1FoYnJteFB0ZG9LUQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-17T02:46:00+00:00",
+      "seen": "2026-11-18T02:00:00+00:00",
       "domain": "WSJ",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "U.S. officially loses measles elimination status amid ongoing outbreaks - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aS3FVQzVIYlBnSUJXU08xM3RjNEtBUTlwVHpud1FWMHJWUkJXVVByR05ZSkdqYmV4NFYzOXdydlZhak5fOXkwNDJVUGJzRGhsd3JwM1hWYkdlcHF0Ty1sdFBUbEN4aG9VcEVGNXRpYkh4MUdG0gF6QVVfeXFMT3BQb3JQdjJmRVVRMmxIUEdpamEwQUhFX3BfbFNWS0E2S0cxMDJkbmU1d0YwMVkxREVBSkNVZ1EzeElFSVFoRnVjRFh2X1I5d1NaY3RWRGtQeUNFY1pfNy1WWW1oaGFaOTQ2eUJ1bGlMaW4wZVc4T19qVmc?oc=5",
+      "title": "Iran would respond 'at the same level' if hit by US nuclear attack: Lawmaker - Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdTdMWm9tTGpMTGdxTFlwYURSWVQ0dzZDc0xfMmJsZDdRWHhiYVliMGMtTFBEZEF5c2RYNGJjZzdmbFdsNTlKS0VYeERXeEVQYkxQVUpVeU1KbERYNGpSdlNFUDV1eWtNOVk2bGJHaThOU1dpeDZld1FGazB4cEJQMVYzUWxVdC10SVo1b0Z0ZlBjbmdBcWItUXE4elhwOERDaDlUdWtsUWVTRGp3WmJpbGYxejNwQ1d1U1E?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-18T02:42:07+00:00",
+      "domain": "Anadolu Ajansı",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Flood watch issued for SLO County, people urged to avoid Big Sur as storm approaches - San Luis Obispo Tribune",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PRlVHWkVMRF9nbG44RVFETkdtRUtEM1RESHhobDY3T1ZfbXc2d0s3SHl6NWk2VjJQRFNVQXlUWmtLbWw0WkYzZUc3bjdhVlRUSGJXUXNCMkFJbWZjSHpjNjlKc2wzMUFMcHcyQnRtcUVEVUpqRnhUatIBeEFVX3lxTE9VdEV5NWJIaGIwdXJRMkt3cjAtNmJvemYxeU45TkFkbTBjMzVhMktZbTd0QzBRWGV4Ujk5Ul9xNy1USHVva0w5aUR5b19BM1IydnVDUFRHSGdISTE3TWlrcGMxbXJfVjRrYnlTbzl5MGdyS2J5MXZZTQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-17T21:06:00+00:00",
+      "domain": "San Luis Obispo Tribune",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTU1EdklyeEdxbTVJV280d3ZRYWVNamFOSjJiY0Z2SHVaVVlKZW9sa3FMQUVHMU5VSWgyWVZhQmVaUmZmdnNvbUxxUzU0aTVRMFkydGs5V1FLME5YeFNVcXAzVEFjcmVxajJmLW1xZGhGbngzcV8xWnJvWnlCdEFydVE0akFHbk9qd0tjTUNPckdhem5DMi1fellPV1Q3ejY3NWpHLU92LVg?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-18T01:51:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "NASA Launches Nuclear Power Systems Student Contest - NASA Science (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSlZrZE1qb28xUXZwR2s2Yzk5bmVxWVVsNS0wOTFLajJRNXJxNzB1NktuaVVuMUQ2dklfblNUSmhIMWx6QlpOLXk1RXlnTDk4U0dGUVZFSXFzYndKZHBiQkY5VmI0NTdTM1hscFRSckNFbkZ5SFpSbnJOZWxCYmhBTU9OQjRLUGVFc2JyYTB4VVVDRGlpaWxBa19rR3V2QUxobENVTVRxeGNXQQ?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-17T22:02:48+00:00",
+      "domain": "NASA Science (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "US Fighters Strike Iranian Missile Site After Base in Bahrain Targeted - Air & Space Forces Magazine",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QSGpPTC1WS2x6NVVQZXJ6aWFhdHd3OThSbU5WSmlORzh1U0lBUHdtQ3A1dldHVncyT0tERDdxRGpLTUVfWGhTRk1ua2hKYzdqSUlIVjFLYURxVGctSHBsYUxXOElLQkJxbk1DaHVWQlJrcmFQTV9WemZERGFoVjA?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-11-17T21:47:37+00:00",
+      "domain": "Air & Space Forces Magazine",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Towards a new framework for nuclear deterrence in Europe - Russia Matters",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVUE0Zmp3OEtQaXJPRWpUdEw0bkZHZWh1U2xtTHczb3IxU0psMVlDVXhCSi1BTFE3dmJsSTEtcHhWb2x5Z2lEd0oxY1NNREU2NTV1eGtzVHl6REdVdkRMUGM5bXV2c2Jkd2t4bThTMnBVS1hqTURpTnBibDBYaUxoZlJ0ZmozT3B0VmpQcS1WOA?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-17T22:08:55+00:00",
+      "domain": "Russia Matters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3RSb255WmtXVzRseHpHdk5tT1ZLTlYzRzJudFZKZHVaR2taQzdOcmQzWGF1b3hwTmZodTV6TWRvM1pyX2JtVVNlMVI3NUtyQlRVQXhQS3FJR2lhN1ZZcFZ4WU5fRHlsLXZEXzN2aDItSUppYmt0YzdVMXg4dHRHYUZrVzhRejZYcGZxRVlSMVJxN1paNGV6MzhfaS1sNTg?oc=5",
+      "category": "WAR",
+      "severity": 3,
+      "seen": "2026-11-17T18:44:00+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "NEXT Weather Alert issued for South Florida due to threat of flooding from heavy rain, thunderstorms - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaVphdE1RakJEa1RBVDg5cWFFbF9raTgyTm82WGx0QzFMUTBsTHlTUlNYOVVqQWQ2QWhSQVg5OHhzNVBGcEtYV2dWZ0hnNjRaY2d1LUZsUEV2ZzFlOGpoam13aWFZWE5UNlcyS2JJNGRRYlNpeTlPb2JvUE45YUc2RWVLZmhmS1pDUFRGa3o2c1JBa0l0ZTlZcEtxSUNFczhkV0U0aE5hTWtWbTZQYmtvU1AwMUNPdXBNNkY2WkktOUFVdw?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-18T03:49:37+00:00",
+      "domain": "CBS News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "At hearing, US Navy chief blasted over Iran war and its toll on sailors - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzlQNkRIYnBLTXZJY3o5dnpaZDJkX18wTUNhOHZuaXRkNi1Yam9TY1N2amM4dkdVeDRYQURKX1ZVSjFCS2JIdTYwUzM4a3pPZUplWDdtWjU3SWg3TC1QbFZOQmdVTE93TzRNV0JDY3YtaW96cGlEd0d3c0F5NGFPZHAwWVhwTGRwUWRoX09MZjN6aml1YnJNRGFNNGgxeFZTb18zYXBURVQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-17T21:31:43+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Florida's soggy November continues as days of heavy rain and gusty winds raise flood threat - FOX Weather",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ1Y3MExhbXJuZDA4cHU2b05TNVhuMG50WnJOanpMVTlVb0dBV1pSSXJFQkdBS2FEYnNVcmgtOHl0b240XzVIWjZQcVZrU1hzalhZMXhqSTFUYll1OUVPSUtjdzJRRDRhTjl6anlqQ3RFVkl1VlczbHFzcDJoTnIwbnNIUW1pNkHSAYwBQVVfeXFMUHdDclVRWDM0Z0tWdms0dnFQM1BrWnNLaFY4bGFUelF5cUlLVTFTaE5Eb2l1WWZHY1BoYlZPckhvUEJFVGdLNlNRVFlVTnFoY1NNczNTR0pyUndZcWRJZG5FM2RNMVd0WVhLRmw5dzZsb2pUM1lMVG9Ec1Q2aVlBUE9rbXl2cElnRC1pcUw?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-17T21:59:00+00:00",
+      "domain": "FOX Weather",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Home invasion suspect arrested following brief standoff, Denton police say - WFAA",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPamZTX3JueHdzUl80R3dTblZvbjJrYmZkMWlZRER4X0piVnlRVzRBUHJxRThFZjBBb3hSQTZvbHQ2NVV1RWpac1Z0cGtub1BHR29paGFmdmV6WWJlTGl4Mmd4VFhLNy1PQ0xHbzRia1lNRDdrZHVCVmdJWTdLdEw0ZVpsWjRLVDhLSGR6SC1rcndZSjEzQkZpeXVYQ1hpbHJIeVVZVmdCd1JVdHFxSDM3SEY0ZmJnSGljNjR2bXhMbzRxZw?oc=5",
+      "category": "WAR",
+      "severity": 3,
+      "seen": "2026-11-18T02:33:57+00:00",
+      "domain": "WFAA",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Broward cities and agencies prep pumps, patrols and canals as flood watch in effect due to heavy rain - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFd0UmNIVGtOY01tOWxVSmx5QUNIdUx6SU8wc1NiZTdJSk1lN2ZKcFozRUR4ajlhT0lXTmdtanZoN2xJM20wQm40YWhoV0NNRkFnVXBYa3JmZnc3bkVNYkNfeTUyRy1PNHlEdlpGbV9qUTJTc29XRzF4Z18xajFGd2hPR09nNFBRQnEzeE9SS2FVVmNVQm04V3BoU1BaWE9TNHNsd0trem5aSC1na01jcQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-18T00:19:00+00:00",
+      "domain": "CBS News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Iran fires at U.S. facility in Bahrain as Tehran resumes strikes on Arab neighbors - PBS",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTlVZWjRCSVZZOTdxbEJHVlVJTjVyV2xWVXdaQ2tqUmVRNFJkaElDa2xhYWFqbEcwRDlaWnpNWF9OMy05OE5mM2N4VkhRQVZHdTFUTTlyd2JUSkwxR0Q3ZEh1UDZZNDB5cmVHa1lfMkM0ZldWT1pJRmVTTWVPMWEzQnloMWY2Zjh1TDdaeHRONmIwbERZLWtfMy12Z19JcDV2eUJxZElIWDdBWW5CU1NEYU5TVjJRRjjSAbwBQVVfeXFMTm93R19jS3VPR050YTJCYXBSQ25mYlo1RXNhZ1JSSXVZdEdiYUJJeloyZHlkUnJYTTc5dGVzbmlqZHY3Tlhscjc5cWxqT1JRTHMtVHlORE5TUVpKQVZ1d3FGUjhwcDlHbk5JSFVoeXZya1lTU1ZIUW9SRkUwZ2t0akZGa2t4VEpfdEZJRS0xcFFEZGVaVGtNcWFvOWdLTFFRUmFhTXBsQ1FydjA5X3dZUHdDVmE4WnduNXVUMTc?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-11-17T18:53:00+00:00",
+      "domain": "PBS",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Opinion | Congress must stop Trump from giving this non-democracy a nuclear bomb - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDk4ckVUX1V1VmR6Y1lFR21mUzZWSzhpRkU0eE1Ec0tYUXNhdFlwRmwxRHMzbzktY0hVaGJJaTRjNmN5eDhRdkwwMTdGZDdHclZZcVRsam50MEE1TXRjczUyUE1TVWR5WGFMRU5JZXZaaXVJUGVTMUpEVllhdDdJSF9ienhiNTVpVTRDejR6QmdIMTlqTWk5SGFZRE1sZ0hTMnJLMw?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-17T19:15:00+00:00",
+      "domain": "The Washington Post",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "US strikes Iranian missile launch site on Qeshm Island, US official says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWENzVXNRVjR0NU9lejlJWll3U01GOENvbnlKVWJuZG9ZSmwtdVRXSDRPZ3JGcGZnSGhfQmYzNnFRQ0p4d2ZaZk80Q0NKUEgtdTI3cmFwb2JxT1FOamJYVllwTFR3UV9ZN2xfMTNTTFZiS0gtSjU2Q3B6dkVLUmgyYzlpcHprNXdCMEdST0RqNkdkTEgycGFEQkVwY01yWENOcVNpYWpFYlRrRG1waGlwVHNKM3h5UHBidHpMcXlkcw?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-11-17T19:40:13+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTC1nTzQwVTdkS1paY05NZFNnd2w3RWFsRWl5Vm9wM1NteWdsVXJSVGpnd3JiZnNjSHFlVlJLVmE4aXdQZ0tXV2tTWm1INzVZYmJQRkR6cGlIVk43bkZ0bmUyR1IwVHQtemdwemI0Mm8yS1BSVXBDeVFiUlFhMmQzV2pmX0w0RU1uVW1ubjBQTW9ZaXJ1OFJnYm1lLXhBTWFsaWtR0gGoAUFVX3lxTE5VYjRLSi01Y2JUZHN3Q0kxNkZUaEROMTVBc3dIUkdzVjVaeDFEZk9EcTZnUDNpb2l0TE1VOVQ2dE02Tno3UXpPNWxlRExpTzZTZTJpWktWZTZkMEVPU24yT1VFYXpVSmxxSVo4VnBfSXRmNUV2eXJxWWlLbmVfWUpCZ0wzWDZoTms0WEpTdmlnQ0NHV3pSRk1GejRqM1lVc1FfbGJUNmJyXw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-17T12:42:02+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Palm Beach County School District to stay open despite flood watch - WPBF",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmpYYVIxSV9YMFItLVNRcHdZYXpkMDNTWG1FaXQ0NFZDUzcwU0dZb1VHOEJyTHZtN0ZWbThVZ0p0ZjhXanhYNmxEQ1AyS3RaZVdKYmJsdVNxV3NIS1ZCYXk2RDlBTU45QzdfWkF0MG9YdUdIUS0tT09aMXI4d3BKa1FXYjM0d19IekljVEJUWFJncEk5b3FsQWNaTV9PYlJoQndsVUdkbw?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-18T01:24:00+00:00",
+      "domain": "WPBF",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "US loses measles elimination status amid worst outbreak since 1991 - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWJWZWI0Z0hHdVNYdHpHcXdvY0dZQTBiTG5ORUxsWld6S0pKZFM2UE1jZlhpang5Zmowdll6V0NfTDRvdlR3RzJaVE9ENDBlMWI4UzdkYVZzLUJWOUNxSVBRRGJVVjBqVVBzbFVyeVFPYk5zWUQ5QTkwM0F0ZngybGNicTJLdjZmS2xkMXNnRQ?oc=5",
       "category": "PANDEMIC",
       "severity": 2,
-      "seen": "2026-11-17T16:09:06+00:00",
-      "domain": "CNBC",
+      "seen": "2026-11-17T16:16:00+00:00",
+      "domain": "The Guardian",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "The Salvation Army Transitions from Emergency Feeding to Recovery Support in Flood-Ravaged North Georgia - The Salvation Army – Emergency Disaster Services",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMTJiZElhbFAxMXlQYkxYOWl4RXlETTM3ckNlTUVrTXNacS1TMU1mVURYb2FFYmxhZFJTQkxBSDNLdXVlMExnSUhldFdBZjlmakVzcjNIajlGdDUxWGhZcFp2SUt0bVBocUUzRnNoc296TnkxTlZMZWgteWVYaGdmbWQwSHJmVm1xYlJLUTVYa1RGQmJneURnekFqdlUtUWJSVTk0bEw0UnVrRGxFci0wSHNRcWQyVGROUXdyc1hXZHp0RWh1M2s2SjVkUFR3cl9NbTBTMXNXSnNTeFc5S3ZnSWJqcw?oc=5",
+      "title": "Juneau extends its glacial outburst flood emergency declaration - KTOO",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWXg1Z1JNdEd0cTVnX1U4WFdwSXExYW9JYnAyN2VieTZJSUdrRUJIdkItZDlad0FoWXV3TERFS2JTVTJZYlMwak1fdEFoNFp2XzBQNGxFOEJiTk9tS3JPbnVMVk9jaU0wQzNMdlBHbERLd2ZLU2JHeU9ZNmRpVDlBLUdXeWswYUlIMm8xVmJwZnFjM3E0Z3gzVlgtX2c?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-17T21:27:07+00:00",
-      "domain": "The Salvation Army – Emergency Disaster Services",
+      "seen": "2026-11-18T01:09:39+00:00",
+      "domain": "KTOO",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "5 Freeway north of LA under a flood watch Thursday caused by heavy rainfall - Orange County Register",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT0tWcVJkcWhQX183R0dvRmh0YUh1Z1ZfS2pTbl96Ny1yZ2I5RjMtLTlITUxFM2Y3WmhPdTdZZDBjS1ZxOVF5SVpRZDJLTjRIeXBsQ0tIak94RUVfZk9nbGFVN1RMdXduSno0aEVqRkhSRzAzcmYwZkpfSVdibU5LcG5hQjNNWWtBU3JHYU5NMy1hNW5sdDEyX1FmTUJQMTlUNzhjdGUzbUM4MWVtUERBb3pjNlE?oc=5",
-      "category": "DISASTER",
+      "title": "26 More Measles Cases in New York, but Outbreak Appears to Be Easing - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2JJck9aQ3Fxckx3ck5sYnViZ1ZCd2l4ZWlzWkM4VUF6eVhOZm5BdkJyV1lfbDhXQmVUaUIydGhmTW0ySHZsQ1B1c2ZWWEg0SllaNHJMbnhGRWs3VElFSEY0RGI4akw4SHNSVUNkRmJaUEhpXzdXZlJSYjRJZERvME40V1lwLUk?oc=5",
+      "category": "PANDEMIC",
       "severity": 2,
-      "seen": "2026-11-17T20:16:42+00:00",
-      "domain": "Orange County Register",
+      "seen": "2026-11-17T23:39:56+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Department of War Invites Seven Industry Teams to Participate in Phase II Directed Energy - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeWNrdHVWbk04OTBjR3paSWtnd293MjBYYk9Uc0VwSjJhZHhkTjJQM0ltT1JmOFEwMzJOSzBqemxfVG9TellWQXIyTEdjNTdsUzRsaXF3VzRRejF1bXRaZnVJUjU4eHZTYjBabTY0TmhMVlBDaG1Yd0VKYzl2bmNBTW85MlA2OHhNNkVPXzd6Ui1sWnRKdm16d0RldmF0LS1VaXoxcXFXYTNkNGxjV1NUbl96MHFEVDhrcUhCVWxueV9icnZDNE5tVG1DTVM3b2s0ZENQUA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-16T15:02:20+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "U.S. Enters Unprecedented Three-Way Nuclear Rivalry With China and Russia - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUlBHZjJiSmNBeEJWWllmTEhCenFVbjRnS0JqS051VERpNkJOM1hLSC1LTm9GNVhsaVZDVUdSaW8yX2JqU0MxTG51U28yY0Y5dWdlVTIyclpHN3YydTV5VkpJMW1MRHhCTkNXYWNjY1g4Vk9DUXc0NDNkeVo3NHFtVTloekRoaGtHa2xCV0M1ZU9wZXozaVpzT0lsSzNua2xoZk41eE9WMlREdlE?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-18T03:00:00+00:00",
+      "domain": "WSJ",
       "language": "English",
       "sourcecountry": ""
     },
@@ -405,6 +385,26 @@
       "severity": 2,
       "seen": "2026-11-17T21:30:00+00:00",
       "domain": "WKYT",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Measles outbreak confirmed in southwest Michigan - Michigan Public",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYmlfYzN2SmdFTHlaQkNvT0dLWlRqNFBhT3pfNUtVbHhvQ1l4VjJ4X0pKTlV4TjNrSjNuSW1sYWRfNHNrM3FuM2VLeGlHZU5aS3RON2xMX3RRNTNYa25wMEFmWk1sQ2dqYjI3ZnVDSGoxaXptMXBoQ1NZdVZXSGxZYzMyeFRjVVkyaFdkVm50SnZmWl9uVTMtYnJRMF92UQ?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-11-17T22:42:00+00:00",
+      "domain": "Michigan Public",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Congo's Ebola outbreak is spreading and killing at a record pace - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOEFWMzBNRHVFZGVza1RSRXBVZkxZZlJuUmI3cDYzc1Z0RU4xTmZvM0lWZzBTdFRCXzlaUURKQTBRX2FBakk2eWtXN1JYelhKNjdvRmd1TDZxUFJCQ3puQ0lYOW5aYzd2cmF3YUxCaGtONUE4YXJPc1VRQmY0dGp1NjBZTzFSYUJUdHFramt0SEV1Tmx5TGVlUG1hVHlFbjh1WTdvUWR4N2NCRExCT1lVM1FUZjFiM0ZPeTkxTHJ5Z2w2M3pK?oc=5",
+      "category": "PANDEMIC",
+      "severity": 2,
+      "seen": "2026-11-17T15:07:29+00:00",
+      "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     }
