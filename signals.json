@@ -1,13 +1,43 @@
 {
-  "fetched_at": "2026-11-19T03:29:16.895027+00:00",
+  "fetched_at": "2026-11-19T13:09:13.811089+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
     "google_news_items": 35,
-    "lrt_english_items": 8,
+    "lrt_english_items": 9,
     "errors": []
   },
   "items": [
+    {
+      "title": "Nausėda says Lithuania can still establish military division by 2030",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3119209/nauseda-says-lithuania-can-still-establish-military-division-by-2030",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
+    {
+      "title": "Auditor: Lithuania needs higher defence spending to meet military goals",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3119081/auditor-lithuania-needs-higher-defence-spending-to-meet-military-goals",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
+    {
+      "title": "New poll looks at Lithuanians’ beliefs about Russia, Ukraine, and NATO",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3118292/new-poll-looks-at-lithuanians-beliefs-about-russia-ukraine-and-nato",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": null,
+      "domain": "LRT English",
+      "language": "English",
+      "sourcecountry": "LT"
+    },
     {
       "title": "Lithuania offers US defence startup Mach Industries fast-track investment conditions",
       "url": "https://www.lrt.lt/en/news-in-english/19/3118088/lithuania-offers-us-defence-startup-mach-industries-fast-track-investment-conditions",
@@ -29,26 +59,6 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "Lithuania’s army chief warns radar may misidentify drones, recalls near-shooting at plane",
-      "url": "https://www.lrt.lt/en/news-in-english/19/3117103/lithuania-s-army-chief-warns-radar-may-misidentify-drones-recalls-near-shooting-at-plane",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": null,
-      "domain": "LRT English",
-      "language": "English",
-      "sourcecountry": "LT"
-    },
-    {
-      "title": "Lithuania’s military chief suggests building physical barriers along Kaliningrad border",
-      "url": "https://www.lrt.lt/en/news-in-english/19/3117079/lithuania-s-military-chief-suggests-building-physical-barriers-along-kaliningrad-border",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": null,
-      "domain": "LRT English",
-      "language": "English",
-      "sourcecountry": "LT"
-    },
-    {
       "title": "Nausėda: Lithuania may consider closing border with Russia following plot in Estonia",
       "url": "https://www.lrt.lt/en/news-in-english/19/3116219/nauseda-lithuania-may-consider-closing-border-with-russia-following-plot-in-estonia",
       "category": "CONFLICT",
@@ -59,72 +69,172 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "Hybrid warfare in Europe: sabotage, cyberattacks, agents at the service of rival powers",
-      "url": "https://www.lrt.lt/en/news-in-english/19/3113117/hybrid-warfare-in-europe-sabotage-cyberattacks-agents-at-the-service-of-rival-powers",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": null,
-      "domain": "LRT English",
+      "title": "Historic UN ruling that Myanmar committed genocide against Rohingya is rare victory for survivors - Amnesty International",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTU9rUzVlSXRWX0EycDBpYl9XaFlYbTRRbWd2Q1ZNV3ZNM1VsaWo5YnNGQURhNDNJcS1HcFJaWlJYbXpzYm0ybU1md29iQzg0TVZvQjJBd042TVdPTkQ0bVpWa2tNVTM4VF9xSC1neW1ERkRuYzU4MTZVMjBJSEJISlBfM3dTQVZNR2RqakxiWnl4QVRXa29XQ01lUXpUTFpRazZLMDhBOHhTWkNLMk1LQVkzWWZIZF9SNldESkc0eDZwQVdQWlRWbUdwbHU5VDFjMmh4VkJ2bFlhTGVMeXc?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-19T11:25:59+00:00",
+      "domain": "Amnesty International",
       "language": "English",
-      "sourcecountry": "LT"
+      "sourcecountry": ""
     },
     {
-      "title": "Trump Grows Frustrated With Vance Over Iran War Critique - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3B0SDctTm9DMGNCbXNLM2VOd2prWE1aZTZfT242MVNtUGRVeWRUemVHRWZMSVhGM0J0S2xxMC1XRWRvMVB6XzN3VGJfTDdDSGtGMTlSMFpVTlM2ZGotaW1JZjBaWWNQZmZseEFFUFBxa3hnRDQyYnB1bzVUWXdPcDJnZU5jLTUzVUZJYWRsX1d4Zw?oc=5",
+      "title": "Governor Hochul Announces Completion of Comprehensive Advanced Nuclear Master Plan - Governor Kathy Hochul (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaTRkYVd0UWNkTkpHSzZ6RWpjNGx3blVCMUhGYlF2S18yQWQ0cG41ZFdVbUlqWDM4YklaazQwQmM1OFNiY3dla2daTW80NnVzV09pc0Z6cTRvcDZFWTU2MU1aOUR5dWxUX0JvNlp3TGJZMHFXaGtDQ2RPNEh0cWY3dzExaS1MWkdPU2c3RTJ4TE4tZEMtVEJhRGFEYXRRVUNmUnpqVkxURW9TRnJIQ21xZFlB?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-18T21:53:46+00:00",
+      "domain": "Governor Kathy Hochul (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "World Court Finds Myanmar Responsible for Rohingya Genocide - Human Rights Watch",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUItaVZHcUt1bEd0VzVGNG9Wb21xaHhRRDREMG5zWHZVYUFHcEJNYnctR0dEQnlYZ20wWVNya2FMN0JRcTlybGw3X25PSzcwZXYzVDI1RFA0emo0N21lR0RIcGN6OHZPLVdraGRPUEJGMDIyZmstM2pUUGpOVlp3WjdiSVU3WmVrVzZucnI1R1BKZXpVOURNME1WSQ?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-19T11:30:00+00:00",
+      "domain": "Human Rights Watch",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump says U.S., China, Russia ‘uniquely positioned’ to discuss reducing nuclear weapons at historic meeting - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbmxtN3dYVWtVYjVSUXBGeHRLMWtINWt4bXBOTzF0TUliSTJBZXByYWVObXNQYklDNTRfNE5PUVRUSk1jd0xBM3dXemtuTldWVnp3QXNmNlNrdTRraXRmY0stcmtBTEFhU25WTDVsd2doVnUtSWU0SnJUaGppZXotcXJB0gGHAUFVX3lxTE5kV25yMkhOSVMzZlNqWkpTLURuTmt5d3FTWWwwTVRVcVlCSDdVYmxqSWFSYzVmUE9RRFFwT1RmVmQ4bmUtaWNITzJ5XzJVSmcyc2VrdkE5cTR4SDNZR0tENWowdDZxT3U5RkNsbWljUFU2ejJxZHlDRWJ1RGRDZk9qUVIxZlJjaw?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-19T08:42:26+00:00",
+      "domain": "CNBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "The Pentagon Urgently Needs More Patriot Missiles. It’s Running Into a Rayon Problem. - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BOEozME1HbXpIc2tEZ1RVNjE4d21GWGpVN3dZUXU0aEpDU09rS0oyN0FNRjVKU1lPbTN2NS1nQ2F3bGxHSlB4V1RBMkFOLWNKWGpoTm1TbXdNSzM5T3AzQkZmbXpXY2l5eHBtZTZhYUlBQU1ISzFVeHpabw?oc=5",
       "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-19T01:23:01+00:00",
+      "severity": 1,
+      "seen": "2026-11-19T12:10:20+00:00",
+      "domain": "WSJ",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "What to Know About the Myanmar Genocide Case at the World Court - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMHJpYkFmNFJ4WWUwUDA2YU5nWGJGRUFsZnZHOEtPSndaT01CYTI1MVNVWTdDbG1PSFJYTWgweXBNb3ZkeUx2RWNGZVpERi1WNzlxRTNVbEtnRU56LVJrUG5fVXdCaWdKeS1JMG1Rd1FuZi0zRmlJdU0zaHZrNVBJZ3ZoRVRlSnMwNVh5Vms5SlJ6YWN2Ri1fNmdRRQ?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-19T08:58:00+00:00",
       "domain": "The New York Times",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "How wildfire smoke damages the airways - Newsroom | UCLA",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fZ3VPYURjRDV0aTZBVFJzLTFRQzVqOVY0aUFOMWlrRkdsak9RcGV5RjY1UmF4VEk3SEd2NGJfR01oeVdlbE10Sk1aOFhrR2FST0JhcVJ2RE9aYkMwaEYwWVZXM0R0cVlfUHd4WEJlbzZiWHgwMXNj?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-19T01:19:25+00:00",
-      "domain": "Newsroom | UCLA",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Two-Thirds of Americans Disapprove of Trump’s Handling of the Russia-Ukraine War - Pew Research Center",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOG1hX1hlajBaV2FvOXpqN0V4ZlI5anNUbGdmOXhWUmNIcy1aUy1uV0dJY1lOUkxKcnFGLTFIYV9YVTA2d3VtMDB3d2xnd0Q4YUEtYlRlVWVPbWZ4elZjb0N4enFpS3BEdTJPLTJseEpINFRVSldjdkFYQ2tkMUFGQVJCMzdMSE56OGhqTEM4ckNON21ZWlg3cVg3VTJIT2Y2cjlhMXc1MGFKVjBKLVR0WDEyLWhyd3dKVGNwNURKb21KbDZ2UzFkU2lxbw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-18T16:56:09+00:00",
-      "domain": "Pew Research Center",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "UPDATE: Flash flood warning issued for Monterey County Wednesday evening - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwMkhlLUFkb01aSlFJZHlBREtVV3FQa0xXZ2ZqazI0TEsxZHU1SUR6OXdhaU9sN0dwZV9La0Y1NUkzVG9nenlLdVZQSzF6R2tUbnpLdHMxMUxrSTRJOU4zZTk1TzVleTc1MGtkTUE5Yw?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-19T03:00:06+00:00",
-      "domain": "Sacramento Bee",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine war briefing: Russia asks if Netherlands has joined conflict after Crimea bridge strike - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOENUX1hEa09FRkEySGhZbmYtbDJrNE8zQmg5WWswbGpBTGhPZEF5YWxtU1laU1F0SFU4Y2Izd1NYcDhlaWF2cGNwMWZuYmh5bUVRdlFnNWI3alp0Y0tpYnJ4am5TcW1RVE9oNm82UXJhc3h6NE5ZcXd2RHhvV21wSGJNLW5rSlVuV3JWR2JsdG12Y00wak9NUG9ST1UyMHl6Z3RDZ3dsSEZHRDh6Q0MteWkxT0dWUGU1ZHRHYjNXM3dBT2Y3UlhUNzMzd0FmSFpDQkFZQg?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-19T02:16:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "U.S. Enters Unprecedented Three-Way Nuclear Rivalry With China and Russia - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUlBHZjJiSmNBeEJWWllmTEhCenFVbjRnS0JqS051VERpNkJOM1hLSC1LTm9GNVhsaVZDVUdSaW8yX2JqU0MxTG51U28yY0Y5dWdlVTIyclpHN3YydTV5VkpJMW1MRHhCTkNXYWNjY1g4Vk9DUXc0NDNkeVo3NHFtVTloekRoaGtHa2xCV0M1ZU9wZXozaVpzT0lsSzNua2xoZk41eE9WMlREdlE?oc=5",
+      "title": "China, Russia and the US agree to UN reforms and reducing nuclear risks but no major breakthroughs - AP News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-11-18T15:57:00+00:00",
-      "domain": "WSJ",
+      "seen": "2026-11-19T12:57:00+00:00",
+      "domain": "AP News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump claims Iran is developing bioweapons: Is there any evidence? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSkVwVkxCTGFrV1g3UXk0R0xScDhlZWk4LU9HWWkxazNZLVFVRnAwbWdaWmRHUDR2aUxOQlN6dnZjek1CWkhFZG9ST2t3R1I2WVVpU3YwVUtHYWFMWnlDQS1GLU1iM3pmNWt0eTlQQXYyblJhZFZKUGZRZ1c1VG5jRUtRMVB5YlB5Nnc3dzBFNGJ2RW12MXU5b0VCOFhOV3ppdjFTT3FzbzI0QdIBrwFBVV95cUxPOUtWUVFBVEJRNmQxWjRLaENMZUM0aXpSY1JBM1ZyckFPSWlsc3liODdLOTEyNWhwZUVUVUtSd3A4eEVqMHN4WG16R0JLNjZ2cm5mWjd2bTVTOTQ3NS1Pd2pHSnRFOVF0X2xsM0l5Tl9nRG9sM0wwOEp3TzJfVVNVSmpqd0dYNXdpWkN6WFltVG5LSTl3VVdxbTR6c1dmNk5STWpBVEZyZjc4ZjhBc2xZ?oc=5",
+      "category": "BIO",
+      "severity": 2,
+      "seen": "2026-11-19T11:48:45+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Top UN court rules Myanmar committed genocide against the Rohingya - NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOHVhOXZJckQwZHVKTl95bzkyLU8wVHhvUEFnQnZoTHlkcVJ3ZC12VUlwZ05ZMU9oc09LNzBsVjJQTDhkMEU3V1lIZ1ZFRTcwcEx6MF9oRGwzb0lVUm0xWGpKVEpwOFpyMXhrS1ZIdnR2cUhrZi16eWhKVFpvLXlrNVpacw?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-19T12:29:41+00:00",
+      "domain": "NPR",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Heavy rain, flash flooding threaten Central Florida as storm system moves through - WESH",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0NxeURtekl6aG5EMGVrdG50UHR6ZXhIaWQwN25mTE5ldVVtMkJDb3FxWTgxVlZPbmt2SDV3a2duckdwYk1ncVAyT2hNM2tKeXVXaHVUdXpNbDNIMlZRQmN4cHVhaGxzWjNYelN6NHRieHVBZFpsQUpLUWg4YVM5V1JUSQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-19T11:09:00+00:00",
+      "domain": "WESH",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "UN top court finds Myanmar guilty of committing genocide against Rohingya minority - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWkxJZ3ZYcV96ZVltVE5YNDVVMFdrcWNicHdfcmFvNzRrUHdIeGYzNEZKaXFmZW1yVUhWMThQZU96Y3RreEU2U2pmTU54Nml4VV9iQnkzN3Z5bWJWOTk2TGFWZ0xBcnZ0NXRQdUhGTGZ0dEdITWZER1N2VnduS3VXbTh1c3JJb0dO?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-19T11:39:59+00:00",
+      "domain": "CNN",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "ICJ: Myanmar committed genocide against Rohingya - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUY4N0s0LUQyM3k5aXRSaGRrdGFCVDJEUUlhVmQyZUhUM3ltSEFMSW9OcXplTTJoZHFpZkxpSEZ4bTc3ckJ2MExYQUVSRXFqZzFSNW53UXd1OGY1QVhrWk4xZVprLXFLd0JwVGdoYm1pZUZtRElXZmxrRVd0ZGV4SzZJbUtrXzjSAYcBQVVfeXFMTUd2aGN3ZG5CenZaYUVFbTNLOVNPVFBGVFZ0Wk1EaUFkdUdEYmJTMG5DcVZiZzVhMk5ER1ZXVlB3cC14ejBZcGFNZk1MLUtZZ1pzRFh5TVZjUUVmZmxuZ0ZZR1B0UjVSNVJtbV93X1ZuNmw3Z1BxQnZ6dEpTVElyeVhvajZLMmsw?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-19T11:57:01+00:00",
+      "domain": "DW.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Shutdown fight takes shape as Democrats target Trump’s Iran war - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQmpxQVZsLWFmNnQ2WTl6ZVNzb2VUTlhVOUQ3SFJqVW4yNmk2MHh5ZDRCQVh4aVI5RlJkc3FVMmVWT3hub2dvUGVwTTZxZWZaY0trTnRSWVVvQlJRLTg3U2psRVByTGp4bm1tREZ5dzE0MjNSMXFMRWJJV2JsMWFPWF9QekJ3QXdxWklGZG5ITDBGUQ?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-19T11:00:00+00:00",
+      "domain": "The Hill",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump pushes for three-way nuclear deal as Russia and China show little interest - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWFsY2NGRl9SNFZaWGZyYmsxUjFWQ3VpblZGOUhVenZjeDF6TFh4b2JBQmlzRk1WWDVldTlPdFNXdFF2N0tWXzc1QUZaR1Y4dzJfanVMRHNrVHFrWlB3eWY4alF6eEJEUWFYRXNTb0J5Y1ZZUGtUZU9fSHM2R0t5WUZ4ZHBNeTBvWnQyY2M2LWlSZDV0NVFVZmpOS3ZyLWtzN010dFNCSnhMWDJ1eXBXWlJrTlJadw?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-19T03:46:00+00:00",
+      "domain": "NBC News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEdpSVlfTkU5TU05bjNlelhReEhNLWdNZ2k4MGNZQ2dlaDFiS1VxSTJ5a0NubVpwZWE4YVBSczBKQXd3UGs4S2c0TzNhWkp4WTR2dmFMaFVKdXZJYXlQRmR0Z2RDOG1QWTVEMTZaa0FTTHZKOEFmbDF1VnBic2oxeDFQbTM5OVVjQWFQWE9fQ2dmcUpSRktudVdtOVFXVFNaQjVRbzQzc0NESGstdkR4eGVVRG_SAboBQVVfeXFMTWhQNlRkYk1STmpVcEN0SDBLamdUdUpJQi0zOU1FRUJUSDYzZ3dra2gxM1dzOFQzbVB3M2hDYVZJWmhLZW1nODBOUVV3NlBHSlFNV19acmVkdWF6Zmh4VmRqRmNBTU9wdFZjc29yMFBvSXhXQzh2QWdWRzFDVzZiTkpDbkRUR1RxemxEcEhSekVjU2hncnd6Sms2cDVXVHlzdTEzQWpNTGxrVERDZ0k3a2F2M2w0UjlWcnpn?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-11-19T10:37:24+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "How the War in Iran Will Remake the Global Energy Order - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yU0FMWnlOQ0Q5ajRGOTRXcGczQzJkSmo5VzlBOEJCOU9OVlluNXZNQmNTZzFlN0dLV1N4b1o0SmxBTVBka2EyejU1Q2xkVHRnWGRjUl84LTRtSlJpUU9sSjBYNERPbk9RNDJWOFBrZm43UHM?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-19T10:27:38+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmV3ZHFqcUdsMFBzaXBCa243Y1Bua1pja3VXUGMyaHc3NUpCbktpT3FybVZTTHh3MFJTSU9QckpoRE5zNzRfWDQtSU9Wd1dhdlUxR3VGMjV2VlhsLWZPRl9paDhWaWlQZUZhUGlVbWtxc0pNNnlDMFFaZWs3dDQtOTJSUzVnMzFQN1hUWDgzNV9rUWFncUlZREhsbi1Lc043a0wyMWV5MThpU0lNS1E?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-19T11:08:00+00:00",
+      "domain": "The Guardian",
       "language": "English",
       "sourcecountry": ""
     },
@@ -139,12 +249,42 @@
       "sourcecountry": ""
     },
     {
-      "title": "Trump’s dream of a nuclear deal meets reality of unwilling Russia and China - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc1A2b3F3RXVBN0F3R0hyb3BjN3JiZXk1Sjc5Q0N1dlFwRXhXRFdUaHJjNEpmeXhyTkhvT2JDRWJPYndSLXlTZVcxMkRfTDZZQzNvbmRQZEpfeU94MEIwMnd4XzByNE5VTTVEYmRWbjRlX25QTXRnVXZ5N3ozNXQ0YkpfazQwdVJrbm9pbUs3QW5kNWwwdkFJeHFON3V2MjNzQ3BtZVE0TmFMTHZscnZ5OTduTHZOeDJzdi1yRWtyQjFhWkc4?oc=5",
+      "title": "Military officer seen carrying Putin’s nuclear briefcase - CNN",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlVuRks4V0dGQzlScTNid29UdzA0ZmxzRVRSR2VXX1JjekpmMEdnaXpuOG9iQnpxdVo0YzFoOFl6bE5kcWdYLVJWbjgzN2k2NWJmUlJKT3hVNkhUX3RxcjhvUXhoVm9CQkswN1FjM3FfMjdLMVpFNzNMU2M4YjJ5Z0NTclIwbXR2OHlYZnJMYjlZUktvT1ZuUnhEbUx0WGpxdUlhblJmSU1oMS1CNGpzcg?oc=5",
       "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-11-18T18:00:00+00:00",
-      "domain": "The Washington Post",
+      "seen": "2026-11-19T06:30:06+00:00",
+      "domain": "CNN",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84Vi1aVi13N1FETHdkbnpZcWtOdmlTRzY1V3h1dDlxWjh1Qy1pVXpYZlY0WENXTzlVVFBHMTZFcnVWUDVReTdSQm5Wa1VKNmxpcFIyeHJaNkpTeW90TDh3TXYzSnZ4WFI3aElsRWlHVFrSAXZBVV95cUxNRXA1WncwREE4MW5Wa2U3SkpyVUlsVEJDUHFBbVIxd1FCNWpEOHRoX1pDWGhzdl9kZnN0M1ZMdVVRNlM0bW1DRXhmeVRPcGlNQnFtcjg2U1lmVEVmX1JaZkNMMFZjcUdwVHR3Ri1rNTZvVTRBbUl3?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-19T06:27:40+00:00",
+      "domain": "CNBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hTVBjZ3ZTR2x5c0NaYmhGUl9VUUg0enFwUWNmUW9RR0hNSElNN1NfRWxMRkdDWkx6UFZNY0xlMG9WNUJfU0V4amltWU1WOGN6Ykt6WVktakgwaG8?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-19T11:07:37+00:00",
+      "domain": "BBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump urges nuclear arms control in historic meeting with Putin and Xi - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMTZHMzZLNVV6YTlWSl9iVUZzamdQYkx5ZURWejBxRU5oQzJzZUJJQTQ0RVBCRXVfalhPX1RzR0ljZktBdEUzRlJXZGc5SmQtUmJNTzNEeGtSYXg4d044V0ljNWp4ZkVzZmQ2VXEzbS1OZlVCQlVUUnRWSlFnNXBGeHpFTExIZ01SbEZ4UUYybFdLbHEwcW1ubTNpRGVYT1ZNRUE?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-19T12:44:00+00:00",
+      "domain": "NBC News",
       "language": "English",
       "sourcecountry": ""
     },
@@ -159,56 +299,6 @@
       "sourcecountry": ""
     },
     {
-      "title": "Contracts for Nov. 18, 2026 - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWWpabW4yQUhsY01qdE5FbTJmOGV3NHZoX1VqQmhRdWE5YzVlVFMweVBKckduSDNTVkt1RGtVTnplXy05VURCeDBIMlhZM0dya3VRQUw0OE1DQnNHcEpNbFFNeW5OXzJWZ2ZabWU4bXl6cXFZS1Q3V2hxekN4cWpjRGtqcHVCcV9rMHJwZ2syWQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-18T22:21:17+00:00",
-      "domain": "U.S. Department of War (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "US Navy used expired munitions during Iran war, Cao says - Navy Times",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONzlzN3hQWVo3OUpOWVhyNGgxeDV5ZzRVUzh0ajFaVmVrRVlqZWxHQTI4aVhia01RdFJQZ0ZZVGoxR0dCXzR6eWh2UHdZNnlaNFdPYnVTUTNBWjFDaEdkQTg1clU0Mm5xWEUxRVVXWjl6bmlVOGRqTEdRaHZLY21tSE5fM2EzMTQ5WDlDaWZCTmhkRndaN2xIR2hSTXI2NDg?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-18T21:05:34+00:00",
-      "domain": "Navy Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Flood watch and strong winds in South Florida through Friday - WPBF",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY2x1TUlSY05aMnJmYk5Rck9uNVU1QkxVYzJKS05Nbm9VOUhzTEg3RVhGY3JWTmxxcldDMWZXdWJkRmVXdnVnREhyU0FQTmtGQkZyckE3Q085NEw3ZExNYkNoUzZybGVGWW5sbXczby1wWkw0ZG9KUmFCMDZ6UHVEdVRyaXFfMGI5TlE?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-18T16:08:06+00:00",
-      "domain": "WPBF",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Nuclear Energy Coalition Urges Congress to Advance Spent Fuel Management - The Breakthrough Institute",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlVKbXVtRTA2bWw3c0xLWE0yRzkyXzVpMkJDWUVtUTFyNGFGeGQ5UHdKc1hDQXdHYW55QjcwSDJIR0Z6bG5obkRiN0FaajluRDFGYnhVQ1FSaWh3MVdVOFNwSDh1bXZoRG02cFBDNHgwekhfTlFDZ1NwWGVNeWYxTkJ2S1hDNE1lYkVkenI1a1VNYTZ0X1RTZlhLM3pIUXltaFBpVUZzZUJtNGotWW5RSXo1Zm03c2Q2SHdXMkRlVzdGWGQxdWtDZW5oX2drUQ?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-19T01:37:00+00:00",
-      "domain": "The Breakthrough Institute",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Israeli tanks roll into central Gaza in first ground operation since ceasefire began - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMXNuV0liYTFjVTV5bnVKQ1huSnJYcDBPcklJMWd5enVtMWlGU244aGRMWkFlTkF6cWpHLXk3S0hmVl91d0YxRFVFaXQwdjRXZVZjOXFtUWFpVkhBSjc1dzNfUm9DbVFXTGFuNjNYdjdpWDBfd05IYUtiRmN5YlFzREl3R2Q5d1haOG9IQlJ5c2RBZW5qV3ZENkZOVmE?oc=5",
-      "category": "CEASEFIRE",
-      "severity": 1,
-      "seen": "2026-11-18T18:40:48+00:00",
-      "domain": "NBC News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "Trump Weighs New Strikes on Iran as Israel Presses for Action, Officials Say - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TOTFWdU93OVF0V1d3QTZ4elZ2SHRiV0RzRmxjM3J2aTZuR3RyNlRWVmN2akRqUTcxVGpRM1dOZmFrelB4cGw3eWRha2F5TmI5SXpRdDFUZEwta3VSTUxQOTd3NGhGVnY1VUlnaWdVazFLVGhpUmlBck9xSmVzdw?oc=5",
       "category": "CONFLICT",
@@ -219,182 +309,22 @@
       "sourcecountry": ""
     },
     {
-      "title": "‘Status quo’ between US and Iran could break out into war, analysts warn - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGNDR0Z2Z005TDhGUFhZRXRTU3FkWTUxUmdURHFsaTYzYTBDbF8tUjFvLVJSWUgxa25pbnBZZjFUMUd5Rks2T0VRYVpZendaTThLWUZISlA3NVIzQ25ZdjFya1dEV2NvTUdtZkx0a1dPWV90RUQxSlk5aHdUTjRvZU9sWXduVHJnOXcxZTVPRkFrSGJyZm82OG0weTNydlBIcXNtUEpDc2kycGN6d1h5ONIBtgFBVV95cUxQWnFkWE9kZXQyLXJYaFNYRlFnbUdCZ2tSck9NRlhJcmF3R0lXRGpuTlBOM3ZkQm53c0lVYmoxQ3pUTlJuQ1VJbFViX2QzV01aMkU1U2hsc2RLbjhQcFp5Z3FCQi1RbnpkQTV3UW96dG5qbnl6Z19sVjhGeFpubFJjNGlpQmlWRlZsUnRTbFc5cnNzM29JbGxJQzEtVjhJMTNwSWNYRzhqc2ZlbVpPTDdpdjlmMHdlUQ?oc=5",
+      "title": "Ukraine war briefing: Russia asks if Netherlands has joined conflict after Crimea bridge strike - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOENUX1hEa09FRkEySGhZbmYtbDJrNE8zQmg5WWswbGpBTGhPZEF5YWxtU1laU1F0SFU4Y2Izd1NYcDhlaWF2cGNwMWZuYmh5bUVRdlFnNWI3alp0Y0tpYnJ4am5TcW1RVE9oNm82UXJhc3h6NE5ZcXd2RHhvV21wSGJNLW5rSlVuV3JWR2JsdG12Y00wak9NUG9ST1UyMHl6Z3RDZ3dsSEZHRDh6Q0MteWkxT0dWUGU1ZHRHYjNXM3dBT2Y3UlhUNzMzd0FmSFpDQkFZQg?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-18T14:40:16+00:00",
-      "domain": "Al Jazeera",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMnVuNkc1OXlhc1RYRmEwZTZIRDF6TmVMY2pTdnE4clplaDBDTmwzMkxFZVl1MmxRc2JBV0stQzFVR3gtMVl3TVhVOEh4TVF3aDR3aEZoT2NQQTZPazZPZEU3ZFU2MWFCVjFidXRIT2FFcHd2NFZzRTdyczNnY0M2Yg?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-18T10:03:56+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Artificial intelligence: loss scenarios and claims developments - Allianz Commercial",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFkyRGRTMThfdHUzZTFzRVBSenFIM0ZaMFlhbkxvV3ViNkYwcHlaN0xHRm5TYzQyMFhpX0VNczVzblkzNnVxX3B1eFRDR1ZZUUY0ZzJVaFN6R1lGYVcwRmhYbVhfN29BOFFvZGVrVjdIaS1oV0tIbnhNSWNfaWdUMUR3VmtDMFBlUEJDX0ln?oc=5",
-      "category": "AI",
-      "severity": 2,
-      "seen": "2026-11-18T22:57:48+00:00",
-      "domain": "Allianz Commercial",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump and Xi could pressure Putin into ending Ukraine war if they want to, Zelenskyy says ahead of China summit - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXJnU09ZWHl2TjE0d2U4Nm1PUGZqTk9TcThHRm5KVmFhaVVTQkhwdU9NTTdYQTFGRS13c2dqTHZFU09ZTldSYnR4UUdPdlhRMDgzYmJodWZKT3VXUXNmZXFJYjdac1lHRnpRWEVDNDZPZVVvT0dVOHdYRk5oeWtkc0pMOUJsOFZUZzlnUnAyWkZTbDJOZzlfN2hnTC1fa21rNlVTTE5abzBvQQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-18T17:25:10+00:00",
-      "domain": "NBC News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTU1EdklyeEdxbTVJV280d3ZRYWVNamFOSjJiY0Z2SHVaVVlKZW9sa3FMQUVHMU5VSWgyWVZhQmVaUmZmdnNvbUxxUzU0aTVRMFkydGs5V1FLME5YeFNVcXAzVEFjcmVxajJmLW1xZGhGbngzcV8xWnJvWnlCdEFydVE0akFHbk9qd0tjTUNPckdhem5DMi1fellPV1Q3ejY3NWpHLU92LVg?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-18T19:15:00+00:00",
+      "seen": "2026-11-19T02:21:09+00:00",
       "domain": "The Guardian",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Top UN court to rule on alleged genocide of Myanmar's Rohingya - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGtSVDRwdUtMc3lyTmxTN1FCam5Fai1UaTdDZ1E3YXM4M3lfZk5yQXduaF9Uc3VjSVJuSzRwOG0wVFY0LURKWnVlR1gtNWZHaHlWaXBmazZlVzh4TGZHb0VfM3NTSHFZS29QMTlZV3Y3dm1GVmJzcHRQaW5yaTJacmV0ZnQ2Z0JrYWxIT3l4UUdTSDlDTnlLaTNERlF0NVF2U3lHR29tdWdabGc?oc=5",
-      "category": "GENOCIDE",
-      "severity": 3,
-      "seen": "2026-11-18T23:27:04+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "IAEA Mission to United Republic of Tanzania Finds Commitment to Strengthening Nuclear Security - International Atomic Energy Agency",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd1B2Ujd5R3psY1FveG96Vzc0X0dMRF85Z3h2Z0tUYlJabVJuTjJpdGdVZ1k1MDJDYjRPWFJHQlJFd014Z2p6eXUwSG12OHBsck4tSWwwZi1IXzhKWmdQM19JOG9GX0ZNbVpweVV1VXVfMzBZQkRtMXVkMlZEVzlRdHAwUktndmQ4YkRySkUzbFNrMFJQblVkUGhRVGZEWlFzckJORnNjallhOUZ6X1dhMmNyLS1CTWlJbVJaeXdNMW5oYkpmcDNqdW9jbk1YWE5DczlvTkxB?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-18T07:34:18+00:00",
-      "domain": "International Atomic Energy Agency",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "2.4 magnitude earthquake shakes Rowan County late Tuesday night - WCNC",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd3FSc2s0ZXdSZmtCOE9jWURiVFk1c3Njck44T1pVWERmbGtIb1NIZmZNNFY1Tmc4eF9vRjFjN2MyNDhaUXBDVkVMMmVjakwwTHBIa3pVdVhtc3Qzb3RabUdNN3c4X3ZJTkpUdUZELWxsREItZUVQOFBzT3BaSkFLQ0g3ZW1zQXlOQnVjSTAtZHliNU1vZmM1RlJnT2tZTWxzR3AzZjdrWlZtMGpJVXB1TTl3eGZaczBFbXE5S2NJaXRVekZqWXdKLV9idlJnUUNEWVdiQTY4SnhVUQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-18T12:40:00+00:00",
-      "domain": "WCNC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Remarks by Under Secretary of War for Policy Elbridge Colby at the Ukraine Defense Contact Group (As Delivered) - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWJPeFZBbGhNWFNjRXVGajkzMHBYTlVkQXVvcUY3d2lGRHRRMWJ5YVd2TUZEWnZyV0xzQTEzcDJBRUtiMTh6UklwYTdSWS1DMkc4Y2szMkh3X0E4dkVXdExyUmZPbVdwY0hWeEdHNXZ5YmlQS2NBWHhvakNtbkRrbld6Y3huQ0RjYU5oV0p2emhISjlBR0RUcDVXX2ZLSmQyUkJEdVFFVFgwTVNmNnVWd0c0aE5tdFZLMWxLZGtjcksyNFcxbmJ4cDkxTHJGRGE4bXlv?oc=5",
+      "title": "‘End your war, end it now’: Anthony Albanese tells Vladimir Putin to put a stop to Ukraine war - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMUk4d2picFhEYzg0dTVkcHN6U2ExZzBiQ0lQZmVDc3V4bTJJQnkycXBBSk1RNHVfclVCTWFFWVBwbnpiWDJnUklDSDRqN3lUUnU1bG54MVJTeFo3VTFiTWFXclY5TzlZNVcyV3llaTJrSDhPblJrODBnZWhEeDBPSExPWERwTTIwRW5zQVE5WjVjWVU3MC13S1gyWW5OYjlJT0YzbXRfT043UkgyNFUxdkxKMUJ6S0hiejFRVnBkM2JIel9EbmdzUVptM01Xc0sxUVE?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-17T20:16:47+00:00",
-      "domain": "U.S. Department of War (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "At a summit in Rochester, Hochul announces the release of a nuclear power plan for New York - WXXI News",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSEo2OTZaVHZNZlFMeWMyckdlUnd5cVVuVThobGdSZUxCVG9sWDFUS3lOelVxSk1uRUw3a00zS3lvSDNLeXUteDBfRDRaTG9oS05XR3N2UlFuNXZ1WERUcng2NUJnWmZET0JfVHllRS1LcndYaFdMTlgyblVUN2VfREJ2Ry1LOWxJQ0QtaDNMLW1CUkNhM016dnRxWG9yZ3phWFhEMUQ5R1E4bVJYZzZibzhmRjY0UWhDeE5VU242ZlkzM2ppa3ROS2RBYWhvcmpJanVlakJIM0RNcXBlcnlkNnlqSmQzeUFUWEZ3?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-18T19:58:00+00:00",
-      "domain": "WXXI News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "What to Know About the Myanmar Genocide Case at the World Court - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMHJpYkFmNFJ4WWUwUDA2YU5nWGJGRUFsZnZHOEtPSndaT01CYTI1MVNVWTdDbG1PSFJYTWgweXBNb3ZkeUx2RWNGZVpERi1WNzlxRTNVbEtnRU56LVJrUG5fVXdCaWdKeS1JMG1Rd1FuZi0zRmlJdU0zaHZrNVBJZ3ZoRVRlSnMwNVh5Vms5SlJ6YWN2Ri1fNmdRRQ?oc=5",
-      "category": "GENOCIDE",
-      "severity": 3,
-      "seen": "2026-11-18T10:03:51+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Why the bipartisan BAAJA permitting bill could quietly revolutionize nuclear power - Scientific American",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUZWQ2dRbGRRUzhqTXRXMmRIbGZfdnhSV29lWTV6SjF0SzVFWUx0VWl4R2V2YkEwd1ZVNkhNVlZCbHg3YzJSdk5pYkN2X1BNclRGbmN1d1VhWGQ3a2NwMThJamdpTExxQlBlcWhMRnB4T2p6ME1YQlFOOEhsalZXSHNUOHY1V0pyd3pjb1dwdDZmS3pObW9PQmtzc2I3SXU3WjcyVjlhemZBV2hnYldEYlZMbldrdm1rTFo1NDg5Uk00NEZ1?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-18T13:30:00+00:00",
-      "domain": "Scientific American",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "A potato war has been simmering for decades between the US and Japan. It’s about to reach boiling point - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0hRcThuRUM3UEVnN0c1VTJSQzUzY2haQXNzSVhqY2Z2dHBPRGJUQ0tHZzBrblZjQzBWNW5nd3BPajdVT2pxLVB1YjZqMFE1TzJqT0hIY083QU1JM2xMZHNpOXF3aXhkS2gyMnEtOHdEdUtvYWVMcmpCUGVyMk1VRHVkZ3p6RWJrTWg2UU5ERUxxTGw0eUxlTkFiaEs0TkJSbm1B?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-18T20:46:00+00:00",
+      "seen": "2026-11-19T06:35:00+00:00",
       "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Jared Kushner’s Undisclosed Investment - The Atlantic",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTU8zRlVZbHVBNjU0YXFETmpCLUNmMFpoNkpYRWUxNE5iUGk3dlBSYkV1V2xnS3JKcWFic01ibkRqSzNYdGRKYTUtV0RwRHN5V2tNQVVraHVUWjhyWXNhdm5xaHM4N3hlU2VfTE96a3JRQ0J4VHVuaVN0YjJuaTdoTHJTQXVHY0Rw?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-11-18T21:53:51+00:00",
-      "domain": "The Atlantic",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEJBNVB0dkdmX1h1VU1fRTJkVGdQN3oyWWZlOTBqaFVPOHBIcWk2YlJ1M2poeFpLcWxlNV9rOHBQYTRwdzRaN2ZKbkNveGgyMkFBRmY1b2t4REJSampnVjdaZnlmYVA3Vm1oU0o5T093T0t0QjNQZU8xeHRzWGZRaERvVXJpUFNqZDhQcjZfSVFHSktmVGZ5anIzZWpxMXlfU0VqR2VybTFlSzl1R0M1R01IY1BEanRJSFJQQU5pLWFXMGs?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-18T13:04:03+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump meets Xi and Putin in China with nuclear arms and two wars on the table - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZko0TjU0LUdSMUxlTkNVcnJsSThoSFo5Y2ZuamRVQ2tidnZQa2M5N1o0dlpndmptSGxNTGhYYS1IUXVKMjZibjFPcWVURHJRaHNfclhIMHlSVFdIN3VkZUxFVEo5Z1JoZFR0bkdHOUd1UUNuNXRCVDBKUlhPaGItcmVfY09NQ1U5WmhHYzRNZHdtWDVVay1JalhlNA?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-19T01:58:00+00:00",
-      "domain": "AP News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ai12U3Bxc0M5OGhGV1puSjZGdXBlZG13VjBQUkwxTER2ck5GclNjQXRzVHEzYWN1aDBnY093VWpJODdoU1FxRno4RUM2VFNhYmg5cURDVUpJQUU?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-18T17:00:04+00:00",
-      "domain": "BBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU2VLOF9QWEItcEJqTnpwSVhhVkhpSktfR0lBLTM1M2JUYzMyUjZQS2U4Umc3VEpvLWdoNUdqaXBvbjNRaVdneFBSMjU2anJtdE5kclE3dDA3SUR0Z2FXLVk5eTJyM2FPS0VHR2xYT3JiYkxXSDU5VklWMDNVNlN3ZE5JQ2ZESjBBOU14djBDOW5GNEpuLWtva0dmcTc3dw?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-11-18T15:37:11+00:00",
-      "domain": "The New York Times",
       "language": "English",
       "sourcecountry": ""
     },
@@ -403,8 +333,78 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHliLXRKZGNweFdqMXFpVmFWTHktOHNmMUVaTjRhbWR6RWxnVlQzX0RlamRkVUJBU0J6MU5FaWQ3TUk1bU5Edmt4OWhSN0NZeHB6M1RvYkpxb1hwdHVJTk9TdjRmeFZzaU5yaWFwMHBHaDh1Sng3cmVhT2xMejNIRXJjQVJ3YnJwNTRzc3Y1aW5hSGNSNENN?oc=5",
       "category": "CONFLICT",
       "severity": 1,
-      "seen": "2026-11-18T13:00:45+00:00",
+      "seen": "2026-11-19T04:33:00+00:00",
       "domain": "WESH",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Top U.N. court rules Myanmar committed genocide against the Rohingya - Houston Public Media",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM245QUdKR3B2N2laeDgtcGVIaV9lR1BQNW90engzWlJGQ3d5Wk1yUnM5ZEZGNUZKRHFwS1RrSmU0Y2VpaUNZMF9BeFFRdkN0ZVV4eUFXQkNiZWxiNy1CLWpWbHZUSFRzRFFidVlaR1dhY0dSRUp2TnpTNThKLW5Xa3lPZFh6bHlhdVpDZV9PMTU3dkRlVHdYMUR0Z1k4X01HMFBCbUZnZXFBQmhyZGIyOEtBYWhSOEhCZlFvbVFXM3czb1NBcHZpVHF3?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-19T13:04:17+00:00",
+      "domain": "Houston Public Media",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Flood watch remains in effect for Broward, Miami-Dade as heavy rain threatens South Florida community - WPLG Local 10",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNjAxbFdMWnB2QzEyemRoMFJ0Y2dkdDBtSW82enc3TWo0Qmx1SEpJbUhVb3pqeVF4clpmV0d3dWx4N0huZFNRdUt0VDA5RFZpdnZtWWo1VXBUTFlodWJjZmtWWTZRLUlKRmpaTklzXzg4STd4OFJ0amh6c2FRZ0xtT291NlR4VmtJOEUwdHJMUUtfRkt3SHdUMm8wVXc3ZEMtMVhjVUtRODhxbmNwVXRoSmp3dHQ4ZEhnS2pLOUJxWFlpTXZlWDF0ZXp2ZWlZTE1PMEcteTI3cFpCdEF2VzlNXw?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-19T11:42:14+00:00",
+      "domain": "WPLG Local 10",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Could Trump, Putin and Xi end the nuclear age? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRE9CWFdsVkhFalM1cWR5VndrSUMyTHB3T2tmeGllc0syTHdMaUhfZEd4RFlxVmdScmQtbHNiTldkd2RUSjRJUUxoa2ZYWWxpOFFZYkRlZGFRUXhSbFAxUEIxVVVHVGY1Z2pUb25hUUVJM2Q2QkZ5QTN5Rzl4TXhsSGZWMlp0WW9LaWlfd3JzRlR0Y05D0gGaAUFVX3lxTE51NGJSeE5ST1ljeVgwRms1WDUtUDJrbndvMmVoZEQxbUF1LWtfcHVtR3hxYTljTjJTZWRfWlBScDRjX2NXR0hCRWlJRG1udDBlZWxDbEh4b1EtanI5RGwwYWEwTTRZaWtaN1U4MHgtUzNwTm9BaV96dTdtZ00ydFNPU0JGdGxvUGpmbzJKbi05UDd6SmhhRjlzOWc?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-19T06:18:04+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump Grows Frustrated With Vance Over Iran War Critique - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3B0SDctTm9DMGNCbXNLM2VOd2prWE1aZTZfT242MVNtUGRVeWRUemVHRWZMSVhGM0J0S2xxMC1XRWRvMVB6XzN3VGJfTDdDSGtGMTlSMFpVTlM2ZGotaW1JZjBaWWNQZmZseEFFUFBxa3hnRDQyYnB1bzVUWXdPcDJnZU5jLTUzVUZJYWRsX1d4Zw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-18T16:54:29+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Central Florida under flood threat, more rain expected ahead - WESH",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiM2VWTzVleHN6VHp3VTBrWlZnUFpMMDJXM1FEdExYUVUwTzRQTU05SEMxcnF2d3luOW5WTnplWWU0Q2pvMDZjVWlPU0V3Y25CQzd3T3JTRjhORFZoX1FpRFE4RE9scXA4dHZJYzVoWlhER21N?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-19T11:17:58+00:00",
+      "domain": "WESH",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDBmQlh6bmJPWUFLQ1dpaXJGVHF3anN6UGJ1Mm9VUWpPY190UVlJOW1HaVhnbGE2Qzl0by02T3VoQUhjbkxzWUZaVlV3SnJxRnJianktREZBOTJPUjJOTkNUM0xXaDlLbkFEUnFaaGFsdzRQMGpZb3dmdzhpdVllemZISUg5THlndlFEWnBkYXhQUWVmMUVmYnlVMGJtSHpxSlh1NTZiYThvOHEzdUFN0gG0AUFVX3lxTE9aMmVQY2lNRFRVNUh4V05CbzNfZTltZ0RiRFBETEdrMmpsbzRGRmZ0Zk5lVlB3aU1fY19jeG5XVkFkcjh0dmpPNkpwSjJ6bnRHTEw5X1ZQR1NSRFpIMEU4RkpRS3dzWW1md1BYdWQ2bk5VdWkwa1hJcDcwT0FaZlU2RUpKRjlETElyU3FoWmxkaHZycFA4eFZMYkJ4Tk9nYUlWOG1Kd3pXMVlsLXRWSm5iX0VJbA?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-19T05:19:59+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "What is a ‘nuclear briefcase’, spotted at the APEC summit? - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNW81TFJEVkFfV01nVEFSWC1xOFB1T25tdEYtZ25LWktwc0dFNmZwQVJ0R3YtSmtoNjFLVGRHNkdQUXhwdUU1UC1WUzh5aWVCaThOaDNOZ1NjRk05NGwybUJ4U01hSUdya1VldC0ySWh6QXNCYUZPTmkzdHRULWlBUUJMSnBJNUZxRkRicXZlNjFSc1NzS0Q4a3U3dmnSAaIBQVVfeXFMTkFNX0hkQWRicGM5amFKc2tPWEFVX1VFbkNVeDA5cFRITC0wTFVud1pRaWM1c25FcHNLY1I1cmRKVGE2RnpjcTE2MVF4ZVZ6bXR5empteGlRUWwxZWlhVjE2akFVMDZUaEdfenpvTGUzRldDc2Qxc2ozcUtaRFBZa0dlbEdYXzh0YzNNVmx5NXVmRzF1TDRhSnBIc1Z6QnRveGd3?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-19T12:22:30+00:00",
+      "domain": "Al Jazeera",
       "language": "English",
       "sourcecountry": ""
     }
