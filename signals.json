@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-19T21:35:39.611698+00:00",
+  "fetched_at": "2026-11-20T03:16:57.076968+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -69,16 +69,6 @@
       "sourcecountry": "LT"
     },
     {
-      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya - NPR",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOHVhOXZJckQwZHVKTl95bzkyLU8wVHhvUEFnQnZoTHlkcVJ3ZC12VUlwZ05ZMU9oc09LNzBsVjJQTDhkMEU3V1lIZ1ZFRTcwcEx6MF9oRGwzb0lVUm0xWGpKVEpwOFpyMXhrS1ZIdnR2cUhrZi16eWhKVFpvLXlrNVpacw?oc=5",
-      "category": "GENOCIDE",
-      "severity": 3,
-      "seen": "2026-11-19T19:40:26+00:00",
-      "domain": "NPR",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "No breakthroughs from Trump, Xi and Putin's 3-way talks on nuclear risks - PBS",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzdsMkRqaDh4b1E0WTJzdnZ4em1DajdPN2g1S0llb3BnZVRJQzU2Qk9QNjFYUnNWcUY3M2FHNTR5R0k1c3Z6TXpnN2hwVDNnR2ZIWmQtTGtra2ZNckpQS1RabHhTWFBSZFlYVjA3el9Bek9FNnJfSUU2YnJOd09LUWpLT2pUWHZkLUpST1R0bTc5bGk1U1dJb2JfdFRPQ1gwa24waHdfbXTSAa4BQVVfeXFMUDdkQ3pkTHhpSElJbW4tTHlwZUxTcjIxTE5EQks5ZmF3TXc0UFdNZTVtMFQzQ2tEN2lndXNxSXRNMzlmajZicTM0dnd6QXJXN1R1TGNxb21zUkMtRDIyQzZmOTdZYTVyQXNxSllQeXhmelNNcS1FSFBwdlkxNUl5QjNEN3JKT2ZTUnpHSUV2Wl8wOWNzTWdQTzZaLUFxOHlFOWtHVVYtMnBYMEJiVmdn?oc=5",
       "category": "NUCLEAR",
@@ -99,12 +89,72 @@
       "sourcecountry": ""
     },
     {
-      "title": "Heavy rain drenches Southern California, prompting river rescues, flash flood concerns - Los Angeles Times",
+      "title": "First three-way summit between China, Russia and the US opens possible avenue to nuclear disarmament talks - ICAN - International Campaign to Abolish Nuclear Weapons",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOanBETFltUE5USWZvREhlN0lvMXlMUmVXS0pjb2d4blpicTdZUnlOU3JmcEQyYmxUTVZHRVFES25tOTVtQVFNQUo0Sk10NlpfRWFuUUFwNjR0MjZodXZCd2tsOWNBeGJyOFpjZk9yZ2dIWVNGNW1fM3I4MnRjSlpPaV9YMjI1UDdXOGdJQl9RVWNka0tXLTM4LW5JZXdoanFlLWRRZFFmVTFkY1JZV1ZESW1fOHRrWk55RUdYZFF2UE81bC1iMGc?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-19T15:17:05+00:00",
+      "domain": "ICAN - International Campaign to Abolish Nuclear Weapons",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Live Updates: U.N. Court Rules Myanmar Committed Genocide Against Rohingya - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qLUhZWS1IeE93REZvbWFfdUpvcnEyOG1kZjU5M2dMV3N2TFFtZEZsVll5eUx4MWxhcTRaWFlqSndxaVhtRWNrel94QVVCcWgtSGdvd2xvRHZNdm9rNDhJbmhpeWNmSW41bnRZaHo1a0xuRTZmODVXc3Yxemh3QQ?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-20T01:45:00+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Heavy rain drenches Southern California, prompting rescues, flash flood concerns - Los Angeles Times",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa29tRHd0UW1zNmdPbTlHeVdVbENpUk05VkVmNlRMTzg4Z3ZJaHY0SWlDRnAyX0VtZXdvZ1BudDB6R1NFV29CLWozSDZsY093RGw1eUllV19kamc1d0Fja0JReHhSTWtyWHZpRnRGVlFLY20wSFZUb1RYYkdqNmpYT1Nhd3FyVy1h?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-19T20:43:00+00:00",
+      "seen": "2026-11-19T20:49:30+00:00",
       "domain": "Los Angeles Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Backing Trump, US Senate Republicans block Iran war resolution - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmstcFNFWmdlWE9OT3pCd2JxN1RvaDZMZ2dlZC01YU9hUVFDdFdETmRJLWYtRWI5bkpNVHgyQUFTRVNncW9kUUZkdGhFRkl1RUx6MGs2eVhNNXhZbzROalJGQnRSSUdqdVBhQ1NuLTRONXEyQWpYemhwenhCd2VlNlY4VUZJT3NRdjBmdzBTZGxreUlHNmgyX0p4TzVxX1FvaXZR?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-19T19:51:00+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "World’s top court finds Myanmar guilty of genocide against Rohingya - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85V2oxdU9NUmhzSExKMEJZRDFIRENtci1tS05SQmhvSVlocVBwcmpsM0E0VlpGSkV4RkFOTkdhalh1Nm9ydmlyS25jcHlHSy1LTVJUZ0JQbw?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-19T13:07:00+00:00",
+      "domain": "UN News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Governor Hochul Breaks Ground on Permanent Empire AI Supercomputing Center, Marking Major Milestone in New York’s National Leadership in Using Artificial Intelligence for the Public Good - Governor Kathy Hochul (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWVdqNHRVcGw2amM1QVZ4SkxNZzNtdTBmb0JZdkNMYXZTRlZia0tJdDVTWHVoNnJBUWFlcUtjQXQ4NGZYMEZKNEkyUi02eWcwN214QTdtOWdRVkxUS0lobmY3SklZUUthR05TWnJUcGZXampFbjU0b0NqTGVxazJsS0phSjB1d0R0QjdDd0ppQW5hck82WTNCdEt1LVZxc0ZacFhONnE1V1pvRS1TM3JZRkY2dDZMV2RTNkE?oc=5",
+      "category": "AI",
+      "severity": 3,
+      "seen": "2026-11-19T21:34:26+00:00",
+      "domain": "Governor Kathy Hochul (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya - NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOHVhOXZJckQwZHVKTl95bzkyLU8wVHhvUEFnQnZoTHlkcVJ3ZC12VUlwZ05ZMU9oc09LNzBsVjJQTDhkMEU3V1lIZ1ZFRTcwcEx6MF9oRGwzb0lVUm0xWGpKVEpwOFpyMXhrS1ZIdnR2cUhrZi16eWhKVFpvLXlrNVpacw?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-19T12:29:41+00:00",
+      "domain": "NPR",
       "language": "English",
       "sourcecountry": ""
     },
@@ -129,32 +179,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "World’s top court finds Myanmar guilty of genocide against Rohingya - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85V2oxdU9NUmhzSExKMEJZRDFIRENtci1tS05SQmhvSVlocVBwcmpsM0E0VlpGSkV4RkFOTkdhalh1Nm9ydmlyS25jcHlHSy1LTVJUZ0JQbw?oc=5",
-      "category": "GENOCIDE",
-      "severity": 3,
-      "seen": "2026-11-19T13:07:00+00:00",
-      "domain": "UN News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "US Senate rejects resolution curbing Trump's Iran war powers - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmstcFNFWmdlWE9OT3pCd2JxN1RvaDZMZ2dlZC01YU9hUVFDdFdETmRJLWYtRWI5bkpNVHgyQUFTRVNncW9kUUZkdGhFRkl1RUx6MGs2eVhNNXhZbzROalJGQnRSSUdqdVBhQ1NuLTRONXEyQWpYemhwenhCd2VlNlY4VUZJT3NRdjBmdzBTZGxreUlHNmgyX0p4TzVxX1FvaXZR?oc=5",
+      "title": "Department of War Advances Orchestration for Unmanned Vehicle Fleets - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNFdhekxWamhkbllwRDlkejBwSkFiMjFkaVN1eFc2WnVzNGxDWkF1U1hLN1A5azYtMWtTbVJuektXWWNTR2V2dGkzMDZWcXhESGFnRUEyU2djYXplaGVVSVJRdUpUQUtWd2hOYU03NDFzWWcwZ2ZxRjVXdnlNTnlDaVgtTnJTTDVQSUdPVlZIdjVoRnVQQlVLZ3ZmRzBFQlIxb2dEYl9nNEtudzZUYUZiNlo3VjRHamp0cE5YZXEzWVhZUXUzRlE?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-19T20:01:07+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Live Updates: U.N. Court Rules Myanmar Committed Genocide Against Rohingya - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qLUhZWS1IeE93REZvbWFfdUpvcnEyOG1kZjU5M2dMV3N2TFFtZEZsVll5eUx4MWxhcTRaWFlqSndxaVhtRWNrel94QVVCcWgtSGdvd2xvRHZNdm9rNDhJbmhpeWNmSW41bnRZaHo1a0xuRTZmODVXc3Yxemh3QQ?oc=5",
-      "category": "GENOCIDE",
-      "severity": 3,
-      "seen": "2026-11-19T21:17:12+00:00",
-      "domain": "The New York Times",
+      "seen": "2026-11-20T02:14:38+00:00",
+      "domain": "U.S. Department of War (.gov)",
       "language": "English",
       "sourcecountry": ""
     },
@@ -169,56 +199,6 @@
       "sourcecountry": ""
     },
     {
-      "title": "Senate Republicans rejects war powers bill to halt fighting in Iran - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN19EOFdQUmJBMGt4VUo3UFd6Tk5sRXpRYVBHd2YwNmVTOU9lNUItSjB2V1JRQmkySEs5VE9ialBQb3JXLWZGbjlBVW11ZFdYNFktdjZwZmcyaEhUYkpRbEdCSzZXSE9hWEZBTGZqUjBUNF9wanlmMWFlSWpXVXlaemMycWx6V1VrNzNYRF9tWW41WW9n?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-19T20:26:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "World Court Finds Myanmar Responsible for Rohingya Genocide - Human Rights Watch",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUItaVZHcUt1bEd0VzVGNG9Wb21xaHhRRDREMG5zWHZVYUFHcEJNYnctR0dEQnlYZ20wWVNya2FMN0JRcTlybGw3X25PSzcwZXYzVDI1RFA0emo0N21lR0RIcGN6OHZPLVdraGRPUEJGMDIyZmstM2pUUGpOVlp3WjdiSVU3WmVrVzZucnI1R1BKZXpVOURNME1WSQ?oc=5",
-      "category": "GENOCIDE",
-      "severity": 3,
-      "seen": "2026-11-19T11:30:00+00:00",
-      "domain": "Human Rights Watch",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "USU Faculty Awarded NSF RAPID Grant for Earthquake Research - Utah State University",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWHNHcUhkTlYxYldPeFRfRDAzeTI1S0V4c3NGNVE3OWZQYUFIN1Jhdk1YblczY1RRNzlOc0dqMm8yNlJzX1VDeFhmREdqaE84amhTN0dTSnppcWFDMy1HRzJIaHcwMTk0aFpDYlhnaHhuRUJ3U05YbFhFWnZuOWxTZm9QeDVyOVRkZUpvckFXTkd0WUs0QUE?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-19T19:30:00+00:00",
-      "domain": "Utah State University",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Nonstop rain pummels Central Florida, flooding roads, closing schools - WESH",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0NxeURtekl6aG5EMGVrdG50UHR6ZXhIaWQwN25mTE5ldVVtMkJDb3FxWTgxVlZPbmt2SDV3a2duckdwYk1ncVAyT2hNM2tKeXVXaHVUdXpNbDNIMlZRQmN4cHVhaGxzWjNYelN6NHRieHVBZFpsQUpLUWg4YVM5V1JUSQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-19T20:03:00+00:00",
-      "domain": "WESH",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4akxXcHFqbTV0dzV2MnZpTVFTc21SSGhVM3dCbnVpNlNpYUhWdHhWdWZlanlQQzdYOXdaLXVHdC1ZWHdzWkFDa2piREFkZ3cwS0IwV2d4X2JnbW8?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-19T19:16:21+00:00",
-      "domain": "BBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
       "title": "Kushner says Russia is 'comfortable' with NATO-like security guarantees for Ukraine to end war after Trump talks with Putin - PBS",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZGtncEo5UWFCS09PLVJ5Rlk0RDJiQkpHSUJTQmVoeTVyX3F4N3gyTk4xeXA4NWE4ck15X0htT0FxRkc5dGp6b0pvRDVqWURRSldmSXEzaGJSZDV2dHd0ZnZaYzJSZUxxZUhqbHJNNUhLTnV1MHZjV0NFUVBMVURvdU15TDhOMm05NFhnU29pd3cwSmtGNThSYVlBQ2JqM001bUdsdE04N2VTOUYyekw1d3EySHR4U2RTNnFmeXBGYnlRMDdvc1hqSmJBb0NGVkluNzhGUFVXWnlOV01uRWc4Y3I2MWNhTmRyNlhKbNIB8gFBVV95cUxOR3dkTWZRMzdtWk1FMFpZdXNlckQzMk90RUhGaGF6SzFmRjJXNXozRmQ3bWMwUWlHSzk5alRMZFQ3RXNTeTJzT21HWXZNX2VMSGlUdDVJMF81Mk1PZEJab2h1YXpwRFAyR3RVOGpXVHVRVk1rNkhKdEVVZHZRT2pXZl85UlhkSzN2Zmx1WFNyclAzaGw3dXZmck80THZpdHNuRnJpWkM2LXFUak5qU3JoS29UNUozUnFLcGR4ckx1eWUxbzNXbWl4MkQ1UFB1Ui1Oa09WcUlkVXhmcHhVMGlQeVBvdXlKbGxrMDBvX0lPeURzZw?oc=5",
       "category": "CONFLICT",
@@ -229,11 +209,11 @@
       "sourcecountry": ""
     },
     {
-      "title": "Top UN court finds Myanmar committed genocide against Muslim Rohingya - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzZlQXBMbFU3Qzl0M2E2b0tJZHVzejVGQXczQTUxaHJmV1ZMZ3dVTWFGRzhsT1ZvNmdMMVRQVlNyMnVmX1RoUWo4UmtCT2RSX3Y5Q0JjWm9paEtmbXhCLXM0bTR4aXg5eUQ2dWRSZGlaT09VWTF6Q3FuUHFMR0ZqSmc3UWdDRHc2OHpJNE9pX2FmZldBME1xc29YRENBQkE0ZGhORjlTWkpyMzBCSzF5R21lRmcwMFFRNWltZ1FQYmdROXEtVUxXekp5RQ?oc=5",
-      "category": "GENOCIDE",
+      "title": "Trump says nuclear arms limits with China, Russia will be very hard to achieve - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMVJxajFFWVpKWFIzZjFkQjg3bzRfeTRmbGdhX0JtYmhXMDFiSDhmZ012TXRfUTYxOG8yNXQ1NFBWTWp5NDRIdzludmtZS0xGLXNENE5LNHo0Zk01OHR4S2hRZFhjRUZKMkRRdHBiQm1BTFluWWVzTTJORmluTXNCSWxmUV8xVEJ3Vlc4Q1l5NU9sQ3VxUzlMOEZUa21nZW11UFZtb3lVNGlEaGdNb25WazZISXFhQXY5dG1OZzVGUS0zN2pMTFE?oc=5",
+      "category": "NUCLEAR",
       "severity": 3,
-      "seen": "2026-11-19T20:06:12+00:00",
+      "seen": "2026-11-19T22:52:08+00:00",
       "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
@@ -243,8 +223,18 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMHJpYkFmNFJ4WWUwUDA2YU5nWGJGRUFsZnZHOEtPSndaT01CYTI1MVNVWTdDbG1PSFJYTWgweXBNb3ZkeUx2RWNGZVpERi1WNzlxRTNVbEtnRU56LVJrUG5fVXdCaWdKeS1JMG1Rd1FuZi0zRmlJdU0zaHZrNVBJZ3ZoRVRlSnMwNVh5Vms5SlJ6YWN2Ri1fNmdRRQ?oc=5",
       "category": "GENOCIDE",
       "severity": 3,
-      "seen": "2026-11-19T18:08:00+00:00",
+      "seen": "2026-11-19T21:00:00+00:00",
       "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Top UN court finds Myanmar committed genocide against Muslim Rohingya - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbzZlQXBMbFU3Qzl0M2E2b0tJZHVzejVGQXczQTUxaHJmV1ZMZ3dVTWFGRzhsT1ZvNmdMMVRQVlNyMnVmX1RoUWo4UmtCT2RSX3Y5Q0JjWm9paEtmbXhCLXM0bTR4aXg5eUQ2dWRSZGlaT09VWTF6Q3FuUHFMR0ZqSmc3UWdDRHc2OHpJNE9pX2FmZldBME1xc29YRENBQkE0ZGhORjlTWkpyMzBCSzF5R21lRmcwMFFRNWltZ1FQYmdROXEtVUxXekp5RQ?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-19T22:12:24+00:00",
+      "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     },
@@ -259,6 +249,146 @@
       "sourcecountry": ""
     },
     {
+      "title": "Soldiers Test New Medical Training Program - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamc3VlNySFdXWXRvRW5paVg3Mzl1MDJLUXRSRWNzOU96TVBiWEg4OFpOUWtjNE8xZkFrR3AxVnJDcVMtbFVyd0llUVFMOGxMRWhtMmpkeFcwc1hZTzhfeEVXNG4tdmxzOFRINGFNUmI5ZjBzcFNqbWtLdU8yZzdtZnRQUVRXUElpWDl6cFh0Wl9CUEdiZHZjbUZxUGFRS29iZ0JYbl82blA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-19T23:38:37+00:00",
+      "domain": "U.S. Department of War (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Kyle could form off Florida as extensive, prolonged coastal flood threat grows - Yale Climate Connections",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXZqaHNaU3lvVTktNnBJMjg5VkRCM0dKb05zaEc0Qks4TklCM0s5blMwN0N6N0hrUmZOSmxFa3V2ZXhfSkVTWDE1SVhuaEF3NERRMnpUQjVnTk9LdEtFMDFEOHV3Tmt0emRzdU5pRTVfRk9KMEw3aDdySjMwcE90dVZnOEFoWlFNQXBQRnBQblloSUxrRm5ZSHBVdVBwRzg1Y3VOM3ZCeU5DTXB1aHlsb05xSm9NaVprTXFfaVdB?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-19T21:09:34+00:00",
+      "domain": "Yale Climate Connections",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Nonstop rain pummels Central Florida, flooding roads, closing schools - WESH",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0NxeURtekl6aG5EMGVrdG50UHR6ZXhIaWQwN25mTE5ldVVtMkJDb3FxWTgxVlZPbmt2SDV3a2duckdwYk1ncVAyT2hNM2tKeXVXaHVUdXpNbDNIMlZRQmN4cHVhaGxzWjNYelN6NHRieHVBZFpsQUpLUWg4YVM5V1JUSQ?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-20T01:56:00+00:00",
+      "domain": "WESH",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4akxXcHFqbTV0dzV2MnZpTVFTc21SSGhVM3dCbnVpNlNpYUhWdHhWdWZlanlQQzdYOXdaLXVHdC1ZWHdzWkFDa2piREFkZ3cwS0IwV2d4X2JnbW8?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-20T00:50:24+00:00",
+      "domain": "BBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Florida faces rare Level 4 flood threat as relentless rain raises risk of catastrophic flooding - FOX Weather",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOGRqeWs3Q3JYWHNsN1JvXzZVMU5fUFl6SkZmMkp5TkdYakJmZkJSWHdaN1ZRZWJ5S1VWemdjV2ZPS1ZyRWltTmxYdmt2STN1SkYxOWFVdC1XV2FmclFyNzJmaGtqeTRMcDhFOTBXYlFWam81V2daVnVKcVJ4V0dhZUI4S1d4Z2VxaGpRbTlsTHVpaDDSAZgBQVVfeXFMUEVxUzc0cDhxSTZqZGVqQnlZMmdReFh5Z1hDd3RMNUwwMHc3LUFnb2RfVHN5R2lzMWc2RUdTcE5uR0NxYmdLM1VTZG5aa1l6NXdrRWZCN3hxV2VJalZHR3g1T1lHRDV0LTB2UjgzZkJMcUtUSGRxS21PWmF5bzhpWUJuc1dJclhqVkpsWHdLX2dpUXhBV19oZmM?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-20T01:26:00+00:00",
+      "domain": "FOX Weather",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ukraine war briefing: Trump ‘open’ to Kyiv getting Nato-like mutual defence guarantee, says Kushner - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT0NBME5lcEdSYzBycGFKdDhzaHJ2MU5iU1RsYnlxaFRYaHc4SU1YU0s3bTZyd3EwNHItMTBSY2FvOHBjaW9pcjRxNkRBVWRISk1YYUNHcHAwZXJ4MHBxZU5TUzJoTFhMbTZUSzJSckpFS3NqcGhBXzNpb21scGc4Y3hQSjFsTFpkWVllREUwSkJ2TGhmck91dl92aVRtWi1lSjBNUE9wVUQzZHIyREdIZkFSOGVra01RWUVPaGk1SFdRZk1FZkRwaU5tYmJNcE91el81QXduSjg?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-20T01:38:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump urges nuclear arms control in historic meeting with Putin and Xi - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMTZHMzZLNVV6YTlWSl9iVUZzamdQYkx5ZURWejBxRU5oQzJzZUJJQTQ0RVBCRXVfalhPX1RzR0ljZktBdEUzRlJXZGc5SmQtUmJNTzNEeGtSYXg4d044V0ljNWp4ZkVzZmQ2VXEzbS1OZlVCQlVUUnRWSlFnNXBGeHpFTExIZ01SbEZ4UUYybFdLbHEwcW1ubTNpRGVYT1ZNRUE?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-20T01:15:00+00:00",
+      "domain": "NBC News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQmhFRFFBc3duc2NLLWctWmR1RUExSDFJV1lxRVY1UXhlaW0xS0xILUJNRGJmMjFacnhDeHdBVXFkVHdQdTRqWEJoVk5weFNBRnEyV0RENEJTWTFKQWxnU3hxYjlCVVFLcTdQbGVWTElDdkdGVE9ENjcyMFNBVXQ2Z01aaERfQzJQVDMw?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-20T01:37:19+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "World reacts to ICJ finding Myanmar guilty of genocide against Rohingya - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWEMyTnBnb1k2elB1QVF4d05uRC1mZEsySEt3cDdvaVhaTnBoWHd4Y3ZDMEpILVBUQWFEcWtENjZvaDZmQ0lXdUZNN3pFaXZIVEtfdDdnZmMySjdpb0tZeDRJOUhIamtkVkViVmw0UFJYcGM1UkEydHh5akxqY2ZBa2U2LW9VX3dqalRyUDJjLXQ1XzlOd1JkWVl0ZzlGemZNdXdNcmlKRE1PX2k3Y0hnSVByUdIBuAFBVV95cUxNU3owOWlJXzgyM0E4bFQyVFlnbTRaaEVtRFNyNGdzc0I0c2Q1WExkTkdNYTVscEdoVVJIbEpJVXlMalo3ZVA5a0kyQlVmeXBSck5OQzBUelpHVm03VWhVX1RUdFIycGNrdEVrcUh4NzNvV25FX1FzUThTZEdkenBlVzVCVHBLZ2dMV2pJODlQWlVwN0FLS19XSmg2RGR3NTFrTC1BQ3BDWndGaTBEOGZaeVM2VTBTS3Bh?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-20T02:15:00+00:00",
+      "domain": "Al Jazeera",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Senate rejects resolution to block Trump from striking Iran - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUhPc1MzUmliSzFkVG16b3R4WmdnM2tTQlhHX19ONGU1Ui15MWZZcmJ0NDA4a0lkenNvRXdvUFRaMDdvcjZoOHd3YW5KNVNEelUxVEx0VU83WlJMTkFLYVV0WEtwNGVGQ2RjRmwxTlNhZ2xseHkxbGxjNTBsWU5XclJnZkRCVHJBVURwOHVoR1JjZEVSSzFuRjRRdVh3NHRpd3VTVnF3?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-11-20T02:47:41+00:00",
+      "domain": "The Washington Post",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "How the War in Iran Will Remake the Global Energy Order - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yU0FMWnlOQ0Q5ajRGOTRXcGczQzJkSmo5VzlBOEJCOU9OVlluNXZNQmNTZzFlN0dLV1N4b1o0SmxBTVBka2EyejU1Q2xkVHRnWGRjUl84LTRtSlJpUU9sSjBYNERPbk9RNDJWOFBrZm43UHM?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-19T12:51:18+00:00",
+      "domain": "The New York Times",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "World Court Finds Myanmar Responsible for Rohingya Genocide - Human Rights Watch",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUItaVZHcUt1bEd0VzVGNG9Wb21xaHhRRDREMG5zWHZVYUFHcEJNYnctR0dEQnlYZ20wWVNya2FMN0JRcTlybGw3X25PSzcwZXYzVDI1RFA0emo0N21lR0RIcGN6OHZPLVdraGRPUEJGMDIyZmstM2pUUGpOVlp3WjdiSVU3WmVrVzZucnI1R1BKZXpVOURNME1WSQ?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-19T11:30:00+00:00",
+      "domain": "Human Rights Watch",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Myanmar guilty of genocide against Rohingya, says top UN court - AFP.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRGNNVTlWdmlVb3lHV19iOGVVNERUQkY2ZldaeEc0RW5WeHRpSTZvUmNUVnB2bjFQY2ZFQ0FEa3hfbUdPSFU2MGs5S1JiSlc2N2pHVnlpMkt2Y0huZmxzLWVpVkpDQnBucVJSbmM5WnJZbHZRWHd3cjhVMmtRZFhWNTRMaEItUW5Y?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-19T12:02:19+00:00",
+      "domain": "AFP.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Kushner says he believes Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-20T02:49:00+00:00",
+      "domain": "AP News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "UN’s top court finds Myanmar guilty of genocide against Rohingya - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEdpSVlfTkU5TU05bjNlelhReEhNLWdNZ2k4MGNZQ2dlaDFiS1VxSTJ5a0NubVpwZWE4YVBSczBKQXd3UGs4S2c0TzNhWkp4WTR2dmFMaFVKdXZJYXlQRmR0Z2RDOG1QWTVEMTZaa0FTTHZKOEFmbDF1VnBic2oxeDFQbTM5OVVjQWFQWE9fQ2dmcUpSRktudVdtOVFXVFNaQjVRbzQzc0NESGstdkR4eGVVRG_SAboBQVVfeXFMTWhQNlRkYk1STmpVcEN0SDBLamdUdUpJQi0zOU1FRUJUSDYzZ3dra2gxM1dzOFQzbVB3M2hDYVZJWmhLZW1nODBOUVV3NlBHSlFNV19acmVkdWF6Zmh4VmRqRmNBTU9wdFZjc29yMFBvSXhXQzh2QWdWRzFDVzZiTkpDbkRUR1RxemxEcEhSekVjU2hncnd6Sms2cDVXVHlzdTEzQWpNTGxrVERDZ0k3a2F2M2w0UjlWcnpn?oc=5",
       "category": "GENOCIDE",
@@ -269,142 +399,12 @@
       "sourcecountry": ""
     },
     {
-      "title": "Biochar equipment arrives, advancing Douglas County wildfire mitigation efforts - Douglas County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQlNqUFJEa0JjQ2FsTGFfODdicnJiT1k4Qy1vcTE1VFFZSk1MOHU3alFrUE5va1UyWExodGZnLXM3NFJVVlAzM29idHAxODRlUU9ZQ2xwc25Zbi1KNk1JQk1OcnBLaGFyYklwTEotSWRRVXQzamZPbWFHR3JjMnlxYkh3VTNlR0M5dDV2Vk1FUG9qYkU2bGpBZGFCSHlzSzVBeHFuSVZaTng?oc=5",
+      "title": "Flood watches issued across Northeast Florida amid continued rain - Jacksonville Today",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSnRyUzJ2eGI2M09pU0xpSmxlcUtUNUhENWRWN1phYWVhbF9uSjd3T1VxNkhhcGliME14RS1TTmhINWFYRmZ1Vm5IanNGWlh3Rlp2NHNqMnE2enVVd3FwYWJRbC16Zk94Ykd6MzNlWEg2eGx3bEduVkdXLXREUHMwb3BwQkZ2OU5RTjNCaUl2cTlnRTIxTjdCd1ViSzdhclk?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-19T19:30:24+00:00",
-      "domain": "Douglas County (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Senate Republicans Block Bid to Rein in Trump on Iran War - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0lwWVdqMlEzMDB1SGhlNjZ6cWNDejdBOWtyLVZtalRBcEp4REZEQVdBN0lTVmd1RThCVnFtUzM4OER6SDhGcWNmOEpqdlQ4SDlBZFkzYUR2ZkZBNThQZDNVRkU0U0J0TG9GdUFaZWk0TGFwTGlta1JrbzY5dDNaeGwybjR4c3M?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-19T19:46:59+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Powerful storm targets Southern California, triggers flood threat - KTLA",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa1ZRbXVkaHRJSTVoMDJob3VMbU1jTklvb2xETWFUNm8yM0VHaW15NXZub3dyZE5GWk5JRUlkVWlPTlRGVFlTUU9zVWhFUDhTUFR1U1NzU3A3NlBOVzJpbHlMeGhBVGpzN3MwNzVWc3MxZ212ZS1EM3dPNTZsSVhqSkRuNTXSAYoBQVVfeXFMUDVqME84Z1dqZmNwcnhGZVQ3aERNZzU0UXluVzJkSGN4ZjVlYkhBeFh2SnZYMkowMFNsc0gyTnBCYjd5Mlh6ZGpKRkE2c2VnMzdITVZtQ1hIV0hKX2RJcGlsNzFmWEQ0SmMyY1d6YmVza3ZBRGR6Z3A2NEtRZVBteHU3Sl82a09CRS1R?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-19T13:33:04+00:00",
-      "domain": "KTLA",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3NpZEp2dmlxVFQ0UHdkQ0hqMW1YQ0RVaTBxa09KN3hiOXZMbVJaM3ptRkFTTHQ4d1NpWkNQVU9PWHRDQW12alB1a0tFd3cwQnlMUXNSWDZwZ3R1bFl4RFVoZHppZWFlN0hXV05UVHFGVU5SNVZsSUtFdFZLeXVWVldwR3hMT003QTZPSlItS3BuRGpTNXJVaEQ3YTNObmMxdVNQN2RCbmQxUWNX?oc=5",
-      "category": "GENOCIDE",
-      "severity": 3,
-      "seen": "2026-11-19T21:09:00+00:00",
-      "domain": "The Guardian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Earthquake shakes Rowan and Iredell counties - Spectrum News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdUNXWTJ2eWdLemdNNGdhUHpHQjg5YUlMa3JjcWR3eENDM2M1T3ExTFNxZDFsQkRLUTl3dFR4eG5rc1I3cXpham5URGVZRHpkOF9NTWxyLWZoNm9KZ3MwT3BhakU4S0RKU0hvOV9hMlVtMjVVSFNvNVktMzNsQThyVkRJUFZyVE12VlFTNk5SaDhHVkpZUzVwZXZKU09Xd0NPSUxZN3h3?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-19T20:09:00+00:00",
-      "domain": "Spectrum News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbmxtN3dYVWtVYjVSUXBGeHRLMWtINWt4bXBOTzF0TUliSTJBZXByYWVObXNQYklDNTRfNE5PUVRUSk1jd0xBM3dXemtuTldWVnp3QXNmNlNrdTRraXRmY0stcmtBTEFhU25WTDVsd2doVnUtSWU0SnJUaGppZXotcXJB0gGHAUFVX3lxTE5kV25yMkhOSVMzZlNqWkpTLURuTmt5d3FTWWwwTVRVcVlCSDdVYmxqSWFSYzVmUE9RRFFwT1RmVmQ4bmUtaWNITzJ5XzJVSmcyc2VrdkE5cTR4SDNZR0tENWowdDZxT3U5RkNsbWljUFU2ejJxZHlDRWJ1RGRDZk9qUVIxZlJjaw?oc=5",
-      "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-11-19T08:42:26+00:00",
-      "domain": "CNBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "UN top court rules Myanmar committed genocide against its minority Muslim Rohingya population in 2017 - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNkFwX05HbWozazNLZzhRN0N6VVhiVjhzNUs4Y0VPZTlKNkc0aHNIX0czaHFPcDMybHZFQnYzN0YydS1pM3lGZmJGQ3JCeUVoc0dBY2p6U1dlUi1hbm9EZGlJbGw3RHBDbEtTdDE0LVNwbG9IWGlOcXhuYjhGelZxUEFMR3ZFNVZ0RDFoa2F2OGdabWszeDU0cTFBY9IBmwFBVV95cUxNYi1DaHpYcExFQ3Z5S2tWVldIaVpWOUpjdktlNFYyamNXSEF0OWZDVEV5bV8zdXVTajdQNzd5MFZIdTVGODUzYlNXT2xPTENnUkk1MHlSNGtWSjdoQy13YXU5eGl0VmVyQzdsanEtWmR5bHUwN1ZsY182NUdhajF3OUk3LUpXRDhEUFZsYUNrajZrMU5QdGg0SDhhZw?oc=5",
-      "category": "GENOCIDE",
-      "severity": 3,
-      "seen": "2026-11-19T16:35:08+00:00",
-      "domain": "DW.com",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "For the first time, UN’s highest court finds a country responsible for genocide: Myanmar - AP News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGx4TzFaSGk2N3lyTXBVRkEtazdmRjNrcy1TZzN1M2dLNlJEZlRDRFY5cXlKT2s0a09fc05FYW9DT3pFeUd0d0VaaVJtRmkzbFBpcWZ0RnVFQUFjUFFCZVBNVlNPUHNZaGs0ZVkyMDdiXzhubDJmUFBIZVNnbkxCLWNMbmJvQUcxTGtqLTB5M1F1YUdvMFRGZjNsMA?oc=5",
-      "category": "GENOCIDE",
-      "severity": 3,
-      "seen": "2026-11-19T20:05:00+00:00",
-      "domain": "AP News",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "During Milestone Visit, Hegseth Champions U.S.-Venezuelan Partnership - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY2xQQlRXTlE3aGJBMllsRDZWandtMEducG9VbldnOXZHblhtay1PbTFRWGlKU2N1YmJYMll2aUtEZDhOM2pNbWxsMEdzcVpONGY0VElvc0xqdzkzZFFLSGZxajFXTS1kUjRYWGF0NHF0RkxJVElJUy1HdmxOYUp5TG9RVHdjMEhXOWYtdW9PTnhUMWNSN2xRNmh3YlVydXhyOUhGbUVZY2EtRGFxRXNNNVNzbEwwSUlRamhiWXJaX1JfVkdDQWI5aQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-19T20:59:07+00:00",
-      "domain": "U.S. Department of War (.gov)",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "After Nepal's epic flood, they're restoring their community ... and their lives - NPR",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNms5N1NSR2ZHVE82NnZWV2NybWNEa29JREdRc09DUjlHb2lIMlp4d0Z3MWtDSTF4aUZDdEVFcjNLS0FjQkhCZmwwb1lBQnFxM0MxNG5DNVhNOVpuUTlGUVVFcVc5eHI3aEczcXFJWWZYNzFvbmdCR3dXU0kzUVhwbVh2eDRKc0k?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-18T22:01:17+00:00",
-      "domain": "NPR",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQmhFRFFBc3duc2NLLWctWmR1RUExSDFJV1lxRVY1UXhlaW0xS0xILUJNRGJmMjFacnhDeHdBVXFkVHdQdTRqWEJoVk5weFNBRnEyV0RENEJTWTFKQWxnU3hxYjlCVVFLcTdQbGVWTElDdkdGVE9ENjcyMFNBVXQ2Z01aaERfQzJQVDMw?oc=5",
-      "category": "GENOCIDE",
-      "severity": 3,
-      "seen": "2026-11-19T17:55:23+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Greene County wildfire spreads to 500 acres - WJHL",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbVU1cnkxQ05mYnBobTJZdnctb1lhNHlBRDMxcGJ0V253UWRSMnRYUkVGYmpwX3h3Y3JVdnpoRnFTRGFkZXRjVjdyc2hwSG1QTFN0ZWxDSGF2RmoyZTlhZjZaQjFLZVk2eFQwRkhlQmxnOUl0dXlFU0dpM05vZ1F4a3NR0gGHAUFVX3lxTE1FWHMzYnhOZ0NNMGtGRDRicjZIM0hSNzFlTF92UERHcDI3MFBSSkZUYVItSkt1UGdmR3JHcTc5RjJVclZpcEZWdVItUXBwMEpCVUFuSjY5c3lYdXBpdnQxRUY5amhXMVc2S1VjTDBUMGw2djFaSFIxRVV6REVOeHJ1ZlVISzg3VQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-19T16:56:48+00:00",
-      "domain": "WJHL",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Florida Atlantic Coast faces Level 4 out of 4 flash flood risk as intense rain prompts emergency declarations - FOX Weather",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0ZCbnBMamNLUExweURmQlo3M3VuZTdsS21ldXhCcTRpMHdINENVc0wwMTNWYWRqRTZOZnMyRjV6Yl9wN0VoZU9Ud2E5U2JaNDhDSDdCX2U1WU5QVzE1b0dzSlRXc25IdWp0S3ZjdlJJa0c2V182aDR2R3FQdUtEbm5qbFlPVWp6NzZMd0NfSTBpeUxLNDBfd1dJamZKaUJ3YXVN0gGoAUFVX3lxTE5GZ3VpbDF2bHdGRVU3bm1WNEU1VVc2WGtja2RHaEF2NjNFOHJfaTNBbEhrRHp2cmFKaWttSWMyaVZZN2RKTG95Vm1kbXhVa0lDaWV0WGwtZ1FTRjQycGFWMFl4LThpbFdkcTVLQTc2Z1dyandSdFpwVzQxcE9NdTZhT012WUNIYzNkbE9rS3BlVUMxS3h3NDBMempFd3BveHRzaHVrU0Ewcw?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-19T11:54:00+00:00",
-      "domain": "FOX Weather",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "500-acre wildfire burns in East TN as North GA faces high fire danger conditions - Local 3 News",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVjllS3ZQX1JEa3lJbjlKWWJPZ1Mya1kwVXA3LWpjdUpidWRCM2htM2U2eFJtUmZTdVRvWU1INUFNOWRyM1I3czNVYTA1aURsbE9wQ3gxWnNiR0tnWVFubjlzdnBxa1VXMmpGUjlkUVh6OEl1R0ItLTg3d3BrSGk2VERnc3d6WVpob3Y5aGowelhlcV9TYmlxWGRubXdyZ25QeUlNSWgxVnlUUlg2bzMwUXh4THZoWklMSlhDRHlHMlA5OWNyOExIYjhaang5cTQ0MXVpOTc5elE0RnZxMTh5Q1RITXJwTHhFaThsekdUUFVmU1U1OXpKZTY4Y1c?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-19T20:20:00+00:00",
-      "domain": "Local 3 News",
+      "seen": "2026-11-19T21:23:24+00:00",
+      "domain": "Jacksonville Today",
       "language": "English",
       "sourcecountry": ""
     }
