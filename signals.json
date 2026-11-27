@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-26T15:17:56.171370+00:00",
+  "fetched_at": "2026-11-27T00:35:38.405982+00:00",
   "source": "Google News RSS + LRT English",
   "query": "(war OR invasion OR ceasefire OR nuclear OR missile OR \"terror attack\" OR pandemic OR outbreak OR bioweapon OR genocide OR earthquake OR tsunami OR wildfire OR flood OR \"artificial intelligence\") when:1d",
   "source_status": {
@@ -69,6 +69,96 @@
       "sourcecountry": "LT"
     },
     {
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture - NPR",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUFTckJMcmM4c0l3Nm5hdjFjelhwNUdFM2p3a1pSVlFsR3ZhdWEzdlZnSi1scnFSd0YtWkxabXNBQzNqMjByT3psOVB6dEczWjkwenBpa0NxWndYX2tQWXJNWUp2SF9WT1pmUXR2dEl5cUJQYk5hRm5pRERCR0djcWttYWpRbGc?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-26T13:31:28+00:00",
+      "domain": "NPR",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Democrats’ plan to end funding for Iran war leaves open what comes next - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUUhrUHE4bV96ODIwUnRhWG9jbS1jUFNOUGc3amdUMWJGX0QyanFoLUhaeDc0Z3M4SzhiRkZscDcxQjR6Uzd5STlFVFFOUmlEME0zc1AzdERzaFBFeVhMdm80ZE0xbHFsN3pqcnFIcVBNaHA5d0VwTzlkcjZZNVRDSVFOUVQzTnZUUW9UYUtFMULSAZYBQVVfeXFMT3lENlZLYzFTVHFmdWJUSHBibnRCQlR0eUg4bER2QU5IS1E2WnhuVHRXLW1HV0ZoZ1AwdlVaaEcxUE1pUDBuY3Z5Vm5YY21WT0dQcHoycjdRd2liWXQ3T1lmVzItcVBEVVVtOW4xLVg5NVE1R3ZNOFl0dFc4MS1ISmZQZUM3YndRM01UZlFBam5jWDY3ckNn?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-26T22:00:00+00:00",
+      "domain": "The Hill",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Russia’s Unconventional War on Europe: Sabotage, Deterrence and Future Scenarios - The International Institute for Strategic Studies",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT2dPdEtIRUVhSTJTblFnVHVGZEE1ZDU4SGhRa1p4UERzZVdLS180ZEh4RTBuOG1vbXhFWEtoSWUwbnpIVFo3cjJCYk9uZjc5bnoxZDZZNHJWN3NOWFF4ZVlQSXFuZ0RMMWxFUE4wN24yT0o1R0xxR1lRdzh5a25XaEpNaEdFVG5FMnI4Z3kzQUlYNFdId3JBam5NQ0JNUENGWkM0ZnFLWUtjVmFlS2FBbDE3R2hzeTF1bUlpVUw5bw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-26T14:17:59+00:00",
+      "domain": "The International Institute for Strategic Studies",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "What is Super Intelligence? - NASA (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYV1RFejMzMzkxQmpESE1mOVVnRHJ1QUt6bi1WbFVISENxTkM4MTgxZEJfNGIwY09KNmF1ckh1ZEVuSjFXbWtUY0ZpMGEtSjZ1QWFrbDFnY0V3bEll?oc=5",
+      "category": "CONFLICT",
+      "severity": 1,
+      "seen": "2026-11-25T03:40:55+00:00",
+      "domain": "NASA (.gov)",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "What would happen if Russia detonated a nuclear weapon in space? - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNFBGcTVEVlc4VEJ6MnI5TTlkaG5BY1N3S0p2cFVMRnVTdmtYMXU2dDdWRWdOUFVvWnBLamZYS1Y5ZHZ0YV9yRlEyOUxwdFI3dWpDSVhtbGFWRTczMWVUQTEyRmtLSFRRazFLQlViQjFkX2c2R2dZVm1hbG85eWhNVTd5NWkxZUFxM01OYWRRbk9DWWJwaHZ5TjJoRTY0MXpMbm5lVnVZdDFmM2tyYWxack9WeWUtaDhfMm94Z0JBNE0?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-26T19:04:00+00:00",
+      "domain": "The Guardian",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "King tides and strong waves destroy part of Pacifica pier as officials warn of coastal flooding - PBS",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2YwS2FSRTBCcnNTUU1JbWFhWXF2bVhJdC1vZzJ5T1djZEJuOU92cG96ZDdfWlhHMFN1MEpBRzItbUdFc3JoelpfTGstd1BPeDZyaGpRR2QtOEFhNXRtLUh5bWtPRDhoMGpCcHRDczM1NTlfVGI4VUYtS2IxdUN3OHcxcVQyMXdYNHhXdFdiMWdaSTBHMnowbU9aMFZGU1U0Q3EwYmxoS1I0c3RVZk80S0xlQ2pnV25yN09PY2xGZ2hSNGFld1FMalJLOA?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-26T15:41:49+00:00",
+      "domain": "PBS",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Cardinal Parolin: Bread must not become a hostage to war - Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQakt1NTgwbkU0UEZLRlRNaUROckdVNk03XzVGNXN0X3BrTUJuQ00tSy0tUHZDMndtU2F4NVBlRTFySzl6Y05VeHI5TVBIQVh5V0dnWVRNeWtsTElhd2J6M2RpXzBaMUxFZDVKMENWYzZ3dHdVTmNMNjRLOEhIWnlkTTI0OXBYVE9DdnN6NkZsYktkZXFSbERGSl9qNkR2MndzNTNzYmhnamc4SUJQcGtaeFJzaXdSQkU?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-26T17:54:35+00:00",
+      "domain": "Vatican News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Ukraine says North Korea temporarily halted missile shipments to ally Russia - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUlh1aXJHRXBESmZFWlZxOVZaYzNjR2JFVkVOc3NzV0pjbks2NE9HclFKS1ZzeUR4ODJOMEl5MnRIZFRRQjhfanVCazN5OGszYnNnMXZCOXJNQ2t6c0RlMk9ycVNLa2Z6UUF1aWRoU3pxbHRhQW9WaHRDUUszZF9YSjdxb3Rhc2x3T0ZpdERfQ3A1a2FaZjRqQmZSYjVpREkxM28teHF1SG53NU5LUXI2Z1NNRlpDclBYNEFPdlVqR3E0dHFrS0FXaDBzb0FqZUF2YWc?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-26T16:02:35+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Putin showed ‘restraint’ by not using nuclear weapons, Kushner says - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmxHNG8yMUYwNjBTRjdFV3ROOWdqaWgzWDQwNER5YXVUSW9VYjIwM2lmMld0U045S1NodU53OE9rb085dzVYR2ZPYlZ5TGhScXFUajE3VVpJY2hpcWF3empNMTl2ZnNGbm9YX3FxalJCbHdjaEFXQUdfRkl1NkFkZy1Ca3I0aHdP?oc=5",
+      "category": "NUCLEAR",
+      "severity": 3,
+      "seen": "2026-11-26T11:36:53+00:00",
+      "domain": "CNN",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
       "title": "Can Trump continue with Iran war despite funding restrictions? - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3RqQ0dlWHRjbm5jSTd1SjV0YU9vUlhIX1JCUTh6ZFh6RWVHSFY4V2ZWWWNjMG9DVEd6QnUxckNYdFZ1TGtjTjZqTDc5U3E4eUJwYUw5S0dUN0JLR19QazVucDdlai1IN1FTZlhZbGc3dmY3R1o5UEZVRFFiRmNGd2RUQ3piVmZ2VlBaczVkYXN0Yy01N1Fjd1B5cTVOYTl5NnpFZElB0gGrAUFVX3lxTFBzYkdXQXFreExwcXdDQ2Q3Ung3MlFVU21HMnA2RnN5dFdUeklpWHNtX3lBTUxPaThVSDBZMmZzOE5aYldab3l4cHJwQW1tTzNfODZGYTZOUlk2eEQwRFV1VWotclhidVlwVVc0SVRUODRGVGhKRUZqa3ptZ1M3MExfMUdVLUsyaTVvallfbTg3aldjNHNCS1ZlVHJNYWFPN1pMSk9QNTlaNXdQOA?oc=5",
       "category": "CONFLICT",
@@ -89,32 +179,52 @@
       "sourcecountry": ""
     },
     {
-      "title": "Putin showed ‘restraint’ by not using nuclear weapons, Kushner says - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZi1fVlo5RW5jdjlpMWtUWGNaY3V4NzVuR2c0TmVQSTRsaXQ1bkQ4N3lZb09hQW93MTc0US1MMEVEMnlySnN6R19fT0pBWHRoREQ3WWxieTgyd0d6bHUwTUtSN0gwdWgxYkk2TFVuNzFSS0oxYUFRMzQxWnhHTFE5Z1k3NnpmU0hFNHV4dGtjR0dLMXVPUFJXejl0MEJqTFU1UzZV?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-26T11:36:53+00:00",
-      "domain": "CNN",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Thanksgiving Storm: Wind and Coastal Flood Advisories for Cape Cod & the Islands - Barnstable County (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkhjT0QwOHdXMWJxMHJUdDBWOWtSY0JZSmJBczlyYmptanMxNjdGeURoRExvVFpnQXJGaVdQZXcxRS02Y2k2azhrOWZPZUhocmxIYmYzNzZHT3JkZlIydkNwLUhvWkl5UVA3Q2tmVjhjMEFpZlVJTFhmTnBSNTBjWmQxWEJsUFJxYzN5UU83V05USy1BeC1xWEtHQ0Z6cERSbWtJN09YNGFxMVMtaTNKR21TVQ?oc=5",
+      "title": "Thanksgiving holiday plagued by heavy rain, wind and flooding across much of the U.S. - PBS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMmtFU0xKOHV3NDZBeGFVVHdyd1QzUTdtaXZkcHAwdTB1WkJ1N0V2UTd1SUh3dDJKSVVtNFVJZkZfWXgzOTktM1pMUV8wdHB1aUR3S3dEeWtGeWxqSEFZN2syeTVGTHFGb3hpRzlHbThUeS1zRWtKXzI1U0dLd2ZFWWxOUXNhQ1JtcEJpYVVaaVB1RkRiYjh2bVJaNWR0b2QtNG1vMWx6MWFpTy1MVFlHQ0U2blJhREMyeDlF?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-26T14:01:41+00:00",
-      "domain": "Barnstable County (.gov)",
+      "seen": "2026-11-26T15:18:40+00:00",
+      "domain": "PBS",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "What is Super Intelligence? - NASA (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYV1RFejMzMzkxQmpESE1mOVVnRHJ1QUt6bi1WbFVISENxTkM4MTgxZEJfNGIwY09KNmF1ckh1ZEVuSjFXbWtUY0ZpMGEtSjZ1QWFrbDFnY0V3bEll?oc=5",
+      "title": "How the Black Sea front in the Russia-Ukraine war is threatening to pull the U.S. into the conflict - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XSG11OFNDMy1CT0lldVd0S21WUVE4SERyVUFSRWpqZUw1LXo0MEdVWmJWNWpjaWcxUGVXeVREcGt5SGplbzZsQURVdUVJZjZZQkEyMUh1cHl4RXpxV1pDblUyNUkweXJ5THRiNWJhSGNQMm14QVdFS2IyUEZyQQ?oc=5",
       "category": "CONFLICT",
-      "severity": 1,
-      "seen": "2026-11-25T03:40:55+00:00",
-      "domain": "NASA (.gov)",
+      "severity": 2,
+      "seen": "2026-11-26T16:18:46+00:00",
+      "domain": "CBS News",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump, NATO chief urge Russia not to expand war in Ukraine - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcnU0M2NGaGJhbVRDYkd0M2VYcWJhMW9iQlIwVU5wQXFVOTUxQ0dTQXJQclc1VUxidzV1TFJxaUZHR2NkQUxYWXhJM05BQVFpd1VRTnk5d1JYSDdweEJSSDlyVG90TmZTSUJlOGtnNnRWTHY2OEtpVjM2Z2lhYjg4U3YzWTFFcGpLRy1ZSWhqekVQVUdmSmJmYm81Yklybk5iQVHSAacBQVVfeXFMUGpoMVF3dmU5OFVMZHFvVk54TjNtNktqdXc3bnR0S3F4Z21KRlU3VkNVWGdTd2NCSjl1a2dGY3IycDJ2NkdYQngwRHhNeDVfalJib1FEUVBDZ2swY3VuNWJabzlZZG1JNHl2MnVBRnZUcEIzekY0WW14SmgtU2liLTJ3RkhNbm5sWGxvZ1Q1dTlqRWVuRmpkOXZnN1JSZGM5UWtYRHMtNkU?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-26T16:44:00+00:00",
+      "domain": "The Hill",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "What are king tides? These exceptionally high tides are increasingly flooding coastal communities - PBS",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZVB0Vzg4Q2xYSXVzSDNQeVV3SFlmV25CUExWdnlxRlprX0ltQk1xd09lWTBlUktSMWpUci1kN3ZydTBtMEtJYk1Bcy03dF9PdlBIT2Y3YldZZjVNSjUxdkQ4ZUtaME0xdnVmMlJ4MDRzaUxzUDBGV0NrSmxqYW52YWlzc0wwQldySERoTGVRcHFOWkx0enJTLUVtdkFwRG5xckJQTTF5MTRGc0JsemFrd2FGZnQtbExWTnMzRWNzX2F6TmpoTGNJVjBvUXA?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-26T20:44:28+00:00",
+      "domain": "PBS",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Mural near Dutch embassy in Moscow depicts missile supplies for Ukraine - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdlRFQ2E5TGktOUVrZlJQQmwtNjFXVnpkbmFUSUhOcExIZEIzNTJRcWFSOURzYkpONlJIQkhBN1NaemtMQi1oYmhWdTJkYUhIRmIyYjE5bjdSSXRpeUJWU2NhSFN6WTZybFJiQS1QSXpyLXdpekxlZ3VMem10R0dtbWs1alpndTRCMTVpOVVoZnFOdkFhb3owcXJYeXBQU01lUmhUQi1oa3ptTGFkUVFlUnRWSWZGVkNjOWRoSVN2elNHZ1dUSFM5WHdJQVRPRjJvVWtz?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-26T16:42:38+00:00",
+      "domain": "Reuters",
       "language": "English",
       "sourcecountry": ""
     },
@@ -129,82 +239,32 @@
       "sourcecountry": ""
     },
     {
-      "title": "Russian Offensive Campaign Assessment, November 25, 2026 - Institute for the Study of War",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkpYNWJheFpTc3l5ZjdodEktRGpjcDVVZVo5ZDA1cW9DLVJ5X2wwMFJPZzhBcnhTUHJwRTR1bXN4eURKLXJVUmp6NWFTRzBTVnBxekd2aXJnSV9rMThJdHo0LTdVU2U2bk1Zd0s3VFpDSGtEekpxZjhDelVtNlI5TXpkTFlHZUJWampYc0Y0Mlp6VXVNMzZJLUI5OUF2NlFyQWlfZThSYmt4enZD?oc=5",
+      "title": "Israel intensifies assassinations in Gaza as US urges Netanyahu to proceed with ceasefire plan - CNN",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56RW9JUlN2bDJLSHRKcU1Wa3prb0pqZDZTYUF4NDQwQXlQWUVXSlMzeTZGWXQ4bnJ4MnlMSVRtZG1XQVBTWmIwcUNGVnBYRV82RHhjczNJc1p5V2p5VEd2NDIyTGVmQjV3NVRkT2VQS3JkV0N4VWJobHdVSzRSUQ?oc=5",
+      "category": "CEASEFIRE",
+      "severity": 1,
+      "seen": "2026-11-26T14:56:27+00:00",
+      "domain": "CNN",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Taiwan Navy Receives Last Tuo Chiang-class Missile Corvettes - USNI News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYzFwRFY2eURQWU1KbFdERjJaX01lMVp2VGNPc3JmSWlaNGNlSXczSHlOeGJWX3VVUHJUMUZqelV1MzVWTE5EYXBtbERnOFBvY2k1SkZ0eXNaQ1Jzdy1xamI2NWhiYzh3Z0lZRTB2YWk5ekVaT2RDLXFyWjVzRlpsY3V1UkxRZnVGY1RRSlhMX2kxaFYxRTlnRg?oc=5",
       "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-26T01:01:16+00:00",
-      "domain": "Institute for the Study of War",
+      "severity": 1,
+      "seen": "2026-11-26T18:19:00+00:00",
+      "domain": "USNI News",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUZoNE5qVlVJSWdVTHRMY1R0bFBac204aUVreDhOR3NtUE4yWjBESlJMUHZoLVo0NjdrTW1kUXF5RUxDQWJfRnhrdkJpSTF5VUduMWVDaU9aVjg3N3dCTW96TDUtQV9SRE9TSEN1Um9LTm0teG9MV2hrQkhEM0RDYnhCVVgzNHhpcEJ1cnc5azMzTm10am04MTZoS2wtc19RSTNSRW5sMlBGdWhaYWNlVmhn?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-26T03:00:00+00:00",
-      "domain": "WSJ",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "How Trump’s Iran War Was Betrayed by AI - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpc0tiLWpqZGZ1Rl80Q0NnLWdNS2VqYjZlU05WNmlWOEVsZlljbktOQmptWXdOQzFPNXlqa3JmMy1wRjZOTWNTZFdMYmdDRmJGN2xlZXdYWHl2LVF2TmUzdE1xcDJPbVpSXzh2X2RrYmhXWjdoRUZaOW80bmU?oc=5",
-      "category": "AI",
-      "severity": 2,
-      "seen": "2026-11-26T10:00:00+00:00",
-      "domain": "Newsweek",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Russia’s Unconventional War on Europe: Sabotage, Deterrence and Future Scenarios - The International Institute for Strategic Studies",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT2dPdEtIRUVhSTJTblFnVHVGZEE1ZDU4SGhRa1p4UERzZVdLS180ZEh4RTBuOG1vbXhFWEtoSWUwbnpIVFo3cjJCYk9uZjc5bnoxZDZZNHJWN3NOWFF4ZVlQSXFuZ0RMMWxFUE4wN24yT0o1R0xxR1lRdzh5a25XaEpNaEdFVG5FMnI4Z3kzQUlYNFdId3JBam5NQ0JNUENGWkM0ZnFLWUtjVmFlS2FBbDE3R2hzeTF1bUlpVUw5bw?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-26T14:15:00+00:00",
-      "domain": "The International Institute for Strategic Studies",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVE1ZllSR0xRNHFVUjR0WWJjQXF2MllxbUV3WUQ2Vno2WFFCbzkyODBvWjE1WmtscC1rdkVLdVJXUDhUUXFiMDZQbS01akV2UjhQQUFwMWp2aWdrdm5ZQy11b0tvX3BkSVU1WmdUV2J4N2l0UF9tcHVqRzBuWkxhRUVsU1FtMTl1aEhRWkx3RFI2VDlraEhKemFOV0ZEX0todDFpTTBsTndhZk0zclNaWk5lNA?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-26T04:20:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "IAEA Workshop Fosters Leadership for a Growing Nuclear Sector - International Atomic Energy Agency",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdkpKZ3JpN1RXUzVtNklNVjZaVUg0Z3R1cjNpWVBLUkNYN1Q3THJfeEZaaWFJV0FyWGx6X21yWlJaLWM5VXhxcmFkcG04NS0zek5XbkhXdUJEUW81RlY2NUw0ekhINWw2c1dKYTI3NXhId1RNczFNejRGZHpocFhoWFVZdG9jaUZveTRpbHRnTjZSdXR0d1J5SnNHUUpvcFk?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-26T08:30:39+00:00",
-      "domain": "International Atomic Energy Agency",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "California warns of flooding as King Tides peak over Thanksgiving - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MSUEwTExlTkpwSExTdlZERnlEWDlaVVlvWnVMcFRZaUFrdzBRSlpVcmFkWFJEMElNb09ISTVBbnFGSHhNLUJkRFNmbEE4QnhueTgwWWU1V0tORXc?oc=5",
+      "title": "Top official admits ‘wrong decisions’ and ‘deaths’ will result from wildfire shake-up - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQekpPZ09fakV4MVNZNTZLczUzRDRPdE1YcUFEX0R6Y2RLeDFyenM1aWs1dHd3Rl9RZ2FNbl9rM3JfTGp5TXFBMUdHMktNM1VwSnVOUGFyYXh3NXYyNXZpdFFUTGp3ZllDdzBQZ2wzd2dQaW93VVc0X1cyanl2MDBaQm1ZX3BZZTg0aEY5dDItMEEteWJQQkQxVkpDcU5WSmV3YlpzbFdNZDZjcXpfb2VBOGR4LVNrWVdhUWtKLWdYX0xETUVBNEFHeUtXRlo1Zw?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-26T01:22:55+00:00",
-      "domain": "BBC",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Ukraine war briefing: Stop using teargas on battlefield, dozens of countries tell Russia - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN3JxOXQ3SWhCN1U4OENUcVh1TmZLYXdLS2lHa1FIa01PR0JyaDctdHF6NjJVWmhPbWZ5N0pqeW90T01fQlo4a0EwaDE0Y1Z3dk9KNkE0Mml0QjdORmVrOW84bnBZRTg3dkRUeVpHRW5VMWxCcEJ4RGhQUVBtaWJpNnl1enNUd1V2RWpRSi1CME54NmFoRF9EenF6X1I1V3I4NGhnaTZFWFdvQUFxY0d2bllzaDFRWUE0N25zSTVYdkdpdUxRb2VldnZQM3oyUQ?oc=5",
-      "category": "CONFLICT",
-      "severity": 2,
-      "seen": "2026-11-26T02:32:00+00:00",
-      "domain": "The Guardian",
+      "seen": "2026-11-26T18:00:00+00:00",
+      "domain": "The Washington Post",
       "language": "English",
       "sourcecountry": ""
     },
@@ -219,162 +279,42 @@
       "sourcecountry": ""
     },
     {
-      "title": "Congo's Ebola cases exceed 12,000 as responders struggle to contain outbreak - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUkt4SEJRQUV2dDAxRi1DbDRsOXlhVWhfNVZvRTRzbDhTYzN0R1JiN0tUbFVpMGF1LTlweUtaRTVySVphaDVRdTBJNmZhdzRMVUt0cTc0c0FPOTJuc3RMYTEyOTJZM3B0bnBJdm9PRGtIMk9LUHk4dXhrRnV0OE1zSDRtRTNlWXFOanJlQnNYbHBERUNfdDhMc2c0SGFFX1JnSnNIWWNvTjQwSUpRWVdlTE1DOElDVXhKRTROUUhOM0lxbVozZ01PN1F3eDZldXQ3dUtNVXhlMA?oc=5",
-      "category": "PANDEMIC",
-      "severity": 2,
-      "seen": "2026-11-26T05:29:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Top official admits ‘wrong decisions’ and ‘deaths’ will result from wildfire shake-up - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQekpPZ09fakV4MVNZNTZLczUzRDRPdE1YcUFEX0R6Y2RLeDFyenM1aWs1dHd3Rl9RZ2FNbl9rM3JfTGp5TXFBMUdHMktNM1VwSnVOUGFyYXh3NXYyNXZpdFFUTGp3ZllDdzBQZ2wzd2dQaW93VVc0X1cyanl2MDBaQm1ZX3BZZTg0aEY5dDItMEEteWJQQkQxVkpDcU5WSmV3YlpzbFdNZDZjcXpfb2VBOGR4LVNrWVdhUWtKLWdYX0xETUVBNEFHeUtXRlo1Zw?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-26T14:33:07+00:00",
-      "domain": "The Washington Post",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "North Korea's Kim urges wider tactical nuclear weapons deployment on facility tour, KCNA says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWmxZanZuLVM5QUcwTnVIS2FTQlJQQk1nQzRUd2dzUTRvUzZxbkpRMmxMdG1SUUNSLUgtNlRfbTRjcHpab2hGMHczTU02aDl6NnJOd2tXWlJ5MGJtQ0QtZDQ2SW4xOEVNVk55T1E4bmJEU2x6T3R0UUVmVnYzSllaZnRLNzRhOFp6dU80dEtUWTByZDloR1U4RlI1U1M1dF9wTnFaTTRYOUl1V05IVU43M0NtdC1TTVB6cWtoOGFLald3bU4xc2xlM1pBNkgyM0U?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-25T21:22:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Suncoast Credit Union donates $100,000 to Brevard County flood relief efforts - Florida Hospital News and Healthcare Report",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOHhMNmtJS3NzeXQ3dnE4ckhIa2FYQURPSmtWZjhvREhzNkhIZVduamp5ZWdWLThNZkg2RUxzNmZRRzJNNGxBX2k4NTdhcHQ0QkVZTVd1VkdxYUd4TzVDTkhDWGRPVDFtT2xxOU1fcGIxUDMzdDJMcXdjVGhYcllteDhwUHZZQ04zbG52M0FMOG9fdU1oSjBiQ2tkT1ZPalFYQ0dsVzhURDBlUEVoUzJ0UWVWV2ViRDVFQ2RCQy1OQ2tWUQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-26T13:10:50+00:00",
-      "domain": "Florida Hospital News and Healthcare Report",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "After genocide recognition, who will deliver justice to the Rohingya? - The New Humanitarian",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTm1PNVVydEpvaUFwNFAtb1JsSTBHT05uUGU0dWd1TmhXX1BEaERaZUFuWTFWeXhkdUY3VDVBdzd0Vy1EN3BhYlhvbDZ0Tk80RjNyRnBCdEl6SkU1MHhBRXFzYm1qR1Z5OUl2ZUFKQmotZXVUYTVvMHhPLWtIWm1qdXRfbmZ1Mk1LdFVYaUFDcmlkaERfdTdoazBhWmJNMm9SRUF0NTlyU0locVotVVRsdEZqZ0xPQQ?oc=5",
-      "category": "GENOCIDE",
-      "severity": 3,
-      "seen": "2026-11-26T11:24:54+00:00",
-      "domain": "The New Humanitarian",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "'Streets look like rivers': Wasserman Schultz says region needs federal flood aid after storms - WUSF",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSnVGbDQ2a05JczB4QnBIQnh4OVh4dWVVeFNqM3JSeG9FVG1BLVZzQW5pZTlLUDc0NXU3MlFwZjlEMzhzN09qM3JMSW5TbHFrc084TmxZSENyc1YzdFNDSk9IVlFxRS1mY1NLTlNONVFmdWRYc2l3YTlIVVlHWDUtSWFKTzN2Q0VkTEhaOHdsTVJycl9Tb0JYbXZjM01jcS1hTjRQYWc3X1RDZlZodHVXWk5GanQ5elgzbTZWTU5sZW5DOFd3MFI5Mnk3YUxjWFBrSlM4SUN3?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-26T13:14:00+00:00",
-      "domain": "WUSF",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Super Intelligence - U.S. Department of War (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4RlFCRjY4T0pZcEdfQWRucGVocUFPSHB4U0RoQldVTmVYWjZmNUpXeWxJZW5LN2p4S29SSlNIMzNQMV9hM3pBcFpQTUNHZ0lLdVBtT2FJTDBkZw?oc=5",
+      "title": "Opinion | Putin Extends His War to Europe—He’s Not Our ‘Friend’ - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeVk3dUlhb0l2LWxnMS1KT2lkTzN2Y3VoOEt6c2sxR2J4TlhacWlPeW03OXdsSzUwVlZLR25BSlNSM2U3VjV3d19SeTlobDdQSTVibWRtS2JyQ3kyTEp4ejc2SDV2NXYwOXB5b0FLbnRJYkN3XzZqRmV1dEtkamYyWGdWOXFmVnB1dzZ1bHpYbw?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-23T08:00:00+00:00",
-      "domain": "U.S. Department of War (.gov)",
+      "seen": "2026-11-26T18:08:00+00:00",
+      "domain": "WSJ",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "The world must choose between nuclear abolition and nuclear catastrophe - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUXdic2ZRSXh0TEtfSGExRmJoQmgyNmg0SWU3TGc4WUdsS1lrQ1VEVFI2cWh2eHh0R19wc3RlcnplTkpTSjZXLXI5MTlmRU9VVjFYTjZ4RS1UUElFclhscnNHM2E5Vk1Sc2x4eExuQV9mWDN4VGEwa0R4TFczUHNmeXBPVnFnUW9vdDA4bHhzUXA0S1BXeG5xUmszOFRSSkpfNUlpanBobzljOU9zWE4wdDNhYWJRd3dZ0gG-AUFVX3lxTFBCUzdTZjAzdEtRc01DSmtJaWRoUHVuSVJSMkxTaGRscW5fVEh1UDROTUlUTWdEQnN2ZVRjdDJCTm1PMXcwRmtTcXJqTVhGM2JZeWN3NnI5UTdfckJERXJtMy12SFNHYThjbkVxby1TRXJDcUpQOE4zTGRJSHVwdTkxaElwUGYwWXFIcERRLWhQaWo3cGFfVEdkamJTekQxczZIMGhQVkJZVFZqMDNZdFBWR2RqZzZWUnB6cW8yaWc?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-26T06:56:16+00:00",
+      "title": "How Silicon Valley became central to Israel’s war on Palestinians - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2RsUEN1V1RwM21nY2ppVzZLajhYT25pZXM0VEFtU1NfRmVoalZLVW0xeFJ0OHRWM1pPVTNaRzB1LUtzbTB3dEkzZUh4SXJUb0RPWkRhVmM5TDhMc091Z2FHUk9jM2ZGNFd5LV85OWhVUHd4SlFNMndvWHp3NkxFOTNjdURUNEtIU0JSUkpIV3VNWmFjNXNZ0gGcAUFVX3lxTE9RQ1FaVXlMblA0TGc1Tkd1RkdjYmZXLTNYanJLdzB1WXp3ZHRJUEg0by1XbDVBR3N1Zy1nVVg5VmkxTWRTR05sV3FUZG9HeDFnZkduYjF5M1JpN2NmbnFsZlhjQ25HdjJwZVlsU2FSci11UVdRel9lbnVqUldrQUJqci02c0xZMmtPSmU4dGhxdVFfSHp4cVNkZHE4Xw?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-26T08:42:24+00:00",
       "domain": "Al Jazeera",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Watch: High king tides threaten California coastline, flood communities - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qZDFBRE1YZ1M0VmxUdTJKS0FBcUNlVFVVWElpZ0FsaEV4dnNhckJqWS1oYUttV0EyOUxUVkpnWHJHVUdMejkxNjNWS2Z0OGE1SHJCakRyZEg?oc=5",
+      "title": "Heavy rain and wind flood the New Jersey streets - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3oyWDU2Ukk5RjhmVG95RXRHR1hmVDkzZDBUcFhlX0Z4NjhHN3l0dC1pdzd4NDE4WlV5UlJEbXc0c0hYaU5rZ2UzTnpNU2xTQWNHZ21NRktrVW1YZTlUZHhLc1BQREtyU0pQcU92aW1LY180OTFlakY2T3pLN2xsM0JiN1l2UHFybS1sWjZESUZlRmk5bERpQ2hrNDBJVVdTWUFGenltaw?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-25T22:29:36+00:00",
-      "domain": "BBC",
+      "seen": "2026-11-26T18:03:15+00:00",
+      "domain": "NBC News",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Myanmar says it will not fully comply with ICJ genocide orders - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNmpLZUx2TF81aXIxRTRRekpQNGZ2cGNTMDFpdkVfa2Nad3RwZU1kcUtOOWk1SVVDXy1Sbm1PUVl0Rlg5Z0xHREJ6ZFJ6aU9LMTJoSi1heUVGZC1QLTJKZm12d24xbEZQRE16NGdPOEdSdzU3LXhnSUQ3blRJX3JGMTVXU0xINXNmTjhCMWxCY1pkT1cxYkc2UFhrV2EwbENlamRlSGdVbEdqWnE0YjBVbGR3U09kQUx5?oc=5",
-      "category": "GENOCIDE",
-      "severity": 3,
-      "seen": "2026-11-26T07:35:00+00:00",
-      "domain": "Reuters",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Massive waves, king tides flood Pacifica's Sharp Park neighborhood - NBC Bay Area",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTFHWFlvUU9maUxQckFsZGZDaTdSY08wVkVrdkdmTDVWRGUtcVpvMDBFMkFpdDZxeDdIYTJyaF9sd2FlYS1XYjJRZDF4aXQwNXdWdkE3VXkzbjBrUDQ4bHdrUGRGOUVYbFlVandJOXphSF93MVB6eFJ2bmFwQUdmSkxFLTh2ZG44T1RSUWY5TjBOQdIBmgFBVV95cUxOOURvWVRBVjE3Rm9vMFFVTTA1WmlmU0luOGVBb1BkRHRUc24xN3dHLUdIUERIWUpjaXNVbm5yVk5Wa2xrX09leW1LRm1kQVJjcnF6RUphemJsYnlnUXZLMjZIdFM3T1I1MUE1Z01uRDF0QmkwMXhMd3VvZ3R2emNiSEJHZUt6NkxRS21RZE9fVG5ZTzR0TjBXdG1R?oc=5",
-      "category": "DISASTER",
-      "severity": 3,
-      "seen": "2026-11-25T22:28:53+00:00",
-      "domain": "NBC Bay Area",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Risk of Russia launching a nuclear weapon into space within two months deemed serious - Le Monde.fr",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa3V5eVZ2Q3N6cldfWjNfMXlxaHdWTVF6UDBsSVhWYmZDdmdfWEZkdnhpLXBZUWRCZU1rVmpBMVAtOXBieDl0b2JoRHdmYncyZmlsVEF2WEd4TEszNHZFQ0h5S2x2UzYyTDRQeHBwVmZYNVdvOHVQTVNaMFA2RXlxcW1WQWd4V2dwMFhjOTNpMndwLU95RzJIVkFqRlN1MXk3bEpJZlBGQTRfbnN6X1BNU3dPV1JicjFScjRoTmdZenZzLVZvTU40aEdUM1ZpVXVPNkVmZ3FQd05sOVphTm9fVy0wd0tWZldMQ010b3lUenU?oc=5",
-      "category": "NUCLEAR",
-      "severity": 3,
-      "seen": "2026-11-25T22:43:22+00:00",
-      "domain": "Le Monde.fr",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdFJ3YnVfVDdIay1IYTExN0MyU3cwM0dzSlN4ZENuLU9TVGVndF9YQ1BDVXhyczh6SVZZLXJERE1HRmpja0RKN1lOMWpXeEltWXRzeFBNa3FzLWZ6ZXJQR29uanc3VWpVOE84ZTZNdmVLYjJ3SkxLRUR3ZElOTjA?oc=5",
-      "category": "PANDEMIC",
-      "severity": 3,
-      "seen": "2026-11-26T13:51:57+00:00",
-      "domain": "The New York Times",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "King tides can trigger flood coverage — but how far does it go? - Insurance Business",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOUVwWFFmZFdCOWFLakk5STlZVl95RTNxMTVMcmdKZmNDdWN4MC1DenllZUxWZTFialNwQ0JVWGk2Y0NSXzQ5SW9ZTjY5OVJUS1hhcTV2MUVkYU9MU0pkdGtsbkZjd2M2SkttdVBCYlFfMjJVd0FBSzRPVXBod0NiZHg1ZkNaRDVQOWhta0ZkR1dBbEZxbnlYSFNSSmJlSlE2Y2EzaGVhLUxWUDY4UVV3UWpXV1Zjd2xzdDIyUTR5dTNqa2pOVU1Rb3NB?oc=5",
-      "category": "DISASTER",
+      "title": "Pentagon Hand Caroline Zier Now Leads OpenAI's Limits on Military Artificial Intelligence - Broadband Breakfast",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHNyTTBaZE5ydGtvODFGS0Jra2F2Rl9lSUlnZVAzTWJfZndkWklTTFJ3UlQ5ckk4dnhyUzBUd3d4Q3JoWDI5M2M5dEs3VzdwLWk4cnBmVjBGby1WVnVoYmpsTnozaXJyWEVjRGEtcFRMSUVKRG1vUWpmNVh0RWNMR2M5RHZJNzd6VnU3TVV6V3oxMV9FZDVZOTNkbUNzSmtENWlPdXJERXpndEM3M1JaUlozNlF4b05faC0xSg?oc=5",
+      "category": "AI",
       "severity": 2,
-      "seen": "2026-11-26T14:29:37+00:00",
-      "domain": "Insurance Business",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Coastal flood warning issued for Salem County - Courier-Post",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTHdnMUJLd0c0bnJlVHZmV3lsZWRMVWNrZkotU2VPc2ZFaHJNUGwydTJSX2xZbHVfcTNra2ZFM003TFlQZGV2YU5PT0x0QVNqeHhqSFF4VXdNX2ZLU0UwU3NRREttRDk4SGY1SDliWmN0MTVfdTQ0Ynl1MXVLTGhsNDRVWmZBUnpjUzl6MThTUFR1SmJIUWQ4TVAydjFsd2pZbUc2MkNnUWQ2WWdrLUlQeHR6NVpXZUgycnBmTW5KSzI?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-26T14:01:00+00:00",
-      "domain": "Courier-Post",
-      "language": "English",
-      "sourcecountry": ""
-    },
-    {
-      "title": "Atlantic City mayor urges residents in flood-prone areas to self-evacuate - 6abc Philadelphia",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRFJMZ1hFSHE1aGVxQnM2eGtPZExRc0h6M0ZuSVcyaEZPNUdMTWpZdzhRQmdHeXgzcURfSEdrU0Y0T3pqY0FVVUd4S3R0TklnVzNfYWhpZVdIZEZOQkRzSm9BTE9zd1BtWWJmT2V4OVFxYlJKaEZUVGdMM1JLbnoteUh4V044LWZiME5oOVRxcWJISmFHcW9qNkpR0gGfAUFVX3lxTFBYaTdBUk9DWWVvYXVpcXdNRmtIYUZ3MThaWjFVWVB2bjBDUVpNTUNIWHFYem9DdTIzV2hDUFROUHVTSGJxMHFGdkFkZ2pCU0lTaGR0TnlWamgtNV92Rk5ycUxnTFZLdGRCSEZCblBrbm5zWTUwck1JSmk0cUNFRDM1U2FqaThQNEoxVnNVdGt2N0ZIbWhXQUdUdVNuLURLRQ?oc=5",
-      "category": "DISASTER",
-      "severity": 2,
-      "seen": "2026-11-26T00:23:58+00:00",
-      "domain": "6abc Philadelphia",
+      "seen": "2026-11-26T19:49:45+00:00",
+      "domain": "Broadband Breakfast",
       "language": "English",
       "sourcecountry": ""
     },
@@ -389,22 +329,82 @@
       "sourcecountry": ""
     },
     {
-      "title": "Kate Sofis resigns as head of San Francisco War Memorial amid city probe - Mission Local",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTzBhVHktX2Q1MWtjdzFBbzdsR2tBN0dnNzJQV0FNbUlEZUV1dEd6YVdqZ1ZOUkR2NEVYeHd3d2d3dFVjT2laYm1jYVVlWHBPc1NJOURqcXVfX1Z3aXVMZ2FUelhVb2FjMExzb2Y2VkhwTWx0c1BCZUVydlNkY2Y2SVJuOHJsdw?oc=5",
+      "title": "A ‘Silent War’ Grips Iran as Its Economy Strains Under U.S. Blockade - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUZoNE5qVlVJSWdVTHRMY1R0bFBac204aUVreDhOR3NtUE4yWjBESlJMUHZoLVo0NjdrTW1kUXF5RUxDQWJfRnhrdkJpSTF5VUduMWVDaU9aVjg3N3dCTW96TDUtQV9SRE9TSEN1Um9LTm0teG9MV2hrQkhEM0RDYnhCVVgzNHhpcEJ1cnc5azMzTm10am04MTZoS2wtc19RSTNSRW5sMlBGdWhaYWNlVmhn?oc=5",
       "category": "CONFLICT",
       "severity": 2,
-      "seen": "2026-11-26T02:40:02+00:00",
-      "domain": "Mission Local",
+      "seen": "2026-11-26T03:00:00+00:00",
+      "domain": "WSJ",
       "language": "English",
       "sourcecountry": ""
     },
     {
-      "title": "Breaking: New wildfire reported in Los Angeles County on Nov. 26 - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ITnYza09zTUp0bnBWbE9BS3p5WTJOVXRaeERqdHM4RDJYOHZyUWdWZ29mZ3ZwaUdzN3RGcXRzRUxIZ0lycGdtU3plWFBEN1M3d3MtaDU0aENGd3J1TURjdTNSMGIxZU52b2NOZkM4czlhR3k4?oc=5",
+      "title": "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war - POLITICO.eu",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWg1NTJPR0x6RXN2T0JIOXd6OUI0cGdkcUh2clZJbWZBUGZVdTZkX3plemh4NEtOLUxIRHctM3dCbUFzMHBWb2Rya3Y2UDZKUXhab2plWG9HZUNxN3ZJMF90d2p1djNQaW5QbThDeW00NVJ4MXNBSnowaUxWeVBzT0paSTZaTGdqN2wzbEdaSzNGUVQwVGRuUHlYTllBZGhLWXFVb1gtaERxblNnQVFscVR3?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-26T20:40:00+00:00",
+      "domain": "POLITICO.eu",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Flight delays, flooding and outages grow as storm batters East Coast - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVV91OWdaQ1cwTHRxZU5wdzBlZjViam1uYmV3Wmd1bTV1QjJlS2dXLW1STjA1WTFUWElVdlNpMDF1Tk5BZmY4MTN4WVU1UHoyN1NoNUxZdXVkdzFzRVFpZWNfVzl3TW9iRTJNU2xaS3J1SWQ1OGpxV3NwdFhHOU1iSUtYWG9tYlZVX2lVR21yWFZIS1NkQWxOODVlS2dNalRwR01JbUZ0NmhKNVpLMkJHYTZmb1IyVkZaSHZGUEdOZzNlcDQ?oc=5",
       "category": "DISASTER",
       "severity": 2,
-      "seen": "2026-11-26T13:07:07+00:00",
-      "domain": "Sacramento Bee",
+      "seen": "2026-11-26T23:32:55+00:00",
+      "domain": "The Washington Post",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2LUQ0WWh0anNQZnVKSmpLQ3k3Q2FqSmpXamFqb0NqMkEwOF9hZlVaZzhDdC1QRmJjSXd2SVJ3WnRhMlJPWDdtb2VfTWNoYnhtNklCMmJxSlhDTU0?oc=5",
+      "category": "GENOCIDE",
+      "severity": 3,
+      "seen": "2026-11-26T10:25:51+00:00",
+      "domain": "BBC",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Preliminary 5.7-magnitude earthquake strikes off Baja California Peninsula - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOHNYNlFYZ0ZSazNxYURLTGdRS0lmT0FjTkRJMjNXMkdQcThNZ0JQenUxM3RGN1VNRGdUUmtHaDFsTXdFTFJmVmhEY3RlelczZmhqWi1MX3RFemdjZ3FHdWNMSGlZZ2dzTnp6TS05NzJlNUV2SDhlYzFGcXo1X1lCMGVQQjBMV2RqajBxb2VYd19uNHlSTVV1Zm82U3BmQUZkTnNr?oc=5",
+      "category": "DISASTER",
+      "severity": 2,
+      "seen": "2026-11-26T18:15:00+00:00",
+      "domain": "New York Post",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Russian Offensive Campaign Assessment, November 25, 2026 - Institute for the Study of War",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkpYNWJheFpTc3l5ZjdodEktRGpjcDVVZVo5ZDA1cW9DLVJ5X2wwMFJPZzhBcnhTUHJwRTR1bXN4eURKLXJVUmp6NWFTRzBTVnBxekd2aXJnSV9rMThJdHo0LTdVU2U2bk1Zd0s3VFpDSGtEekpxZjhDelVtNlI5TXpkTFlHZUJWampYc0Y0Mlp6VXVNMzZJLUI5OUF2NlFyQWlfZThSYmt4enZD?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-26T01:01:16+00:00",
+      "domain": "Institute for the Study of War",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVE1ZllSR0xRNHFVUjR0WWJjQXF2MllxbUV3WUQ2Vno2WFFCbzkyODBvWjE1WmtscC1rdkVLdVJXUDhUUXFiMDZQbS01akV2UjhQQUFwMWp2aWdrdm5ZQy11b0tvX3BkSVU1WmdUV2J4N2l0UF9tcHVqRzBuWkxhRUVsU1FtMTl1aEhRWkx3RFI2VDlraEhKemFOV0ZEX0todDFpTTBsTndhZk0zclNaWk5lNA?oc=5",
+      "category": "CONFLICT",
+      "severity": 2,
+      "seen": "2026-11-26T04:20:00+00:00",
+      "domain": "Reuters",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdFJ3YnVfVDdIay1IYTExN0MyU3cwM0dzSlN4ZENuLU9TVGVndF9YQ1BDVXhyczh6SVZZLXJERE1HRmpja0RKN1lOMWpXeEltWXRzeFBNa3FzLWZ6ZXJQR29uanc3VWpVOE84ZTZNdmVLYjJ3SkxLRUR3ZElOTjA?oc=5",
+      "category": "PANDEMIC",
+      "severity": 3,
+      "seen": "2026-11-26T18:52:50+00:00",
+      "domain": "The New York Times",
       "language": "English",
       "sourcecountry": ""
     }
